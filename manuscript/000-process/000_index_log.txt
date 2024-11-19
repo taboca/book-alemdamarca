@@ -1,5 +1,7 @@
 ## Todo 
 
+* [ ] Check the insight commnet - when the youngsters control technology ...like leading evangelists and docs and UI, and you don't know what goes on, like clichês, they follow. 
+
 * [ ] Get the summary, short, which was sent as the introduction message in the letter to Senac, which can be found in the reply e-mail from Senac. That as one of the shortest explanations, seem amazing. 
 
 * [ ] Expand the content in 110_visceral_different.txt
