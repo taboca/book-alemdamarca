@@ -2,9 +2,11 @@
 000_foreword.txt
 000_introduction.txt
 
-#000_part1.txt
+000_part1.txt
 
-#100/010_self_grief.txt
+100/010_.txt
+
+#010_self_grief.txt
 
 000_part2.txt
 
@@ -24,3 +26,5 @@
 
 400/100_cartas_business_cards.txt
 400/110_cartas_postinhos_vintage.txt
+
+100_references.txt
