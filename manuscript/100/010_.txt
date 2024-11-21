@@ -1,4 +1,4 @@
-# Tecnologia e comunicação 
+## Tecnologia e comunicação 
 
 Segundo Peter Drucker, tecnologia é trabalho. Essa visão sugere que de fato tecnologia não existe. Essa visão também se alinha com uma perspectiva dada por um designer que trabalhava para a organização Mozilla, que encontrei em um vídeo onde ele falava sobre a interface do futuro e apresentou uma visão que diz que a tecnologia, no fundo, não quer ficar no caminho do usuário. Ele apresentou uma ilustração, contextualizando o assunto com o caso da enchada, primeiro fazendo a pergunta: Qual é enchada perfeita? Ele disse que existem tipos e tipos de enchada, cabos feitos de materiais diferentes, e o segurador de vários formatos, e existem lâminas diferentes, algumas até com diamante encustrados. Mas, ainda que existam enchadas de vários tipos a enchada perfeita é o buraco pronto. Em outras palavras, é a solução. Essa visão “do designer” se alinha um pouco com a visão do Peter Drucker, na essencia, apesar que a visão do Peter Drucker considera a tecnologia como de fato nada mais o simples trabalho. Enquanto o designer me convida para ver o propósito do uso da tecnologia, a visão do Peter Drucker me convidou para ver que a criação tecnológica, as soluções que criamos, são nada mais que experiências de trabalho. Ou em outras palavras que o uso que fazemos de soluções tecnológicas nos levam a acessar o trabalho humano, talvez parte dele, então o todo de todo o uso de todas as tecnologias não seria nada mais do que a soma de todo o trabalho. Ainda, a visão de Peter também me permite ver o trabalho como a essência que está presente no tempo e que não existe grande diferença entre uma pedra que era utilizada para fazer lanças e um computador que de uma forma ou outra permite que o ser humano possa criar novas ferramentas. 
 
@@ -20,7 +20,7 @@ Poderemos pensar sobre essa nossa capacidade de nos entregarmos a tecnologia e o
 
 Uma situação que vivi foi quando decidi fazer compras no shopping em Ribeirão Preto, no final de 2022, e participar de uma promoção onde depois de gastar um X eu poderia concorrer a um carro. Fazia anos que não participava desse tipo de promoção mas lembrava como as coisas eram. No passado, eu trocava os cupons das compras e ganhava uma ficha especial onde bastava preencher o nome, os dados e jogar na urna. Neste caso, eu já havia comprado, estava com os cupons, então como me lembrei do passado decidí pegar o Uber até o shopping com aquela ideia de certa forma (agora antiquada) de colocar meu cupom na urna. Realmente esperei que houvesse uma urna lá. Enfim, chegando no shopping encontrei uma experiência um tanto diferente, talvez ainda híbrida. Primeiro, estava feliz, porque notei que uma praça toda estava dedicada para aquela interação, talvez podemos aqui ver como interação de comunicação ou interação de trabalho com o objetivo de resolver o problema do consumidor que quer participar da promoção. ISso porque, dá um certo trabalho, por exemplo trocar os cupons, preencher a ficha. Então, sabendo disso, e tendo já feito o trabalho de ir até praça, senti de certa forma feliz que o trabalho valeu a pena. Mas alguns sinais já estavam lá, sobre como muita coisa mudou, mesmo que muita coisa estaria por aparecer no meu caminho. O primeiro sinal é que não havia mais urna. Haviam alguns cantos, com sinalização da promoção e um jovem lá para ajudar. Eu fiquei surpreso pela falta da urna mas por ser da área de tecnologia meio que caiu a ficha que talvez algo tivesse sido 
 
-# O meio 
+## O meio 
 
 Para refletirmos sobre essa função social podemos olhar para aquelas seções dos questionários de avaliações de bares ou restaurantes, por exemplo o formulário do concurso "Comida de Boteco de Ribeirão Preto" coloca os seguintes aspectos para que as pessoas possam votar e dar uma nota ao ambiente: a nota sobre a comida, a nota sobre o espaço, a nota sobre o atendimento, sobre a limpeza, e outros campos também específicos como por exemplo a nota do prato que é o prato que em geral está em evidência no concurso.
 
@@ -28,9 +28,9 @@ Avaliamos assim, é lógico, e isso diz muito sobre o ambiente. Mas também, por
 
 Essa função social também pode ser bem identificada com relação à comida ou bebidas. O trabalho do autor Clayton Christensen, referido como Jobs-to-be-Done, apresenta a história do milkshake como um caso intencionado a explicar que comidas e bebidas - e de fato muitos dos serviços produtos e soluções que procuramos - são escolhidas com base em um trabalho que queremos fazer. 
 
-## Caso do Milkshake 
+### Caso do Milkshake 
 
-## O problema, complicação 
+### O problema, complicação 
 
 Essa também é a experiência para aqueles que trabalham nos estabelecimentos. Igualmente estão condicionados por esses momentos, por esse momento todo, de certa forma, guiados pelo mercado.
 

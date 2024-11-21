@@ -1,4 +1,4 @@
-# Menu de QR code 
+## Menu de QR code 
 
 <!--
 * [ ] Check https://docs.google.com/document/d/1uwOOfeNoeFWCI1g12LNfkbTK7ZGZ4hbczvPKOrMtE_o/edit?tab=t.0 

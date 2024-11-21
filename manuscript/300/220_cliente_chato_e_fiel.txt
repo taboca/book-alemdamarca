@@ -1,6 +1,9 @@
-# O cliente chato e fiel  
+## O cliente chato 
+
+
 
 <!--
+* E fiel
 * https://docs.google.com/document/d/15cr_Og0G9O_HnQu8cvYlX2E5AEfEG5O9IHlJ59siFcY/edit?tab=t.0
 -->
 

@@ -1,4 +1,4 @@
-# Motoqueiros de aplicativo acelerados
+## Acelerados
 
 <!--
 https://docs.google.com/document/d/1AB27TfKbKBcgOsIkzmq_w2lBngTLRKrOIVrlq7_mnWM/edit?tab=t.0
