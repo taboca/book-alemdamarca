@@ -1,0 +1,53 @@
+## Menu de QR code 
+
+<!--
+* [ ] Check https://docs.google.com/document/d/1uwOOfeNoeFWCI1g12LNfkbTK7ZGZ4hbczvPKOrMtE_o/edit?tab=t.0 
+--> 
+
+Agora falando da experiência do QRcode, uma das frustrações de uma pessoa que é um desenvolvedor formado em torno do ano 2000, é que ficou 20 anos tentando colocar tecnologia, sendo que normalmente as pessoas não querem tecnologia. Sempre foi assim, foi sempre muito difícil convencer, para isso eu precisei usar de arte ou de truques, e às vezes baratear demais, às vezes entregar de graça, às vezes até trabalhar a mais, para que outros pudessem ser convencidos a utilizar tecnologia. Em muitos dos casos realmente não deu certo, é como se o mundo tivesse certo, mas uma das coisas me fascina, e hoje eu considero um paradoxo, principalmente depois do Covid parece que selou, mas já estava acontecendo, veio bem antes, já estava acontecendo um movimento para talvez depois dos smartphones, onde a tecnologia passou a ser parte da vida e as pessoas passaram a aceitar muito da tecnologia como elas são. Uma delas que eu fiquei fascinado, e novamente, a pandemia, o Covid selou ou lacrou, foi a inserção do cardápio de QR Code, tem experiências para contar.
+
+
+<!--
+
+-->
+
+
+Eu vim do mundo da tecnologia. Ah, como poderei esquecer, daqueles dias na avenida Middlefield em Mountain View, Califórnia, indo para a Netscape com a bicicleta que a Carrie me emprestou e ao mesmo tempo navegando uma página de Internet com o meu Danger device. Isso tudo em torno de 2000 - o ano do bug do milênio - muito antes dos celulares ganharem o status de Smartphones, se tornarem de certa forma mais espertinhos inclusive no sentido de darem pitacos nas nossas vidas. 
+
+Quando nos maravilhamos com a tecnologia, eu posso dizer, podemos fazer muita coisa. Ir muito longe. Eu posso dizer que cresci de certa forma fascinado pelo potencial das tecnolgias, e por conta disso que fiquei por mais de duas décadas tentando convencer o mundo a abraçar a tecnologia. Minimanente digo que fiz muita coisa quando olho pelo potencial de energia que foi despejado, digamos assim, neste poço. 
+
+E tenho mesmo que valorizar essa quantidade de energia - apesar que não gostaria de medir no sentido de comparar com o que ela poderia ter gerado - porque foi um tipo de energia que me fazia tentar e tentar de novo, sempre com muita alegria, usando muito minha imaginação. Em outras palavras, uma energia para interagir com o mundo, que por anos de certa forma estava confortável em tentar de novo ao mesmo tempo que todo mundo, lá fora, dizia sempre a mesma coisa: que não precisavam de nada daquilo. 
+
+Sempre foi assim, muito difícil convencer. Mas de novo a energia bem intencionada sempre esteve lá e tentando, de uma forma ou outra, resolver o problema da negação e logicamente tentando me preservar para ser alguém também neste meio, e na vida, o que me levou também a lutar com, digamos assim, certos truques que gosto de ver como as coisas do mundo da arte. Posso dizer que tentei de tudo, por todos os ângulos, lembrando que até onde sei sempre procurei operar do lado mais certinho da força.
+
+Ou precisei em outras vezes baratear, baratear demais. E muitas outras vezes entregar de graça ou trabalhar a mais para que aqueles outros - os pagantes - pudessem ser convencidos que o meu trabalho era válido. Em muitos dos casos realmente não deu certo, é como se tivessem certos. Não vou dizer que 99% dos casos e nem digo que desisti. Só posso dizer que cansei um pouco; ou talvez tenha aprendido algo com eles. Que com tecnologia tudo tem que começar com o não antes e o sim depois. Ou que deveria começar com o porquê. 
+
+Agora uma coisa me surpreendeu neste caminho, vendo o mundo avançar bem devagarinho com tecnologia. Talvez esse fenômeno tenha surgido depois do *Smartphone*. E digo, que o que aconteceu me fascina. Mas também ao mesmo tempo forma outro paradoxo. Este paradoxo foi se lacrando, acredito, durante a pandemia. Tipo assim, selou. Mas já estava acontecendo sim, começou bem antes. Me pergunto se eu ajudei com isso tudo, se sou em parte culpado. Tipo se fui colaborador de um movimento no sentido de um trabalho sujo inicial. Ainda, pode ser que este fenômeno veio de um mundo que foi abraçando a tecnologia que passou a ser parte da vida. Talvez as pessoas passaram a aceitar a tecnologia como parte da realidade. Meio que da mesma forma que refrigerante aparece no almoço. Não sei. 
+
+O fenômeno em especial se dá por conta do tal do cardápio de QR Code. Esse capítulo é especialmente dedicado a esta experiência. Mas, antes de seguirmos por essa viagem, preciso honrar toda uma questão sobre o QR code, a genialidade da invenção. Acredito que poucos sabem da história do QRcode justamente por conta de que depois que decola, quando as coisas decolam no mundo, de repente estamos tomando refrigerante sem saber da invenção. Sim, porque funciona tão bem. Então, sobre o básico, uma coisa sabemos, que qualquer celular pode ler um QRcode e que esses QRcodes podem  estar em qualquer lugar, por exemplo no bolso de trás do jeans, em um outdoor, na lateral do prédio, ou no céu mesmo que por um breve momento, se feito com fumaça. Não importa o ângulo, nem o tamanho, o que importa é que o QR code pode ser lido, com câmeras simples e depois com um algorítmo. 
+
+Agora, celebrando o passo brilhante antes do que para mim pode ser um pouco de um futuro confuso, temos essa invenção liderada por Masahiro Hara da empresa Denso Wave, que resolveu um grande problema resolvendo a demanda da sua empresa (WIKIPEDIA, 2024), que a princípio consistia em ler mais informações a partir do código (maior capacidade de dados). A especulação é que, segundo QR Code History—From 1994 to 2024—in Under 10 Mins, em 1994 Masahiro Hara encontrou a alternativa enquanto jogava o jogo de tabuleiro Go (PAUL, 2024). 
+
+Basicamente, antes, a leitura dos códigos seguiam com o modelo do tradicional código de barras, onde o desenho era basicamente em uma dimensão e com isso dependia de uma leitura linear. A solução encontrada mudou essa perspectiva ao especifificar um novo tipo de layout que pudesse ser lido tanto pela vertical como na horizontal. Ganhando essa nova dimensão, agora em 2D, o código armazenava mais dados (mais de 4000 caracteres) e também poderia ser lido com menos chance de erro. O título expandido, *Quick Response Code*, de fato remete a outra característica que envolve o tempo de leitura, cerca de dez vezes mais rápido que o padrão anterior. Mas neste primeiro momento o código ainda não podia ser lido por câmeras, por exemplo quando o usuário aponta a câmera com um ângulo arbitrário (em perspectiva). Esta questão foi resolvida depois que o inventor se inspirou em algo que viu em um prédio, em um padrão geométrico, que lhe influenciou a considerar o uso de certas formas geométricas, referidas como "olhos", nas extremidades do código, assim facilitando a identificação do "quadrado" do código que poderia aparecer do lado de outras coisas nas fotos.  
+
+Avançando a história, a adoção do QRcode foi muito além do uso por leitores dos "códigos de barra" no contexto industrial, permitindo, por exemplo, que a leitura fosse feita por fotos tiradas em perspectiva. Então, grande mudança e novas possibilidades estariam a frente, como por exemplo poder colocar um gigantesco QR code na fachada de um prédio, sabendo que uma foto tirada por um pedestre poderia ser lida e, voilá, os dados seriam apresentados. 
+
+Mas, mesmo que isso fosse verdade, ainda, o QRcode de fato não decolou, por anos De certa forma ganhou popularidade no japão mas ainda assim, no resto do mundo, alguém teria que instalar um aplicativo no seu celular. Sobre essa celebraçã do momento, de certa forma a celebração da frustração por parte daqueles que reconheciam o potencial mas ao mesmo a barreira era a tecnologia que não estava instalada nos dispositivos, podemos lembrar de uma "famosa" página na Internet, pelo menos do ponto de vista dos apaixonados pelo QRcode, que celebrava a triste notícia: Essa obra de arte, tinha o título "Página com fotos de pessoas tirando foto de QR code". Você então clicava lá no link, e o que encontrava? Uma página vazia (TUMBLR, 2024). 
+
+
+<!--
+@references 
+
+WIKIPEDIA. QR code. Disponível em: https://en.wikipedia.org/wiki/QR_code. Acesso em: 22 nov. 2024.
+
+PAUL, Debayan. QR Code History—From 1994 to 2024—in Under 10 Mins. Disponível em: https://www.uniqode.com/blog/qr-code-basics/qr-code-history. Última atualização: 6 set. 2024. Acesso em: 22 nov. 2024.
+
+TUMBLR. Pictures of People Scanning QR Codes. Disponível em: https://www.tumblr.com/picturesofpeoplescanningqrcodes. Acesso em: 22 nov. 2024.
+
+-->
+
+E assim foram anos. Mas, de uma hora para a outra, anos e anos depois, uma hora decolou, ou colou. Sobre o que mudou, é que em 2017 a Apple cololou o recurso de leitura de QR codes no aplicativo da câmmera. Esse movimento também foi acompanhado pela Google, no Android. Então, um belo dia, a funcionalidade de leitura de QRcode chegou nos aplicativos das câmeras de celulares, já instalado. Isso mudou tudo, por conta que o usuário padrão não precisaria mais baixar um aplicativo especial para ler QR code, bastaria tirar fotos desses códigos e, voilá, informações seriam traduzidas, como por exemplo um endereço de uma página da Internet. 
+
+E com isso, o QR code começou a invadir e sobre isso você sabe bem. E com uma invasão muito grande também temos fenômenos observáveis. Agora, podemos voltar ao fenômeno. 
+
+

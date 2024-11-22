@@ -6,12 +6,13 @@
 
 100/010_communications.txt
 100/020_meio.txt
+100/030_potentialized_getting_job_done.txt
 
 #010_self_grief.txt
 
 000_part2.txt
 
-200/100_tecnologia_e_comunicacao.txt
+200/100_qrcode.txt
 200/110_256_tipos_de_pizza.txt
 200/110_visceral_different.txt
 200/120_vender_a_alma.txt

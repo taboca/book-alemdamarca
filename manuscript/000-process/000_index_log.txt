@@ -1,7 +1,5 @@
 ## Todo 
 
-* [ ] Check qr code - draft - https://docs.google.com/document/d/1uwOOfeNoeFWCI1g12LNfkbTK7ZGZ4hbczvPKOrMtE_o/edit?tab=t.0 
-
 * [ ] Check the insight commnet - when the youngsters control technology ...like leading evangelists and docs and UI, and you don't know what goes on, like clichês, they follow. 
 
 * [ ] Get the summary, short, which was sent as the introduction message in the letter to Senac, which can be found in the reply e-mail from Senac. That as one of the shortest explanations, seem amazing. 
@@ -34,4 +32,6 @@
 ## Done 
 
 * [x] Incorporated "Sabrina's article" into 300 120_passo_de_fe_do_seu_jeito.txt
+
+* [x] Check qr code - draft - https://docs.google.com/document/d/1uwOOfeNoeFWCI1g12LNfkbTK7ZGZ4hbczvPKOrMtE_o/edit?tab=t.0  - moved this article content, temporarily, into the 100_qrcode.txt. 
 
