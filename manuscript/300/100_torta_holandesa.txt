@@ -40,8 +40,7 @@ Hoje, antes de começar minha sessão de escrita na Biblioteca Las Conchas em Sa
 Neste momento, percebendo que muita coisa Italiana veio de outros povos, como o Arroz, a polenta, o manjericão, etc, não pude resistir a fazer uma breve pesquisa sobre o momento da invasão do tomate. Procurando sobre a primeira receita de molho de tomate - salsa pomodoro - encontrei o trabalho escrito por Antonio Latini - Lo Scalco alla Moderna (1692) uma obra que fala sobre métodos modernos e a arte da gestão e preparo de banquetes - que faz referência para provavelmente a primeira receita documentada de molho de tomate. O interessante dessa história é que também me levou a refletir sobre como ideias inovadoras são assinadas, mas que foi intitulada “Salsa di Pomodoro alla Spagnuola” (Molho de Tomate a Espanhola). Isso me levou, logicamente, a procurar pela relação entre o molho de tomate e a Espanha, e ao veredito de que o tomate foi trazido das Américas pelos Espanhois durante o momento que invadiram e dominaram o império Asteca. A especulação é que Antonio Latini estava de certa forma assinando aquela solução, dando nome a uma obra, honrando um prato que era já apreciado por seus clientes, seus patrões, nobres espanhois. “A Espanhola”, na minha visão, é mais uma assinatura e um título da obra, aquela obra que era certamente apreciada e querida por seu público naquele momento que foi especial para ele, quando Nápoles era uma região sob o domínio da Espanha e ele tinha uma posição muito especial, referida como Scalco, para o nobre Carillo Salcedo em 1682, que era essencialmente uma posição especial onde ele era responsável pela gestão dos banquetes, por toda toda a experiência. 
 
 <!--
-## references
-
+@references 
 CARLUCCIO, Antonio; CARLUCCIO, Priscila. Cocina italiana: ingredientes, productos y recetas. 1. ed. Barcelona: Naturart, S.A. (Blume), 2006. 320 p.
 
 * https://chatgpt.com/share/673e164f-16d4-8011-b80c-8303c5c484bb
