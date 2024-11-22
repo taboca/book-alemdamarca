@@ -4,7 +4,8 @@
 
 000_part1.txt
 
-100/010_.txt
+100/010_communications.txt
+100/020_meio.txt
 
 #010_self_grief.txt
 
