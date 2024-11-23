@@ -6,7 +6,8 @@
 
 100/010_communications.txt
 100/020_meio.txt
-100/030_potentialized_getting_job_done.txt
+100/030_fazejamento_estabelecimentos.txt
+100/040_fazejamento_potencializado.txt
 
 #010_self_grief.txt
 

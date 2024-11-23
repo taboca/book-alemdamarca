@@ -1,5 +1,7 @@
 ## Todo 
 
+* [ ] Case of cold egg São Carlos - Uma vez em São Carlos, olhei para a janelinha de onde saiam as comidas de uma das lojas de uma conhecida franquia de fast food e lá tinha uma folha A4 pregada com umas 5 sentenças para lembrar os colaboradores da relação  entre o ovo e o cliente: O cliente não aceita o ovo frio, nunca servir um ovo frio, o lanche deve ser feito com o ovo quente, e outras 2 que diziam a mesma coisa.  
+
 * [ ] Check the insight commnet - when the youngsters control technology ...like leading evangelists and docs and UI, and you don't know what goes on, like clichês, they follow. 
 
 * [ ] Get the summary, short, which was sent as the introduction message in the letter to Senac, which can be found in the reply e-mail from Senac. That as one of the shortest explanations, seem amazing. 
