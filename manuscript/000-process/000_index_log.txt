@@ -1,5 +1,9 @@
 ## Todo 
 
+* [ ] Book - ADM - Book - livro - adm - tecnologia trabalho e linguagem, incorporate into book - Saturday, November 23⋅6:45 – 7:45pm - https://docs.google.com/document/d/11tM9McRL6zSA9Jf3OLY1WvPtZpU8LxXYBARfHYf8fSA/edit?usp=drivesdk - Incorporagted into part 1  - https://docs.google.com/document/d/11tM9McRL6zSA9Jf3OLY1WvPtZpU8LxXYBARfHYf8fSA/edit?tab=t.0
+
+* [ ] Book - ADM - introduction - review points - Deslocamento - to the reader, to be out of that situation which we all know what it is, when we are taken. And this is so, detachment set us together because this material was brought because of detachment, as I had experience, years and years working from these places, not being there as I will explain. 
+
 * [ ] Case of cold egg São Carlos - Uma vez em São Carlos, olhei para a janelinha de onde saiam as comidas de uma das lojas de uma conhecida franquia de fast food e lá tinha uma folha A4 pregada com umas 5 sentenças para lembrar os colaboradores da relação  entre o ovo e o cliente: O cliente não aceita o ovo frio, nunca servir um ovo frio, o lanche deve ser feito com o ovo quente, e outras 2 que diziam a mesma coisa.  
 
 * [ ] Check the insight commnet - when the youngsters control technology ...like leading evangelists and docs and UI, and you don't know what goes on, like clichês, they follow. 
@@ -37,3 +41,4 @@
 
 * [x] Check qr code - draft - https://docs.google.com/document/d/1uwOOfeNoeFWCI1g12LNfkbTK7ZGZ4hbczvPKOrMtE_o/edit?tab=t.0  - moved this article content, temporarily, into the 100_qrcode.txt. 
 
+* [x] Done Follow up - Book- adm - Incorporated part 1 of Fazejamemto Saturday, November 23⋅2:00 – 5:00pm Done, 030_fazejamento_estabelecimentos.txt Follow up is for 040_fazejamento_potencializado.txt 
