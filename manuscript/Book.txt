@@ -24,6 +24,7 @@
 300/100_torta_holandesa.txt
 300/120_passo_de_fe_do_seu_jeito.txt
 300/200_feito_com_amor_arroz.txt
+300/210_holistic_design.txt
 300/220_cliente_chato_e_fiel.txt
 
 000_part4.txt

@@ -34,11 +34,3 @@
 
 * [ ] Check the e-mail entitled "Livro - além da marca - tecnologias painéis" which refer to the experience acquired with the Tela Social project, and the idea that screens, and communication "through hallways" could actually be used in virtuous ways to help the development of the team. 
 
-
-## Done 
-
-* [x] Incorporated "Sabrina's article" into 300 120_passo_de_fe_do_seu_jeito.txt
-
-* [x] Check qr code - draft - https://docs.google.com/document/d/1uwOOfeNoeFWCI1g12LNfkbTK7ZGZ4hbczvPKOrMtE_o/edit?tab=t.0  - moved this article content, temporarily, into the 100_qrcode.txt. 
-
-* [x] Done Follow up - Book- adm - Incorporated part 1 of Fazejamemto Saturday, November 23⋅2:00 – 5:00pm Done, 030_fazejamento_estabelecimentos.txt Follow up is for 040_fazejamento_potencializado.txt 
