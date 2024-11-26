@@ -1,5 +1,7 @@
 ## Done 
 
+* [x] @todo - p1 - In 030_fazejamento_estabelecimentos.txt, put the citation from Maslow, the case of the baby that does a little walking. 
+
 * [x] Incorporated "Sabrina's article" into 300 120_passo_de_fe_do_seu_jeito.txt
 
 * [x] Check qr code - draft - https://docs.google.com/document/d/1uwOOfeNoeFWCI1g12LNfkbTK7ZGZ4hbczvPKOrMtE_o/edit?tab=t.0  - moved this article content, temporarily, into the 100_qrcode.txt. 

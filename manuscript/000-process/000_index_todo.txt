@@ -1,5 +1,17 @@
 ## Todo 
 
+* [ ] @todo - p1 - In 030_fazejamento_estabelecimentos, we are making a reference, likely to the idea of jobs to be done which were presented earlier; we need to make sure that such link helps with what comes next. 
+* [ ] @todo - p1 - In 030_fazejamento_estabelecimentos, there are a number of references to the word "ritual". This seems to make sense, but, we need to understand why "ritual" needs to happen; in other words, what comes next. 
+
+
+
+
+* [ ] @todo - p1  - In 040_fazejamento_potencializado, bring back Maslow 
+
+* [ ] @todo p1 - Consider, in 040_fazejamento_potencializado, the citation from Joseph Schumpeter, about getting things done and entrepreneurship, and the point of saturation of trying to innovate in the world of abundance. 
+
+* [ ] @todo p1 - #fazejamento @book:FacaSeuNegocioDecolar #citation
+
 * [ ] Book - ADM - Book - livro - adm - tecnologia trabalho e linguagem, incorporate into book - Saturday, November 23⋅6:45 – 7:45pm - https://docs.google.com/document/d/11tM9McRL6zSA9Jf3OLY1WvPtZpU8LxXYBARfHYf8fSA/edit?usp=drivesdk - Incorporagted into part 1  - https://docs.google.com/document/d/11tM9McRL6zSA9Jf3OLY1WvPtZpU8LxXYBARfHYf8fSA/edit?tab=t.0
 
 * [ ] Book - ADM - introduction - review points - Deslocamento - to the reader, to be out of that situation which we all know what it is, when we are taken. And this is so, detachment set us together because this material was brought because of detachment, as I had experience, years and years working from these places, not being there as I will explain. 

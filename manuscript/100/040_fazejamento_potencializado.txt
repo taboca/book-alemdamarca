@@ -2,6 +2,24 @@
 * Ref - https://docs.google.com/document/d/1dRUwZa12fB5CsmLsqXJe9jJ6mhYlfNPjlbmmk8rIC4E/edit?tab=t.0 
 -->
 
+<!--
+@todo p1 - Consider, in 040_fazejamento_potencializado, the citation from Joseph Schumpeter, about getting things done and entrepreneurship, and the point of saturation of trying to innovate in the world of abundance. 
+
+Se considerarmos a função empreendedora, podemos também destacar o pensamento de Joseph Schumpeter, que reconheceu que a essência do movimento empreendedor pode ser visto como o movimento de entregar as coisas, ou *getting things done*: 
+
+--> 
+
+<!--
+@todo - p1  - In 040_fazejamento_potencializado, bring back Maslow 
+
+> *"The danger that I see is the resurgence, in new and more sophisticated forms, of the old identification of psychological health with adjustment, adjustment to reality, adjustment to society, adjustment to other people. That is, the authentic or healthy person may be defined not in his own right, not in his autonomy, not by his own intra-psychic and non-environmental laws, not as *different* from the environment, independent of it or opposed to it, but rather in environment-centered terms, e.g., of ability to master the environment, to be capable, adequate, effective, competent in relation to it, to do a good job, to perceive it well, to be in good relations to it, to be successful in its terms. To say it in another way, the job-analysis, the requirements of the task, should not be the major criterion of worth or health of the individual. There is not only an orientation to the outer but also to the inner. An extra-psychic centering point cannot be used for the theoretical task of defining the healthy psyche."* (Maslow, Abrahan., 2011, p.168) 
+
+@meta @reference 
+* reference - Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
+-->
+
+
+
 ## Fazejamento potencializado 
 
 Se por um lado podemos avançar, seguindo nossa inclinação a encontrar soluções nos orientando pela busca por eficiência, ou pelo movimento de tentar, por outro lado vem a dúvida se esse tipo de operação significa descaso com aprendizado, dado que na realidade avançar mais rápido pode também significar errar mais. De certa forma, o aprendizado em retrospectiva é a norma aceita, seja simplesmente reconhecido pela ideia de que aprendemos com a vida ou com a "escola da vida" que de forma geral se alinha com modelos de aprendizado, como o ciclo de Kolb (Kolb, David., 2014) que de forma simplificada diz que o aprendizado vem depois da experimentação. O reconhecimento de que podemos aprender, depois de executar, logicamente nos levará a pergunta - temos interesse de aprender e/ou as condições de aprender? Ou precisamos de estratégia para aprender? Ou outras tais como quais são os riscos de aprender a partir da experimentação? 
