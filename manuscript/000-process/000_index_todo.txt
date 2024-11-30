@@ -1,5 +1,7 @@
 ## Todo 
 
+* [ ] @todo - p1 - Need to check the data from Experience, Frango’s wife. 
+
 * [ ] @todo - p1 - Bring the case of Jim Collins into the subject, the case of entrepreneurs. Ref /  as we consider this idea we should incorporate here the ideas from Jim Collins and Jerry Porras, through the book Build to Last, where they present the concept of "preserve the core, and stimulate progress". 
 
 * [ ] @todo - p1 - In 030_fazejamento_estabelecimentos, we are making a reference, likely to the idea of jobs to be done which were presented earlier; we need to make sure that such link helps with what comes next. 
