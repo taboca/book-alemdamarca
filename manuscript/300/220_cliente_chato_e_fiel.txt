@@ -1,6 +1,10 @@
 ## O cliente chato 
 
-
+<!--
+@todo 
+* [ ] @todo - p1 - In "Cliente chato" bring the story of Adam Grant and the different kinds of feedback. 
+* [ ] @todo - p1 - In "Cliente chato" consider my father and myself and this whole book. 
+-->
 
 <!--
 * E fiel
