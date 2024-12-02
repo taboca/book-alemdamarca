@@ -14,7 +14,6 @@
 
 * [ ] @todo - p1 - In Chamar a atenção - Consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
 * [ ] @todo - p1 - In Chamar a atenção - check “lanche na piscina de cheddar”
-* [ ] @todo - p1 - In Chamar a atenção - check “o pote da felicidade” (bolo no copo com um pudim colado em cima)
 * [ ] @todo - p1 - In Chamar a atenção - check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
 
 * [ ] @todo - p1 - In the 3rd part, consider the notion of "pasteurização do passado" ref from the chapters structure "Em “A pasteurização, do passado”, consideramos uma situação paradoxal, dado que certas experiências do passado, como o bolinho de bacalhau, ainda existem mas em uma versão “sem graça” onde o público jovem não vê nada demais enquanto os antigos que provaram da versão original se decepcionam. Celebraremos, com tom de tristeza e saudosismo, como muitas experiências gastronômicas correm risco de extinção."
