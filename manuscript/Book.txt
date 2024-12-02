@@ -18,12 +18,11 @@
 200/110_visceral_different.txt
 200/120_vender_a_alma.txt
 200/140_motoboys.txt
-200/160_progressing_with_no_core.txt
 
 000_part3.txt
 
 300/100_torta_holandesa.txt
-300/120_passo_de_fe_do_seu_jeito.txt
+300/160_progress_core.txt
 300/200_feito_com_amor_arroz.txt
 300/210_holistic_design.txt
 300/220_cliente_chato_e_fiel.txt

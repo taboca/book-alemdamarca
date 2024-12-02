@@ -1,6 +1,13 @@
 ## A estante da culinária 
 
 <!--
+@tags 
+
+* #introductions #bookintroductions #cooksintroductions #purpose #reflections
+
+-->
+
+<!--
 * https://docs.google.com/document/d/1-YwCrCaSJolwg4-PVtpkF5elvyCjy9cnDdw-8t54kRo/edit?tab=t.0
 -->
 
