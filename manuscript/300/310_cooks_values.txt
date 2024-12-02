@@ -1,14 +1,20 @@
-## A estante da culinária 
+### A arte da culinária  
 
 <!--
+
+@todo 
+
+* [ ] @todo - p2 - In "Future" #bookintroductions, consider the introduction of the book which takes in consideration variou religions and finds a peaceful spot. 
+
 @tags 
 
 * #introductions #bookintroductions #cooksintroductions #purpose #reflections
 
--->
+@docs 
 
-<!--
 * https://docs.google.com/document/d/1-YwCrCaSJolwg4-PVtpkF5elvyCjy9cnDdw-8t54kRo/edit?tab=t.0
+
+
 -->
 
 While visiting Salamanca I was also completing the work for this book. And to help with the book development I am glad I didn’t know I was caught in what some people would call a university city. 

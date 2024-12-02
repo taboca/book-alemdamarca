@@ -1,6 +1,8 @@
 
 ## Todo 
 
+* [ ] @todo - p2 - In "Future" #bookintroductions, consider the introduction of the book which takes in consideration variou religions and finds a peaceful spot. 
+
 * [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. 
 * [ ] @todo - p1 - In "Cliente chato", consider my father and myself and this whole book. 
 

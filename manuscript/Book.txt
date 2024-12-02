@@ -21,12 +21,15 @@
 
 000_part3.txt
 
-300/100_torta_holandesa.txt
+300/100_values_and_innovation.txt
+300/120_torta_holandesa.txt
 300/160_progress_core.txt
 300/200_feito_com_amor_arroz.txt
 300/210_holistic_design.txt
 300/220_cliente_chato_e_fiel.txt
-300/300_cooks_values.txt
+
+300/300_future.txt
+300/310_cooks_values.txt
 300/320_spaceships.txt
 
 000_part4.txt
