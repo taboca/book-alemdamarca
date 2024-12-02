@@ -5,11 +5,8 @@
 000_part1.txt
 
 100/010_communications.txt
-100/020_meio.txt
-100/030_fazejamento_estabelecimentos.txt
-100/040_fazejamento_potencializado.txt
-
-#010_self_grief.txt
+100/020_jobs.txt
+100/030_fazejamento.txt
 
 000_part2.txt
 
@@ -30,9 +27,9 @@
 300/310_cooks_values.txt
 300/320_spaceships.txt
 
-000_part4.txt
-
-400/100_cartas_business_cards.txt
-400/110_cartas_postinhos_vintage.txt
+#000_part4.txt
+#
+#400/100_cartas_business_cards.txt
+#00/110_cartas_postinhos_vintage.txt
 
 100_references.txt
