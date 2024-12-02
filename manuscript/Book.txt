@@ -27,8 +27,8 @@
 
 000_part4.txt
 
-300/310_cooks_values.txt
-300/320_spaceships.txt
+400/310_cooks_values.txt
+400/320_spaceships.txt
 
 #
 #400/100_cartas_business_cards.txt
