@@ -1,5 +1,10 @@
 ## Done 
 
+
+* [x] @todo - p1 - In "Arroz e feijão" - Check email entitled "Livro - Além da Marca - Caso da feijoada autor", [ ] Check e-mail entitled "Livro - além da marca - feijoada", which has an audio too. 
+
+* [x] @todo - p1 - Inserted into "Side of book, within 110 publisher synopsis" - Check the e-mail entitled "Livro - além da marca - sinopse apresentação primeiro parágrafo". [ ] Check the e-mail entitled "Projeto livro - além da marca - prefácio ou introdução - experiência saudável" which may have a line of writing that can be helpful, could perhaps replace other writing. 
+
 * [x] @todo - p1 - In Chamar a atenção - check “o pote da felicidade” (bolo no copo com um pudim colado em cima)
 
 * [x] @todo - p1 - In 030_fazejamento_estabelecimentos.txt, put the citation from Maslow, the case of the baby that does a little walking. 

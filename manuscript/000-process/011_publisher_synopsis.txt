@@ -1,3 +1,11 @@
+## Side cover note 
+
+<!--
+* [x] @todo - p1 - Inserted into "Side of book, within 110 publisher synopsis" - Check the e-mail entitled "Livro - além da marca - sinopse apresentação primeiro parágrafo". [ ] Check the e-mail entitled "Projeto livro - além da marca - prefácio ou introdução - experiência saudável" which may have a line of writing that can be helpful, could perhaps replace other writing. 
+-->
+
+Este é um livro sobre o futuro dos estabelecimentos de alimentação, mas mais do que isso é um livro que se preocupa, que traz uma preocupação sobre o nosso papel no meio desse futuro. Estaremos trabalhando juntos para identificar que temos algo para fazer e algo especial, e mais do que isso algo que precisa ser feito. E a razão disso é que o mundo mudou. É que nosso meio de trabalho mudou por conta de um ritmo acelerado, de um ambiente hiperconectado. Um ambiente que nos faz gastar muita energia, onde nós estamos nos tornando mais máquinas e menos humanos. E com isso, colocando no nosso trabalho, colocando nossos estabelecimentos em risco, criando marcas mais genéricas, perdendo a identidade, e mais do que isso, um ambiente de trabalho onde não somos criativos e que não é saudável.
+
 ## Sinopse 
 
 Muitos que se envolvem na área alimentícia deixam a questão da marca de lado. Existem boas razões como “a operação não pode parar”, a falta de investimento e conhecimento/planejamento anterior. Além disso, sabemos que marca é assunto de marketing, e assim um assunto de crescimento, um assunto para depois. Por essa e outras razões a nossa estratégia se volta para o presente, para a ação, a execução.  
