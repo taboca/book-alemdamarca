@@ -8,7 +8,7 @@
 
 * RS - Rodrigo Silva - General, writing. 
 
-* OM - Omar Morad - (Check his last name)  - Ref 220_cliente_chato_e_fiel 
+* @contact:OM - Omar Morad - Ref 220_cliente_chato_e_fiel 
 
 * SL - Silvia Leite, empreendedora, Torta Holandesa - Ref 100_torta_holandesa.txt)
 
