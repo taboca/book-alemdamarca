@@ -62,11 +62,11 @@ Considere o serviço de aplicativo Uber, por exemplo. Não estamos mais apenas e
 
 Agora, imagine estar diante dessa lista de opções cada vez que você precisa de uma carona. Muitas vezes, a decisão que tomamos não é baseada no que realmente precisamos, mas sim no que é mais atraente ou conveniente no momento.
 
-## Sem tempo para despertar
+### Sem tempo para despertar
 
 O verdadeiro despertar poderia ocorrer caso pudéssemos ver além das promessas sedutoras, caso pudéssemos questionar o valor real que essas ferramentas e sistemas trazem para nossas vidas. Se tivessmos tempo para perceber que estamos sendo constantemente bombardeados por apelos e promessas, poderíamos começar a resistir a essa pressão e a fazer escolhas mais conscientes. Mas o fator mais complicado dessa pressão é que ela não tem tom de pressão. Não sentimos. Naquele dia que assustei as pombas, alguém pediu o Pote da Felicidade e nem percebeu a pressão, a narrativa, os gritos do pote. 
 
-## Os Três Níveis de Assédio
+### Os Três Níveis de Assédio
 
 Esses itens lutam e de certa forma exercem um assédio em nossas mentes, dado que os encontramos depois que saímos para resolver uma necessidade. O primeiro nível de assédio - vou chamar de assédio da promessa - está ligado ao fato que os itens comunicam, promete, resultados imediatos. Somos atraídos pela ideia de que podemos obter uma solução para o que queremos, agora, sem a necessidade de esperar ou trabalhar para isso. Muitos dos potes de prateleiras das padarias estão prontos para consumo. Da mesma forma, quem quer fazer um bolo pode irá encontrar, no corredor de bolos do supermercado, uma solução pronta para cookies. 
 
@@ -76,7 +76,7 @@ O segundo nível de assédio - o assédio das oções - acontece quando estamos 
 
 O terceiro nível - o assédio da decisão - está ligado ao potencial de engajar, da decisão. Queremos decisão, sabemos que é bom decidir. O mundo nos parabeniza por isso. Porém de outro lado existem mensagens presentes na comunicação desses itens, trazendo sua mente para o ponto de decisão. Considere, por exemplo, que vendedores e criadores de *landing pages* são especialistas na criação do botão ou frase intitulada CTA ou *call to action*. Donald Miller, especialista em storytelling de marketing e autor do método StoryBrand, indica que a falta do *Call to Action* é como um episódio de namoro que deu certo mas que faltou a frase "Vamos casar?" 
 
-## Conclusão reflexiva 
+### Conclusão reflexiva 
 
 Em um mundo cheio de opções, é fácil ser atraído pela promessa de resultados imediatos. No entanto, é importante lembrar que nem sempre a opção mais atraente ou mais conveniente é a melhor para nós. A ideia de parar, refletir e fazer escolhas conscientes; simplesmente não é mais popular. Poderia soar como inapropriada, ainda mais diante do potencial da decisão, a pressão que começa em nós por estarmos girando na engrenagem da vida, do trabalho. Isso porque afinal de contas, ninguém sai para comprar pão porque está passeando.
 
@@ -96,16 +96,4 @@ Eu não posso dizer que estava consciente, intencionado, quando encontrei o pote
 Para "lacrar" um pensamento e talvez até uma oportunidade. Considere se você pudesse, um dia, ir ao supermercado depois de comer muito no almoço. Nessa ida, tente forçar uma missão de comprar coisas. Tente ficar 5 minutos em cada gôndola, refletindo sobre como os produtos estão conversando, como os produtos estão gritando. Tente olhar os produtos, por cima, aqueles vários que dizem "me compre, me coma, me use." E veja que hoje eles não mais clamam por sua atenção com meros gritos. Eles projetam promessas de forma direta, sem gritos. 
 
 Agora, esses potes de soluções estão por toda parte. Reflita sobre os serviços, metodologias, sistemas. Perceba como tudo ao seu redor está prometendo algo. Perceba como tudo é atraente. Como tudo, como diria o brasileiro, chama atenção. Note como você provavelmente está preso na categoria de uma promessa, como um carro, uma pizza ou uma metodologia para expandir sua startup. Perceba como provavelmente estamos comparando opções e nos orgulhando de procurar a melhor oferta entre elas. Perceba como somos puxados para tomar decisões, para seguir em frente. Perceba como as consequências de decidir têm menos a ver com a promessa original e como soluções e decisões geram outros eventos.
-
-## Considerações e exercício reflexivo 
-
-Faça uma reflexão sobre como os produtos como metodologias se vendem. Exemplos: 
-
-* Artigos sobre empreendedorismo 
-* Business model canvas 
-* Lean start-up
-* Aceleradoras
-* Incubadoras 
-* Customer Discovery 
-
 
