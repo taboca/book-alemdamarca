@@ -1,4 +1,12 @@
-## 256 pizzas 
+## Mais é menos 
+
+<!--
+@todo 
+
+* [ ] @todo - p1 - In "Mais é menos" consider what "passa despercebido", como o menu de 256 tipos de pizza que ainda traz uma última opção “faça sua própria pizza”. 
+* [ ] @todo - p1 - In "Mais é menos" - iremos contar as moedinhas coloridas de chocolate das pizzas doces que nossos filhos adoram. 
+
+-->
 
 Existe uma outra reflexão que eu vou chamar de fenômeno combinatorial do cardápio de pizza. Não tenho nada contra pizzas, acho que faz sentido até hoje com todas as pizzarias alguém criar uma nova pizzaria, isso foi algo que aprendi, que você pode entrar no mercado onde todos reconhecem e fazer algo melhor, é uma das formas de você sobreviver. Mas aqui vou falar daquela que parece ser muito do mesmo, que nós percebemos quando olhamos os cardápios de várias pizzarias, as coisas estão mudando, eu vejo isso, mas ainda existem muitas assim. Um tipo de cardápio que eu quero narrar para você, seria aquele cardápio de várias páginas que tem 256 tipos de pizza, mas que você acaba percebendo que elas foram feitas com os mesmos oito ingredientes, vamos lá.
 

@@ -4,8 +4,21 @@
 
 * [x] Em “A evolução da comunicação”, voltaremos no tempo, junto com o autor (que é um apaixonado por tecnologia e comunicação), considerando a evolução dos meios de comunicação (começando pelo rádio, TV, web, redes sociais, e aos conteúdos assistidos por AI) e o impacto nas nossas vidas em termos de foco e comportamento. 
 
-* [x] Consider to put the Homo narrans here, or at the end. Em “O Homo Narrans”, provocamos uma visão de mundo que nos coloca como Homo sapiens, seres de racionalidade "lógica e científica", contrastando com outra visão onde, de fato, nossa racionalidade é orientada por narrativas, e o ser atuante é o Homo narrans. Ainda, consideramos como as plataformas tecnológicas se beneficiam deste modelo e só nos fazem mais atuantes como seres que se orientam por narrativas. 
+* [ ] From v0.1 - Consider to put the Homo narrans here, or at the end. Em “O Homo Narrans”, provocamos uma visão de mundo que nos coloca como Homo sapiens, seres de racionalidade "lógica e científica", contrastando com outra visão onde, de fato, nossa racionalidade é orientada por narrativas, e o ser atuante é o Homo narrans. Ainda, consideramos como as plataformas tecnológicas se beneficiam deste modelo e só nos fazem mais atuantes como seres que se orientam por narrativas. 
 
+* [x] From v0.1 - Em “O fazejamento”, consideramos a situação desafiadora quando a operação prioriza a execução por conta da atenção voltada ao cliente (e outros fatores como falta de investimento), desta forma caracterizando a operação que se torna reativa ao que acontece no presente e, na falta de valores, pressionada a executar buscando mais eficiência. 
+
+* [x] From v0.1 - Em “O fazejamento, potencializado”, consideramos uma situação agravante onde as narrativas do ambiente tornam-se mais persuasivas em comparação com as próprias (especificamente quando as próprias narrativas não são suportadas por valor), e como isso influencia a liderança a reconhecer o movimento como estratégico; mas que não impede que a operação torne-se mais eficiência porém em muitas circunstâncias em um rumo arbitrário, ou genérico. 
+
+### Parte 2 - A Bolha 
+
+* [x] From v0.1 - Em “O QR code, esse desconhecido”, celebraremos com um tom de preocupação como a experiência de pedir por meio do QR Code entrou nas nossas vidas e ficou normal, principalmente durante o Covid-19. E assim, como muitos estabelecimentos assumem que é a única forma de pedir, como se a tecnologia não pudesse ser trocada, e perdem a oportunidade de perceber justamente como as várias questões do ambiente (não só as tecnológicas) definem a experiência como um todo.
+
+* [x] From v0.1 - Em “Chamar a atenção, 3.0 e visceral”, observamos como a ideia conhecida como “chamar a atenção” é como um clichê e como a pressão da competição leva milhares de estabelecimentos a evoluir suas narrativas, criando experiências de certa forma inovadoras - que diante de um olhar externo nos leva a pensamentos como “o Brasileiro precisa ser estudado” - e que tornam-se normais como o caso do “lanche na piscina de cheddar”, “o pote da felicidade” (bolo no copo com um pudim colado em cima), pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
+
+* [x] From v0.1 - Em “A espiral, da morte”, consideramos uma situação onde o estabelecimento, quando se vê na situação de desespero, torna-se acelerado diante da busca de eficiência, porém aceita a criatividade do ambiente externo (por exemplo as vozes dos fornecedores e outros “marketeiros”) que passam a decidir mais de forma a influenciar a experiência como um todo; levando potencialmente a situação extrema, a “espiral da morte”, e a destruição do negócio, além da desmotivação dos colaboradores e da liderança. 
+
+* [x] Em “5 estrelas, se for rápido”, consideramos as plataformas de pedidos e entregas exercem um papel na percepção sobre o que é bom assim como uma influência na experiência como um todo. Com tom de preocupação, analisaremos aspectos sobre essa experiência, destacando muitas das coisas que parecem normais ao nosso lado,  como o caso dos milhares de motoboys que aceleram pelos sinais vermelhos com escapamentos turbinados, entregando pizzas transfiguradas, ou até não entregando por conta de acidentes. 
 
 ### Parte 3 - O resgate 
 
@@ -13,7 +26,7 @@
 
 * Casos analisados: Positivo (Acarajé e Falafel), Negativo (Croissant no Brasil), com fundamento no livro "Build to Last" de Jim Collins.
 
-* Em “A equação do foco”, formalizamos a situação de desgaste e confusão e a lógica que nos levará para um novo olhar sobre a importância de desacelerar, sobre o “menos é mais” e ao pensamento consciente de uma operação orientada a valores. Introduzimos a equação do foco, ou a equação da decisão, como sendo N x V, narrativas potencializadas por valores, o que nos levará a considerar a importância de estabelecer novos valores, no sentido de propósito, como mecanismo para uma operação mais leve que leva ao progresso. 
+* [ ] Consider from v0.1 - Em “A equação do foco”, formalizamos a situação de desgaste e confusão e a lógica que nos levará para um novo olhar sobre a importância de desacelerar, sobre o “menos é mais” e ao pensamento consciente de uma operação orientada a valores. Introduzimos a equação do foco, ou a equação da decisão, como sendo N x V, narrativas potencializadas por valores, o que nos levará a considerar a importância de estabelecer novos valores, no sentido de propósito, como mecanismo para uma operação mais leve que leva ao progresso. 
 
 * Em “Feito com amor”, seguimos a tese de valor, começando com o caso do arroz, como o arroz feito na hora, indo muito além do “ser fresquinho e quentinho” e nos levando direto para o entendimento sobre valores, como “feito com amor”, nos levando a acessar questões mais profundas sobre valores (ligados a cultura, a vida).  
 
@@ -33,14 +46,19 @@
 
 * Em v0.1 - “Mais que uma fachada”, trazemos paz para resolver uma ideia de que fachada é assunto “de fachada”. Na contramão do movimento acelerado de que fachada é para “chamar a atenção”, ou para vender mais, desconstruimos muitos dos mitos e até mensagens que parecem ser coerentes, como a questão das “cores quentes”, e um monte de outras ideias que são justificadas pela ideia de “chamar a atenção”. Na contramão deste movimento, apresentamos uma nova visão para as fachadas que vai além do bonito ou “instagramável” e de fato nos colocam com contado com uma identidade e mais conectados com a natureza, a vida, as artes e a nossa cultura. 
 
+### Parte 4 
 
-### Capítulo: Naves espaciais? 
+#### Capítulo - Reflexões de artistas 
 
-* Em “O estabelecimento zen”, iremos na contramão do movimento que nos pede para correr como robôs - e que com isso nos leva a usar nossa mente criativa só para lidar com problemas. Essa será uma oportunidade de provocarmos e reinventarmos nosso sistema operacional, colocando alegria e entusiasmo na base da operação que leva ao movimento virtuoso.  
+#### Capítulo: Naves espaciais
 
-* Em ”A escola da vida”, celebramos que o maior investimento é o tempo de todos, o momento que estão presentes. E assumimos que o futuro de todos é incrível. Com esse princípio, nos desafiamos a respeitar que o ambiente torna-se o caminho, e que todas as facetas do negócio devem funcionar como um meio que traz uma oportunidade de aprendizado e crescimento. (Um recente conceito de Marcio intitulado "A nave espacial" poderia atuar aqui, e o ponto, pelo olhar de negócios, é que certas dinâmicas criam modelos de cultura.)
+* [ ] Consider from v0.1 - Em ”Menos é mais”, celebramos como uma simples folha de sulfite A4 pode ser mais do que um cardápio complicado com 12 páginas envelopadas e cheio de imagens. Com a abordagem menos é mais, onde valores estão estabelecidos, criamos um ambiente que de fato conta com os envolvidos para que possam observar, refletir, colaborar, e criar.  
 
-* Em ”Menos é mais”, celebramos como uma simples folha de sulfite A4 pode ser mais do que um cardápio complicado com 12 páginas envelopadas e cheio de imagens. Com a abordagem menos é mais, onde valores estão estabelecidos, criamos um ambiente que de fato conta com os envolvidos para que possam observar, refletir, colaborar, e criar.  
+#### Capítulo - Espaços zen ?
+
+* [ ] Consider from v0.1 - Em “O estabelecimento zen”, iremos na contramão do movimento que nos pede para correr como robôs - e que com isso nos leva a usar nossa mente criativa só para lidar com problemas. Essa será uma oportunidade de provocarmos e reinventarmos nosso sistema operacional, colocando alegria e entusiasmo na base da operação que leva ao movimento virtuoso.  
+
+* [ ] Consider from v0.1 - Em ”A escola da vida”, celebramos que o maior investimento é o tempo de todos, o momento que estão presentes. E assumimos que o futuro de todos é incrível. Com esse princípio, nos desafiamos a respeitar que o ambiente torna-se o caminho, e que todas as facetas do negócio devem funcionar como um meio que traz uma oportunidade de aprendizado e crescimento. (Um recente conceito de Marcio intitulado "A nave espacial" poderia atuar aqui, e o ponto, pelo olhar de negócios, é que certas dinâmicas criam modelos de cultura.)
 
 ## Estrutura v0.1
 

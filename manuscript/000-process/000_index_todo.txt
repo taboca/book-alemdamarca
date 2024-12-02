@@ -1,6 +1,26 @@
 
 ## Todo 
 
+
+* [ ] @todo - p1 - In "5 estrelas para mais rápido" Check the case of "pizza que não chegou" 
+* [ ] @todo - p1 - In "5 estrelas para mais rápido" Iremos estar juntos, na garoupa das motocicletas, sentindo o som do escapamento sem miolo e cruzando o sinal vermelho, observando o suave nadar das fatias de peperoni.
+* [ ] @todo - p1 - In "5 estrelas para mais rápido" - não chegou a pizza, porque o motoboy se acidentou.
+* [ ] @todo - p1 - In "5 estrelas para mais rápido" - Ainda, iremos ler, bem devagar, cada trecho da página de de um tipo de “queijo” que está adequado na regulação como um produto lácteo e onde uma das suas características principais é que não gera poços de gordura, ou seja, gera pizzas “perfeitas”, diferente daquelas pizzas imperfeitas que são feitas (como na Itália) com aqueles queijos mais caros e gordurosos.
+
+
+* [ ] @todo - p1 - In "Mais é menos" - consider what "passa despercebido", como o menu de 256 tipos de pizza que ainda traz uma última opção “faça sua própria pizza”. 
+* [ ] @todo - p1 - In "Mais é menos" - iremos contar as moedinhas coloridas de chocolate das pizzas doces que nossos filhos adoram. 
+
+
+* [ ] @todo - p1 - In Chamar a atenção - Consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
+* [ ] @todo - p1 - In Chamar a atenção - check “lanche na piscina de cheddar”
+* [ ] @todo - p1 - In Chamar a atenção - check “o pote da felicidade” (bolo no copo com um pudim colado em cima)
+* [ ] @todo - p1 - In Chamar a atenção - check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
+
+* [ ] @todo - p1 - In the 3rd part, consider the notion of "pasteurização do passado" ref from the chapters structure "Em “A pasteurização, do passado”, consideramos uma situação paradoxal, dado que certas experiências do passado, como o bolinho de bacalhau, ainda existem mas em uma versão “sem graça” onde o público jovem não vê nada demais enquanto os antigos que provaram da versão original se decepcionam. Celebraremos, com tom de tristeza e saudosismo, como muitas experiências gastronômicas correm risco de extinção."
+
+* [ ] @todo - p1 - Expand the content in 110_visceral_different.txt
+
 * [ ] @todo - p2 - In "Future" #bookintroductions, consider the introduction of the book which takes in consideration variou religions and finds a peaceful spot. 
 
 * [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. 
@@ -43,8 +63,6 @@
 * [ ] Check the insight commnet - when the youngsters control technology ...like leading evangelists and docs and UI, and you don't know what goes on, like clichês, they follow. 
 
 * [ ] Get the summary, short, which was sent as the introduction message in the letter to Senac, which can be found in the reply e-mail from Senac. That as one of the shortest explanations, seem amazing. 
-
-* [ ] Expand the content in 110_visceral_different.txt
 
 * [ ] Check e-mail entitled "Book - além da marca - noticing the communication" Whicih could be helpful to the first part of the book where it offers a way to think about how we "get going" with life or how we fall out of a parashoot situation. This section offers a context to an essay that touches in ideas from Walter Fisher (Narrative Paradigm), Peter Drucker, and others. 
 

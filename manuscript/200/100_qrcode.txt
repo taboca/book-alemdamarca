@@ -1,4 +1,4 @@
-## Menu de QR code 
+## O QR code esse desconhecido
 
 <!--
 * [ ] Check https://docs.google.com/document/d/1uwOOfeNoeFWCI1g12LNfkbTK7ZGZ4hbczvPKOrMtE_o/edit?tab=t.0 

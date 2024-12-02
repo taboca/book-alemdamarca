@@ -24,10 +24,12 @@
 300/200_feito_com_amor.txt
 300/210_holistic_design.txt
 300/220_cliente_chato_e_fiel.txt
+
+000_part4.txt
+
 300/310_cooks_values.txt
 300/320_spaceships.txt
 
-#000_part4.txt
 #
 #400/100_cartas_business_cards.txt
 #00/110_cartas_postinhos_vintage.txt
