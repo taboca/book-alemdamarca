@@ -1,6 +1,8 @@
 
 ## Todo 
 
+* [ ] @todo @footnote footnote_oceano_vermelho
+
 * [ ] @todo - p1 - In "Fornecedores acelerados" - Ainda, iremos ler, bem devagar, cada trecho da página de de um tipo de “queijo” que está adequado na regulação como um produto lácteo e onde uma das suas características principais é que não gera poços de gordura, ou seja, gera pizzas “perfeitas”, diferente daquelas pizzas imperfeitas que são feitas (como na Itália) com aqueles queijos mais caros e gordurosos.
 
 * [ ] @todo - p1 - In "Fornecedores acelerados" - Check if the language can actually recognize the richness of the capitalist machine - Ref "riqueza do sistema maquina capitalista" which talks about the cheese that was bought by Christian; at the same time the experience with the Mozanna. "
