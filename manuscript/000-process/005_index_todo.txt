@@ -1,7 +1,8 @@
 
 ## Todo 
 
-* [x] @todo - p1 - In values and progress In #progress #buildtolast #core - Bring the notion of the need to understand prior values, and what the past has to over, in the face of overlooking -  Check e-mail "Book - adm - article about digging for opportunities instead wrapping up as it's harder" 
+* [ ] @todo - p1 - In #values #progress "Impossível é possível", translate to pt-br the "Special Pan and Digging Opportunities" https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0
+ conside to add the point of a) expert vs. expertise (andrew the six degree patent) and some ideas of reading the past, perhaps from Marc Andreessen or from the Blitzscaling. 
 
 * [ ] @todo - p1 - In values and progress In #progress #buildtolast #core "Values and progressing" - Edit this chapter to consider the case of Brazilian mayonese, or "Batatonese" and the the Spanish contribution to this domain. As I spent 30 days in Spain, having found many places with that "mayo salad" which they called "Russian salad" or "Ensaladita" I end up redefining my views. In other words, Spain helped me to rethink possibilities for this thing which I thought was pretty much too basic to accept changes. So here is a reflection about when we anchor ourselves around one way of doing, static, it's when we lose the opportunity. 
 
