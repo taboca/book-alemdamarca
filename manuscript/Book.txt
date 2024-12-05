@@ -21,6 +21,7 @@
 
 300/120_torta_holandesa.txt
 300/160_progress_core_good.txt
+300/165_expert_expertise_opportunities.txt
 300/170_progress_core_my_way.txt
 300/200_feito_com_amor.txt
 300/210_holistic_design.txt

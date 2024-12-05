@@ -1,5 +1,9 @@
 ## Done 
 
+* [x] @todo - p1 - In values and progress In #progress #buildtolast #core - Bring the notion of the need to understand prior values, and what the past has to over, in the face of overlooking -  Check e-mail "Book - adm - article about digging for opportunities instead wrapping up as it's harder" 
+
+* [x] @todo - p2 - digging for values - drafted early article on digging and opportunities - its work looking back, from history, to open up the future / ref calendar "Book - adm - draft on digging opportunities". Ref https://mail.google.com/mail/u/0/#inbox/KtbxLzFrMRxGCvWnBsGbfBtsGRLJfjXrGq
+
 * [x] General letter, overview of book, in English - From a writing to Arun, and indexed in the book, indexed within the Letters section of the work repository. Became justification in English - https://github.com/taboca/book-alemdamarca/commit/6a115b0a920437886b0a80c01ac98e598e187432
 
 * [x] @todo - p1 - In "Arroz e feijão" - Check email entitled "Livro - Além da Marca - Caso da feijoada autor", [ ] Check e-mail entitled "Livro - além da marca - feijoada", which has an audio too. 
