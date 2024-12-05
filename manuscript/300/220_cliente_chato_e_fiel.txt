@@ -1,4 +1,4 @@
-## Cliente chato e fiel 
+## O cliente chato  
 
 <!--
 
@@ -7,7 +7,6 @@
 * [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. 
 * [ ] @todo - p1 - In "Cliente chato", consider my father and myself and this whole book. 
 * [ ] @todo - p1 - In "Cliente chato", check on rights, with @contact:OM, and notes in "Livro - além da marca - caso do quantitativo cantina Romar" ref "Aqui também é um lembrete de uma outra narrativa, que é a narrativa do não mudamos nada, de um consumidor bem crítico, que é um cliente fiel de uma cantina tradicional Ribeirão Preto, onde ele um dia falou que algo mudou em relação ao prato, e o novo gerente, que é descendente dos fundadores originais argumentou que nada mudou, e no argumento falou que as quantidades eram as mesmas, e como se naquele momento para esse cliente crítico a resposta já estava lá, como se ele tivesse dito exatamente, as quantidades são as mesmas e tudo começou assim, uma ideia, passar pelo quantitativo não significa nada talvez eram os ingredientes, ficou um momento um pouco tenso, talvez o jovem que está na liderança pode até não entender, se aquela pessoa está lá para criticar, somente por criticar, mas ali pelo menos foi um caso que passou mais para frente, onde esse jovem gerente viu o cliente lá e falou que gostaria de conversar mais com ele, estava interessado sim em melhorar, em trazer a identidade da cantina de volta, então pelo menos estamos aí um caso de alguém que se abriu, está aberto a ouvir"
-
 
 @docs 
 
