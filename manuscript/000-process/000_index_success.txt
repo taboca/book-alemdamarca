@@ -1,5 +1,6 @@
 ## Done 
 
+* [x] General letter, overview of book, in English - From a writing to Arun, and indexed in the book, indexed within the Letters section of the work repository. Became justification in English - https://github.com/taboca/book-alemdamarca/commit/6a115b0a920437886b0a80c01ac98e598e187432
 
 * [x] @todo - p1 - In "Arroz e feijão" - Check email entitled "Livro - Além da Marca - Caso da feijoada autor", [ ] Check e-mail entitled "Livro - além da marca - feijoada", which has an audio too. 
 
