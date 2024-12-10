@@ -7,16 +7,41 @@
 * v0.1 - from doc v0.1 - https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0
 
 @tags 
-* #progress #innovation #buildtolast #falafel #acaraje #jimcollins #sabrina #espacoterraqueos
+* #progress #innovation #buildtolast #falafel #acaraje #jimcollins #sabrina #espacoterraqueos #learninghowtolearn 
 
 @domain
 * Core values and innovation 
 
 @todo 
 
+* [ , further] @todo - p1 - In "Impossível possível" #learnhowtolearn #airbnb #brianinfinitelearner - Transcribe the article (from the yellow notebook and the e-mail entitled "Todo - book - adm - Brian on learning how to learn") section which brings the thought from Brian Chesky on learning how to learn, by going to the definite sources. Thanks to Reid, for contextualizing that question. Make the point that Reid sees Brian as an infinite learner. @refid-20241210-1d4ae8cc-67e7-473b-8640-2630cbaeafa9
+
+* [ ] @todo - p1 - In #values #progress "Impossível possível", consider to insert the ideas from Andrew Weinreich CEO of Andrew's Roadmaps - ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. Ref Andrew is the author of the six degree network patent. Ref: * "I think there is a core level of competency an entrepreneur needs to have in every discipline to be successful. So, you don't need to be a programmer, but you need to understand programming. You don't need to be a marketer by background, but if you've never run a keyword campaign or if you have no idea what the difference between a CPM, a CPC, an EPL, or a CPA is, you're not going to be able to manage someone running a paid acquisition campaign. The idea of the bootcamp initially is to say, look, there are these minimal levels of proficiency you need in every discipline." (ANDREW'S ROADMAPS, 2019, 16:32–17:07). / ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. YouTube, 3 jan. 2019. Disponível em: https://www.youtube.com/watch?v=5Ow9DEGDcsg&t=1001s. Acesso em: 6 dez. 2024. 
+
+* [ ] @todo - p1 - In #values #progress "Impossível é possível", consider referencing the thought from Andrew from the Six Degrees patent work who said that you need to have expertise, not to be an expert in every single thing. 
+
 * [ ] @todo - p1 - In #values #progress "Impossível é possível", translate to pt-br the "Special Pan and Digging Opportunities" https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0
 
 * [x] @todo - p1 - In values and progress In #progress #buildtolast #core - Bring the notion of the need to understand prior values, and what the past has to over, in the face of overlooking -  Check e-mail "Book - adm - article about digging for opportunities instead wrapping up as it's harder" 
+
+@annotations 
+
+* "You hear it all the time: I have a great idea, but I can't hire a programmer. First of all, it's too hard to find a teammate. If I find one, I don't know what to tell them. I'm just gonna outsource this. Well, those companies almost all fail."
+(ANDREW'S ROADMAPS, 2019, 17:21–17:53)
+
+ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. YouTube, 3 jan. 2019. Disponível em: https://www.youtube.com/watch?v=5Ow9DEGDcsg&t=1001s. Acesso em: 6 dez. 2024.
+
+* "The same is even true when you raise money. I can't trouble myself with what's the difference between an equity round or a debt round. It's too confusing. It's too much for me. I'm just gonna outsource that—my lawyer will solve that, or my friend will solve that. The great entrepreneurs establish what I call this minimal level of competency in every discipline, and I don't really see exceptions to that."
+(ANDREW'S ROADMAPS, 2019, 17:53–18:22).
+
+ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. YouTube, 3 jan. 2019. Disponível em: https://www.youtube.com/watch?v=5Ow9DEGDcsg&t=1001s. Acesso em: 6 dez. 2024.
+
+* "I think there is a core level of competency an entrepreneur needs to have in every discipline to be successful. So, you don't need to be a programmer, but you need to understand programming. You don't need to be a marketer by background, but if you've never run a keyword campaign or if you have no idea what the difference between a CPM, a CPC, an EPL, or a CPA is, you're not going to be able to manage someone running a paid acquisition campaign. The idea of the bootcamp initially is to say, look, there are these minimal levels of proficiency you need in every discipline." (ANDREW'S ROADMAPS, 2019, 16:32–17:07). / ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. YouTube, 3 jan. 2019. Disponível em: https://www.youtube.com/watch?v=5Ow9DEGDcsg&t=1001s. Acesso em: 6 dez. 2024.
+
+@footnotes
+
+* @from:ChatGPT - "Andrew Weinreich is a serial entrepreneur and pioneer in social networking, best known for founding SixDegrees in 1997, widely regarded as the first modern social network. He was granted U.S. Patent No. 6,175,831 for a "Method and apparatus for constructing a networking database and system," often referred to as the "Six Degrees patent." This historically significant patent in social networking was later acquired by industry leaders, including LinkedIn's Reid Hoffman and Tribe.net's Mark Pincus. Weinreich is also the founder of several other companies and now focuses on guiding entrepreneurs through Andrew's Roadmaps, an educational platform dedicated to startup strategy. (ANDREW'S ROADMAPS, 2019)." ref https://chatgpt.com/share/675341ce-8b10-8011-90d9-31182de1ed94 
+
 
 --> 
 
@@ -32,3 +57,10 @@ So now the exercise, because of that new insight, new perspective, looking thing
 
 So, if you, especially in those circumstances, if you don't give yourself a chance to see and consider the digging and then to look at the process of expertise and to feel optimistic, which could actually push you to find solutions, you lose right there. But it will also lose because within the context that you like that direction, if you don't do that, you're going to have the second option. And the second option is to move along, to advance, to follow up, to be a follower, to accept the reality that you're not happy now, but you're going to have to live with that anyway. And that's the reality because you depend on these vendors. But then the problem here is that you are sad. It's not the kind of place that you really want. It's not the kind of bread that you really want with your experience. And that's where things start to take a new course because somewhere you were to be happier with that other bread experience. Now, you're not dreaming anymore. You're not developing yourself and advancing into that world of possibilities. And by the way, advancing because your establishment is alive. And if you're motivated, if you're happy, if you like that kind of solution, you have years to continue to look at the process. But if you dislike the other option, you're stuck with it, you will not have years of being positioned as a person that is not interested at all in involving any process. You're basically now accepting what one appears in front of you and says, and that's the risk that you can set yourself in. And that's going to spread through your company, through your colleagues. That's going to impact the future of your establishment and that's going to impact the whole relationship with the customers, etc.
 
+### On learning how to learn 
+
+<!--
+@todo 
+
+* [ , further] @todo - p1 - In "Impossível possível" #learnhowtolearn #airbnb #brianinfinitelearner - Transcribe the article (from the yellow notebook and the e-mail entitled "Todo - book - adm - Brian on learning how to learn") section which brings the thought from Brian Chesky on learning how to learn, by going to the definite sources. Thanks to Reid, for contextualizing that question. Make the point that Reid sees Brian as an infinite learner. @refid-20241210-1d4ae8cc-67e7-473b-8640-2630cbaeafa9
+-->

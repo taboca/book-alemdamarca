@@ -1,15 +1,24 @@
 ## Naves espaciais 
 
 <!--
-* https://docs.google.com/document/d/1uyVTeEOyt47ZW9HUAczxgxrVPuDMLkImcf052DSHs1I/edit?tab=t.0
+* v0.2 sync [x] https://docs.google.com/document/d/1uyVTeEOyt47ZW9HUAczxgxrVPuDMLkImcf052DSHs1I/edit?tab=t.0
 
-@todo - p1 - Need to check the data from Experience, Frango’s wife. 
+@todo 
+
+* [ ] @todo - p1 - In spaceships - Check the data from Experience, Frango’s wife. 
+
+* [ ] @todo - p1 - In spaceships - Consider the idea of community, connect with the story or Airbnb or Mozilla (case from Starfish and the Spider),
+
+* [x, furtherdown] @todo - p1 - In spaceships - "Check email "Book - adm - todo - edit to spaceship, consider the points for who believes they are in the own bubble", consider the counterargument of the one who believes that these captains are in living in their own bubble. 
+
+* [ , furtherdown] @todo - p1 - In "Spaceships ... " - Bring the story metaphor of the wormhole to the end, like a conclusion, of this chapter; and present the case of Rodrigo and Marcio's interactions which are oriented to preserving the channel that leads to building a writer. Then make a point between the wormhole and the work of Ronald Burt of Structured Holes. @refid-20241210-3df4ef71-fbd1-412b-bef0-0f770a3349bb
 
 -->
 
 This idea I call spaceships. I think that it may, perhaps, create some confusion. But I ask you to follow me for this trip. Before we know what the spaceship is about, I have to tell you in advance that this is an idea in progress; with this I am therefore inviting you to consider what follows as notions. So as I go through the aspects of it, and the cases presented, I am therefore presenting to you with that intention, of one that is yet seeking, developing or discovering what this is about, and inviting you to join me. 
 
 Now, the reason I am saying this is because I almost missed noticing it, maybe so because the thing is moving. 
+
 So let us stand there, in front of what would be perhaps the first appearances of these kinds of these alien things, spaces, or establishments, let us see. 
 
 Many years ago, a friend introduced to me a different kind of place, a place to drink beers resembling a pub, in the city of São Paulo, although one quite different for the days. They had special beers, draft, and no food served. Sometimes a partner food truck would park in front of their door. But different from other places they had a particular schedule, as they would generally open on very specific days, like on fridays. For me it was quite surprising to see that sort of arrangement so I asked myself “how come they can do that?” But of course when we see something new that is real, what comes next is that we find an explanation, and this is when I generally find myself saying “of course they can”, or “they have the right to open anytime they want”. And that was the case because the learning was that the owners were colleagues, they were doing something else, and that they wanted to have a place for themselves, what could be called a second home or a second work. One speculative thought, implied at the time, was to think that they had the conditions, as in privilege, so they came up with something for themselves, a special place where they could have the beer they wanted, and them, it happened that the place was also open to the public, for other reasons, but certainly it was a special place that would be interesting for a specific niche given that the user/customer had to accept the specific hours, the style of beer, music, and other characteristics they brought to the place, such as no food.  
@@ -74,6 +83,27 @@ Now, I ask, what are these captains doing once they have set their trajectories 
 
 But when I think about these spaceships, for now, I rather think that they are onto something else and that this something else brings, to more or less extent, elements that reminds me of the dynamics brought considered In the Power of Rituals. I am not saying that there is a main book, with weekly chapters, taking us to reflect about our lives, to connect with others, to get to know our nature better, and to transcend. I am saying that it may take us to value ourselves, to value our connections, to value our world, and with that may set us to read the next week, to work the next week, to keep on moving the next week, so that we can go back to these spaces and experiences. Or, that some of these spaceships, by holding an identity through a trajectory, are in fact carrying on a theme that projects values where a group of people join around, and then while it’s not a ritual it sort of carries the power of rituals. 
  
+### Considerations on the lonely journey that is unrealistic 
+
+<!--
+
+* [x] @todo - p1 - In spaceships - "Check email "Book - adm - todo - edit to spaceship, consider the points for who believes they are in the own bubble", consider the counterargument of the one who believes that these captains are in living in their own bubble. 
+
+-->
+
+So, here is a point that we need to remember when we are considering that these spaceships are so particularly within a given journey that they're never going to affect anything anyway, right? Because they seem to be an execution journey that, first of all, is not being paid by the actual market. They might be just doing whatever they want to do because they have the resources and they have, to a certain extent, a safe space, or an investment if you will, to keep on going. And many of them, as we know, although they do have the customers on their side, call them fans or lovers or excited users anyway, they might not be hearing them that much. In some circumstances, they are so involved with a specific niche cause that exactly the point we made before, the point that we made before, is that they're immune to those external advices, they're interested in scaling that. So, all of this situation set us to believe, to think that they are in fact not a problem at all, right? They're just an experiment, they're just a science project, they're never gonna grow, they're never gonna affect the market. But here's something for us, that meanwhile, as they're doing that solitary journey, that could be a problem. Because, see, they have that level of interaction with these fans or users or excited users or customers that love them. And through that virtuous interaction, they're actually learning right there. So, they have the community on their side. So, even if you think that they're not going to grow and scale and affect you, in fact, something may change along the way. Or let's say they need to actually scale because now they need to pay the bills for some reason. Or they can sell that company to another, and even though this company is gonna, let's say, standardize them or normalize them, taking care of the accounting. So, that's gonna imply, perhaps, in some experience, they're poor indeed. But yet now, they do carry some characteristics of that strong brand and strong community, and they are now in the market.
+
+A point here to observe is that as they are executing that journey, they are advancing, they are understanding, they are coming up with data, they are interacting with the external environment, they are to some extent validating all these interactions and that is real data for a potential growth phase of evolution or transformation.
+
+### Case of community
+
+
+### Accessing through the wormhole 
+
+<!--
+@todo 
+* [ , furtherdown] @todo - p1 - In "Spaceships ... " - Bring the story metaphor of the wormhole to the end, like a conclusion, of this chapter; and present the case of Rodrigo and Marcio's interactions which are oriented to preserving the channel that leads to building a writer. Then make a point between the wormhole and the work of Ronald Burt of Structured Holes. @refid-20241210-3df4ef71-fbd1-412b-bef0-0f770a3349bb
+-->
 
 
 
