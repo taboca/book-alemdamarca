@@ -152,7 +152,7 @@ Now, even when we manage to open up our time and intention to find value in new 
 
 <!--
 @todo 
-* [ , anchored] @todo - p1 - In "Spaceships ..." - Review reference Ronald Burt work. @refid-20241210-e0e680e7-9c6f-4599-8fb0-a775749dd060
+* [ , anchored] @todo @todo-reference - p1 - In "Spaceships ..." - Review reference Ronald Burt work. @refid-20241210-e0e680e7-9c6f-4599-8fb0-a775749dd060
 -->
 
 
