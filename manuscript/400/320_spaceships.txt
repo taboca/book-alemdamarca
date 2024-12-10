@@ -103,14 +103,6 @@ So, here is a point that we need to remember when we are considering that these 
 
 A point here to observe is that as they are executing that journey, they are advancing, they are understanding, they are coming up with data, they are interacting with the external environment, they are to some extent validating all these interactions and that is real data for a potential growth phase of evolution or transformation.
 
-### Community bounds 
-
-<!--
-@todo 
-* [ , anchored] @todo - p1 - In "Spaceships ..." - Reflect on the dual considerations for "spaceships": (A) as a manifestation of the "scratch and itch" effect, and (B) as the birthplace where community values are exercised in a colleagueship context. Review Reid Hoffman's point from his interview with Brian Chesky, which emphasizes how being guided by the community provides essential guidelines. Incorporate this perspective into the framing of spaceships, highlighting the role of community strength and guidance. @refid-20241210-4cf621a1-6f56-4475-939a-3d660760e8c5
--->
-
-
 ### Accessing the wormhole 
 
 <!--
@@ -151,19 +143,23 @@ So the connections that we have usually are the same, and the same connections a
 
 The way to break through these walls involves to be conscious about our relationships with our connectios and how we form and maintain relationships through networks. This is where Ronald Burt helps us, through his work entitled *Structural Holes: The Social Structure of Competition*, with an organized perspective on how we can look at our networks and find opportunities. A key point from Burt helps us to understand that we can't have inifinite connections with all networks around us; with that that we need to manage our connections wisely, such as our communications consciously. Burt's explanation points how the very connections around us in fact does set a challenge towards accessing different networks and find opportunities. This is so because we develop strong ties within our known networks - by establishing valuable relationships with those around us such as family, a school or work team, friends and more. By increasing our relationships within our known networks, we end up establishing redudant relationships which do not translate in value added to us plus takes our attention too preventing access the outer world, and its opportunities. Once we are aware that we have too many relationship which are redudant with existing networks, we can then consider reducing the relationships by focusing on the most valuable channels (special contacts, knowledgeable points of contact, best resources) which opens up the possibility for using our attention to reach out to new connections of distant networks. And by following the same rule, as we get into these distant networks, we may as well focus on the key relationships. 
 
-Now, even when we manage to open up our time and intention to find value in new networks, yet a challenge to do so has to do where to go from where we are so that we get to where we want to be? This is also another key aspect from Burt's research, which points that a given network may also offer an element which is referred as weak ties. Weak ties are links between different networks. These can be the people who happens to get you access another network domain. Although they are referred to as weak ties - from the perspective of the network which has many strong ties within - they are your ways to access the other networks, thus should be seen as special. 
+Now, even when we manage to open up our time and intention to find value in new networks, yet a challenge to do so has to do where to go from where we are so that we get to where we want to be? This is also another key aspect from Burt's research, which calls our attention to the opportunities around two networks, and two ways to look at it. One is to consider the notion reffered as weak ties - whereas these are links between different networks, like people who happens to be in your network and also to act like bridges towards other network domains. The notion of weak ties isn't new in Burt's work, but important when we consider the gap between networks. Now, what it new from Burt's research is the notion of the structured holes which involves considering the absense of a connection between networks, and with that the opportunity. This way of looking at the picture gives us an opportunity to consider how to navigate from a network to another domain - either by finding the weak ties or by actualling becoming the one who fills the gap. Now, this theoretical perspective on the ways one can access a new domain of opportunities in a way also may help us to see in perspective that when we act towards an opportunity, by seeking new contacts which think alike (the ones with the similar aspirations or living the same pains) or by engaging with interaction spaces of many kinds like courses or communities with causes - or spaceships through my storytelling  - can be considered a movement of us involved in figuring out the hole, how to pass through. And althought it may not look like we are interested in becoming ourselves the bridge - as in to get involved helping the exchange from both ends, we do live through and gain values of being the explorers who had brought ourselves from world A to world B.  Essentially, back to the spaceship cockpit, we are trying to create a safe way to continue the journey, along with others, networking our way up. 
 
-That's essentially, in a way, like that metaphor of the wormhole.
+<!--
+@reference 
+* Reference - BURT, Ronald S. Structural Holes: The Social Structure of Competition. Cambridge, MA: Harvard University Press, 1992.
+-->
 
 <!--
 @todo 
-* [ , anchored] @todo - p1 - In "Spaceships ..." - Put ABNT2 reference to Ronald Burt work. @refid-20241210-e0e680e7-9c6f-4599-8fb0-a775749dd060
+* [ , anchored] @todo - p1 - In "Spaceships ..." - Review reference Ronald Burt work. @refid-20241210-e0e680e7-9c6f-4599-8fb0-a775749dd060
 -->
 
 
 
+### Community bounds 
 
-
-
-
-
+<!--
+@todo 
+* [ , anchored] @todo - p1 - In "Spaceships ..." - Reflect on the dual considerations for "spaceships": (A) as a manifestation of the "scratch and itch" effect, and (B) as the birthplace where community values are exercised in a colleagueship context. Review Reid Hoffman's point from his interview with Brian Chesky, which emphasizes how being guided by the community provides essential guidelines. Incorporate this perspective into the framing of spaceships, highlighting the role of community strength and guidance. @refid-20241210-4cf621a1-6f56-4475-939a-3d660760e8c5
+-->

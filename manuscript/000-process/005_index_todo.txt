@@ -3,7 +3,7 @@
 
 * [ , ] @todo - p1 - In "A estante da culinária" - Consider the case which @contact:RS had mentioned after visiting the VegFest in São Paulo, the topic of a transition of Fugini from a bolonhesa sauce to steps of evolution with soy, and then a bolonhesa like sauce entirely with soy. https://www.fugini.com.br/produtos/atomatados/105/molho-de-tomate-premium-fugini-sache-300g @refid-20241210-3e531059-883f-472b-8354-bcc1ebbd3047
 
-* [ , anchored] @todo - p1 - In "Spaceships ..." - Put ABNT2 reference to Ronald Burt work. @refid-20241210-e0e680e7-9c6f-4599-8fb0-a775749dd060
+* [ , anchored] @todo - p1 - In "Spaceships ..." - Review reference Ronald Burt work. @refid-20241210-e0e680e7-9c6f-4599-8fb0-a775749dd060
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
 
