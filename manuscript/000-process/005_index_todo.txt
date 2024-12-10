@@ -1,7 +1,7 @@
 
 ## Todo 
 
-* [ , ] @todo - p1 - In somewhere ... Identify where I have mentioned about chinese restaurant case of California, and talk about  the case which Roger mentioned, the transition where the Fugini gained the "bolonhesa like" sauce but with soy. https://www.fugini.com.br/produtos/atomatados/105/molho-de-tomate-premium-fugini-sache-300g 
+* [ , ] @todo - p1 - In "A estante da culinária" - Consider the case which @contact:RS had mentioned after visiting the VegFest in São Paulo, the topic of a transition of Fugini from a bolonhesa sauce to steps of evolution with soy, and then a bolonhesa like sauce entirely with soy. https://www.fugini.com.br/produtos/atomatados/105/molho-de-tomate-premium-fugini-sache-300g @refid-20241210-3e531059-883f-472b-8354-bcc1ebbd3047
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Put ABNT2 reference to Ronald Burt work. @refid-20241210-e0e680e7-9c6f-4599-8fb0-a775749dd060
 
@@ -10,8 +10,6 @@
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Add ABNT2 reference to the books of Julia Cameron, near to "Neste momento eu já tinha do meu lado o material da Julia Cameron então pelo olhar do filme do astronauta e explorador solitário, meu robô assistente já carregava uma ligação com a Julia, com *O Caminho do Artista* e depois o *The Right to Write*, dois projetos que foram transformadores nesse momento de transição como escritor." @refid-20241210-75f3f5b6-7f46-448a-8d18-c4c126a17726
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Reflect on the dual considerations for "spaceships": (A) as a manifestation of the "scratch and itch" effect, and (B) as the birthplace where community values are exercised in a colleagueship context. Review Reid Hoffman's point from his interview with Brian Chesky, which emphasizes how being guided by the community provides essential guidelines. Incorporate this perspective into the framing of spaceships, highlighting the role of community strength and guidance. @refid-20241210-4cf621a1-6f56-4475-939a-3d660760e8c5
-
-* [ , anchored] @todo - p1 - In "Spaceships ... " - Bring the story metaphor of the wormhole to the end, like a conclusion, of this chapter; and present the case of Rodrigo and Marcio's interactions which are oriented to preserving the channel that leads to building a writer. Then make a point between the wormhole and the work of Ronald Burt of Structured Holes. @refid-20241210-3df4ef71-fbd1-412b-bef0-0f770a3349bb
 
 * [ ] @todo - p1 - In "Accelerated ... " - This is a reminder for Márcio that he should be considering the case of the kids' buffet in Brazil where they serve the surprise tower within the PVC plastic tube. The surprise tower consists of potato, bacon, cheddar and these things all stuffed in a vertical tube which is basically the same tube that is used for the underground, how to say in Portuguese is the underground canos de esgoto and then when you order there is the experience of lifting the tube so that the materials are placed in a plate. @refid-20241210-67f4e1af-3221-42b9-927c-5be2318f8bfb
 
