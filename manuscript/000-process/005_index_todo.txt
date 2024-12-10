@@ -1,6 +1,8 @@
 
 ## Todo 
 
+* [ , anchored] @todo - p1 - In "Spaceships ..." - Put ABNT2 reference to Ronald Burt work. @refid-20241210-e0e680e7-9c6f-4599-8fb0-a775749dd060
+
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Add ABNT2 reference to the books of Julia Cameron, near to "Neste momento eu já tinha do meu lado o material da Julia Cameron então pelo olhar do filme do astronauta e explorador solitário, meu robô assistente já carregava uma ligação com a Julia, com *O Caminho do Artista* e depois o *The Right to Write*, dois projetos que foram transformadores nesse momento de transição como escritor." @refid-20241210-75f3f5b6-7f46-448a-8d18-c4c126a17726
