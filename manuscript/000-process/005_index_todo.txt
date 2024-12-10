@@ -1,6 +1,8 @@
 
 ## Todo 
 
+* [ , ] @todo - p1 - In somewhere ... Identify where I have mentioned about chinese restaurant case of California, and talk about  the case which Roger mentioned, the transition where the Fugini gained the "bolonhesa like" sauce but with soy. https://www.fugini.com.br/produtos/atomatados/105/molho-de-tomate-premium-fugini-sache-300g 
+
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Put ABNT2 reference to Ronald Burt work. @refid-20241210-e0e680e7-9c6f-4599-8fb0-a775749dd060
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
