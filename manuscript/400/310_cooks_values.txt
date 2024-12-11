@@ -2,9 +2,13 @@
 
 <!--
 
+@chapter @refid-20241210-b409ce16-f0ad-4b46-83f3-862184d0917a title-v0.1 "A estante da culinária". 
+
 @todo 
 
-* [ ] @todo - p2 - In "Future" #bookintroductions, consider the introduction of the book which takes in consideration variou religions and finds a peaceful spot. 
+* [ , ] @todo - p1 - In "A estante da culinária" - Need to incorporate the contribution from "Las recetas de la felicidade" and "La cocica sagrada", ref ABNT: MANGAS, S. Las recetas de la felicidad. Madrid: El País Aguilar, 2013 and ref "CHOMSKI, Débora. La cocina sagrada. Madrid: Alba Editorial, 2009." @refid-20241210-4ee3d8ac-34d3-4d87-a57f-240ba8ec0224
+
+* [ , ] @todo - p2 - In "A estante da culinária" -  #Future #bookintroductions - Consider to also incorporate the ideas from the introduction of the book "La Cocina Sagrada" which finds the sweet spot among religions.  @note Check - One point from the book, open quote, La Cotina Sagrada, end quote, by Deborah Chomsky, in its introduction, it says, recognize that society is changing with its cultures, religions, different beliefs, literally, mosaic, human and social. And she recognized the need to learn from the plural society. She uses the term Torre de Babel, the Babel Tower, which culture through cultures and gastronomy. She wonders, open quote, Nos cerramos a tal diversidad o aprendemos de los otros y nos enriquecemos con estas nuevas perspectivas, end quote, of course in Spanish. She says that the purpose is the plural plural cooking, or open quote in Spanish, Cotina Plural es la propuesta final de este libro, como para ayudarnos a entender el futuro como cada vez más complejo y global, period, end quote. She makes a point that she is going to cover, to the reader, to discover aspects related to food and spirituality through five different religious cultures, more traditional ones, Hinduism, Judaism, Christianism, Islamism, Buddhism. She claims that through that perspective, we will be able to understand the meaning of the festivities they have and the food and the value from each culture. @refid-20241210-4b9b2000-ce87-48be-a7ae-fa8725566440
 
 * [ , ] @todo - p1 - In "A estante da culinária" - Consider the case which @contact:RS had mentioned after visiting the VegFest in São Paulo, the topic of a transition of Fugini from a bolonhesa sauce to steps of evolution with soy, and then a bolonhesa like sauce entirely with soy. https://www.fugini.com.br/produtos/atomatados/105/molho-de-tomate-premium-fugini-sache-300g @refid-20241210-3e531059-883f-472b-8354-bcc1ebbd3047
 
@@ -15,6 +19,17 @@
 @docs 
 
 * v0.3 https://docs.google.com/document/d/1-YwCrCaSJolwg4-PVtpkF5elvyCjy9cnDdw-8t54kRo/edit?tab=t.0
+
+@outline 
+
+* S - We kept distance from many universes, solutions. 
+* C - But one universe in particular is entangled with the gastronomic experiences. 
+* Q - Should we look at the world cooking?
+* GKA - Yes, consciously celebrate the entanglement, consider how strong it talks with us, consider the creative space and the world in motion. 
+* A - ### A cozinha e a experiência 
+* A - ### A voz da cozinha 
+* A - ### A voz da cozinha sem chefe  
+* A - ### Além da cozinha 
 
 -->
 
@@ -29,7 +44,7 @@ Porque está intimamente ligado, por conta de experiências culinárias que defi
 
 Então, de certa forma, aqui, nós vamos nos aproximar do universo da culinária. Ou, especialmente, nos conectar com essas experiências que nos trouxeram até aqui. Com a intenção de estabelecer uma relação - Organizar elementos como os valores, e, nesse sentido, nos guiar para o movimento consciente. Se que acontece na cozinha, o mundo da culinária irá estar conosco, se essa relação de interação for inevitável, podemos caminhar mais conscientes e também mais criativos e entender o que é a melhor cozinha que faz nosso estabelecimentos melhores estabelecimentos, para nós, para nossos clientes, para nossos colaboradores, e para o mundo. 
 
-### A cozinhas e a experiência 
+### A cozinha e a experiência 
 
 Eu não sei você, mas para mim o problema de entrar na atmosfera de qualquer cozinha, é que estaremos sujeitos a uma força, como uma força gravitacional na proporção do valor que aquela cozinha entrega. 
 Mas não precisamos, ainda, chegar nem mesmo até abrir essa porta para sentir essa força; pois conhecemos isso seja pela cozinha que um dia crescemos ou por cozinhas que apareceram no nosso caminho que foram como ilhas com experiências que foram forte demais, ou boas demais ou que criaram paradoxos na nossa mente porque, por exemplo, um dia mudamos em certo grau nossa filosofia de vida e forma de ver o mundo ligada também a forma de comer. 

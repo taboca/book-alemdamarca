@@ -24,4 +24,9 @@ CARLUCCIO, Antonio. La Cucina Italiana. Tradução e revisão técnica da ediç�
 
 <!-- 400 --> 
 
+<!--
+@todo
+ * [ , anchored] @todo @todo-reference - p1 - In "Spaceships ..." - Review reference Ronald Burt work. @refid-20241210-e0e680e7-9c6f-4599-8fb0-a775749dd060
+-->
+
 BURT, Ronald S. Structural Holes: The Social Structure of Competition. Cambridge, MA: Harvard University Press, 1992.

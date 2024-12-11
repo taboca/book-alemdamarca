@@ -1,5 +1,7 @@
 ## Done 
 
+* [x , further] @todo - p1 - In "Impossível possível" #learnhowtolearn #airbnb #brianinfinitelearner - Transcribe the article (from the yellow notebook and the e-mail entitled "Todo - book - adm - Brian on learning how to learn") section which brings the thought from Brian Chesky on learning how to learn, by going to the definite sources. Thanks to Reid, for contextualizing that question. Make the point that Reid sees Brian as an infinite learner. @refid-20241210-1d4ae8cc-67e7-473b-8640-2630cbaeafa9
+
 * [x , anchored] @todo - p1 - In "Spaceships ... " - Bring the story metaphor of the wormhole to the end, like a conclusion, of this chapter; and present the case of Rodrigo and Marcio's interactions which are oriented to preserving the channel that leads to building a writer. Then make a point between the wormhole and the work of Ronald Burt of Structured Holes. @refid-20241210-3df4ef71-fbd1-412b-bef0-0f770a3349bb
 
 * [x, anchored] @todo - p1 - In spaceships - "Check email "Book - adm - todo - edit to spaceship, consider the points for who believes they are in the own bubble", consider the counterargument of the one who believes that these captains are in living in their own bubble. 
