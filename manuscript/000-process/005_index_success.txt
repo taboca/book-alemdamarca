@@ -1,5 +1,9 @@
 ## Done 
 
+* [done , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
+
+* [done , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
+
 * [done, ] @todo - p1 - In "Purple ... " - Check the content from the interview with Reid Hoffman and Joe Gebbia from Airbnb , the talk which brings the topic of holistic design. Continue the translation here At https://docs.google.com/document/d/1lzlJnqvkXtA-U9OfsC31Yuv6prWFWu7Nwwfq4D2EKDc/edit?tab=t.0  @refid-20241211-26b42d6d-2cf8-4fec-ba27-9ee96509e2c3
 
 * [x , further] @todo - p1 - In "Impossível possível" #learnhowtolearn #airbnb #brianinfinitelearner - Transcribe the article (from the yellow notebook and the e-mail entitled "Todo - book - adm - Brian on learning how to learn") section which brings the thought from Brian Chesky on learning how to learn, by going to the definite sources. Thanks to Reid, for contextualizing that question. Make the point that Reid sees Brian as an infinite learner. @refid-20241210-1d4ae8cc-67e7-473b-8640-2630cbaeafa9

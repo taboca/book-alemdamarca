@@ -1,15 +1,15 @@
 ## Fazendo arte 
 
 <!--
-* v0.2 https://docs.google.com/document/d/1lzlJnqvkXtA-U9OfsC31Yuv6prWFWu7Nwwfq4D2EKDc/edit?tab=t.0
+
+* This is v0.3 
+* The doc is v0.2 https://docs.google.com/document/d/1lzlJnqvkXtA-U9OfsC31Yuv6prWFWu7Nwwfq4D2EKDc/edit?tab=t.0
+
+## Todo 
 
 * [ , ] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
 
 * [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
-
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
-
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
 
 * [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
 
@@ -18,6 +18,12 @@
 * [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
 
 * [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
+
+## Done 
+
+* [done , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
+
+* [done , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
 
 * [done, ] @todo - p1 - In "Purple ... " - Check the content from the interview with Reid Hoffman and Joe Gebbia from Airbnb , the talk which brings the topic of holistic design. Continue the translation here At https://docs.google.com/document/d/1lzlJnqvkXtA-U9OfsC31Yuv6prWFWu7Nwwfq4D2EKDc/edit?tab=t.0  @refid-20241211-26b42d6d-2cf8-4fec-ba27-9ee96509e2c3
 
@@ -114,28 +120,49 @@ Pela ótica do canvas do artista, podemos também entender que nem sempre a inte
 
 Purple nos traz uma oportunidade para refletirmos sobre o papel da liderança. Ou pelo menos uma oportunidade para nos distanciarmos daquela ideia - acelerada - que diz que o líder está lá para controlar, no sentido de garantir, monitorar, etc. Enquanto é possível perceber algumas dessas características em muitos espaços, o movimento de liderança vai além, inclusive ao ponto onde os próprios líderes não irão entender - como artistas que se aventuram por um norte e vão descobrindo mais sobre a arte, sobre o mundo e sobre eles  - ao mesmo tempo. 
 
-A ideia onde a liderança se envolve com design da experiência toda, foi destacada pelo renomado investidor do Vale do Silício, Reid Hoffman, como algo especial que ele aprendeu diretamente com os fundadores do Airbnb, que contava com dois fundadores com formação em design. Durante a conversa Scaling Product, com Joe Gebbia explica o que é um design que se preocupa com a experiência completa: 
 
-> *”From the very beginning, we thought about this more than just a place to put your head at night, a place to lay down. Even from that very one weekend, we're like 'well, what if we pick them up from the airport, what if we provide breakfast in the morning, what if we give them Bart pass [train] to get around the city with a map to San Francisco.’ So even from the beginnings of this weird weekend project was this idea of how do you think about everybody's experience from end to end. “* (Gebbia, Joe., YCombinator, 2017) 
 
-<!-- 
-@todo 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
--->
 
-<!-- 
-@references  
-* reference - YCombinator, Greylock., Scaling Product | Fireside with Joe Gebbia and Reid Hoffman. 6 de jun. de 2017 https://www.youtube.com/watch?v=TCA_7RVo7Uo
--->  
 
-<!-- 
-@todo 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
--->
+
+
 
 <!--
 @note/research - Reid thought it was important for Joe Gebbia to talk about not just the Airbnb website but the entire experience around it - because he says that it is one of the things he learned from the Airbnb founders - who happen to be the founders, and designers by background. https://youtu.be/TCA_7RVo7Uo?si=DZ3j8JcF1ww-es1R&t=349 
 --> 
+
+A ideia onde a liderança se envolve com design da experiência toda, foi destacada pelo renomado investidor do Vale do Silício, Reid Hoffman, como algo especial que ele aprendeu diretamente com os fundadores do Airbnb, que contava com dois fundadores com formação em design. Durante a conversa Scaling Product, com Joe Gebbia explica o que é um design que se preocupa com a experiência completa: 
+
+<!--
+@note-research citation original en-us
+
+> *”From the very beginning, we thought about this more than just a place to put your head at night, a place to lay down. Even from that very one weekend, we're like 'well, what if we pick them up from the airport, what if we provide breakfast in the morning, what if we give them Bart pass [train] to get around the city with a map to San Francisco.’ So even from the beginnings of this weird weekend project was this idea of how do you think about everybody's experience from end to end. “* (Gebbia, Joe., YCombinator, 2017) 
+-->
+
+> *“Desde o início, pensamos nisso como mais do que apenas um lugar para descansar a cabeça à noite, um lugar para se deitar. Mesmo naquele fim de semana inicial, estávamos tipo ‘bem, e se nós os buscássemos no aeroporto?, e se fornecêssemos café da manhã pela manhã?, e se déssemos um passe do Bart [trem] para que pudessem circular pela cidade com um mapa de San Francisco?’ Então, desde o começo desse estranho projeto de fim de semana, já existia essa ideia de como pensar na experiência de todos, de ponta a ponta.” (YCombinator, 2017, tradução nossa).
+
+
+<!-- 
+@todo 
+* [done , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
+-->
+
+<!-- 
+@todo 
+* [done , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
+-->
+
+<!-- 
+@references  
+* reference - YCOMBINATOR, Greylock. Scaling Product | Fireside with Joe Gebbia and Reid Hoffman. [Entrevista com Joe Gebbia conduzida por Reid Hoffman]. Tradução nossa. Publicado em 6 de junho de 2017. Disponível em: https://www.youtube.com/watch?v=TCA_7RVo7Uo. Acesso em: 12 dez. 2024.
+
+-->  
+
+
+
+
+
+
 
 Na sequência, Joe enfatiza que o pensamento do designer se envolve com um arco que é bem maior, um trabalho de aprendizado que leva em consideração todos os pontos de interação da experiência e outros que vem antes ou depois. Joe exemplifica esta ideia enquanto segura uma garrafa de água, indicando que é este tipo de iniciativa que leva o design a colocar uma mensagem no rótulo, na parte de trás, indicando os passos para reciclagem. 
 

@@ -22,6 +22,10 @@ UOL. Parece queijo, tem gosto de queijo e é vendido como queijo, mas não é qu
 
 CARLUCCIO, Antonio. La Cucina Italiana. Tradução e revisão técnica da edição em língua espanhola por Ana María Pérez Martínez. Barcelona: Blume, 2006.
 
+<!-- 300 --> 
+
+YCOMBINATOR, Greylock. Scaling Product | Fireside with Joe Gebbia and Reid Hoffman. [Entrevista com Joe Gebbia conduzida por Reid Hoffman]. Tradução nossa. Publicado em 6 de junho de 2017. Disponível em: https://www.youtube.com/watch?v=TCA_7RVo7Uo. Acesso em: 12 dez. 2024.
+
 <!-- 400 --> 
 
 <!--

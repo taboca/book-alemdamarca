@@ -5,10 +5,6 @@
 
 * [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
-
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
-
 * [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
 
 * [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
