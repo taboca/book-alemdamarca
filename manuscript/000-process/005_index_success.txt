@@ -1,5 +1,7 @@
 ## Done 
 
+* [Done, further ] @todo - p1 - In "Design holístico" #magenta, Improved the intro leading paragraph, which connects with the "colorful" story of La Barca. @refid-20241212-bd326076-44da-4b00-be1d-17677db92723
+
 * [done , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, add footnote_labarca and footnote_linkedin_facebook @refid-20241212-d9b2a644-8536-4c22-9594-3fda8725ea96
 
 * [Done , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043

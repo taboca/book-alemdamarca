@@ -19,6 +19,8 @@
 
 ## Done 
 
+* [Done, further ] @todo - p1 - In "Design holístico" #magenta, Improved the intro leading paragraph, which connects with the "colorful" story of La Barca. @refid-20241212-bd326076-44da-4b00-be1d-17677db92723
+
 * [done , further] @todo @todo-footnote- p1 - In "Design holístico" #magenta, add footnote_labarca and footnote_linkedin_facebook @refid-20241212-d9b2a644-8536-4c22-9594-3fda8725ea96
 
 * [Done , further] @todo @todo-footnote- p1 - In "Design holístico" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
@@ -33,9 +35,14 @@
 
 -->
 
+<!--
+@todo 
+* [Done, further ] @todo - p1 - In "Design holístico" #magenta, Improved the intro leading paragraph, which connects with the "colorful" story of La Barca. @refid-20241212-bd326076-44da-4b00-be1d-17677db92723
+-->
+
 Se gosto não se discute, essa lógica me diz que um estabelecimento de alimentação pode então ser amado por um e odiado por outro. Enquanto essa ideia parece se conectar com uma verdade da vida, por outro lado eu fico confuso quando eu procuro por estabelecimentos - na grande teia mundial - e encontro a média de todas as avaliações dos usuários. Agora, com calma, sem fome de comer e fora da correria da vida, eu penso que é possível eu adorar um estabelecimento 3.0 estrelas. Sobre o contrário, eu já percebi; que tem muito estabelecimento bem estrelado que não é nada demais, ou é mais do mesmo. Em outras palavras, como usuários, temos muito para refletir sobre essa nossa inclinação a procurar onde ir, olhando pelas redes sociais. Ou seriam lentes sociais? Elas servem para alguma coisa? Sim. Mas muitas dessas lentes nos dão uma foto em branco e preto. Este capítulo, por outro lado, é sobre a construção de uma experiência colorida. 
 
-Uma experiência que me marcou foi a lanchonete La Barca [^footnote_labarca] de São Carlos. Como estudante, eu frequentava o local de 1993 a 2000, enquanto tentava terminar o curso de computação. Por conta que a Web era jovem e as redes sociais só seriam criadas depois de 2003 [^footnote_linkedin_facebook], o que temos são boas memórias do estabelecimento. Mas, para a nossa tribo, La Barca seria um bar-lanchonete cinco estrelas. Por conta do tempo e novos capítulos da vida, me mudei para o Vale do Silício. E o tempo passou, de novo, e voltei em 2005 para São Carlos. Talvez pelo clima. 
+Falando de modo cores, uma experiência que me marcou foi a lanchonete La Barca [^footnote_labarca] de São Carlos. Como estudante do curso de computação, frequentei o local de 1993 a 2000 enquanto tentava terminar o curso de computação. Por conta que a Web era jovem e as redes sociais só seriam criadas depois de 2003 [^footnote_linkedin_facebook], não temos avaliações médias. Mas tenho boas memórias do estabelecimento. Para a nossa tribo, La Barca era cinco estrelas. Mas por conta do tempo, e novos capítulos da vida, me mudei de São Carlos para o Vale do Silício em 2000. E por conta do tempo, de novo, me mudei do Vale do Silício para São Carlos em 2005. 
 
 <!--
 @research-note 
@@ -61,13 +68,13 @@ Uma experiência que me marcou foi a lanchonete La Barca [^footnote_labarca] de 
 
 [^footnote_linkedin_facebook]: Na época mencionada, as redes sociais ainda não existiam. O Orkut foi lançado em janeiro de 2004 e tornou-se um fenômeno no Brasil. O LinkedIn surgiu em maio de 2003 como uma rede profissional. O Dogster, focado em donos de cães, também foi lançado em 2004, e o Facebook surgiu em fevereiro de 2004, inicialmente restrito a estudantes de Harvard e aberto ao público geral apenas em setembro de 2006.
 
-Um dia decidimos visitar La Barca, eu e um amigo da época. Neste episódio, um dos marujos das antigas estava no posto de capitão, no caixa. Ele lembrou da gente. Naquele dia, na hora de pagar, ele perguntou o que achei da experiência. Aquela iniciativa que me fez lembrar os velhos tempos. Eu disse a ele que estava legal exceto que no banheiro não havia papel nem sabonete. Ele pediu desculpas. E fomos. 
+Um dia decidimos visitar La Barca, eu e um amigo das antigas. Neste episódio, um dos marujos do passado estava no posto de capitão, no caixa. Ele lembrou da gente. Naquele dia, na hora de pagar, ele perguntou o que achei da experiência. Aquela iniciativa que me fez lembrar os velhos tempos. Eu disse a ele que "estava legal exceto que no banheiro não havia papel nem sabonete". Ele pediu desculpas e assim fomos. Um ano depois, voltamos lá. Encontramos o mesmo capitão, no mesmo caixa, e ele fez a mesma pergunta, na hora de pagar. E recebeu a mesma resposta, que "esatava legal exceto que no banheiro não tem papel nem sabonete". 
 
-Um ano depois, voltamos lá. Encontramos o mesmo capitão que, no mesmo caixa fez a mesma pergunta na hora de pagar e recebeu a mesma resposta, "esatava legal exceto que no banheiro não tem papel nem sabonete". Em um primeiro momento talvez eu tenha pensado que La Barca mudou. Mas o que mudou tinha menos a ver com o banheiro e mais a ver com o objetivo. Neste momento recente e tomando quase nada, o banheiro seria nota um. Mas naquela época, o banheiro era um pitstop tão eficiente que não daria tempo de esfriar o copo. Em outras palavras, a equação da qualidade do banheiro estava proporcionalmente ligada a quantidade de cervejas por hora. 
+Em um primeiro momento eu devo ter pensado que La Barca mudou. Mas o que mudou, logicamente, era o momento e o olhar e não o banheiro. Neste momento recente, tomando quase nada, o banheiro seria nota um. Na época, o banheiro trazia uma porta semi aberta e um cocho para multiplos estudantes, desta forma era um pitstop eficiente que nem dava tempo de esfriar o copo. Em outras palavras, a equação da qualidade do banheiro era proporcional a quantidade de cervejas por hora. 
 
-A verdade é que o conjunto da obra fazia total sentido para nossa tribo. O pessoal do atendimento era legal, o atendimento era rápido, a cerveja era gelada. E a maionese, caseira feita todos os dias. A maionese era tão boa que cada estudante da mesa tinha seu próprio tubo. Ainda, o local ficava aberto, cuidando da gente. Isso não porque era 24 horas mas porque a tripulação segurava o barco, na amizade, garantindo o fluxo contínuo de cervejas geladas até o sol raiar.
+A verdade é que o conjunto da obra fazia sentido para nossa tribo. Nós éramos queridos pelos donos e tínhamos uma relação de confiança. Eles cuidavam da gente. Atendiam bem, com velocidade e um estoque de cerveja gelada sem fim. E também tinha a maionese, caseira, feita todos os dias. A maionese era tão querida ao ponto que cada estudante da nossa mesa necessitava de seu próprio tubo, para não dar briga e evitar voltar na geladeira várias vezes. Outro "plus" era que o local ficava aberto. Não porque era 24 horas mas porque a tripulação segurava o barco, na amizade, garantindo o fluxo contínuo de cervejas geladas até o sol raiar.
 
-Esta história e inspiração para esse capítulo serve de reflexão inicial sobre como os estabelecimentos são percebidos por seus usuários. Dado que estamos indo no rumo da foto colorida, e não da foto branco e preto, lhe convido para conhecer um estabelecimento pela ótica do design, em primeiro lugar. E depois, para refletir sobre como a liderança pode e deve cuidar desse design. 
+Esta história, minha inspiração para esse capítulo, serve de ponto de partida para uma reflexão sobre como os estabelecimentos são percebidos por seus usuários. Dado que nosso rumo é a busca da experiência a cores, não da foto branco e preto, lhe convido para a próxima história que é sobre o papel do design. Na sequência, para refletir sobre como a liderança pode e deve cuidar do design. 
 
 ## Qual é a sua cor preferida?
 
