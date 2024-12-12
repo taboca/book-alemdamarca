@@ -1,6 +1,30 @@
 
 ## Todo 
 
+* [ , ] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
+
+* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
+
+* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
+
+* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
+
+* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
+
+* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
+
+* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
+
+* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
+
+
+* [ , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
+
+* [ , anchored] @todo - p1 - In "Spaceships ..." - Reflect on the dual considerations for "spaceships": (A) as a manifestation of the "scratch and itch" effect, and (B) as the birthplace where community values are exercised in a colleagueship context. Review Reid Hoffman's point from his interview with Brian Chesky, which emphasizes how being guided by the community provides essential guidelines. Incorporate this perspective into the framing of spaceships, highlighting the role of community strength and guidance. @refid-20241210-4cf621a1-6f56-4475-939a-3d660760e8c5
+
+* [ ] @todo - p1 - In "Spaceships ..." - Consider the idea of community, connect with the story or Airbnb or Mozilla (case from Starfish and the Spider). @refid-20241210-4f1ab4ee-c403-4bb1-9f5a-4d2b62286b0c
+
+
 * [ ] @todo - p1 - In Foreword or Postword - check e-mail and transcribe, ref "Todo - book - thought on foreword or postword" ref this was written in the yellow note book. @refid-20241210-43b1a307-a214-4c44-ab43-edf49156cde0
 
 * [ , ] @todo - p2 - In "A estante da culinária" -  #Future #bookintroductions - Consider to also incorporate the ideas from the introduction of the book "La Cocina Sagrada" which finds the sweet spot among religions.  @note Check - One point from the book, open quote, La Cotina Sagrada, end quote, by Deborah Chomsky, in its introduction, it says, recognize that society is changing with its cultures, religions, different beliefs, literally, mosaic, human and social. And she recognized the need to learn from the plural society. She uses the term Torre de Babel, the Babel Tower, which culture through cultures and gastronomy. She wonders, open quote, Nos cerramos a tal diversidad o aprendemos de los otros y nos enriquecemos con estas nuevas perspectivas, end quote, of course in Spanish. She says that the purpose is the plural plural cooking, or open quote in Spanish, Cotina Plural es la propuesta final de este libro, como para ayudarnos a entender el futuro como cada vez más complejo y global, period, end quote. She makes a point that she is going to cover, to the reader, to discover aspects related to food and spirituality through five different religious cultures, more traditional ones, Hinduism, Judaism, Christianism, Islamism, Buddhism. She claims that through that perspective, we will be able to understand the meaning of the festivities they have and the food and the value from each culture. @refid-20241210-4b9b2000-ce87-48be-a7ae-fa8725566440
@@ -9,13 +33,7 @@
 
 * [ , ] @todo - p1 - In "A estante da culinária" - Consider the case which @Contact:RCS had mentioned after visiting the VegFest in São Paulo, the topic of a transition of Fugini from a bolonhesa sauce to steps of evolution with soy, and then a bolonhesa like sauce entirely with soy. https://www.fugini.com.br/produtos/atomatados/105/molho-de-tomate-premium-fugini-sache-300g @refid-20241210-3e531059-883f-472b-8354-bcc1ebbd3047
 
-* [ , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
-
-* [ , anchored] @todo - p1 - In "Spaceships ..." - Reflect on the dual considerations for "spaceships": (A) as a manifestation of the "scratch and itch" effect, and (B) as the birthplace where community values are exercised in a colleagueship context. Review Reid Hoffman's point from his interview with Brian Chesky, which emphasizes how being guided by the community provides essential guidelines. Incorporate this perspective into the framing of spaceships, highlighting the role of community strength and guidance. @refid-20241210-4cf621a1-6f56-4475-939a-3d660760e8c5
-
 * [ ] @todo - p1 - In "Accelerated ... " - This is a reminder for Márcio that he should be considering the case of the kids' buffet in Brazil where they serve the surprise tower within the PVC plastic tube. The surprise tower consists of potato, bacon, cheddar and these things all stuffed in a vertical tube which is basically the same tube that is used for the underground, how to say in Portuguese is the underground canos de esgoto and then when you order there is the experience of lifting the tube so that the materials are placed in a plate. @refid-20241210-67f4e1af-3221-42b9-927c-5be2318f8bfb
-
-* [ ] @todo - p1 - In spaceships - Consider the idea of community, connect with the story or Airbnb or Mozilla (case from Starfish and the Spider),
 
 * [ ] @todo - p1 - In #values #progress "Impossível possível", consider to insert the ideas from Andrew Weinreich CEO of Andrew's Roadmaps - ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. Ref Andrew is the author of the six degree network patent. Ref: * "I think there is a core level of competency an entrepreneur needs to have in every discipline to be successful. So, you don't need to be a programmer, but you need to understand programming. You don't need to be a marketer by background, but if you've never run a keyword campaign or if you have no idea what the difference between a CPM, a CPC, an EPL, or a CPA is, you're not going to be able to manage someone running a paid acquisition campaign. The idea of the bootcamp initially is to say, look, there are these minimal levels of proficiency you need in every discipline." (ANDREW'S ROADMAPS, 2019, 16:32–17:07). / ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. YouTube, 3 jan. 2019. Disponível em: https://www.youtube.com/watch?v=5Ow9DEGDcsg&t=1001s. Acesso em: 6 dez. 2024. 
 
