@@ -118,11 +118,7 @@ Então agora temos também a trilha sonora, além das mesas e cadeiras com desig
 
 Pela ótica do canvas do artista, podemos também entender que nem sempre a intenção é criar o ambiente ideal, a arte que atende todos os gostos. Mas não podemos dizer que a arte não é coerente - que não tem uma identidade, ou uma cor, um estilo. Esse quadro é coerente para a liderança, coerente para os colaboradores, coerente para os usuários. Não exatamente algo que agrada a todos, assim como as obras de arte ou as histórias. Mas certamente um ambiente que por seu design envolve, como a arte envolve alguns, como uma música envolve outros, como um bom livro envolve um leitor, inclusive ao ponto que o leitor torna-se um fã do autor. Alguns desses também escrevem cartas para esses autores. 
 
-Purple nos traz uma oportunidade para refletirmos sobre o papel da liderança. Ou pelo menos uma oportunidade para nos distanciarmos daquela ideia - acelerada - que diz que o líder está lá para controlar, no sentido de garantir, monitorar, etc. Enquanto é possível perceber algumas dessas características em muitos espaços, o movimento de liderança vai além, inclusive ao ponto onde os próprios líderes não irão entender - como artistas que se aventuram por um norte e vão descobrindo mais sobre a arte, sobre o mundo e sobre eles  - ao mesmo tempo. 
-
-
-
-
+Purple nos traz uma oportunidade para refletirmos sobre o significado de liderança. Ou, minimamente, nos ajuda a distanciar daquela ideia restrita e acelerada que diz é sobre controle, um papel que está lá para garantir, monitorar, etc. Mas é complexo entender o movimento de liderança porque justamente pode ir muito além, como artistas que seguem um norte e vão descobrindo mais, sobre a arte, sobre o mundo e sobre eles ao mesmo tempo. 
 
 
 
@@ -131,7 +127,7 @@ Purple nos traz uma oportunidade para refletirmos sobre o papel da liderança. O
 @note/research - Reid thought it was important for Joe Gebbia to talk about not just the Airbnb website but the entire experience around it - because he says that it is one of the things he learned from the Airbnb founders - who happen to be the founders, and designers by background. https://youtu.be/TCA_7RVo7Uo?si=DZ3j8JcF1ww-es1R&t=349 
 --> 
 
-A ideia onde a liderança se envolve com design da experiência toda, foi destacada pelo renomado investidor do Vale do Silício, Reid Hoffman, como algo especial que ele aprendeu diretamente com os fundadores do Airbnb, que contava com dois fundadores com formação em design. Durante a conversa Scaling Product, com Joe Gebbia explica o que é um design que se preocupa com a experiência completa: 
+Quando o assunto envolve liderança e design, o renomado investidor do Vale do Silício, Reid Hoffman, tem aprendido muito com os executivos Brian Chesky e Joe Gebbia, dois amigos que se conheceram na escola de design de Rode Island que criaram uma ideia maluca onde as pessoas poderiam dormir na casa das outras pessoas. No início, em 2008, o pequeno empreendimento era conhecido como AirBedAndBreakFast.com, literalmente Café da Manhã com Colchão de Ar, mas que depois se tornou um unicórnio do mundo das startups, exemplo de plataforma que emplacou o conceito de economia colaborativa, tornando-se o maior competidor de hotéis do mundo sem mesmo terem uma única propriedade para estadia. Em uma conversa-entrevista com Joe Gebbia, Reid pede para Joe falar um pouco sobre como o pensamento do design se preocupa com a experiência toda do usuário. Joe explica a ideia apresentando como que a perspectiva do design expande os horizontes de um problema específico, que no caso do Airbnb seria a questão da estadia:  
 
 <!--
 @note-research citation original en-us
@@ -140,7 +136,6 @@ A ideia onde a liderança se envolve com design da experiência toda, foi destac
 -->
 
 > *“Desde o início, pensamos nisso como mais do que apenas um lugar para descansar a cabeça à noite, um lugar para se deitar. Mesmo naquele fim de semana inicial, estávamos tipo ‘bem, e se nós os buscássemos no aeroporto?, e se fornecêssemos café da manhã pela manhã?, e se déssemos um passe do Bart [trem] para que pudessem circular pela cidade com um mapa de San Francisco?’ Então, desde o começo desse estranho projeto de fim de semana, já existia essa ideia de como pensar na experiência de todos, de ponta a ponta.” (YCombinator, 2017, tradução nossa).
-
 
 <!-- 
 @todo 
@@ -158,17 +153,11 @@ A ideia onde a liderança se envolve com design da experiência toda, foi destac
 
 -->  
 
+Na sequência, Joe enfatiza que o pensamento do designer deve considerar um arco maior. Desta forma, o trabalho do designer consiste em entender, dentro desse arco, os pontos de interação do usuário e com isso como que o usuário se conecta com a experiência. Na conver, Joe exemplifica a ideia enquanto segura uma garrafa de água, sugerindo que essa iniciativa poderia levar o designer a colocar a mensagem no rótulo indicando as instruções para reciclagem da garrafa. 
 
+O que podemos tirar, dentre várias lições deixadas pelo Airbnb sobre design e liderança, é que o pensamento do design nos dá permissão para observar o usuário, perceber e aprender como e porque ele se envolve, como e porque ela confia, como e porque e quando ela diz palavras como "eu amo" na mesma frase onde está o nome do estabelecimento. Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco holístico - não devemos confundir com a intenção somar todos os desejos de clientes, como uma obcessão que busca atender todos os gostos. Existe uma diferença entre entender o que faz um cliente se envolver, e confiar, e atender comentários diversos que por ventura aparecem todos os dias.  
 
-
-
-
-
-Na sequência, Joe enfatiza que o pensamento do designer se envolve com um arco que é bem maior, um trabalho de aprendizado que leva em consideração todos os pontos de interação da experiência e outros que vem antes ou depois. Joe exemplifica esta ideia enquanto segura uma garrafa de água, indicando que é este tipo de iniciativa que leva o design a colocar uma mensagem no rótulo, na parte de trás, indicando os passos para reciclagem. 
-
-Dentre as várias lições deixadas pelo Airbnb para o mundo, uma delas é transformadora para o movimento de liderança, justamente ao inserir o pensamento do design e permitir o envolvimento, por meio de observação e aprendizado com o usuário/cliente, de forma a enriquecer a experiência, de ponta a ponta, ou como Joe ilustrou, levando em consideração o arco holístico. 
-
-Segundo Joe, foi esse tipo de iniciativa que, nos primórdios do Airbnb, elevou o nível do relacionamento com os usuários a ponto que alguns começaram a usar as palavras amor e Airbnb na mesma frase. [^footnote_love_airbnb] 
+Segundo Joe, foi esse tipo de iniciativa que, nos primórdios do Airbnb, que elevou o nível do relacionamento com os usuários a ponto que alguns começaram a usar as palavras amor e Airbnb na mesma frase. [^footnote_love_airbnb] 
 
 [^footnote_love_airbnb]: 
 
@@ -183,7 +172,10 @@ Segundo Joe, foi esse tipo de iniciativa que, nos primórdios do Airbnb, elevou 
 
 Por esse olhar, nos distanciamos da visão onde o líder é um controlador, ou é um líder sabe tudo; e nos aproximamos do movimento de liderança que, ao levar em consideração o pensamento do design, reconhece que seu trabalho começa por se preocupar com o cliente, com estar na pele do cliente,  não só naquele momento quando o cliente está consumindo no local mas antes e depois. 
 
+<!--
+@note - consider 
 Like the case with Magenta, what's in the air that sometimes we can't touch exactly, it's a mix, it's a blend, it's a unique blend. It's in the architecture, it's in furniture, it's in the soundtrack, it's in listening to the customers, it's in valuing the customers.
+-->
 
 No último dia que visitei o café Purple, pude presenciar, de longe, a cena especial quando a Marta levantava o vidro de uma das mesas enquanto alguém lá da cozinha perguntava sobre o que era.  E ela comentou que era mais uma carta de outra pessoa. Assistindo aquela cena ficou claro que o momento era um ritual, e uma celebração sobre as condições dadas para aquelas pessoas escreverem aquelas cartas que colocavam as palavras Purple e Marta no meio de tantas outras carregadas de sentimentos e emoções. 
 

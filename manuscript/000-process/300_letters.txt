@@ -1,3 +1,56 @@
+
+## Letter to GG on December 12th, 2024 - Checking how to reference a citation from a video
+
+* Feat. ChatGPT https://chatgpt.com/share/675b0e60-9390-8011-8798-681917186d7a 
+* Feat. GG 
+
+```
+Livro - Além da Marca - Sobre "tradução nossa" de citação de trecho de video entrevista
+
+Marcio Galli <taboca@gmail.com>
+12:54 (há 28 minutos)
+para Gloria
+
+O original, que peguei do vídeo:
+
+"From the very beginning, we thought about this more than just a place
+to put your head at night, a place to lay down. Even from that very
+one weekend, we're like 'well, what if we pick them up from the
+airport, what if we provide breakfast in the morning, what if we give
+them Bart pass [train] to get around the city with a map to San
+Francisco.’ So even from the beginnings of this weird weekend project
+was this idea of how do you think about everybody's experience from
+end to end."
+
+Isso foi dito por Joe Gebbia em
+
+* reference - YCombinator, Greylock., Scaling Product | Fireside with
+Joe Gebbia and Reid Hoffman. 6 de jun. de 2017
+https://www.youtube.com/watch?v=TCA_7RVo7Uo
+
+Então eu pedi para o ChatGPT traduzir para pt-br e recomendar como
+referenciar, segundo ABNT2. Vc acha que ele fez bem?
+
+“Desde o início, pensamos nisso como mais do que apenas um lugar para
+descansar a cabeça à noite, um lugar para se deitar. Mesmo naquele fim
+de semana inicial, estávamos tipo ‘bem, e se nós os buscássemos no
+aeroporto, e se fornecêssemos café da manhã pela manhã, e se déssemos
+um passe do Bart [trem] para que pudessem circular pela cidade com um
+mapa de San Francisco.’ Então, desde o começo desse estranho projeto
+de fim de semana, já existia essa ideia de como pensar na experiência
+de todos de ponta a ponta.” (YCombinator, 2017, tradução nossa).
+
+________________________________
+
+Referência no formato ABNT2:
+
+YCOMBINATOR, Greylock. Scaling Product | Fireside with Joe Gebbia and
+Reid Hoffman. [Entrevista com Joe Gebbia conduzida por Reid Hoffman].
+Tradução nossa. Publicado em 6 de junho de 2017. Disponível em:
+https://www.youtube.com/watch?v=TCA_7RVo7Uo. Acesso em: 12 dez. 2024.
+```
+
+
 ## Letter to AR on December 12th, 2024 - General status 
 
 * Via Whatsapp, to @contact:AR 
