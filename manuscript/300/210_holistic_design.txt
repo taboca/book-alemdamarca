@@ -1,4 +1,4 @@
-## Fazendo arte 
+## Design holístico 
 
 <!--
 
@@ -7,47 +7,49 @@
 
 ## Todo 
 
-* [ , ] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
+* [ , ] @todo - p2 - In "Design holístico" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
+* [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
+* [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
-
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
-
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
+* [ , further] @todo - p1 - In "Design holístico" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
 
 ## Done 
 
-* [done , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
+* [Done , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
 
-* [done , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
+* [Done , further] @todo - p1 - In "Design holístico" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
+
+* [done , further] @todo - p1 - In "Design holístico" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
+
+* [done , further] @todo - p1 - In "Design holístico" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
 
 * [done, ] @todo - p1 - In "Purple ... " - Check the content from the interview with Reid Hoffman and Joe Gebbia from Airbnb , the talk which brings the topic of holistic design. Continue the translation here At https://docs.google.com/document/d/1lzlJnqvkXtA-U9OfsC31Yuv6prWFWu7Nwwfq4D2EKDc/edit?tab=t.0  @refid-20241211-26b42d6d-2cf8-4fec-ba27-9ee96509e2c3
 
 -->
 
-Gosto não se discute. Da mesma forma, a cor preferida. Mas pode, da mesma forma, um estabelecimento de alimentação ser amado por um e odiado por outro? Sabemos que em certo grau isso é verdade, por conta do contexto que nos leva lá, do momento. Mas ainda que eu saiba disso, fico frustrado quando passo rapidamente pelas avaliações do estabelecimento, no online, e não vejo nenhuma cor, só uma nota geral em escala de cinza. 
+Se gosto não se discute, essa lógica me diz que um estabelecimento de alimentação pode então ser amado por um e odiado por outro. Enquanto essa ideia parece se conectar com uma verdade da vida, por outro lado eu fico confuso quando eu procuro por estabelecimentos - na grande teia mundial - e encontro a média de todas as avaliações dos usuários. Agora, com calma, sem fome de comer e fora da correria da vida, eu penso que é possível eu adorar um estabelecimento 3.0 estrelas. Sobre o contrário, eu já percebi; que tem muito estabelecimento bem estrelado que não é nada demais, ou é mais do mesmo. Em outras palavras, como usuários, temos muito para refletir sobre essa nossa inclinação a procurar onde ir, olhando pelas redes sociais. Ou seriam lentes sociais? Elas servem para alguma coisa? Sim. Mas muitas dessas lentes nos dão uma foto em branco e preto. Este capítulo, por outro lado, é sobre a construção de uma experiência colorida. 
 
-Por anos, em São Carlos na época que fui estudante, tive a oportunidade de visitar semanalmente a lanchonete La Barca. Para nossa tribo, se fosse hoje, La Barca seria um bar-lanchonete cinco estrelas. Mas o tempo veio e me levou para novos capítulos, e para outro continente. Em 2005, quando voltei da minha jornada no Vale do Silício, escolhi São Carlos, talvez pelo clima e outras experiências nostálgicas. 
+Uma experiência que me marcou foi a lanchonete La Barca [^footnote_labarca] de São Carlos. Como estudante, eu frequentava o local de 1993 a 2000, enquanto tentava terminar o curso de computação. Por conta que a Web era jovem e as redes sociais só seriam criadas depois de 2003 [^footnote_linkedin_facebook], o que temos são boas memórias do estabelecimento. Mas, para a nossa tribo, La Barca seria um bar-lanchonete cinco estrelas. Por conta do tempo e novos capítulos da vida, me mudei para o Vale do Silício. E o tempo passou, de novo, e voltei em 2005 para São Carlos. Talvez pelo clima. 
 
-Nesse novo tempo, mesmo vivendo um momento sushi, voltamos para visitar La Barca - eu e um amigo das antigas. Nessa volta ao tempo, um dos antigos marujos estava agora no posto de capitão, no caixa. Ele lembrou de mim e nos recebeu bem. Naquele dia, na hora de pagar, ele perguntou o que achei da experiência, se estava tudo bem. Achei legal a iniciativa que me fez lembrar os velhos tempos. Eu disse a ele que estava tudo legal exceto que no banheiro não havia papel nem sabonete. Ele pediu desculpas. E fui, fomos. Um ano depois, voltamos lá. E lá encontramos o mesmo capitão no mesmo caixa que fez a mesma pergunta e recebeu a mesma resposta - tudo legal exceto que no banheiro não tem papel nem sabonete.  
+Um dia decidimos visitar La Barca, eu e um amigo da época. Neste episódio, um dos marujos das antigas estava no posto de capitão, no caixa. Ele lembrou da gente. Naquele dia, na hora de pagar, ele perguntou o que achei da experiência. Aquela iniciativa que me fez lembrar os velhos tempos. Eu disse a ele que estava legal exceto que no banheiro não havia papel nem sabonete. Ele pediu desculpas. E fomos. 
 
-O que mudou é simples e tem menos a ver com o banheiro e mais com o tempo que se passou. Uma grande diferença é que pude, neste momento mais recente, prestar atenção no banheiro talvez por conta que tomei uma ou duas cervejas. Enquanto que naquele momento anterior minha memória era que o banheiro era essencial no processo entre cervejas e cervejas. A verdade é que o conjunto da obra fazia total sentido para nossa tribo. O local era legal, o atendimento era rápido, a cerveja era gelada, e a maionese era caseira e eles permitiam que cada amigo pegasse um tubo individual. Era bem normal um amigo utilizar praticamente um tubo todo de maionese por lanche. Ainda, o local ficava aberto, cuidando da gente, não porque era 24 horas mas sim porque a tripulação segurava o barco na amizade, garantindo a entrega das cervejas, até o sol raiar.
+Um ano depois, voltamos lá. Encontramos o mesmo capitão que, no mesmo caixa fez a mesma pergunta na hora de pagar e recebeu a mesma resposta, "esatava legal exceto que no banheiro não tem papel nem sabonete". Em um primeiro momento talvez eu tenha pensado que La Barca mudou. Mas o que mudou tinha menos a ver com o banheiro e mais a ver com o objetivo. Neste momento recente e tomando quase nada, o banheiro seria nota um. Mas naquela época, o banheiro era um pitstop tão eficiente que não daria tempo de esfriar o copo. Em outras palavras, a equação da qualidade do banheiro estava proporcionalmente ligada a quantidade de cervejas por hora. 
 
-Esta história é minha inspiração para esse capítulo e para refletirmos sobre os ambientes e como são percebidos por seus usuários; mas mais que isso sobre essa questão da cor, sobre a necessidade de uma cor, ou de um conjunto de elementos arranjados e coerentes para um público. Desta forma, lhe convido para ver um estabelecimento pela ótica do design, em primeiro lugar. E depois para uma reflexão sobre o papel da liderança que cuida desse design. 
+A verdade é que o conjunto da obra fazia total sentido para nossa tribo. O pessoal do atendimento era legal, o atendimento era rápido, a cerveja era gelada. E a maionese, caseira feita todos os dias. A maionese era tão boa que cada estudante da mesa tinha seu próprio tubo. Ainda, o local ficava aberto, cuidando da gente. Isso não porque era 24 horas mas porque a tripulação segurava o barco, na amizade, garantindo o fluxo contínuo de cervejas geladas até o sol raiar.
+
+Esta história e inspiração para esse capítulo serve de reflexão inicial sobre como os estabelecimentos são percebidos por seus usuários. Dado que estamos indo no rumo da foto colorida, e não da foto branco e preto, lhe convido para conhecer um estabelecimento pela ótica do design, em primeiro lugar. E depois, para refletir sobre como a liderança pode e deve cuidar desse design. 
 
 ## Qual é a sua cor preferida?
 
-Duas décadas depois, agora em 2024, esbarrei em um café-bar chamado Purple [^footnote_purple] durante a minha estadia de 30 dias em Salamanca, na Espanha. 
+Quase duas décadas depois, esbarrei em um café-bar chamado Purple [^footnote_purple] durante a minha estadia de um mês em Salamanca, na Espanha. 
 
-[^footnote_purple]: Purple é um nome fictício para este café bar especial que me acolheu por vários momentos durante minha estadia de um mês em Salamanca. 
+[^footnote_purple]: Eu escolhi uma outra cor, Purple, como uma variação ou nome fictício. A cor verdadeira é outra. 
 
 <!-- 
 @todo 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
+* [Done , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
 -->
 
 Não demora muito para qualquer um perceber o contraste entre Purple e Salamanca. Isso porque Salamanca é uma região que se tornou um centro reconhecido na produção de jamón ibérico na Espanha - por conta do clima frio e seco e logicamente vários fatores da região como o Espanhol. Mesmo não sendo vegano, fiquei assustado com a quantidade de casas de embutidos, para os fanáticos por carne, lindas e com patas e mais patas penduradas e tantos outros produtos embutidos artisticamente arranjados nas vitrines e  iluminados por lanternas que em um primeiro momento chame de spot frutacor. Agora, depois de voltar, eu fiz uma pesquisa que me revelou o submundo da iluminação de led, tipo “led de realce cárneo”, segundo o ChatGPT, frase que não gerou resultados no buscador. Mas enfim é um submundo real. Uma das páginas do produto indica o uso dessa solução para realçar a cor da carne, por conta do efeito que produz um leve brilho, avermelhado, assim criando uma experiência visual que faz a carne parecer tentadora e fresca. A descrição do produto diz que a luz é rosa/magenta. 
@@ -58,7 +60,7 @@ Acabei percebendo que sendo Salamanca uma área com tantos estudantes [^footnote
 
 <!-- 
 @todo 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
+* [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
 -->
 
 Mas mais coisas chamaram minha atenção. Meio que sem perceber parecia que tinha algo no ar com a arquitetura e o visual. Devo ter gostado, logicamente sem perceber, algo diferente nas mesas e cadeiras, brancas, e uma harmonia criada por objetos coloridos ou pelas molduras. Eventualmente, olhando nas avaliações online, encontrei um comentário dizendo que o visual da mobília era nórdico. 
@@ -69,7 +71,7 @@ Mas naquele primeiro momento nada disso era assim tão claro. Era um espaço con
 
 <!-- 
 @todo 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
+* [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
 -->
 
 Demorou para eu perceber mas eventualmente notei que o arranjo dos bolos no canto doce era bem diferente do padrão que conhecia onde os bolos estão dispostos de forma organizada, lado a lado, dentro de uma vitrine gelada. O que eles criaram era um arranjo de múltiplos andares, com suportes de vidro redondos com tampa. Talvez parecia como uma mesa dos doces de casamentos, ou um jardim. 
@@ -93,7 +95,7 @@ E também uma mesa diferente que veio com outras cartas. Agora essas cartas dizi
 
 <!-- 
 @todo 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
+* [ , further] @todo - p1 - In "Design holístico" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
 -->
 
 Todas as cartas carregavam algo que estava nessa carta. Elas eram todas, de certa forma parecidas. Talvez a Marta tenha feito algo que deu para essas pessoas algo que elas já conheciam, familiar, algo que elas sentiam falta, algo que encontraram no espaço. Entre tapas salgadas e tortas doces, no meio no café com leite, nos copos de chopp ou no vinho, por meio da Marta, certamente. Algumas dessas cartas carregavam um tom de despedida, de pessoas que por lá passaram, talvez estudantes ou famílias ou pessoas trabalhando. Penso que não eram pessoas da Espanha, talvez porque se fossem não perceberiam aquilo. Então eram pessoas que ficaram lá, mas por tempo suficiente para perceber. 
@@ -139,12 +141,12 @@ Quando o assunto envolve liderança e design, o renomado investidor do Vale do S
 
 <!-- 
 @todo 
-* [done , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
+* [done , further] @todo - p1 - In "Design holístico" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
 -->
 
 <!-- 
 @todo 
-* [done , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
+* [done , further] @todo - p1 - In "Design holístico" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7
 -->
 
 <!-- 
@@ -155,15 +157,14 @@ Quando o assunto envolve liderança e design, o renomado investidor do Vale do S
 
 Na sequência, Joe enfatiza que o pensamento do designer deve considerar um arco maior. Desta forma, o trabalho do designer consiste em entender, dentro desse arco, os pontos de interação do usuário e com isso como que o usuário se conecta com a experiência. Na conver, Joe exemplifica a ideia enquanto segura uma garrafa de água, sugerindo que essa iniciativa poderia levar o designer a colocar a mensagem no rótulo indicando as instruções para reciclagem da garrafa. 
 
-O que podemos tirar, dentre várias lições deixadas pelo Airbnb sobre design e liderança, é que o pensamento do design nos dá permissão para observar o usuário, perceber e aprender como e porque ele se envolve, como e porque ela confia, como e porque e quando ela diz palavras como "eu amo" na mesma frase onde está o nome do estabelecimento. Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco holístico - não devemos confundir com a intenção somar todos os desejos de clientes, como uma obcessão que busca atender todos os gostos. Existe uma diferença entre entender o que faz um cliente se envolver, e confiar, e atender comentários diversos que por ventura aparecem todos os dias.  
+O que podemos tirar, dentre as várias lições deixadas pelo Airbnb, é uma lição sobre permissão. Permissão para observar o usuário, para perceber, e com isso aprender. Aprender como e porque o usuário se envolve, como e porque ele passa a confiar. E com isso quando é que ele diz palavras como "amo" na mesma frase onde está o nome da sua marca. Nesta mesma video entrevista, Joe Gebbia conta que muita coisa mudou quando eles, Brian e Joe, se aproximaram mais dos primeiros clientes de Nova Iorque, quando marcaram visitas "como fotógrafos profissionais" para ajudar seus clientes anfitriões com fotos melhores das suas residências. Ele destaca que essa proximidade permitiu um nível de percepção muito maior, inclusive ao ponto de perceberem que muitas tecnologias que eles tinham criado, por exemplo no aplicativo e no site, era um desastre total por conta que nenhum usuário conseguia entender. Na medida que foram caminhando, mais próximos desses clientes, tudo mudou; inclusive ao ponto onde alguns desses clientes começaram a usar a palavra "amo" e Airbnb na mesma frase. 
 
-Segundo Joe, foi esse tipo de iniciativa que, nos primórdios do Airbnb, que elevou o nível do relacionamento com os usuários a ponto que alguns começaram a usar as palavras amor e Airbnb na mesma frase. [^footnote_love_airbnb] 
+Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco holístico - não devemos confundir com a intenção somar todos os desejos de clientes, como uma obcessão que busca atender todos os gostos. Existe uma diferença entre entender o que faz um cliente se envolver, e confiar, e atender comentários diversos que por ventura aparecem todos os dias.  
 
-[^footnote_love_airbnb]: 
 
 <!-- 
 @todo 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
+* [Done , further] @todo - p1 - In "Design holístico" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
 -->
 
 <!--

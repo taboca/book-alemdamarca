@@ -1,17 +1,17 @@
 
 ## Todo 
 
-* [ , ] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
+* [ , ] @todo - p1 - In "Design holístico" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
+* [ , further] @todo - p1 - In "Design holístico" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
+* [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
+* [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
+* [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
 
-* [ , further] @todo - p1 - In "Fazendo Arte", In "Purple" or "Holistic design" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
+* [ , further] @todo - p1 - In "Design holístico" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
 
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
