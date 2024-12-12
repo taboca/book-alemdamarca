@@ -1,5 +1,11 @@
 ## Done 
 
+* [done , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, add footnote_labarca and footnote_linkedin_facebook @refid-20241212-d9b2a644-8536-4c22-9594-3fda8725ea96
+
+* [Done , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
+
+* [Removed , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
+
 * [done , further] @todo - p1 - In "Design holístico" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
 
 * [done , further] @todo - p1 - In "Design holístico" #magenta, review the reference of Joe Gebbia's interview with Reid Hoffman. @refid-20241211-f8eb049a-13fa-433b-bc65-d92643840aa7

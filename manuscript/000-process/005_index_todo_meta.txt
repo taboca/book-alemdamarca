@@ -1,5 +1,8 @@
-
 ## Todo footnotes 
+
+* [ , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
+
+* [ , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
 
 * [ ] @todo - p1 - @footnote footnote_oceano_vermelho
 

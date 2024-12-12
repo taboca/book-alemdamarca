@@ -9,17 +9,21 @@
 
 * [ , ] @todo - p2 - In "Design holístico" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
 
-* [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
-
-* [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
-
 * [ , further] @todo - p1 - In "Design holístico" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
+
+## Todo-footnote 
+
+* [ , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
+
+* [ , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
 
 ## Done 
 
-* [Done , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
+* [done , further] @todo @todo-footnote- p1 - In "Design holístico" #magenta, add footnote_labarca and footnote_linkedin_facebook @refid-20241212-d9b2a644-8536-4c22-9594-3fda8725ea96
 
-* [Done , further] @todo - p1 - In "Design holístico" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
+* [Done , further] @todo @todo-footnote- p1 - In "Design holístico" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
+
+* [Removed , further] @todo - p1 - In "Design holístico" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
 
 * [done , further] @todo - p1 - In "Design holístico" #magenta, translate to pt-br the blockquote from Joe Gebbia. @refid-20241211-a85c2e8c-1aae-4441-b10c-b90abae846db
 
@@ -33,6 +37,30 @@ Se gosto não se discute, essa lógica me diz que um estabelecimento de alimenta
 
 Uma experiência que me marcou foi a lanchonete La Barca [^footnote_labarca] de São Carlos. Como estudante, eu frequentava o local de 1993 a 2000, enquanto tentava terminar o curso de computação. Por conta que a Web era jovem e as redes sociais só seriam criadas depois de 2003 [^footnote_linkedin_facebook], o que temos são boas memórias do estabelecimento. Mas, para a nossa tribo, La Barca seria um bar-lanchonete cinco estrelas. Por conta do tempo e novos capítulos da vida, me mudei para o Vale do Silício. E o tempo passou, de novo, e voltei em 2005 para São Carlos. Talvez pelo clima. 
 
+<!--
+@research-note 
+* Review of dates, Facebook, Dogster, Linkedin - https://chatgpt.com/share/675b2966-1280-8011-aa74-34bac2515e9a
+-->
+
+<!--
+@todo 
+* [done , further] @todo - p1 - In "Design holístico" #magenta, add footnote_labarca and footnote_linkedin_facebook @refid-20241212-d9b2a644-8536-4c22-9594-3fda8725ea96
+-->
+
+<!--
+@editor-note
+* Note - used ChatGPT for the footnote https://chatgpt.com/share/675b2966-1280-8011-aa74-34bac2515e9a
+-->
+
+[^footnote_labarca]: O nome "La Barca" é fictício, mas inspirado em uma lanchonete real que crescia junto com os frequentadores da época, estudantes no geral. Posteriormente, esse estabelecimento tornou-se um empreendimento de sucesso, expandindo-se como uma rede conhecida na cidade de São Carlos. 
+
+<!--
+@editor-note
+* Note - used ChatGPT for the footnote https://chatgpt.com/share/675b2966-1280-8011-aa74-34bac2515e9a
+-->
+
+[^footnote_linkedin_facebook]: Na época mencionada, as redes sociais ainda não existiam. O Orkut foi lançado em janeiro de 2004 e tornou-se um fenômeno no Brasil. O LinkedIn surgiu em maio de 2003 como uma rede profissional. O Dogster, focado em donos de cães, também foi lançado em 2004, e o Facebook surgiu em fevereiro de 2004, inicialmente restrito a estudantes de Harvard e aberto ao público geral apenas em setembro de 2006.
+
 Um dia decidimos visitar La Barca, eu e um amigo da época. Neste episódio, um dos marujos das antigas estava no posto de capitão, no caixa. Ele lembrou da gente. Naquele dia, na hora de pagar, ele perguntou o que achei da experiência. Aquela iniciativa que me fez lembrar os velhos tempos. Eu disse a ele que estava legal exceto que no banheiro não havia papel nem sabonete. Ele pediu desculpas. E fomos. 
 
 Um ano depois, voltamos lá. Encontramos o mesmo capitão que, no mesmo caixa fez a mesma pergunta na hora de pagar e recebeu a mesma resposta, "esatava legal exceto que no banheiro não tem papel nem sabonete". Em um primeiro momento talvez eu tenha pensado que La Barca mudou. Mas o que mudou tinha menos a ver com o banheiro e mais a ver com o objetivo. Neste momento recente e tomando quase nada, o banheiro seria nota um. Mas naquela época, o banheiro era um pitstop tão eficiente que não daria tempo de esfriar o copo. Em outras palavras, a equação da qualidade do banheiro estava proporcionalmente ligada a quantidade de cervejas por hora. 
@@ -45,7 +73,7 @@ Esta história e inspiração para esse capítulo serve de reflexão inicial sob
 
 Quase duas décadas depois, esbarrei em um café-bar chamado Purple [^footnote_purple] durante a minha estadia de um mês em Salamanca, na Espanha. 
 
-[^footnote_purple]: Eu escolhi uma outra cor, Purple, como uma variação ou nome fictício. A cor verdadeira é outra. 
+[^footnote_purple]: Eu escolhi uma outra cor, Purple, como uma variação como sendo o nome fictício. A cor verdadeira é outra. 
 
 <!-- 
 @todo 
@@ -164,7 +192,7 @@ Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco hol
 
 <!-- 
 @todo 
-* [Done , further] @todo - p1 - In "Design holístico" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
+* [Removed, into text , further] @todo - p1 - In "Design holístico" #magenta, make footnote footnote_love_airbnb. @refid-20241211-554c6866-1ed3-4fad-abf4-b4e97cccab0a
 -->
 
 <!--
