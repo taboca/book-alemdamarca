@@ -195,7 +195,7 @@ Na sequência, Joe enfatiza que o pensamento do designer deve considerar um arco
 
 O que podemos tirar, dentre as várias lições deixadas pelo Airbnb, é uma lição sobre permissão. Permissão para observar o usuário, para perceber, e com isso aprender. Aprender como e porque o usuário se envolve, como e porque ele passa a confiar. E com isso quando é que ele diz palavras como "amo" na mesma frase onde está o nome da sua marca. Nesta mesma video entrevista, Joe Gebbia conta que muita coisa mudou quando eles, Brian e Joe, se aproximaram mais dos primeiros clientes de Nova Iorque, quando marcaram visitas "como fotógrafos profissionais" para ajudar seus clientes anfitriões com fotos melhores das suas residências. Ele destaca que essa proximidade permitiu um nível de percepção muito maior, inclusive ao ponto de perceberem que muitas tecnologias que eles tinham criado, por exemplo no aplicativo e no site, era um desastre total por conta que nenhum usuário conseguia entender. Na medida que foram caminhando, mais próximos desses clientes, tudo mudou; inclusive ao ponto onde alguns desses clientes começaram a usar a palavra "amo" e Airbnb na mesma frase. 
 
-Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco holístico - não devemos confundir com a intenção somar todos os desejos de clientes, como uma obcessão que busca atender todos os gostos. Existe uma diferença entre entender o que faz um cliente se envolver, e confiar, e atender comentários diversos que por ventura aparecem todos os dias.  
+Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco holístico - não devemos confundir com a intenção somar todos os desejos de clientes, como uma obcessão que busca atender todos os gostos. Existe uma diferença entre o trabalho de design que busca entender o que faz um cliente se envolver, e o que faz eles confiarem, com atender a desejos arbitrários. No primeiro caso você tem um norte que também traz foco e priorização. No segundo caso você tem muita coisa para fazer e se envolver mas sem noção de como e por quê priorizar. 
 
 
 <!-- 
@@ -207,17 +207,16 @@ Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco hol
 @note/research - Joe Gebbia highlights the day where the early Airbnb customers started to use the words “Love and Airbnb” in the same sentence - https://youtu.be/TCA_7RVo7Uo?si=h7xN693t6YF5vb9h&t=570 
 --> 
 
-Por esse olhar, nos distanciamos da visão onde o líder é um controlador, ou é um líder sabe tudo; e nos aproximamos do movimento de liderança que, ao levar em consideração o pensamento do design, reconhece que seu trabalho começa por se preocupar com o cliente, com estar na pele do cliente,  não só naquele momento quando o cliente está consumindo no local mas antes e depois. 
+
+
+
 
 <!--
-@note - consider 
-Like the case with Magenta, what's in the air that sometimes we can't touch exactly, it's a mix, it's a blend, it's a unique blend. It's in the architecture, it's in furniture, it's in the soundtrack, it's in listening to the customers, it's in valuing the customers.
+@todo 
+* [ , further] @todo - p2 - In "Holistic design" - Consider, that the case with Magenta, what's in the air that sometimes we can't touch exactly, it's a mix, it's a blend, it's a unique blend. It's in the architecture, it's in furniture, it's in the soundtrack, it's in listening to the customers, it's in valuing the customers.
 -->
 
-No último dia que visitei o café Purple, pude presenciar, de longe, a cena especial quando a Marta levantava o vidro de uma das mesas enquanto alguém lá da cozinha perguntava sobre o que era.  E ela comentou que era mais uma carta de outra pessoa. Assistindo aquela cena ficou claro que o momento era um ritual, e uma celebração sobre as condições dadas para aquelas pessoas escreverem aquelas cartas que colocavam as palavras Purple e Marta no meio de tantas outras carregadas de sentimentos e emoções. 
+No último dia que visitei o café-bar Purple presencei a cena especial da Marta levantando o vidro de uma das mesas enquanto alguém na cozinha perguntava sobre o que era. Ela explicou de quem era a nova carta. Ficou ainda mais claro como eles respeitavam aquelas cartas assim como aquele momento era um ritual. 
 
-<!--
-@note  
+Espero que esta narrativa nos ajude a refletir sobre como o movimento de liderança tem poder de influenciar o design da experiência. É o movimento de liderança dá abertura para o que acontece, não só para clientes entrarem pela porta, pedirem as coisas e irem embora, mas para tudo que entra e fica; como a música ambiente, por exemplo. Com essa visão, existem consequências. A primeira é que ser líder não é sobre saber, ou sobre controlar, e sim sobre ouvir, perceber, e se conectar com um público. O outro ponto envolve reconhecer que esse movimento de abertura, por meio do pensamento do design, leva ao fechamento, as limitações de certa forma, mas ao ambiente que é coerente para aquele público e que gera confiança e com isso cria uma experiência marcante. Com isso, de forma síncrona, uma marca forte tanto para quem trabalha como para os clientes. 
 
-I think that the opportunity that I was able to see during my visits with Magenta brought me to reflect about the presence of the owner. What means the captain, or the leader, to be there I don't think necessarily that the general rule of the owner to be at the place should be taken into consideration if we look at it the way we generally look at it, because we're really generally looking at it as if the captain is there to control the ship. I think the lesson is, with Magenta's case, that the leader is there to make sure that there is a holistic experience going on, in terms of the layout, in terms of the menu, and the treatment that you can give to the customer, in terms of values, in terms of the soundtrack. That's really what the presence of the leader is about. And beyond, the point is, it's not really the vision of one person. Of course, generally, maybe because the way we're doing things so far, it's easier for one person to be able to, to a certain extent, develop this holistic vision. But the point is that it's not about the leader, the specific person, but it's about the leadership. It's really about the vision that embodies that whole holistic experience. And when we can find a way to do that, it doesn't really matter where's the leader, I would think. That's the reflection that Magenta gave me. It was a reminder about leadership, it was a reminder about holistic design. Here's a note. This connects with the vision from the co-founder of Airbnb, Joe Gabbia.
--->  
