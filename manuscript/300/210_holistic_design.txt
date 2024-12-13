@@ -2,8 +2,8 @@
 
 <!--
 
-* This is v0.3 
-* The doc is v0.2 https://docs.google.com/document/d/1lzlJnqvkXtA-U9OfsC31Yuv6prWFWu7Nwwfq4D2EKDc/edit?tab=t.0
+* This is v0.4
+* The doc is v0.4 https://docs.google.com/document/d/1lzlJnqvkXtA-U9OfsC31Yuv6prWFWu7Nwwfq4D2EKDc/edit?tab=t.0
 
 ## Todo 
 
@@ -40,7 +40,7 @@
 * [Done, further ] @todo - p1 - In "Design holístico" #magenta, Improved the intro leading paragraph, which connects with the "colorful" story of La Barca. @refid-20241212-bd326076-44da-4b00-be1d-17677db92723
 -->
 
-Se gosto não se discute, essa lógica sugere que um estabelecimento de alimentação pode então ser amado por um e odiado por outro. Enquanto essa ideia parece se conectar com uma verdade da vida, por outro lado me parece confuso quando procuramos por estabelecimentos - na grande teia mundial - e encontramos a média das avaliações de muitos usuários. Quem são eles? Onde vivem? Agora, com calma, sem fome, e fora da correia da vida, penso que seria bem possível eu adorar um estabelecimento 3.0 estrelas. Sobre o contrário, sabemos bem que tem muito estabelecimento bem estrelado que não é nada demais, ou é só mais do mesmo. 
+Se gosto não se discute, essa lógica sugere que um estabelecimento de alimentação pode então ser amado por um e odiado por outro. Enquanto essa ideia parece se conectar com uma verdade da vida, por outro lado me parece confuso quando procuramos por estabelecimentos - na grande teia mundial - e encontramos a média das avaliações de muitos usuários. Quem são eles? Onde vivem? Agora, com calma, sem fome, e fora da correia do motor acelerado da vida, penso que é possível alguém adorar um estabelecimento 3.0 estrelas. Sobre o contrário, sabemos que tem muito estabelecimento estrelado que não é nada demais e que é só mais do mesmo. 
 
 Em outras palavras, como usuários, precisamos refletir sobre essa nossa inclinação de começar nossa pesquisa procurando por medidas populares, ou pela média geral que é informada em muitas redes sociais. Ou seriam lentes sociais? Não é que elas não servem para nada, sabemos que de certa forma elas cortam o caminho. Mas muitas dessas lentes ainda só nos dão uma foto em branco e preto. Este capítulo, por outro lado, é sobre a construção de uma experiência a cores. 
 
@@ -72,9 +72,9 @@ Falando em cores, uma experiência que me marcou foi a lanchonete La Barca [^foo
 
 Um dia decidimos fazer uma visita a saudosa La Barca, eu e um amigo das antigas. Neste episódio, um dos marujos do passado estava agora no posto de capitão, no caixa. Ele lembrou da gente. Na hora de pagar, ele perguntou o que achei da experiência. Aquela iniciativa que me fez lembrar os velhos tempos. Eu disse a ele que "estava legal exceto que no banheiro não havia papel nem sabonete". Ele pediu desculpas e assim fomos. Um ano depois, voltamos lá e encontramos o mesmo capitão no mesmo caixa. E ele fez a mesma pergunta na hora de pagar. E recebeu a mesma resposta, que "esatava legal exceto que no banheiro não tem papel nem sabonete". 
 
-Em um primeiro momento eu devo ter pensado que La Barca mudou. Mas o que mudou, logicamente, era o momento e o olhar e não o banheiro. Neste momento recente, tomando quase nada, o banheiro seria nota um. Na época, o banheiro nem era percebido, por conta da porta semi aberta e um cocho grande para multiplos usuários. Era um pitstop eficiente que nem dava tempo de esfriar o copo. Em outras palavras, a equação da qualidade do banheiro era proporcional a quantidade de cervejas por hora. 
+Em um primeiro momento eu devo ter pensado que La Barca mudou. Mas o que mudou, logicamente, era o momento e o olhar e não o banheiro. Neste momento recente, tomando quase nada, o banheiro seria nota um. Na época, o banheiro nem era percebido, por conta da porta semi aberta e um cocho grande para múltiplos usuários. Era um pitstop eficiente que nem dava tempo de esfriar o copo. Em outras palavras, a equação da qualidade do banheiro era proporcional à quantidade de cervejas por hora. 
 
-A verdade é que o conjunto da obra fazia sentido, para nossa tribo. Éramos queridos pela tripulação que também envolvia os donos que ficavam sempre no local. Nós tínhamos uma relação de confiança lá. Éramos bem atendidos, com velocidade para servir o estoque de cerveja gelada, sem fim. E tinha a maionese que era caseira e feita todos os dias. A maionese era tão querida que cada estudante da nossa mesa dependia de ter seu próprio tubo. Isso para não dar briga e para evitar voltar na geladeira várias vezes. Ir lá, para comer ou para beber era um ritual. Outro "plus" era que o local ficava aberto; não porque era 24 horas mas porque a tripulação segurava o barco, na amizade, garantindo o fluxo contínuo de cervejas, geladas, até o sol raiar.
+A verdade é que o conjunto da obra fazia sentido para nossa tribo. Éramos queridos pela tripulação que também envolvia os donos que ficavam sempre no local. Nós tínhamos uma relação de confiança lá. Éramos bem atendidos, com velocidade para servir o estoque de cerveja gelada, sem fim. E tinha a maionese que era caseira e feita todos os dias. A maionese era tão querida que cada estudante da nossa mesa dependia de ter seu próprio tubo. Isso para não dar briga e para evitar voltar na geladeira várias vezes. Ir lá, para comer ou beber, era um ritual. Outro "plus" era que o local ficava aberto; não porque era 24 horas mas porque a tripulação segurava o barco, na amizade, garantindo o fluxo contínuo de cervejas, geladas, até o sol raiar.
 
 Esta história, que é minha inspiração para esse capítulo, é um ponto de partida para a reflexão sobre como estabelecimentos são percebidos por seus usuários. Dado que nosso rumo é a busca da experiência a cores, não da foto branco e preto, lhe convido para a próxima história que é sobre design. E na sequência, sobre como a liderança pode e deve cuidar desse design. 
 
@@ -98,9 +98,9 @@ A outra coisa que não demorou muito para eu perceber é que não achei nada lá
 * [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
 -->
 
-Mas mais coisas foram chamando a atenção pois tinha algo no ar, talez na arquitetura, na decoração, no estilo. Devo ter gostado das mesas e cadeiras brancas. O espaço trazia uma certa harmonia, mesmo sem aquela cor, mas pelo layout e a disposição de objetos de decoração, coloridos, por pequenas molduras, não sei. Eventualmente, olhando nas avaliações online, encontrei um comentário dizendo que o visual da mobília era nórdico. Ah, então alguém percebeu aquilo que eu quase notei, pensei. 
+Mas mais coisas foram chamando a atenção pois tinha algo no ar, talvez na arquitetura, na decoração, no estilo. Devo ter gostado das mesas e cadeiras brancas. O espaço trazia uma harmonia, mesmo sem aquela cor, pelo layout, disposição dos objetos de decoração, pelas cores, quadros pequenos com molduras, não sei. Eventualmente, olhando nas avaliações online, encontrei um comentário dizendo que o visual da mobília era nórdico. Ah, então alguém percebeu aquilo que eu quase notei, pensei. 
 
-Em outras palavras, naquele primeiro momento nada era tão claro. Era confortável ou charmoso ou acolhedor. Mas não era chique, tipo chique caro. Sentei em uma mesa para duas pessoas bem colada no início ou fim do balcão, não distante do pequeno corredor que levava aos banheiros. Neste canto do balcão havia um expositor de vidro com várias opções de coisas que eram servidas no modo tapas [^footnote_tapas]. Depois disso, duas torneiras de chopp, e então, na sequência, o canto das tortas, o canto doce. 
+Em outras palavras, naquele primeiro momento nada era tão claro. Era confortável e charmoso ou acolhedor. Mas não era chique, tipo chique caro. Sentei em uma mesa para duas pessoas bem colada no início ou fim do balcão, não distante do pequeno corredor que levava aos banheiros. Neste canto do balcão havia um expositor de vidro com várias opções de coisas que eram servidas no modo tapas [^footnote_tapas]. Depois disso, duas torneiras de chopp, e então, na sequência, o canto das tortas, o canto doce. 
 
 [^footnote_tapas]: Sou principiante com o “modo tapas” de comer mas adorei a experiência por conta que, gastando menos, eu posso experimentar mais coisas. São porções menores, servidas em um pequeno prato. No café Purple era uma pequena cumbuca bonita, sempre uma cumbuca diferente. 
 
@@ -127,7 +127,7 @@ Em um dado retorno, eu quebrei minha rotina, por conta que fui “de manhã” e
 
 E também uma mesa diferente que veio com outras cartas. Agora essas cartas diziam algo a mais sobre o quebra-cabeça. Além disso, já era hora de perceber melhor, até por conta que várias cartas começavam com “Marta,” e falavam de coisas especiais, como o exemplo abaixo: 
 
-> *”Marta, “* 
+> *”Marta, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.“* 
 
 <!-- 
 @todo 
@@ -144,7 +144,7 @@ Na tentativa de concluir, correndo o risco de perder coisas no ar que podemos im
 
 Mas isso nos leva à pergunta sobre o que é estar presente, ou o que seria o papel da liderança mais especial que nos leva a essa ideia. Explorar isso é importante porque podemos nos confundir, diante de um movimento acelerado, com a ideia de que estar presente é garantir que as coisas andem como devem andar, que os colegas de trabalho estejam trabalhando como esperado, que a experiência para os clientes esteja dentro do esperado, esse tipo de coisa. Sim, de certa forma isso é verdade. 
 
-Mas não é toda a verdade nem a melhor parte da verdade. Porque aquele espaço tinha de certa forma uma cor, ou era um canvas onde a Marta fez e faz sua arte, onde ela está avançando, navegando, para um destino. Talvez ela faz isso por sua filha, ou sobrinha, ou sua mãe. Mas, certamente já fazia, ou passou a fazer, pelas pessoas que passam por lá. Observar o espaço da Marta nos coloca na posição de perceber, com mais responsabilidade, a diferença entre estar lá, como controlador, e estar lá, como líder. 
+Mas não é toda a verdade nem a melhor parte da verdade. Porque aquele espaço tinha de certa forma uma cor, ou era um canvas onde a Marta fez e faz sua arte, onde ela está avançando, navegando, para um destino. Talvez ela faça isso por sua filha, ou sobrinha, ou sua mãe. Mas, certamente fazia, ou passou a fazer, pelas pessoas que passam por lá. Observar o espaço da Marta nos coloca na posição de perceber, com mais responsabilidade, a diferença entre estar lá, como controlador, e estar lá, como líder. 
 
 ### Liderança e design 
 
@@ -191,11 +191,11 @@ Quando o assunto envolve liderança e design, o renomado investidor do Vale do S
 
 -->  
 
-Na sequência, Joe enfatiza que o pensamento do designer deve considerar um arco maior. Desta forma, o trabalho do designer consiste em entender, dentro desse arco, os pontos de interação do usuário e com isso como que o usuário se conecta com a experiência. Na conver, Joe exemplifica a ideia enquanto segura uma garrafa de água, sugerindo que essa iniciativa poderia levar o designer a colocar a mensagem no rótulo indicando as instruções para reciclagem da garrafa. 
+Na sequência, Joe enfatiza que o pensamento do designer deve considerar um arco maior. Desta forma, o trabalho do designer consiste em entender, dentro desse arco, os pontos de interação do usuário e com isso como que o usuário se conecta com a experiência. Na conversa, Joe exemplifica a ideia enquanto segura uma garrafa de água, sugerindo que essa iniciativa poderia levar o designer a colocar a mensagem no rótulo indicando as instruções para reciclagem da garrafa. 
 
 O que podemos tirar, dentre as várias lições deixadas pelo Airbnb, é uma lição sobre permissão. Permissão para observar o usuário, para perceber, e com isso aprender. Aprender como e porque o usuário se envolve, como e porque ele passa a confiar. E com isso quando é que ele diz palavras como "amo" na mesma frase onde está o nome da sua marca. Nesta mesma video entrevista, Joe Gebbia conta que muita coisa mudou quando eles, Brian e Joe, se aproximaram mais dos primeiros clientes de Nova Iorque, quando marcaram visitas "como fotógrafos profissionais" para ajudar seus clientes anfitriões com fotos melhores das suas residências. Ele destaca que essa proximidade permitiu um nível de percepção muito maior, inclusive ao ponto de perceberem que muitas tecnologias que eles tinham criado, por exemplo no aplicativo e no site, era um desastre total por conta que nenhum usuário conseguia entender. Na medida que foram caminhando, mais próximos desses clientes, tudo mudou; inclusive ao ponto onde alguns desses clientes começaram a usar a palavra "amo" e Airbnb na mesma frase. 
 
-Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco holístico - não devemos confundir com a intenção somar todos os desejos de clientes, como uma obcessão que busca atender todos os gostos. Existe uma diferença entre o trabalho de design que busca entender o que faz um cliente se envolver, e o que faz eles confiarem, com atender a desejos arbitrários. No primeiro caso você tem um norte que também traz foco e priorização. No segundo caso você tem muita coisa para fazer e se envolver mas sem noção de como e por quê priorizar. 
+Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco holístico - não devemos confundir com a intenção de somar todos os desejos de clientes, como uma obsessão que busca atender todos os gostos. Existe uma diferença entre o trabalho de design que busca entender o que faz um cliente se envolver, e o que faz eles confiarem, com atender a desejos arbitrários. No primeiro caso você tem um norte que também traz foco e priorização. No segundo caso você tem muita coisa para fazer e se envolver mas sem noção de como e por quê priorizar. 
 
 
 <!-- 
@@ -216,7 +216,7 @@ Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco hol
 * [ , further] @todo - p2 - In "Holistic design" - Consider, that the case with Magenta, what's in the air that sometimes we can't touch exactly, it's a mix, it's a blend, it's a unique blend. It's in the architecture, it's in furniture, it's in the soundtrack, it's in listening to the customers, it's in valuing the customers.
 -->
 
-No último dia que visitei o café-bar Purple presencei a cena especial da Marta levantando o vidro de uma das mesas enquanto alguém na cozinha perguntava sobre o que era. Ela explicou de quem era a nova carta. Ficou ainda mais claro como eles respeitavam aquelas cartas assim como aquele momento era um ritual. 
+No último dia que visitei o café-bar Purple presenciei a cena especial da Marta levantando o vidro de uma das mesas enquanto alguém na cozinha perguntava sobre o que era. Ela explicou de quem era a nova carta. Ficou ainda mais claro como eles respeitavam aquelas cartas assim como aquele momento era um ritual. 
 
-Espero que esta narrativa nos ajude a refletir sobre como o movimento de liderança tem poder de influenciar o design da experiência. É o movimento de liderança dá abertura para o que acontece, não só para clientes entrarem pela porta, pedirem as coisas e irem embora, mas para tudo que entra e fica; como a música ambiente, por exemplo. Com essa visão, existem consequências. A primeira é que ser líder não é sobre saber, ou sobre controlar, e sim sobre ouvir, perceber, e se conectar com um público. O outro ponto envolve reconhecer que esse movimento de abertura, por meio do pensamento do design, leva ao fechamento, as limitações de certa forma, mas ao ambiente que é coerente para aquele público e que gera confiança e com isso cria uma experiência marcante. Com isso, de forma síncrona, uma marca forte tanto para quem trabalha como para os clientes. 
+Espero que esta narrativa nos ajude a refletir sobre como o movimento de liderança tem poder de influenciar o design da experiência. É o movimento de liderança que dá abertura para o que acontece, não só para clientes entrarem pela porta, pedirem as coisas e irem embora, mas para tudo que entra e fica; como a música ambiente, por exemplo. Com essa visão, existem consequências. A primeira é que ser líder não é sobre saber, ou sobre controlar, e sim sobre ouvir, perceber, e se conectar com um público. O outro ponto envolve reconhecer que esse movimento de abertura, por meio do pensamento do design, leva ao fechamento, às limitações de certa forma, mas ao ambiente que é coerente para aquele público e que gera confiança e com isso cria uma experiência marcante. Com isso, de forma síncrona, uma marca forte tanto para quem trabalha como para os clientes. 
 
