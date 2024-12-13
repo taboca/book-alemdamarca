@@ -1,6 +1,24 @@
 
 ## Todo 
 
+
+
+
+* [ , ] @todo - p1 - In "Acelerados" - Translate to pt-br. @refid-20241212-134c3a7c-4cf0-485b-8299-327d8f665be6
+
+* [ ] @todo - p1 - In "Acelerados" - Check the Calendar "ok - adm - mozanna ep3 Thursday, December 5⋅3:00 – 4:00pm; for todo items. 
+
+* [ ] @todo - p1 - In "Acelerados" - Ainda, iremos ler, bem devagar, cada trecho da página de de um tipo de “queijo” que está adequado na regulação como um produto lácteo e onde uma das suas características principais é que não gera poços de gordura, ou seja, gera pizzas “perfeitas”, diferente daquelas pizzas imperfeitas que são feitas (como na Itália) com aqueles queijos mais caros e gordurosos.
+
+* [ ] @todo - p1 - In "Acelerados" - Check if the language can actually recognize the richness of the capitalist machine - Ref "riqueza do sistema maquina capitalista" which talks about the cheese that was bought by Christian; at the same time the experience with the Mozanna. "
+
+* [ ] @todo - p1 - In "Acelerados" - Write a draft to the "And creative" and bring the case of the power of brands, and how even top franchises are moving along, with the idea of the "visceral". 
+
+
+
+
+
+
 * [ ] @todo - p1 - In all - Consider the use of blast images within the chapters or articles, to bring some fun to the book. An example is the "blast-motoboy.jpg" image. 
 
 * [ ] @todo - p1 - In "5 estrelas para mais rápido" - Consider the case where Marcio were graded for picking up his food, going downstairs, for being hungry and having ordered. Note: So here is a remark, I am considering an idea that is not yet in the book, but I think it's worth it. And it has to do with an experience that I had where I was, to a certain extent, required to grade the delivery person. And this kind of pressure is not uncommon in Brazil, for instance, among Uber drivers. But then this time was pretty new to me because I was not expecting the delivery boy from the motorcycle to tell me that he gave me five stars. And in the circumstances of my apartment, actually, normally they deliver at the entrance, and that's it, that's just about delivery of the food. And I am the person that gives them stars. But this day, I was hungry, and I ended up going downstairs and waiting there. And then he told me that he gave me five stars because I did a good job, something like that. And the tone were of a pressure, I felt, but I couldn't understand because it was totally new for me. And I was, when I came back to the apartment with the pizza in my hand, I was wondering, oh, how interesting, I was just graded for doing the job of picking up the food that I already ordered and I wanted in the first place. @refid-20241212-3990c882-2f5f-491b-928a-493e1f46cbb6
@@ -46,17 +64,6 @@
 * [ ] @todo - p1 - In values and progress In #progress #buildtolast #core "Values and progressing", after we arrive at concept from Build to Last, consider the insight from Dorothea Brande's about how it feels, an apparent trick? Where the progress with "purposeful action" feels fast, and her point that purposeful action is stronger. (Ref 160_progressing_with_no_core)
 
 * [ ] @todo - p1 - In values and progress In #progress #buildtolast #core - Bring the case of Jim Collins into the subject, the case of entrepreneurs. Ref /  as we consider this idea we should incorporate here the ideas from Jim Collins and Jerry Porras, through the book Build to Last, where they present the concept of "preserve the core, and stimulate progress". (Ref 160_progressing_with_no_core)
-
-* [ ] @todo - p1 - In "Fornecedores acelerados" - Check the Calendar "ok - adm - mozanna ep3 Thursday, December 5⋅3:00 – 4:00pm; for todo items. 
-
-* [ ] @todo - p1 - In "Fornecedores acelerados" - Ainda, iremos ler, bem devagar, cada trecho da página de de um tipo de “queijo” que está adequado na regulação como um produto lácteo e onde uma das suas características principais é que não gera poços de gordura, ou seja, gera pizzas “perfeitas”, diferente daquelas pizzas imperfeitas que são feitas (como na Itália) com aqueles queijos mais caros e gordurosos.
-
-* [ ] @todo - p1 - In "Fornecedores acelerados" - Check if the language can actually recognize the richness of the capitalist machine - Ref "riqueza do sistema maquina capitalista" which talks about the cheese that was bought by Christian; at the same time the experience with the Mozanna. "
-
-* [ ] @todo - p1 - In "Fornecedores acelerados" - Write a draft to the "And creative" and bring the case of the power of brands, and how even top franchises are moving along, with the idea of the "visceral". 
-
-* [ ] @todo - p1 - @footnote footnote_oceano_vermelho
-
 
 * [ ] @todo - p1 - In "Mais é menos" - consider what "passa despercebido", como o menu de 256 tipos de pizza que ainda traz uma última opção “faça sua própria pizza”. 
 * [ ] @todo - p1 - In "Mais é menos" - iremos contar as moedinhas coloridas de chocolate das pizzas doces que nossos filhos adoram. 

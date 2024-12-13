@@ -1,5 +1,7 @@
 ## Todo footnotes 
 
+* [ , further ] @todo @todo-footnote - p1 - In "Acelerados" - Add the footnote, footnote_oceano_vermelho. @refid-20241212-b2a4b3b0-bc43-4f48-8b82-fb47c50ccf1a
+
 * [ , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
 
 * [ ] @todo - p1 - @footnote footnote_oceano_vermelho

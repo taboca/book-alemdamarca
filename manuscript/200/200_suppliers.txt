@@ -1,4 +1,4 @@
-## Fornecedores acelerados 
+## Acelerados 
 
 <!--
 
@@ -11,15 +11,19 @@
 
 @todo 
 
-* [ ] @todo - p1 - In "Fornecedores acelerados" - Check the Calendar "ok - adm - mozanna ep3 Thursday, December 5⋅3:00 – 4:00pm; for todo items. 
+* [ , ] @todo - p1 - In "Acelerados" - Translate to pt-br. @refid-20241212-134c3a7c-4cf0-485b-8299-327d8f665be6
 
-* [ ] @todo - p1 - In "Fornecedores acelerados" - Ainda, iremos ler, bem devagar, cada trecho da página de de um tipo de “queijo” que está adequado na regulação como um produto lácteo e onde uma das suas características principais é que não gera poços de gordura, ou seja, gera pizzas “perfeitas”, diferente daquelas pizzas imperfeitas que são feitas (como na Itália) com aqueles queijos mais caros e gordurosos.
+* [ ] @todo - p1 - In "Acelerados" - Check the Calendar "ok - adm - mozanna ep3 Thursday, December 5⋅3:00 – 4:00pm; for todo items. 
 
-* [ ] @todo - p1 - In "Fornecedores acelerados" - Check if the language can actually recognize the richness of the capitalist machine - Ref "riqueza do sistema maquina capitalista" which talks about the cheese that was bought by Christian; at the same time the experience with the Mozanna. "
+* [ ] @todo - p1 - In "Acelerados" - Ainda, iremos ler, bem devagar, cada trecho da página de de um tipo de “queijo” que está adequado na regulação como um produto lácteo e onde uma das suas características principais é que não gera poços de gordura, ou seja, gera pizzas “perfeitas”, diferente daquelas pizzas imperfeitas que são feitas (como na Itália) com aqueles queijos mais caros e gordurosos.
 
-* [ ] @todo - p1 - In "Fornecedores acelerados" - Write a draft to the "And creative" and bring the case of the power of brands, and how even top franchises are moving along, with the idea of the "visceral". 
+* [ ] @todo - p1 - In "Acelerados" - Check if the language can actually recognize the richness of the capitalist machine - Ref "riqueza do sistema maquina capitalista" which talks about the cheese that was bought by Christian; at the same time the experience with the Mozanna. "
+
+* [ ] @todo - p1 - In "Acelerados" - Write a draft to the "And creative" and bring the case of the power of brands, and how even top franchises are moving along, with the idea of the "visceral". 
 
 -->
+
+### Soluções eficientes  
 
 It actually took me years to understand it wasn’t actually cheese, although I suspected as a decade passed. For me, it was something like cheese, likely mainly because it was being used in the place of cheese. It had a particular color, a particular texture, a particular flavor, and these elements particularly characterizing these kinds of food, and because of that it had particularly given it a pejorative nickname, I was started to call it as “massupiri”, mass from “massa” and piri because it was generally used as a brand of a particular cheese which was quite popular in Brazil, which for here I will call it Pirypiry. Anyway I caught myself using massupiri at some point, and more and more, as the thing were appearing, generally in pizzas, but also inside “esfiras”, and the “pão de batata”, and also, unfortunately, inside the “kibe”. I should make a point that “massupiri” were actually appearing in the category of more affordable foods, for example the large size low end pizzas in Brazil which today cost between 10 to 15 dollars. So, if you happen to eat the high end pizzas, generally 15 USD plus for a large, maybe you may not confirm it. 
 
@@ -77,6 +81,11 @@ Considerar a questão onde certas soluções tipo performance, se encaixam, mas 
 
 Opta por performance, sim, mas ao mesmo tempo opta por velocidade o que pode sim lhe posicionar em uma situação de mais que é menos no sentido porque parece econômico, parece mais eficiente, mas essencialmente significa atropelar o movimento de gestão de liderança; ainda alimentando obsessão por mais, mais performance, mais desconto, mais volume, mais clientes, mais movimento, mais vendas. Essencialmente, ainda que isso tudo gera um movimento de “mais lucro” , temos que nos alertar que essencialmente isso é alimentar nosso envolvimento no oceano vermelho [^footnote_oceano_vermelho], o mar de sangue onde muitos batalham com as mesmas armas. Neste mar vermelho, você é mais um. 
 
+<!--
+@todo 
+* [ , further ] @todo @todo-footnote - p1 - In "Acelerados" - Add the footnote, footnote_oceano_vermelho. @refid-20241212-b2a4b3b0-bc43-4f48-8b82-fb47c50ccf1a
+--> 
+
 [^footnote_oceano_vermelho]: 
 
 <!--
@@ -85,7 +94,7 @@ Opta por performance, sim, mas ao mesmo tempo opta por velocidade o que pode sim
 * @reference - UOL. Parece queijo, tem gosto de queijo e é vendido como queijo, mas não é queijo. VivaBem, 21 set. 2023. Disponível em: https://www.uol.com.br/vivabem/noticias/redacao/2023/09/21/parece-queijo-tem-gosto-de-queijo-e-vendido-como-queijo-mas-nao-e-queijo.htm. Acesso em: 3 dez. 2024.
 --> 
 
-### Promoções 
+### Campanhas 
 
 
 ### Fachadas 
