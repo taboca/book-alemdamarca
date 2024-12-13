@@ -14,7 +14,15 @@ Desenho capa sugestão - Mar turbulento, abaixo, com fragmentos de lixos de iten
 
 ## Brand 
 
-* [ ] Todo, recheck checking with Registro.br 
+* [ ] Await, "Tipo	Situação	Descrição	Data limite Processo de Liberação	Aguardando fim do processo de liberação		18/12/2024 15:00:00" 
+* [Done] filled form to be in the queue. 
+* [Done] Todo, recheck checking with Registro.br 
+
+## Editors and publishers
+
+* [ ] @todo-publishing - follow up with Senac. 
+* [ ] @todo-publishing - follow up with Fabricio Laguna's friend
+* [ ] @todo-publishing - follow up with Fabiano Caxito's contacts 
 
 ## Networking and knowledge - @rafaeltoron
 
