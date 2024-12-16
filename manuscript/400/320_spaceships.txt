@@ -163,7 +163,12 @@ Now, even when we manage to open up our time and intention to find value in new 
 ### Community bounds 
 
 <!--
+
+@doc ref v0.1 https://docs.google.com/document/d/1VbMwqbuO7kuEN2ZgLeCg2Ej-XuBZdx4hzyXDZWauxZg/edit?tab=t.0 
+@this v0.1 
+
 @todo 
+
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Reflect on the dual considerations for "spaceships": (A) as a manifestation of the "scratch and itch" effect, and (B) as the birthplace where community values are exercised in a colleagueship context. Review Reid Hoffman's point from his interview with Brian Chesky, which emphasizes how being guided by the community provides essential guidelines. Incorporate this perspective into the framing of spaceships, highlighting the role of community strength and guidance. @refid-20241210-4cf621a1-6f56-4475-939a-3d660760e8c5
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Translate the story of the extended experience at Experiencia, to pt-br. @refid-20241216-27abb370-76a5-4e00-b6be-12934abea5f4
