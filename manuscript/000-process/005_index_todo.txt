@@ -1,6 +1,23 @@
 
 ## Todo 
 
+* [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
+
+
+
+* [ , anchored] - @todo - p1 - In "Part 2, QRCode" - Consider to conclude with the acknowledgement of the force, of management, driven by market forces naturally, which pressures the young - acting as a sort of glue (filling the gap, or a tertius gaudens)  to make it work, the technology which doesn't, naturally. @refid-20241217-6a225964-6890-4c20-b6c0-fa1ef4c39db3
+
+* [ , anchored] - @todo - p1 - In "Part 2, QRCode" - check how the following paragraph actually refers to the other section  given in the part one, "A comunicação, a tecnologia" @refid-20241217-a44f289f-a86f-499c-98f3-c93e1f178c3f
+
+
+
+
+
+* [ , ] @todo - p1 - In "Part 1, communications - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB
+
+* [ , anchor] - @todo - p1 - In "Part 1, Communications" - Consider the #dup reference to the (5 stars) case of the shopping center promotion. @refid-20241217-be8f95de-095e-4a5a-9aa9-84e578ff9972
+
+* [ ,anchor] @todo - p1 - In "Part 1, Communications" -  Consider the me me me usage, and replace with us, or me connecting with us. @refid-20241217-45791c52-2ab6-4ca1-a19a-f8ebeb42c4ae
 
 * [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
 
