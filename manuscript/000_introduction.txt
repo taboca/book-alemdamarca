@@ -1,7 +1,12 @@
 # Introdução #
 
-
 <!--
+
+@todo 
+
+* [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
+
+@outline 
 
 * Originality - SCqA of the introduction - Situation of us being trapped, in this world, by the market, the problem of acceleration. The reading, aspect A, will give us the opportunity to the "in the establishment" but not there.  Highlights - "I was not there, as a cheff, as an entrepreneur, a collaborator, or even a customer." Highlights - This trip, outside, is a must especially to anyone in this area, because of an intrinsic mechanized experience whcih comes with these places, the impossibility of not being there. 
 
@@ -22,15 +27,16 @@
 
 
 * English original - When I were revisiting one of the greatest books about writing, *Becoming a Writer* from Dorothea Brande which were originally written in 1936; I felt a great deal of value when I saw how she positioned her book and with that she were too pointing a phenomenon she observed about the one on the path of a writer. What she said, in *What Writers are Like* is that "This volume is not intended to replace those books on craftsmanship". The books on craftsmanship would be the many good materials about writing, about the techniques such as writing fiction. Following up with what she said, she added that "this book is not even a companion volume to such works as those; it's a preliminary to them." When she positioned hers as a material to be read before, she is setting the reader to know, to be aware, of their willingness to go, for for the materials, to seek answers, to some extend the very willingnesss that may create trouble on their way in many circunstances. As the followS that recognition, that there are things on the writer's way on their way, she is inviting the reader to stop, to pause the movement, which sounded like a sort of meditative experience. Actually, through the boo, she does point some exercises related to meditation although I say "like meditation" because what she is doing is exactly setting the reader to capture a moment that may exist before the moment, to capture the being that animates the being willing to be a writer, and to be aware of that one who is eager to become. I felt quite happy, and comfortable, when she wrote that, in a way giving permission to really pause the movement; and setting many writers to see the world, starting with them, not stepping on top of them. What Dorothea Brande gave me, that allowance to pause my own movement, before the world's, is a value that certainly transcended - beyond the value it gave to me as a writer - and is, to some extent, carried on here in this book too. Because here we have no recipes, nothing really about food, nothing like predictions about the futute of eating experiences, not even about what kind eating experiences are healthier or not - although the whole point of the books connects with the general idea of a healthier path. This book, to some extent, is outside the shelves of many in the domain because it is essencially concerned, and interested, with the human being's potential. So, when we think that any of us enters some establishments to help, for those moments, this book is beyond anything a celebration of that opportunity, of that moment; interested in asking us to respect that point, that intention, in the first place; beyond all respect the very self that is right there. 
+
 -->
 
-Revisitando um trecho de um livro que mais fez diferença na minha vida como escritor, *Becoming a Writer* de Dorothea Brande, me conectei profundamente com a forma que ela posicionou seu livro que de forma síncrona começou a explorar um fenômeno no caminho do ser escritor. O que ela disse, em *What Writers Are Like*, foi: "Este volume não é destinado a substituir aqueles livros sobre a técnica." Ela está reconhecendo a existencia de ótimos materiais sobre escrita, sobre técnicas de escrita ou sobre ficção, por exemplo. Na sequência, ela acrescentou que "este livro não é nem mesmo um volume complementar a tais obras; é preliminar a elas" (tradução nossa) (Brande, 2019, p. 17-18).
+Revisitando um livro que fez diferença na minha vida como escritor, *Becoming a Writer* de Dorothea Brande, me conectei profundamente com como ela posicionou este livro detro da jornada de se tornar um escritor. Ela disse, em 1934, que "Este volume não é destinado a substituir aqueles livros sobre a técnica," reconhecendo que haviam ótimos materiais sobre o assunto, como as técnicas de escrita ou por exemplo ficção. Na sequência, ela acrescentou que "este livro não é nem mesmo um volume complementar a tais obras; é preliminar a elas" (tradução nossa) (Brande, 2019, p. 17-18).
 
-E assim ela segue, a cada página, conduzindo o futuro escritor a perceber seu próprio movimento, o movimento que nem mesmo pode ser visto. Ou ela convida o leitor para pausar seu próprio movimento, e assim perceber. Ao longo do livro, ela aponta alguns exercícios relacionados à meditação, embora eu diria "como meditação" porque o que ela quer é justamente preparar o leitor para falar sobre, para perceber o momento, o movimento antes do movimento. 
+Desta forma, o leitor é convidado para perceber o movimento antes do movimento. Conforme avancei percebí a importância dessa conscientiazação e ao mesmo tempo encontrei conforto. Porque era desconfortável pensar em quebrar qualquer que fosse o movimento, o movimento conectado com o externo, com o mundo, acelerado e orientado por resultados. Também fiquei surpreso ao ler sobre isso e perceber, agora quase um século depois, que essa ideia é ainda mais importante; por conta, justamente, do nosso ambiente externo não se preocupa com esse movimento preliminar e consciente. 
 
-Avançando pelo livro, e ao perceber que era realmente sobre isso, me trouxe conforto porque justamente precisamos de permissão para quebrar o movimento que de certa forma seguimos, acompanhando o movimento do mundo. Ela me deu isso, permissão para pausar meu próprio movimento e com isso a oportunidade de me ver e de ver como muitas vezes eu estou simplemente guiado. Com essa permissão, a cada momento ficava cada vez mais claro que grande parte dos problemas no meu caminho - do meu desenvolvimento como escritor mais mais do que isso como ser humano -  de fato estava ligado a um modo automático de avançar, que me atropelava, de certa forma talvez também ligado a um movimento quando passamos por cima de nós mesmos. O que Dorothea Brande me deu, essa permissão para ver meu próprio movimento diante do mundo, transcendeu no rumo deste trabalho, porque logicamente é sobre o que antecipa o escritor, o ser que se torna. 
+Digo conforto porque precisava de permissão para essa ideia que hoje parecia não inadequada. Com essa permissão, encontrei o momento de reflexão, sobre o meu movimento e sobre como somos todos guiados. Com essa permissão, a cada momento, fui também encontrando clareza sobre a origem de problemas no meu caminho como ser humano e no caminho do meu desenvolvimento como escritor. O que a Dorothea Brande me deu, começando com aquela permissão para ver o movimento acelerado em sincronia com o mundo, transcendeu, gerando este trabalho. 
 
-Este valor, de certa forma, está presente aqui neste livro. Porque aqui você não irá encontrar receitas, ou técnicas ou conteúdo sobre pratos ou sobre as melhores experiências culinária. Não irá encontrar processos de gestão para um ou outro tipo de estabelecimento. Nada também sobre o futuro das experiências nos estabelecimentos nem mesmo sobre o caminho que estamos indo, por exemplo se o todo será mais saudável ou não, embora o livro de certa forma está conectado à ideia geral de um caminho saudável para se construir estabelecimentos de alimentação. Este livro, de certa forma é preliminar, porque está essencialmente preocupado e interessado em preservar o potencial do ser humano. Desta forma, se a nossa presença nos estabelecimento é necessária, para ajudar por um intervalo de tempo, nos guiamos por um movimento que depende de estarmos conscientes sobre nossa saúde e sobre a preservação do nosso potential.  
+Este valor, de certa forma, está presente neste livro. Desta forma, você não irá encontrar receitas, técnicas, fórmulas, ou processos de gestão. Nada também sobre o futuro das experiências nos estabelecimentos de alimentação. Este livro, desta forma, é preliminar por estar guiado por uma intenção de preservar o potencial do ser humano. Desta forma, se a nossa presença nos estabelecimento é necessária, nossa intenção é possamos estar lá, conscientes, sobre a nossa saúde em primeiro lugar. 
 
 <!--
 @references 
@@ -40,40 +46,32 @@ BRANDE, Dorothea. Becoming a Writer. General Press, 2019. Original de 1934.
 
 ### Você é um escritor 
 
-De certa forma, por esses caminhos que se seguem, você está convidado para escrever. Ao ser guiado, fora do seu espaço padrão, o seu momento de escrita emerge, pelos cantos, pelas histórias, por um deslocamento. Se a visão do autor fosse muito relevante, como uma visão que tenta passar uma estrutura, como uma forma de ver, como uma receita, então seria a experiência puramente uma leitura. O que temos aqui são momentos intencionados a permitir esse movimento que não quer fechar. O que temos pela frente é como entrar em um avião sabendo de um destino, de certa forma, que segue um design, mas quando uma vez lá, no assento, também sabemos menos sobre exatamente como agir, sobre como serrão as coisas do lado de lá. O que temos a frente, é um local diferente, diferente como um local onde as pessoas falam um idioma estrangeiro, como um local com um clima diferente em outra estação. Se por um lado a intenção é deslocar, de certa forma entregando uma contexto diferente, ao mesmo tempo essa experiência não quer impor regras sobre como experienciar, de forma que o leitor possa, como dito, escrever. Escrever, neste momento, vem de várias formas, vem como a vontade de escrever, vem com emoções sentidas, vem porque estamos deslocados de fato do momento presente, da nossa forma de ver padrão, vem quando queremos comentar, quando queremos um movimento diferente daquilo que normalmente faríamos.  
+De certa forma, por esses caminhos que se seguem, você está convidado para escrever. Ao ser guiado, fora do seu espaço padrão, o seu momento de escrita emerge, pelos cantos, pelas histórias, por um deslocamento. Se a visão do autor fosse muito relevante, como uma visão que tenta passar uma estrutura, como uma forma de ver, como uma receita, então seria a experiência puramente uma leitura. O que temos aqui são momentos intencionados a permitir esse movimento que não quer fechar. O que temos pela frente é como entrar em um avião sabendo de um destino, de certa forma, que segue um design, mas quando uma vez lá, no assento, também sabemos menos sobre exatamente como agir, sobre como serrão as coisas do lado de lá. O que temos a frente, é um local diferente, diferente como um local onde as pessoas falam um idioma estrangeiro, como um local com um clima diferente em outra estação. Se por um lado a intenção é deslocar, de certa forma entregando um contexto diferente, ao mesmo tempo essa experiência não quer impor regras sobre como experienciar, de forma que o leitor possa, como dito, escrever. Escrever, neste momento, é como a escrita antes da escrita, aquilo que nos faz querer comentar, expressar, perguntar, conversar. Essa vontade depende de um deslocamento do momento presente, ou automático, da nossa forma de ver, padrão. 
 
-Se proporcionar este tipo de viagem é valioso, penso que é mais especial quando falamos dos estabelecimentos de alimentação. Isso porque todos nós conhecemos muito bem o que é estar em um estabelecimento de alimentação, como usuários, consumidores, em primeiro lugar. Sabemos que o ambiente nos toma, de certa forma. Não exatamente como uma narrativa de ficção que nos leva para um outro mundo, como um mundo novo, que nos desloca da realidade. Estar no estabelecimento, como consumidor, nos toma porque em geral estamos lá já intencionados, de certa forma conduzidos por uma situação anterior. Em outras palavras, somos mas conduzidos por nossas expectativas que antecipam o momento do que pela própria experiência do local. 
-
-Em geral, no presente, podemos estar com fome, ou com pressa, ou com intenção de comer bem rápido, ou de voltar para a rotina, para o dia, para o trabalho ou para casa. Ou estamos com alguém especial, alguém que poderá ser o grande amor. Ou conversando com o chefe e sobre coisas que definirão o nosso futuro no emprego. Ou estamos em um momento com a nossa família, um momento especial falando de algo importante com um amigo ou amiga. Estamos conduzidos pela situação do momento, tão conduzidos que, em geral, escolhemos onde ir, porque de certa forma precisamos que o local se encaixe com o momento. 
-
-Então, quando falo sobre o deslocamento, é sobre isso, sobre essa possibilidade de, agora, estarmos lá sem estar lá. Agora, essa é uma leitura que faço sobre o porquê acabei me tornando o autor desse material, falando sobre esse assunto assim, porque não estive lá, nos estabelecimentos, em primeiro lugar. Nâo como um chefe de cozinha, não como empreendedor, nem mesmo como colaborador e especialmente não estive lá como cliente. 
-
-Mas foi por muitos espaços, dentro de cafés ou padarias por exemplo o café Pagliaroni em Ribeirão Preto, que me envolvi de certa forma com as experiências que me levaram a várias narrativas. Relendo algumas das cartas que escrevi para os donos dessa cafeteria, por exemplo, me peguei muitas vezes começando assim: "Sei que esta reflexão um tanto filosófica.." Em outro episódio eu comecei dizendo que "deixo essa reflexão que está fora do tempo..". Em alguns momentos eu me perguntei: Será que eu estou rodeando? Será que eu quero ser um empreendedor de um estabelecimento como esse? Ou será que quero atender as pessoas? Será que quero me envolver? Será que quando estou dentro e fora da realidade desses espaços estou de certa forma querendo estar mais próximo desse tipo de ambiente? E pode ser que tem algo a mais, lá no fundo, sobre esse assunto. 
-
-Mas eu fico menos preocupado e mais feliz em ter entendido, percebido de fato, esse fenômeno onde eu estive lá ao mesmo tempo que não estive lá. Então eu coloquei em um momento fora do tempo. Muitos dos materiais que trouxe aqui vieram desses momentos, de lembranças de experiências nesses espaços, que me levaram a reflexões, por conta de estar lá sem pressa ou sem fome ou sem o chefe ou sem a família. Por exemplo, penso que alguns dos funcionários do Café Pagliaroni talvez se perguntaram "o que ele faz?". Eu sei que um dia eu subi no segundo andar do café, que é a região do antigo Hotel Palace em Ribeirão Preto, porque lá havia encontrado o Instituto do Livro, estava lá para apresentar uma apresentação que criei sobre escrita; e quando cheguei lá me apresentei a funcionária que logo de cara falou "nós sabemos quem você é, sabemos que você fica lá, falamos pelas suas costas." E faz sentido porque fiquei lá por praticamente um ano, escrevendo, trabalhando em dois ou três livros ao mesmo tempo, mas o que eu estive fazendo lá era bem diferente do que muitos dos clientes. Na visão de fora, esses comentários provavelmente especulavam - ele deve gostar do café, ou do lugar. Talvez sejam as paredes, ou o ambiente do antigo hotel Palace que é apropriado para o escritor? Mas era pouco orientado a isso e mais a ser um espaço, um ambiente para escrever, que me deu a oportunidade de avançar. Quando faço minha reflexão, olhando para trás, eu sei que muitas vezes, e muitas vezes eu realmente trabalhei dessas cafeterias e desses espaços. Uma mesa. Então, de certa forma, eu não estava lá. Eu olhando para trás eu sei que sempre fiz isso. Trabalhando de cafés, lendo, escrevendo, anotando. Mas sim, de certa forma olhando muita coisa sobre o que acontece no espaço, observando. Mas, de novo, sem estar lá. Ou melhor, estando e não estando. Sem a família, sem grande vontade de comer. Sem uma reunião complexa acontecendo, sem fome, sem pressa. Por exemplo, antes do Café Pagliaroni instalar o corrimão perto do degrão, eu devo ter observado umas 10 pessoas tropeçarem. Provavelmente escrevi para eles pelo menos metade dos casos. E não esqueço a última carta, antes do corrimão ser instalado, que narrei o maior de todos os tombos. 
-
-Então, eu te convido agora, para este momento, que é diferente exatamente por essa razão, por oferecer esse tipo de viagem, ou visita, para dentro de muitos estabelecimentos, mas um dentro do lado de fora, fora do momento presente, E por isso temos um momento único, que coloca você leitor no que chamo de posição de escrita. 
-
-Agora, podemos celebrar nessa introdução que o estabelecimento de alimentação cumpre uma função social; e que, aqui, ao estarmos fora da realidade presente que nos leva a esses ambientes, então bem posicionados para essa primeira reflexão sobre essa questão social: Agora, podendo perceber essa função social que todo estabelecimento faz, a função social que é proporcionada pelo ambiente, ou preenchida pelo ambiente, e pela comida e serviço. 
+Se este tipo de viagem é valiosa, penso ser mais especial quando falamos de estabelecimentos de alimentação. Isso porque conhecemos o que é estar lá, como usuários e consumidores, em primeiro lugar, no ambiente nos toma. Não como uma narrativa de ficção que nos leva para um mundo novo e nos desloca da realidade. 
 
 
+No estabelecimento, como consumidores, somos tomados a partir do momento que entramos lá, pré-intencionados. Conduzidos por uma situação anterior somos guiados por uma esteira. Onde, mesmo seguindo expectativas nos tornamos presos a experiência, definidos pelo contexto que é local, cultural, social e tecnológico.
+
+<!--
+@todo 
+* [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
+--> 
 
 
+Nesta hora, na hora H, estamos ou com fome ou com pressa, com a intenção de comer rápido para voltar para a rotina, para o trabalho ou para a casa. Ou estamos com alguém especial, talvez diante de um grande amor, ou conversando com o chefe sobre o futuro do nosso emprego. Ou em um momento de família celebrando alguma coisa importante, ou com um amigo ou amiga conversando sobre coisas difíceis. Mas o que nos leva lá não deixa de lado aquela situação anterior, aquele momento. Por isso precisamos de um deslocamento e de entrar nessa aeronave para outro destino bem longe. Mas não como aquelas viagens onde sem perceber estamos seguindo o movimento do guia que nos empurra com experiências estranhas que ameaçam acabar com nossas férias. 
 
+De certa forma, foi um deslocamento que levou a esse livro. Porque muitas vezes não estive lá. Não na cozinha, não como colaborador, nem como empreendedor e nem mesmo como cliente. Eu só estive lá, trabalhando por lado, observando por outro, às vezes descontente, às vezes frustrado, em outras situações surpreso, em outras encantado.
 
+Uma das minhas maiores viagens foi no Café Pagliaroni em Ribeirão Preto. Relendo algumas das cartas escritas, me peguei começando assim: "Sei que esta reflexão um tanto filosófica.." Em outro episódio, comecei com "deixo essa reflexão fora do tempo..". Em alguns momentos eu me perguntei: Será que eu estou rodeando? Será que eu quero ter um estabelecimento como esses? Ou será que quero atender as pessoas? Será que quando estou lá quero me aproximar? Sim, pode ser que tem algo mais, lá no fundo, sobre esse assunto. 
 
+Mas eu fico menos preocupado e mais feliz por ter percebido o valor de estar lá e não estar lá, praticamente por um ano, trabalhando em outras coisas certamente em um contexto diferente da maioria dos clientes. Foi esbarrando em observações, reflexões e pensamentos, que acabei escrevendo aquelas cartas. E foi também em um movimento desacelerado, que pude observar, em algumas das respostas, a palavra parceiro. Em um episódio, antes do café instalar o corrimão perto do degrau da entrada, eu já havia observado cerca de 10 casos de pessoas que tropeçaram lá. Provavelmente, eu escrevi para eles na metade dos casos. Mas eu não esqueço a última carta - a última antes do corrimão ser instalado e nunca mais ver alguém cair - quando escrevi uma pequena narrativa sobre o maior de todos os tombos até então, a cena da mulher que foi de cabeça para o vidro depois de torcer o pé, que gerou outra cena com uma movimentação de colaboradores para ajudá-la. Naquele dia, muita coisa ficou clara para todos que estavam lá, de certa forma acelerados e focando. Mas sou feliz que naquela altura eu havia já observado, escrito, e enviado cartas sobre os pequenos tropeços que aconteciam frequentemente. 
 
 
 
-### Complication 
+### Seja bem-vindo 
 
-
-E exatamente esse contexto que podemos considerar sobre o que é este material. É sobre a experiÊncia da rotina, sobre uma lógica que existe, que nos carrega, e que ao fazer de forma mais acelerada nos dá uma grande razão para reavaliarmos a situação, ao menos considerarmos que a lógica é atuante. Quando o mundo fica mais acelerado, mecanizado por esse uso social, quando clientes se tornam grupos de pessoas parte de um ercado, n´so sim nos orientamos por muitos dos sinais. E faremos assim , como protagonistas que caracterizam nossos espaços, porque a vida nos diz que temos afazer assim. É tão tão diferente a experiêcia do cliente na correria e dos líderes que definem seus estabelecimentos - o cliente logo de cara sempre encontra o que é esperado no menu, uma vez que definiu o estilo do espaço, para aquele momento. Ele cai, se encaixa, por conta que procurou um tipo de espaço - como se estivesse certo sobre o que quer encontrar lá. E, de forma não diferente, quando os líderes definem um tipo de espaço, eles também sabem exatamente o que é, o tipo de pizzaria, de loja de açaí, de restaurante por kilo, ou de rodízio, ou pizzaria com espaõ para crianças ou estabelecimento de fritar coisas, salgaderias, padarias, conveniência. Tudo já está dito como é. 
-
-
-Entrar neste encaixe não é tão grave, aparentemente, no início. O problema é estar tão atolado que não percebemos o que o encaixe existe. A situação tanto para o clinte como o local pode ocorrer, quando o cliente continua a ir em um local que não gosta. E os envolvidos na liderança também podem fazer isso - podem só estar executando uma máquina supostamente eficiente mas sem nenhuma sintonia com ou opinão, nada mais que estando no local de implementadores acelerados. 
-
-
+Então, bem-vindo a bordo. Eu espero que essa viagem seja agradável. De fato, minha intenção é a própria despressurização da cabine: Uma oportunidade para respirarmos, para o adulto, para olhar para o nosso presente, por fora, como o adulto que cuida do adulto. Espero que esse seja um momento único, que coloca você, leitor, nessa posição de escrita, que envolverá, sim, um processo consciente, mais calmo, e onde espero que contribua com um futuro melhor para você, e que o resultado do seu trabalho seja bom, não só para todos ao seu lado, clientes, colaboradores, investidores, etc., mas também para o mundo.
 
 (To the above?) De forma geral, esse projeto traz uma preocupação com relação à influência do meio ambiente moderno no comportamento humano [1]. Com relação aos estabelecimentos de alimentação, nos preocupamos com o avanço das tecnologias, especialmente as experiências comunicativas, e a influência no movimento de liderança, construção da marca, identidade de negócio e bem-estar dos colaboradores.
 
@@ -81,21 +79,9 @@ Duas situações nos levam a considerar o problema.
 
 A primeira é que muitos estabelecimentos focam na execução em primeiro lugar, seja por conta da própria atenção voltada aos processos que garantem a experiência do cliente, ou por outras, como falta de investimentos. O autor Fabrício Morini, em Faça seu Negócio Decolar, nos lembra que o fazejamento é a execução sem planejamento. 
 
-
 Pouco mudou neste sentido. Por outro lado, muita coisa está mudando do nosso lado. Diante das tecnologias e experiências comunicativas, enquanto o físico se aproxima do digital, estamos mais conectados com o ambiente, entre clientes, fornecedores, parceiros e outras vozes que influenciam nossas decisões.  
 
-
 Do lado dos clientes, a interação que era lenta e controlada - com sugestões e reclamações no estabelecimento e o boca-a-boca lá fora - hoje está mais dinâmica. Eles não pensam duas vezes antes de comentar, avaliar e recomendar. E suas razões e formatos variam, com comentários simples ou narrativas elaboradas, entre Likes e vídeos com efeitos incríveis, eles se expressam entre amigos ou para o mundo, em grupos privados ou publicamente. 
-
-
-
-
-
-
-
-
-
-
 
 Do lado dos fornecedores, temos mais soluções e narrativas mais elaboradas que prometem resolver muitos dos desafios: as  fachadas, mesas, cardápios, promoções e muito mais. Além disso, agora também existem plataformas que são populares e que resolvem outras áreas como aquisição de clientes, experiência de pedidos, pagamentos, entregas, e muito mais.  
 
@@ -103,20 +89,12 @@ Entre esses lados, o que fazer e como fazer, nossa operação fica empoderada, c
 
 Se por um lado é um ambiente empoderador, por outro nos bombardeia com narrativas. E voltando ao grande desafio, devemos nos perguntar se este meio pode influenciar nossa operação assim como as consequências para a saúde do negócio e o bem estar dos envolvidos. 
 
-
-
-
-
 ### Gka 
-
-
 
 Para estruturar o problema, simplificamos a questão como sendo um problema de foco. Com esta lógica, partindo do princípio que a operação investe energia e atenção, consideramos uma situação onde as narrativas do ambiente influenciam o movimento de liderança,  especialmente quando a operação é desprovida de valores próprios (no sentido de princípios guiados por propósito). Neste cenário, o movimento de liderança é enfraquecido, porém essencialmente sem consciência, não só por conta do foco na operação mas também pelo ambiente persuasivo. Em outras palavras, o fazejamento torna-se um fazejamento potencializado. 
 
 Além disso, consideramos outros efeitos paralelos; em especial, a caracterização da marca, que passa a ser construída por este movimento, impactando tanto a identidade e saúde do negócio como o bem-estar dos colaboradores. 
 Ainda que a questão seja relevante, é importante sensibilizar o leitor, justamente pela premissa do foco dividido. Neste sentido, duas perspectivas conduzem o leitor a se sensibilizar e entender o problema: A bolha da comunicação e a bolha dos estabelecimentos. 
-
-
 
 
 ### Parte A 
@@ -132,7 +110,6 @@ E mais, que pode nos transformar como sendo superpodedoros, por justamente estam
 * Narrative rationality 
 * Attention spetrum reduced 
 -->
-
 
 ### Parte B 
 

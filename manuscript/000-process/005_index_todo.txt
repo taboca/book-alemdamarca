@@ -2,7 +2,7 @@
 ## Todo 
 
 
-
+* [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Translate the story of the extended experience at Experiencia, to pt-br. @refid-20241216-27abb370-76a5-4e00-b6be-12934abea5f4
 
