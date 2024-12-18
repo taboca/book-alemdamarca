@@ -6,6 +6,8 @@
 
 * [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
 
+* [ , anchored] @todo - p1 - In "Introduction" - Check if the point of Dorothea's thoughts can be contextualized, different from slowing down, towards "trancending", not slowing down the same accelerated, but about gaining awareness about the process. @refid-20241217-08837f4e-4a89-4e51-8466-42e69f4c4e6e
+
 @outline 
 
 * Originality - SCqA of the introduction - Situation of us being trapped, in this world, by the market, the problem of acceleration. The reading, aspect A, will give us the opportunity to the "in the establishment" but not there.  Highlights - "I was not there, as a cheff, as an entrepreneur, a collaborator, or even a customer." Highlights - This trip, outside, is a must especially to anyone in this area, because of an intrinsic mechanized experience whcih comes with these places, the impossibility of not being there. 
@@ -31,6 +33,12 @@
 -->
 
 Revisitando um livro que fez diferença na minha vida como escritor, *Becoming a Writer* de Dorothea Brande, me conectei profundamente com como ela posicionou este livro detro da jornada de se tornar um escritor. Ela disse, em 1934, que "Este volume não é destinado a substituir aqueles livros sobre a técnica," reconhecendo que haviam ótimos materiais sobre o assunto, como as técnicas de escrita ou por exemplo ficção. Na sequência, ela acrescentou que "este livro não é nem mesmo um volume complementar a tais obras; é preliminar a elas" (tradução nossa) (Brande, 2019, p. 17-18).
+
+
+<!--
+@todo 
+* [ , anchored] @todo - p1 - In "Introduction" - Check if the point of Dorothea's thoughts can be contextualized, different from slowing down, towards "trancending", not slowing down the same accelerated, but about gaining awareness about the process. @refid-20241217-08837f4e-4a89-4e51-8466-42e69f4c4e6e
+-->
 
 Desta forma, o leitor é convidado para perceber o movimento antes do movimento. Conforme avancei percebí a importância dessa conscientiazação e ao mesmo tempo encontrei conforto. Porque era desconfortável pensar em quebrar qualquer que fosse o movimento, o movimento conectado com o externo, com o mundo, acelerado e orientado por resultados. Também fiquei surpreso ao ler sobre isso e perceber, agora quase um século depois, que essa ideia é ainda mais importante; por conta, justamente, do nosso ambiente externo não se preocupa com esse movimento preliminar e consciente. 
 

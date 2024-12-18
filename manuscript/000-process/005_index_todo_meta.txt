@@ -1,3 +1,8 @@
+## Todo editing
+
+* [ ] @todo - p1-editing -  In "Parte 1, Fazejamento Potencializado" - December 18th 2024 - Research editing check: Check the reference to the Kolb model, can we call it a model? Perhaps Chatgpt can do that, instead of the actual research. The notion of using ChatGPT to actually check against formal research is a subject which Marcio had reflected and written before within the Book "Escrevendo um Escritor". @refid-20241218-d156ee08-679a-40da-bff4-d9ffe9fff9a5
+
+
 ## Todo footnotes 
 
 * [ , further ] @todo @todo-footnote - p1 - In "Acelerados" - Add the footnote, footnote_oceano_vermelho. @refid-20241212-b2a4b3b0-bc43-4f48-8b82-fb47c50ccf1a

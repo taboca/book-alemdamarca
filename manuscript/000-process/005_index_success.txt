@@ -1,5 +1,7 @@
 ## Done 
 
+* [Done , further] @todo - p1 - In "Part 1, Fazejamento" - #fazejamento #citation - Bring more objective content from the book of Fabricio Morini, "Faça Seu Negócio Decolar", identify where and what he says about the notion of "Fazejamento", bring a citation. @refid-20241218-0ab26bfb-4f84-4ab3-ab77-28b91baa1d7d
+
 * [ Done, anchored] - @todo - p1 - In "Part 1, o trabalho" - confirm jobs to be done steps, @refid-20241217-20ef79a7-dadb-458c-b37a-c4890dafabe3
 
 * [Done , anchored] - @todo - p1 - In "Part 1, o trabalho" - Add the text about the milkshake and jobs to be done, here. ref doc https://docs.google.com/document/d/1U3d3tc2_CBt9BNPb-unYrqxRThFSIDYsh8cPHkqF3fs/edit?tab=t.0, @refid-20241217-a0fe9b22-a99a-43c1-9326-04f0d61a6358

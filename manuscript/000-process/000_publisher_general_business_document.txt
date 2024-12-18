@@ -17,7 +17,7 @@ O livro, título temporário Além da Marca, ajuda aqueles que tem interesse no 
 
 Desenho capa sugestão - Mar turbulento, abaixo, com fragmentos de lixos de itens de restaurantes no mar, e tecnologias, e QRcodes, e maquininhas e caixas e tudo mais, uma mão no centro do turbilhão, sai do mar pedindo socorro; enquanto a mão do céu, que está iluminado com uma luz celestial semelhante à mão da obra de Michelangelo ("A Criação de Adão"), se estende para ajudar. 
 
-## Brand 
+## Brand @refid-20241217-a4f780ab-6104-4c9c-9fe5-7207f388e5f0
 
 * [ ] Await, "Tipo	Situação	Descrição	Data limite Processo de Liberação	Aguardando fim do processo de liberação		18/12/2024 15:00:00" 
 * [Done] filled form to be in the queue. 

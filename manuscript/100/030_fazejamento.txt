@@ -1,6 +1,26 @@
 ## O fazejamento   
 
+
+
+
 <!--
+
+@todo 
+
+* [ , anchored] @todo - p1 - #references - In "Part 1, fazejamento" - Consider to refer to Dorothea Brande, Wake Up and Live. @refid-20241218-b9e46cc2-2512-4145-946e-da07d34af3c8
+
+* [ ] @todo - p1 - In "Part 1, Fazejamento" - add a quote from Joseph Schumpeter. @refid-20241218-e17fe485-585b-4f54-bd78-f602480dcf81
+
+* [ ] @todo - p1 - In "Part 1, Fazejamento Potencializado", Consider the citation from the video interview with Fabricio Morini. Ref "O que eu quis dizer no livro como abrir o foco é que, quando você se determina para fazer algo, entende o que vai fazer. Com esse bombardeio de informações que a gente recebe atualmente, nós não podemos nos desviar, temos que ser espartanos." (RÁDIO CBN, 2024, 25:06-25:12) @todo-reference RÁDIO CBN. Mundo Corporativo: tire sua ideia do PowerPoint e a faça funcionar no Excel, sugere Fabrício Morini. Entrevista com Fabrício Morini. Disponível em: https://www.youtube.com/watch?v=N0KpPraJ3eE. Acesso em: 18 dez. 2024. @refid-20241218-c0422296-76bc-44d5-8b6f-b72fbed7e012 
+
+* [ ] @todo - p2 -  In "Parte 1, Fazejamento Potencializado" - December  18th, 2024 - Consider the general startup idea of failing fast. It is cheaper to fail fast, etc. @refid-20241218-d7999ac6-911e-45f8-9bc3-a47d9677e50b
+
+* [ , further ] @todo - p1-editing -  In "Parte 1, Fazejamento Potencializado" - December 18th 2024 - Research editing check: Check the reference to the Kolb model, can we call it a model? Perhaps Chatgpt can do that, instead of the actual research. The notion of using ChatGPT to actually check against formal research is a subject which Marcio had reflected and written before within the Book "Escrevendo um Escritor". @refid-20241218-d156ee08-679a-40da-bff4-d9ffe9fff9a5
+
+* [Done , further] @todo - p1 - In "Part 1, Fazejamento" - #fazejamento #citation - Bring more objective content from the book of Fabricio Morini, "Faça Seu Negócio Decolar", identify where and what he says about the notion of "Fazejamento", bring a citation. @refid-20241218-0ab26bfb-4f84-4ab3-ab77-28b91baa1d7d
+
+@Notes 
+
 Em “O fazejamento”, consideramos a situação desafiadora quando a operação prioriza a execução por conta da atenção voltada ao cliente (e outros fatores como falta de investimento), desta forma caracterizando a operação que se torna reativa ao que acontece no presente e, na falta de valores, pressionada a executar buscando mais eficiência. 
 
 * Ref - https://docs.google.com/document/d/1-ymqZkFtjc2uXV9ezW9PXVtowWNM_iVcAHmNo1O1BVw/edit?tab=t.0 
@@ -11,27 +31,41 @@ Em “O fazejamento”, consideramos a situação desafiadora quando a operaçã
 
 -->
 
-Em *Faça seu Negócio Decolar*, Fabrício Morini chama nossa atenção para considerar um comportamento natural humano, onde, caso não estejamos conscientes, nos guia por um caminho complicado. Agradeço a ele também por chamar de *Fazejamento* e com isso me lembra que a origem desse movimento é, de certa forma, natural. 
 
-<!--
+
+
+
+
+
+
+Em *Faça Seu Negócio e Decolar*, o autor Fabrício Morini contou a história exemplar de um profissional de sucesso que nasceu empreendedor. Mas que, como todo empreendedor, precisou vencer um dois maiores desafios antes de conquistar um sucesso pleno. Esse profissional contou para Fabrício sua história sobre o antes e o depois. Que antes, ele não tinha a menor ideia do que era planejamento, sendo essencialmente seu método o fazejamento. Em outra ilustração do livro, Fabrício nos convida para ver o fazejamento bem do nosso lado: 
+
+!--
 @todo
-* @todo p1 - #fazejamento @book:FacaSeuNegocioDecolar #citation
+* [Done , further] @todo - p1 - In "Part 1, Fazejamento" - #fazejamento #citation - Bring more objective content from the book of Fabricio Morini, "Faça Seu Negócio Decolar", identify where and what he says about the notion of "Fazejamento", bring a citation. @refid-20241218-0ab26bfb-4f84-4ab3-ab77-28b91baa1d7d
 --> 
 
-Com isso dito, e seguindo nossa condução desacelerada, penso que uma forma de comprar uma ideia ( a ideia que pede por um movimento de gestão mais consciente ) envolve, em primeiro lugar, celebrar elementos que de fato nos guiam para o fazejamento. Em outras palavras, ao valorizarmos a lógica por trás de nossos comportamentos automáticos colocamos em evidência não só nosso potencial de ação mas trazemos nossa atenção, de forma consciente. Então vamos lá, defender nossa inclinação ao fazejamento: 
+> *"Eles apostaram numa lanchonete. Não é nada glamoroso. É um estabelecimento simples, como eram os comércios desse tipo antes do chamado "raio gourmetizador" que atingiu o ramo e complicou a cozinha. O local não tem firulas. É uma área pequena, com três mesas, um balcão e uma chapa, de onde saem lanches como misto-quente, x-burger, x-salada e omeletes. Vendem, ainda, vitaminas, açaí com granola, salgados e café puro ou com leite. Não há um foco definido. Oferecem um pouco de tudo para tentar matar a fome dos mais diversos tipos de cliente. Os dois trabalham pesado. Abrem as portas às 8 horas, mas chegam ao local antes das 7 horas para deixar tudo em ordem. Costumam voltar para casa após as 21 horas. Como podemos ver, a rotina de empresário é "casca grossa". Apesar de toda a "ralação", eles estão patinando. " (Morini, 2017, p. 49-50)
 
-Essa lógica carrega princípios. O primeiro ponto é que ela é humana, carregada por nós desde criança mas também ligada à ideia de entregar as coisas, que é fundamentalmente ligada ao empreendedorismo. 
+Quando embarquei nesses voos paronâmicos ao lado do Fabrício, pude ver um pouco mais sobre o poder desse fazejamento, e como algo tão natural do espírito empreendedor pode trazer um potencial tão grande, inclusive ao ponto de ser devastador. Neste capítulo, faremos uma regressão, como uma celebração, sobre o que nos guia para o fazejamento. Observando a lógica por trás desses comportamentos automáticos, nos ajudará a perceber mais sobre esse nosso potencial de ação assim como estarmos mais conscientes sobre os riscos. Vamos lá, pelo momento, justificar nossa inclinação ao fazejamento, primeiro considerando o ambiente do empreendedor e depois voltando aos nossos primeiros passos:
 
-Começando pela perspectiva do empreendedorismo, encontramos que a lógica de começar pelo movimento é a resposta para o problema do ovo de galinha, que se não fosse resolvido, não teríamos atitude. Com a galinha de pé,podemos olhar para o nosso redor, seguir seus movimentos, imitar. Se considerarmos que a galinha veio primeiro, temos um grande apoio para avançarmos na vida e estarmos de bem quando “caímos de paraquedas” em várias situações, no ambiente de trabalho por exemplo.  
+Começando pela perspectiva do empreendedorismo, mesmo diante da necessidade de inovação, é inescapável reconhecer que o movimento depende de colocar a mão na massa. Segundo Joseph Schumpeter, essencialmente o movimento de empreender é sobre fazer as coisas acontecer:
 
-Olhando para o ambiente empreendedor, acho apropriada a ilustração de Reid Hoffman - fundador da plataforma LinkedIn e renomado investidor do Vale do Silício - que descreve o movimento como saltar de um penhasco e tentar montar o avião durante a queda. Reid está nos lembrando sobre a importância de aprender rápido (BAER, 2013) em um ambiente que nos pressiona para fazer.  
+<!--
+@todo 
+* [ ] @todo - p1 - In "Part 1, Fazejamento" - add a quote from Joseph Schumpeter. @refid-20241218-e17fe485-585b-4f54-bd78-f602480dcf81
+-->
+
+> *" Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter Joseph Schumpeter"* (Schumpeter)
+
+Já a ilustração de Reid Hoffman - fundador da plataforma LinkedIn e renomado investidor do Vale do Silício - descreve um movimento empreendedor como saltar de um penhasco e tentar montar o avião durante a queda. Reid está nos lembrando sobre a importância de aprender rápido (BAER, 2013), sim, mas também sobre a natureza do ambiente que não deixa de lado o botar a mão na massa. 
 
 <!--
 @reference
 * BAER, Drake. How LinkedIn’s Reid Hoffman jumped off a cliff and built an airplane. Fast Company, 17 maio 2013. Disponível em: https://www.fastcompany.com/3009831/how-linkedins-reid-hoffman-jumped-off-a-cliff-and-built-an-airplane?utm_source=chatgpt.com. Acesso em: 26 nov. 2024.
 -->
 
-A nossa propensão ao fazer, como fazer antes do aprender, vem de longa data. Abraham Maslow nos lembra, ao ilustrar o movimento da criança, que nossas aventuras em conhecer o novo acontecem depois de um ambiente de segurança que permite o movimento inicial: 
+A nossa propensão ao fazer, como fazer antes do aprender, vem de longa data. Abraham Maslow nos lembra, ao ilustrar o movimento da criança, que nossas aventuras em conhecer o novo acontecem depois de um ambiente de segurança: 
 
 > *"Mas sabemos também que a curiosidade e a exploração são necessidades 'mais elevadas' do que a segurança, o que significa apenas que a necessidade de se sentir seguro, protegido, sem ansiedade, sem medo, é prepotente, mais forte que a curiosidade. Tanto em macacos quanto em crianças humanas, isso pode ser observado claramente. A criança pequena, em um ambiente estranho, caracteristicamente se agarra à mãe e só então se aventura, pouco a pouco, para explorar coisas e investigar. Se a mãe desaparece e a criança fica assustada, a curiosidade desaparece até que a segurança seja restaurada. Ela explora apenas a partir de um porto seguro." (MASLOW, 2011, p. 61, tradução nossa).
 
@@ -48,13 +82,10 @@ A nossa propensão ao fazer, como fazer antes do aprender, vem de longa data. Ab
 
 <!--
 @done
-
-[x] @todo - p1 - In 030_fazejamento_estabelecimentos.txt, put the citation from Maslow, the case of the baby that does a little walking. 
+* [x] @todo - p1 - In 030_fazejamento_estabelecimentos.txt, put the citation from Maslow, the case of the baby that does a little walking. 
 --> 
 
-Mas é lógico que não precisamos cavar demais este buraco uma vez que estamos familiarizados com essa ideia que diz que nos envolvemos, pelo movimento, a partir de um ambiente favorável. Em outras palavras, precisamos ser antes de nos tornarmos. Ou, a galinha veio antes do ovo.  
-
-Agora que celebramos que a inclinação ao “fazejamento” é algo natural, ou nosso, podemos olhar mais para o ambiente externo e como ele também nos dá apoio, ou nos condiciona, neste sentido. 
+Agora que celebramos que a inclinação ao “fazejamento” é algo natural, nosso, podemos considerar sobre como o ambiente externo nos dá apoio, ou nos condiciona, neste mesmo sentido. 
 
 
 
@@ -71,33 +102,39 @@ Agora que celebramos que a inclinação ao “fazejamento” é algo natural, ou
 <!--
 @todo 
 
-[ ] @todo - p1 - In 030_fazejamento_estabelecimentos, we are making a reference, likely to the idea of jobs to be done which were presented earlier; we need to make sure that such link helps with what comes next. 
+* [ ] @todo - p1 - In "Part 1, Fazejamento" - check how JTBD is refered from the context of Fazejamento. @refid-20241218-e8d41ae9-7415-4183-80f1-dc090209784a
 --> 
 
-Anteriormente neste capítulo, consideramos que o nosso envolvimento com a atividade de alimentação é guiada pelo contexto de necessidade em primeiro lugar. De uma forma ou outra, sabemos que todo e qualquer estabelecimento de alimentação não foge à regra, não deixará de proporcionar a experiência de alimentação que é necessária. Muito tiramos desse critério básico, porque já conhecemos certos valores necessários neste tipo de operação. Nossa experiência anterior, como consumidores e como humanos que precisam comer todo dia, minimamente nos guia com respostas sobre muito do que acontece nesse tipo de ambiente. 
+Anteriormente, no capítulo anterior, consideramos como nos envolvemos nas atividades de alimentação guiados por um contexto, uma necessidade ou um trabalho a ser feito. Decorre disso que, de forma geral, todo e qualquer estabelecimento de alimentação não foge a regra: Está interessado em proporcionar uma experiência de alimentação  necessária dentro de um contexto social. Como consumidores, ou usuários, por conta que estivemos lá ou temos uma vivência nesses contextos, isso nos dá muitas ideias de como as coisas funcionam nesse tipo de operação. Em outras palavras, nossa experiência anterior, como consumidores e humanos que precisam se alimentar todos os dias em situações  diferentes no contexto social, nos dá um cinturão de respostas sobre as expectativas e sobre o que, digamos assim, "o cliente quer" nesses ambientes.
 
-Agora, se passarmos para o lado do estabelecimento, podemos considerar a ideia que diz que “o cliente tem razão”. Ainda que não tenha significado literal, muitos estabelecimentos saúdam o cliente logo na entrada, desta forma criando um protocolo para outras interações esperadas como por exemplo encaminhá-los à mesa, receber o pedido, e assim por diante. Existem muitas outras inferências que podemos fazer com base nessas verdades, por exemplo que estão lá para comer, consequentemente irão comer provavelmente em um prato, e se esse for o caso eles esperam que o prato esteja limpo. São muitas coisas sobre a operação desse tipo de ambiente que "já entendemos" porque somos experientes com os rituais de alimentação, sozinhos e em grupo. 
+A expressão que diz que "o cliente tem a razão" talvez esteja mais ligada a isso do que outras ideias como por exemplo o fato que o cliente está pagando. Em outras palavras, "o cliente tem razão" funciona de fato dentro do contexto de expectativas e de um certo enquadre que define o tipo do estabelecimento. Ainda que não tenha significado literal, muitos estabelecimentos saúdam o cliente logo na entrada, desta forma criando um protocolo para outras interações esperadas como por exemplo encaminhá-los à mesa, receber o pedido, e assim por diante. Existem muitas outras inferências que podemos fazer com base nessas verdades, por exemplo que estão lá para comer, consequentemente irão comer provavelmente em um prato, e se esse for o caso eles esperam que o prato esteja limpo. São muitas coisas sobre a operação desse tipo de ambiente que "já entendemos" porque somos experientes com os rituais de alimentação, sozinhos e em grupo. 
 
-Também consideramos, no capítulo anterior, a abordagem teórica intitulada Jobs-to-be-done que diz de certa forma que para tudo na vida, nós contratamos um serviço - ou produto - dado que estamos tentando resolver "um trabalho anterior" que precisa ser resolvido. Pela ótica do jobs-do-be-done, entendemos melhor que o milkshake, servido em um copo para viagem, com canudinho grosso, é mais do que um alimento, é uma companhia em uma viagem. Ou podemos considerar sobre uma infinidade de formas onde um café pode ser contratado, uma vez que temos um contexto em andamento, um trabalho sendo feito. 
+Também consideramos, no capítulo anterior, a abordagem teórica intitulada Jobs-to-be-done que diz de certa forma que para tudo na vida, nós contratamos um serviço - ou produto - dado que estamos tentando resolver "um trabalho anterior" que precisa ser resolvido. Pela ótica do jobs-do-be-done, entendemos melhor que o milkshake, servido em um copo para viagem, com canudinho grosso, é mais do que um alimento, é uma companhia em uma viagem. 
 
-Agora, sabemos também que ninguém precisa se aprofundar na teoria do Jobs-to-be-done para saber do básico, da  mecânica, ou lógica; porque de fato é coerente, porque existe para explicar o fenômeno, como e porque escolhemos soluções, fenômeno que estamos envolvidos porque somos humanos escolhendo e decidindo, sempre intencionados a resolver algum problema, conquistar uma posição melhor do que onde estamos. 
+Um ponto importante sobre essa abordagem, é que ela não explica algo novo que não conhecemos. Ela só organiza de forma estruturada, fundamentalmente, a forma que escolhemos e decidimos contratar as soluções.
 
-Tudo isso nos coloca bem posicionados para o fazejamento, como apoiados por “justa causa”, o que não exatamente nos posiciona para excluir atividades estratégicas, como design e planejamento, parar para aprender, considerar o diferente, olhar por outra perspectiva, etc; mas de fato nos dá, guiado por valores, grandes razões para priorizar muita coisa ligado a “mão na massa” como essencial da operação, ao mesmo tempo que atividades associadas com design, arquitetura, aprender, reaprender, refletir, são de fato de priorizadas - até por conta do próprio risco, minimamente de tempo, por conta que entendemos que ações neste contexto não são garantidas com retorno direto na operação, básica ou essencial, do presente. 
+A complicação não é que por este movimento natural estamos, categoricamente, excluindo a estratégia - e outras atividades relacionadas como observar, refletir, aprender outras perspectivas, atividades de gestão, etc - mas nos enche de razões para justificar ações de fazer, tipo mão na massa, justamente apoiados de valores conhecidos (sobre como as coisas funcionam). Ainda, essas ações são bem recebidas por nosso entorno, como colaboradores, clientes, em outras palavras valorizando o fazejament como coerente, neste meio. Além disso, em um meio que exerce pressão para atender com qualidade, acabamos optando "soluções" ou ações de trabalho que aparentam ser mais eficientes em comparação com tudo que é desconhecido, que soa como arriscado, minimamente por conta do tempo.
 
-Em outras palavras, temos todas as boas razões legítimas para nos levar para maiores problemas, não porque os princípios não sejam válidos, mas porque preenchemos todo nosso tempo com a resolução dos problemas e com isso deixamos de dividir nosso tempo, nos colocamos em uma posição de tamanha responsabilidade que normalmente até pequenos movimentos estratégicos são vistos, de certa forma, como irresponsáveis. 
+Em outras palavras, temos grandes razões para ver muitas atividades da categoria fazejamento como responsáveis; o que ao mesmo tempo nos dá uma balança cognitiva que, de forma síncrona, nos ajuda a cortar, como sendo "estratégicamente", muitas ideias vistas como estratégicas com o simples argumento que o envolvimento naquele sentido é um ato de irresposabilidade. Falamos isso para nós mesmos e para nossos colegas. E recebemos confirmação do  entorno, principalmente do entorno que pensa da mesma forma.
 
-Ainda, muitos dos estabelecimentos de alimentação, quando criados, criam um ambiente estruturado e visual. Esse ambiente, físico em parte, nos guia porque torna-se concreto. E isso não é só por conta do físico, como por exemplo o espaço, mas por conta que ficamos imersos em uma dinâmica. Convido você a imaginar um jogo de computador, um restaurante, e na sua frente tem o desafio que é aumentar o faturamento. De um lado, você receberá clientes mas também existem variáveis diversas que afetam o seu caminho, como o clima do lado de fora que influencia clientes a não querer ficar nas mesas do lado de fora na hora da chuva, o tempo de fornecimento e qualidade dos produtos dos fornecedores, preços dos insumos que variam segundo o mercado, etc. O ambiente acaba sendo rapidamente estruturado, como se fosse um ambiente físico, por conta de um ciclo operacional que é bem claro que começa com reconhecimento básico de que o dinheiro do cliente entrar quando eles estão satisfeitos. E com isso, automaticamente, nós como líderes da operação, nos voltamos para resolver o jogo, aumentar o faturamento, jogando as regras do jogo, essencialmente se virando. Assim como no jogo, na vida real, nossa propensão para a operação se volta para eficiência, ou seja, em outras palavras, ficamos eficientes dentro do contexto que entramos, dentro de um certo enquadre. Se o jogo é o lanchinho de hot dog da esquina, naturalmente resolvemos a equação de sobrevivência procurando fazer o lanche bem rápido, ou com materiais mais baratos. Sempre que eu penso em hot dog, na categoria “hot dog da esquina”, eu lembro de um tipo de sachê que só encontrei no Brasil. Eu costumo dizer que é um sachê que necessitamos “de ajuda” para abrir, por conta que não existe aquele corte bem definido. E, confesso que muitos dos estabelecimentos são legais o suficiente pois se ajudam e nos ajudam com este “trabalho-a-ser-feito”, dado que encontrei ao menos duas soluções para abrí-los. Uma delas é a tesoura, normalmente ela é entregue na cestinha do lanche ou está no kit porta guardanapos canudinhos. E outra solução padrão é um tipo de mini guilhotina. Mas sempre que encontro uma experiência dessas eu acabo dizendo para alguém ao lado ou para os colaboradores - ah ,esse aqui é aquele que a gente precisa de uma ajuda para abrir né? Dá uma raiva, de ranger os dentes, eu confesso. Mas, o aliviante, é que certas dessas marcas de fato fazem um favor para o cliente no sentido de “não queira provar o que está dentro“.
+Ainda, muitos dos estabelecimentos de alimentação, quando criados, criam um ambiente estruturado e visual. Esse ambiente, físico em parte, nos guia porque torna-se concreto. E isso não é só por conta do físico, como por exemplo o espaço, mas por conta que ficamos imersos em uma dinâmica. Convido você a imaginar um jogo de computador, um restaurante, e na sua frente tem o desafio que é aumentar o faturamento. De um lado, você receberá clientes mas também existem variáveis diversas que afetam o seu caminho, como o clima do lado de fora que influencia clientes a não querer ficar nas mesas do lado de fora na hora da chuva, o tempo de fornecimento e qualidade dos produtos dos fornecedores, preços dos insumos que variam segundo o mercado, etc. O ambiente acaba sendo rapidamente estruturado, como se fosse um ambiente físico, por conta de um ciclo operacional que é bem claro que começa com reconhecimento básico de que o dinheiro do cliente entrar quando eles estão satisfeitos. E com isso, automaticamente, nós como líderes da operação, nos voltamos para resolver o jogo, aumentar o faturamento, jogando as regras do jogo, essencialmente se virando. Assim como no jogo, na vida real, nossa propensão para a operação se volta para eficiência, ou seja, em outras palavras, ficamos eficientes dentro do contexto que entramos, dentro de um certo enquadre. Se o jogo fosse o lanchinho de hot dog da esquina, naturalmente nos envolvemos diante do desafio dado pela equação de sobrevivência, procurando fazer o lanche mais rápido, com materiais mais baratos, receber mais clientes, etc. 
 
-Com este desvio já feito, meu ponto é que justamente muitas vezes a gente convive com a situação por conta desse ambiente operacional que pede por mais e mais eficiência, como se fosse mesmo um jogo. O que temos são essas ferramentas, esses recursos, esse público, não é mesmo? Vamos resolver com o que temos. E assim vamos, e vamos, e vamos, e vamos somando, e do nada precisamos da micro guilhotina, e outras soluções várias, porque de certa forma tem certas coisas básicas que não podemos trocar, porque elas são guiadas por essa pressão, por uma responsabilidade. Em outras palavras, a guilhotina, ou a tesoura, são só elementos colocados lá porque valorizamos o cliente e por aquele princípio do trabalho, no sentido de “hard work”. 
+Devemos considerar como que o fazer leva a mais fazer. Ou, de fato, reconhecer que além da nossa vontade de botar a mão na massa, adoramos também vencer novos desafios também a partir do que temos na mão. Sempre que eu penso em hot dog, na categoria “hot dog da esquina”, eu lembro de tipo de sachê que é uma peculiaridade encontrada no Brasil. Sobre este sachê, sobre a experiência do usuário, costumo dizer que é um sachê que precisa "de ajuda” para abrir, por conta que não existe aquele famoso corte-e-vindo bem definido. Diante dessa realidade, muitos estabelecimentos são legais com a gente e de fato criaram soluções para nos ajudar com este “trabalho-a-ser-feito”. Encontrei ao menos duas soluções até o momento: Em uma das abordagem, junto com a cestinha do lanche vem uma tesourinha, daquelas de crianças. A outra solução traz um tipo de mini guilhotina que é de fato acoplada no sistema plástico com porta guardanapo e canudinhos. Sempre que me deparo com essa experiência, eu tento dizer para alguém ao lado, ou para os colaboradores, que "ah ,esse é daqueles que precisa de uma ajuda para abrir né?" Dá uma raiva, de ranger os dentes, principalmente se você tentar abrir com os dentes. Um parênteses: Veja pelo lado positivo: Essas marcas fazem um favor ao cliente por conta que saber o que está dentro poderia acabar com a noite. A relação corte-qualidade parece ter correlação positiva. 
+
+O ponto é que este ambiente operacional, assim como no caso do jogo, nos leva a resolver e a fazer isso muitas vezes com todo nosso potencial criativo. Vamos somando, arrumando, dando um jeito. Em outras palavras, a micro guilhotina e a tesoura infantil de cortar sachê não é nada mais que o resultado do potencial criativo brasileiro e da intenção de boa fé, por parte do estabelecimento, para que os clientes possam ranger menos seus dentes e assim dar uma ajuda com o trabalho.
 
 De certa forma, aqui eu celebro e critico essa nossa familiaridade com essa área - tudo ao mesmo tempo, mas para nos lembrar, justamente, que não temos como nos livrar dessa nossa propensão para servir e estar enquadrados em certas regras “da casa”. E veja bem, um grande aspecto que leva muitos a situação de fazejamento vem da própría escolha de trabalhar nessa área. Considere as milhares de pessoas que escolhem fazer um espetinho, um carrinho de lanches, uma tenta de milho, um food truck, etc; por conta que, afinal de contas, tudo isso é muito familiar para elas. 
-Ainda, e para complicar essa nossa relação com o fazejamento, temos também que reconhecer que enquanto uma quantidade muito grande de estabelecimentos falham, existem milhares de outros que de uma forma ou outra se sustentam, mesmo orientados a esse modo de operação tentando jogar as regras do jogo ou buscando eficiência com o que temos orientados ao que acontece “na hora H.” O fato que muitos de certa forma se sustentam - praticamente sem nenhum planejamento e carregando muitos problemas de eficiência  - acaba criando um paradoxo que de fato é mais uma justificativa para muitos entrarem neste mesmo modelo, fazer o mesmo. É como se estivesse bem do nosso lado a resposta que diz “tá vendo, até fazendo assim, de qualquer jeito, dá dinheiro”.
 
-Ainda avançando com outras variações de comportamento que nos levam ao fazejamento, acho importante nos lembrar de um pensamento da Dorothea Brande, escrito em 1936 em Wake Up and Live (Acorde e Viva), que ela se refere a “coragem por desespero”. Ela reconhece que nós podemos nos colocar em condições onde de certa forma fazemos o impossível, ou que normalmente não faríamos, mas que fazemos naquelas circunstâncias de necessidade, ou que eu diria quando “a água bate na bunda”. Para ela, o que explica o mecanismo, é que nossa mente fica orientada a ir direto para resolver o problema e centrada nas questões de relação com o munto, nos levando a navegar por uma orientação de resultados com o mundo, onde essencialmente nosso crítico - que normalmente diria “não vai dar certo” sai da jogada. E veja bem, o ponto aqui é, essa força é tão grande que até consegue mesmo, criar as condições onde “não vamos problemas” e com isso acabamos avançando, onde muitos sobrevivem, e com o tempo, quando sobrevivem mesmo que aprendendo em retrospectiva, aprendem e evoluem seus comportamentos, das suas equipes, se estruturando e crescendo de fato. Em outras palavras, quando engajamos com esse tipo de movimento de coragem, quando estamos orientados nessa forma, nos orientamos sem uma orientação de autocrítica que ela se refere como “vontade de falhar”. 
+Ainda, e para complicar essa nossa relação com o fazejamento, temos também que reconhecer que enquanto uma quantidade muito grande de estabelecimentos falham, existem milhares de outros que de uma forma ou outra se sustentam, mesmo orientados a esse modo de operação tentando jogar as regras do jogo ou buscando eficiência com o que temos orientados ao que acontece “na hora H.” O fato que muitos se sustentam - praticamente sem planejamento e carregando problemas para frente - acaba criando um paradoxo que de certa forma é uma justificativa para outros seguirem o movimento, como se estivessemios bem do nosso lado uma voz que diz “tá vendo, até fazendo desse jeito dá certo”.
 
-Agora, essas razões colocadas dessa forma nos leva a reflexão síncrona entre o lado do mal, do  fazejamento, e ao mesmo tempo aquela ideia como Schumpeter colocou, que explica o empreendedorismo como sendo a arte de entregar as coisas (getting things done), que está ligada não só a forma que começamos a andar no mundo mas a valores no sentido de moral e ética.
+Ainda avançando com outras variações de comportamento que nos levam ao fazejamento, acho importante nos lembrar de um pensamento da Dorothea Brande, escrito em 1936 em Wake Up and Live (Acorde e Viva), que ela se refere a “coragem por desespero”. Ela reconhece uma situação onde abraçamos o impossível, o que normalmente não faríamos. Essas são aquelas circunstâncias de necessidade, quando “a água bate na bunda”. Para ela, o que explica o mecanismo, é que nossa mente fica orientada a ir direto para não ver problema, como se silenciássemos nossa personalidade especialista em autocrítica que normalmente diria “não vai dar certo”. O ponto aqui é que essa força é tão grande que consegue criar condições onde não vemos problemas. Isso também explica como que muitos vão avançando, sobrevivem ao tempo, até ao ponto de maturidade e mais aprendizado, em retrospectiva, onde evoluem também seus comportamentos, das suas equipes, se estruturando e crescendo de fato. Para a Dorothea, este movimento de coragem por desespero tem o poder de silencia o que ela se refere a nossa “vontade de falhar”. 
 
-Então temos um foguete nas nossas mãos, e com isso, logicamente, uma bomba. E o que temos pela frente, pelo momento, são mais considerações sobre como o mundo moderno nos dá soluções para operar este foguete, que levam também a mais complicações que aqui me refiro ao “fazejamento potencializado” tudo isso antes de eventualmente nos guiarmos sobre como operar, ou regular, essa vontade de voar. 
+<!--
+@todo
+* [ , anchored] @todo - p1 - #references - In "Part 1, fazejamento" - Consider to refer to Dorothea Brande, Wake Up and Live. @refid-20241218-b9e46cc2-2512-4145-946e-da07d34af3c8
+--> 
+
+Com isso, temporariamente concluindo, sobre o potencial do fazejamento ou a arte de sair fazendo, temos que reconhecer que além de tudo carrega um fundamento moral e ético. Em outras palavras, temos um foguete e uma bomba nas nossas mãos. E o que temos a frente é uma oportunidade de pensar sobre como o mundo mudou, fornecendo o combustível, a plataforma, e toda uma galera para nos ajudar a lançar. 
 
 <!--
 * Ref - https://docs.google.com/document/d/1dRUwZa12fB5CsmLsqXJe9jJ6mhYlfNPjlbmmk8rIC4E/edit?tab=t.0 
@@ -121,19 +158,93 @@ Se considerarmos a função empreendedora, podemos também destacar o pensamento
 
 
 
+
+
+
+
+
+
+
+<!--
+@doc v0.1 - https://docs.google.com/document/d/1786JnFgUQ4gowdCcS-zxhW051uqf0wJS854M1vurdnk/edit?tab=t.0
+-->
+
+
+
+
 ### Fazejamento potencializado 
 
-Se por um lado podemos avançar, seguindo nossa inclinação a encontrar soluções nos orientando pela busca por eficiência, ou pelo movimento de tentar, por outro lado vem a dúvida se esse tipo de operação significa descaso com aprendizado, dado que na realidade avançar mais rápido pode também significar errar mais. De certa forma, o aprendizado em retrospectiva é a norma aceita, seja simplesmente reconhecido pela ideia de que aprendemos com a vida ou com a "escola da vida" que de forma geral se alinha com modelos de aprendizado, como o ciclo de Kolb (Kolb, David., 2014) que de forma simplificada diz que o aprendizado vem depois da experimentação. O reconhecimento de que podemos aprender, depois de executar, logicamente nos levará a pergunta - temos interesse de aprender e/ou as condições de aprender? Ou precisamos de estratégia para aprender? Ou outras tais como quais são os riscos de aprender a partir da experimentação? 
+Se por um lado podemos avançar, seguindo nossa inclinação a encontrar soluções nos orientando pela busca por eficiência, por outro lado vem a dúvida sobre o aprendizado, até porque sabemos que avançar mais rápido também pode significar errar mais.
+
+Mesmo que com certa insegurança, sabemos que aprender em retrospectiva é normal. A “escola da vida” resume como essa ideia como sendo nada arbitrária nem passageira. Nossos primeiros passos foram conquistados assim, como Maslow nos lembrou: Próximo da perna da mãe, sentindo-se segura, a criança dá uns passinhos. E assim vai conquistando mais cantinhos. 
+
+No contexto da educação, o modelo conhecido como Ciclo de Aprendizagem Experiencial de Kolb (Kolb, David., 2014) simplifica o entendimento sobre como aprendemos depois da vivência. Seguindo a ordem, começamos com Vivenciar, depois com Refletir, depois Conceituar. A partir disso, o quarto estágio envolve Experimentar, que logicamente significa vivenciar, ou seja, nossa chance para reiniciar o ciclo de aprendizado.  
 
 <!--
 @references 
 KOLB, David A. Experiential Learning: Experience as the Source of Learning and Development. 2nd ed. Upper Saddle River: Pearson Education, 2014.
 -->
 
-Quando olhamos para o passado, que de uma forma também nos guia quando pensamos em estabelecimentos de alimentação, encontraremos provavelmente boas respostas que justificam o modelo de aprendizado em restrospectiva; primeiro por várias razões que já consideramos acima mas também pelo próprio ciclo de interação entre os consumidores e os colaboradores que de uma forma ou outra sempre permitiu o aprendizado e que, diferente de hoje, evoluia de certa forma mais lenta. Ou talvez podemos pensar que a evolução do ambiente se dava no tempo, como um cozimento lento. 
+Essas percepções sobre a existência de aprendizado que vem depois da execução, de uma forma ou outra pode se tornar uma forma de apoio para o Fazejamento, por conta que nos sugere que mesmo a partir do Fazejamento podemos aprender. É lógico, que se o assunto sobre aprender fosse mais evidente, estaríamos de uma forma ou outra nos perguntando coisas como: Temos interesse em aprender? Temos condições de aprender? Ou até se precisamos de estratégia para aprender? 
 
-Isso porque, em outras palavras, restaurantes tinham tempo de aprender, com interações reais onde muito do que acontecia no ambiente estava bem próximo da realidade da operação, enquanto que ao mesmo tempo o efeito boca a boca acontecia, de forma síncrona mas lentamente, com o tempo. O estabelecimento 
+A complicação, uma vez que estamos envolvidos no Fazejamento, é que encontramos no próprio ambiente os indicadores que tem grande poder de nos guiar para refletir e conceitualizar. Um deles seria a satisfação do cliente. 
 
-The place would give what people wanted and these things generally were given by the local distribution systems and networks, regions and customers would give them suggestions and eventually recommend. Then the place would rise serving and to a point where new customers would at certain day out of the sudden find themselves in front of that location and see a sign since 1964, out of the sudden. They were there and that were the model, that were when we ask, that we can find when we ask some of our parents and friends, the elders, they generally say stories, tell us stories about these places, that these places were so good, so many stories that we have time to listen to them. Now thus we are really now positioned in front of the trouble or at least a confrontation. Let us move into that.
+Além da lógica, valorizamos isso por conta do passado que nos trouxe muitos estabelecimentos que de fato foram evoluindo com o tempo, de forma lenta, ou um cozimento lento. 
+Em outras palavras, o que acontecia no estabelecimento era mais isolado e lento, com interações locais e assim aprendizado local. A realidade a partir da operação, as dinâmicas de interação - como o cliente elogiando ou reclamando ou um ingrediente novo distribuído localmente - criava as condições para um aprendizado no tempo para a operação de liderança. Enquanto isso,  o efeito boca cuidava da percepção sobre o estabelecimento, formando a marca. 
+
+Com isso, o estabelecimento crescia até aquele ponto quando um novo consumidor, de uma ou duas gerações a frente, se deparava com a placa que dizia “desde 1964”, tipo “do nada”. 
+
+Essa ideia, de emplacar o tempo como prova caminhava junto com confirmações que as novas gerações encontravam quando perguntavam para seus pais ou avós. Eles contavam histórias, sobre a comida ou sobre o local ou sobre as memórias de terem ido lá tantas vezes. 
+
+Com este pré-aquecimento, dado que justificamos o fazejamento que gerava o aprendizado lento, podemos partir para considerar o Fazejamento Potencializado. 
+
+## O futuro é otimista 
+
+## O plano para acelerar 
+
+De forma resumida, vamos imaginar que nosso plano de Fazejamento é fundamentado assim: Trabalhar vem em primeiro lugar, porque é moral, ético, ou honroso. Aprendemos depois de trabalhar, porque não queremos operar na tentativa e erro. Em outras palavras, vamos tentar perceber, refletir e conceitualizar antes de experimentar mudanças. Ainda, precisamos de meios para olhar no retrovisor, para saber como estamos andando. Esses meios serão nossos indicadores, como a satisfação do cliente sobre o espaço, comida, preço, etc. Até aí tudo bem. 
+
+Exceto uma pequena complicação no nosso caminho: O mundo mudou. O ambiente está, digamos assim, enredado, conectado. Nada disso deveria ser um problema, é lógico, pela própria ideia de que acesso (mais barato) a informação em tese nos daria chance de acessar conhecimento de fora. 
+
+O que complicou não é que a rede nos conectou com aquilo que está longe - o novo conhecimento por exemplo. Complicou porque a, agora as, redes de fato conectaram aqueles outros de fora para dentro do espaço. Em outras palavras, por conta do ambiente híbrido, temos agora mais do externo, dentro do meio e de fato no meio do nosso caminho. 
+
+Isso seria uma complicação, exceto que não temos como ver como complicação - e isso é outra grande complicação. Isso porque para nós, na operação, focados na execução e interagindo com este ambiente, percebemos as interações como trabalho e muitas vezes como aquele trabalho honorado e moral, em primeiro lugar. Em outras palavras, quando nos ocupamos com as interações deste ambiente, nos ocupamos com aquelas justificativas de trabalho, de mão na massa, bem intencionadas a manter a operação em primeiro lugar. 
+
+Hoje, ao vivo, um jovem cliente pode pensar duas vezes antes de reclamar, fisicamente no local. Ou antes de escrever uma carta e colocar na caixinha de sugestão, se a caixinha existisse e a caneta fosse utilizada. Mas na Web, nas redes sociais, ele ou ela pode estar bem familiarizado com o processo de comunicação. Ou familiarizado ou motivado ou até incentivado. Digo incentivado porque hoje, por exemplo, usuários ganham pontos (em certas redes sociais como Google Mapas) na medida que deixam avaliações. 
+
+Mas peço uma pausa para respirarmos - e para reconhecermos que a soma dessas interações todas é o que alimenta, digamos assim, certas medidas que dizem muito sobre esses locais; muito em comparação com a possibilidade de não ter nada no digital sobre aquele estabelecimento. 
+
+Essa percepção, projetada pelo social e digital, torna-se de certa forma uma vitrine que acaba por influenciar muita coisa - por conta do movimento cultural onde as escolhas e decisões ocorrem com base em visitas nessas redes. 
+
+Com isso, só considerando o voz dos clientes, teremos mais interação no espaço digital mas com isso também mais vozes chegando nos ouvidos da operação. Ainda, é importante lembrar que o suposto cliente que agora fala no online não é exatamente o cliente tradicional. Quando olhamos para os números, eles são todos clientes não é mesmo? Nossa operação não irá, também por princípios morais, valorizar um e desvalorizar outro. Porque todos merecem respeito, como humanos - temos esse princípio dentro da gente. 
+
+Porém, dentre o montante de clientes, encontraremos agora muitos tipos, clientes que realmente vão lá no local, clientes que esporadicamente vão, clientes que aparecem uma única vez, clientes que nem mesmo foram mas estão sim atuando no digital com base no que eles estão, digamos assim, vivenciando. 
+
+Agora, podemos pensar sobre como a operação poderia ficar frustrada ao saber que um cliente deixou uma redação online sobre o estabelecimento sem mesmo ter ido lá. Malditos usuários, não é mesmo? Mas não podemos esquecer que nós criamos as condições, uma vez que estamos agora visíveis nos meios. De certa forma, pela ótica positiva, essa exposição traz uma regulação, um movimento de certa forma adequado ao mundo como ele é. 
+
+Mas é justamente esta relação de enquadre com o mundo, essa exposição pública, que nos faz levar muito a sério muita coisa que acontece também neste espaço social e digital. E que nos fará encontrar esses vários tipos, mais e mais. Lembre-se então que o que se passa por um cliente, no digital e social, pode bem ser um estudante de culinária com especialização em marketing, pode ser um influenciador digital (conhecido ou um micro influenciador) pode ser só alguém que precisa se expressar, ou até alguém que viu no local uma chance de avançar seu próprio processo de terapia. Tudo pode. Ainda, ela ou ele pode também escrever muito bem. Ou ainda, ela ou ele pode ser isto, se considerarmos o mundo híbrido onde humanos e robôs aparentam-se iguais. 
+
+Em resumo, a voz do cliente pesa, cria pressão, e cria um grande potencial de reação a partir do que ela diz. 
+
+Mas podemos, com isso, dizer que essas vozes, essa diversidade de vozes que aparentam ser clientes nos dizem exatamente o que fazer? Vamos, pelo momento, assumir que essas são narrativas que, por percebê-las como a voz do cliente, criam não só a pressão, como também, de certa forma, favorecem ou nos guiam para encontrar soluções ou buscar soluções. Por exemplo, nos nossos modelos que estamos familiarizados, qualquer que seja a operação que não deixa de lado colocar a mão na massa ou fazer jamento. Voltaremos à questão sobre como a voz de fazer jamento potencializado tem poder de influência sobre o que fazer. Vamos, pelo momento, mudar o público considerando a voz dos fornecedores, o ambiente dos fornecedores.
+
+### Fornecedores 
+
+Como pode alguém pensar, sequer considerar, a ideia de que os fornecedores poderiam causar problemas? Afinal de contas, em todos os lados, somos as mesmas pessoas, não é mesmo? Como passageiro, como motorista do Uber, no lado da operação, no lado... do atendimento, ou como cliente, ou como fornecedores. Todos nós, além disso, estamos de uma forma ou outra, de certa forma, fornecendo valor para o mundo. Então, essa personalidade que chamamos de fornecedor... está essencialmente em um trabalho focado. Eles só querem ajudar. Em alguns casos, alguns querem ajudar muito. Em outros casos, existem fornecedores que estão sendo incentivados para ajudar mais rápido. Mas a essência tem uma lógica estruturada que eles estão lá para fornecer. Outro ponto em defesa deles é que não existem necessariamente fornecedores que estão batendo ou na operação, ou de certa forma, punindo a operação. Isso por conta que já vivemos em uma época, de certa forma, avançada, onde você não é obrigado a comprar do fornecedor como quem... caso falhar nesse processo, acaba sendo punido, por exemplo, eliminado da face da terra. A relação entre a operação e o fornecedor é, de certa forma, olhando pela ótica dos direitos humanos, adequada, onde acatar a uma ou outra sugestão não é nada mais do que opções. Afinal de contas, tudo é opcional.
+
+Portanto, o mundo mudou e na mesma proporção que em relação com eles não se dá a base da força, pode ser que eles encontraram novos meios de ajudar ou de fornecer, de seguir com aquele objetivo que em geral envolve fornecer mais rápido e de qualquer forma devemos considerar mudanças tanto na forma de abordagem e interação como também na questão da comunicação, que mais está interessada para explicar os valores, até porque agora persuadir e conversar é mais crítico de novo porque o movimento não se dá a força. Considerando a forma de abordagem, os fornecedores não precisam necessariamente ir até o local. Foi também o tempo que eles ligavam o telefone para explicar uma resolução ou mesmo marcar uma reunião. Muitos deles aparecem ainda fisicamente, mas também muitos outros aparecem online pelo digital como a forma inicial de contato. Uma vez que entra em contato, este é o momento que o fornecedor, como o vendedor, estará entregando uma experiência de comunicação que comparada com o passado, traz de forma mais resumida e objetiva o valor daquilo que está sendo oferecido. Em outras palavras, eles evoluíram muito na questão da objetividade de comunicação até que ainda estão sozinhos. Não foram os fornecedores que inventaram a forma de comunicar. Normalmente eles representam produtos de marcas. Existem pessoas especializadas trabalhando nas mensagens.
+
+### As respostas 
+Ou ainda,  de aprender com base no que temos na nossa frente - lembre-se que o ciclo de Aprendizagem de Kolb explica o fenômeno do aprendizado a partir da vivência. 
+
+
+ 
+
+
+
+
+
+
+
 
 

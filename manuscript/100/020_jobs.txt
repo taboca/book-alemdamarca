@@ -24,7 +24,7 @@ Se estas percepções sociais, hoje projetadas no digital, atuam como filtros, �
 
 Considere a ilustração do professor Clayton como sendo uma introdução ao assunto. A situação inicial considera uma empresa interessada em vender mais milkshakes. A partir do desafio identificado, torna-se necessário entender mais sobre o consumidor. Seguindo essa lógica, um dos meios de buscar a resposta nos leva a necessidade de segmentar o público, por exemplo a considerar atributos demográficos como idade, estado civil, etc. 
 
-Segundo Jobs To Be Doe, o problema dessa lógica é que a segmentação por elementos do mercado, como atributos demográficos, influencia completamente o entendimento do problema e do trabalho a ser feito. 
+Segundo *Jobs To Be Done*, o problema dessa lógica é que a segmentação por elementos do mercado, como atributos demográficos, influencia completamente o entendimento do problema e do trabalho a ser feito. 
 
 A abordagem do pensamento Jobs To Be Done, define o mercado não por atributos de mercado, como demográficos, mas pelo problema que eles querem resolver. Em outras palavras, a abordagem começa considerando o que as pessoas estão querendo fazer, ou, como o professor Clayton colocou, que tipo de “trabalho” elas estão querendo contratar para resolver seus problemas. 
 
