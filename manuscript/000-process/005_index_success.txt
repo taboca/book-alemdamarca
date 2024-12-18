@@ -1,5 +1,9 @@
 ## Done 
 
+* [ Done, anchored] - @todo - p1 - In "Part 1, o trabalho" - confirm jobs to be done steps, @refid-20241217-20ef79a7-dadb-458c-b37a-c4890dafabe3
+
+* [Done , anchored] - @todo - p1 - In "Part 1, o trabalho" - Add the text about the milkshake and jobs to be done, here. ref doc https://docs.google.com/document/d/1U3d3tc2_CBt9BNPb-unYrqxRThFSIDYsh8cPHkqF3fs/edit?tab=t.0, @refid-20241217-a0fe9b22-a99a-43c1-9326-04f0d61a6358
+
 * [Done, anchor] @todo - p1 - In "Part 1, communications - Consider to complete the end of the chapter "A tecnologia" with more about the story of the teen being there to help with the online promotion at e-mail ref "Book - adm - além da marca - artigo 2024 - young and experienced with technology ". which requires to be translated to pt-br too. @refid-20241217-5d789b23-da5e-43cf-90e4-1819b7212b70
 
 * [Done, further ] @todo - p1 - In "Design holístico" #magenta, Improved the intro leading paragraph, which connects with the "colorful" story of La Barca. @refid-20241212-bd326076-44da-4b00-be1d-17677db92723
