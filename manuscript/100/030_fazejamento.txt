@@ -69,7 +69,7 @@ Já a ilustração de Reid Hoffman - fundador da plataforma LinkedIn e renomado 
 
 A nossa propensão ao fazer, como fazer antes do aprender, vem de longa data. Abraham Maslow nos lembra, ao ilustrar o movimento da criança, que nossas aventuras em conhecer o novo acontecem depois de um ambiente de segurança: 
 
-> *"Mas sabemos também que a curiosidade e a exploração são necessidades 'mais elevadas' do que a segurança, o que significa apenas que a necessidade de se sentir seguro, protegido, sem ansiedade, sem medo, é prepotente, mais forte que a curiosidade. Tanto em macacos quanto em crianças humanas, isso pode ser observado claramente. A criança pequena, em um ambiente estranho, caracteristicamente se agarra à mãe e só então se aventura, pouco a pouco, para explorar coisas e investigar. Se a mãe desaparece e a criança fica assustada, a curiosidade desaparece até que a segurança seja restaurada. Ela explora apenas a partir de um porto seguro." (MASLOW, 2011, p. 61, tradução nossa).
+> *"Mas sabemos também que a curiosidade e a exploração são necessidades 'mais elevadas' do que a segurança, o que significa apenas que a necessidade de se sentir seguro, protegido, sem ansiedade, sem medo, é prepotente, mais forte que a curiosidade. Tanto em macacos quanto em crianças humanas, isso pode ser observado claramente. A criança pequena, em um ambiente estranho, caracteristicamente se agarra à mãe e só então se aventura, pouco a pouco, para explorar coisas e investigar. Se a mãe desaparece e a criança fica assustada, a curiosidade desaparece até que a segurança seja restaurada. Ela explora apenas a partir de um porto seguro."* (MASLOW, 2011, p. 61, tradução nossa).
 
 <!--
 @note @citation original of Maslow 
