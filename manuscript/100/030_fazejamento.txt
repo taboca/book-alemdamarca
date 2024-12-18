@@ -23,6 +23,8 @@
 
 Em “O fazejamento”, consideramos a situação desafiadora quando a operação prioriza a execução por conta da atenção voltada ao cliente (e outros fatores como falta de investimento), desta forma caracterizando a operação que se torna reativa ao que acontece no presente e, na falta de valores, pressionada a executar buscando mais eficiência. 
 
+* Ref doc - https://mail.google.com/mail/u/0/#inbox/KtbxLxglsJdfwrFDpXDZZHPqcpDWWZJckg 
+
 * Ref - https://docs.google.com/document/d/1-ymqZkFtjc2uXV9ezW9PXVtowWNM_iVcAHmNo1O1BVw/edit?tab=t.0 
 
 * Ref - Para estruturar o problema, simplificamos a questão como sendo um problema de foco. Com esta lógica, partindo do princípio que a operação investe energia e atenção, consideramos uma situação onde as narrativas do ambiente influenciam o movimento de liderança,  especialmente quando a operação é desprovida de valores próprios (no sentido de princípios guiados por propósito). Neste cenário, o movimento de liderança é enfraquecido, mesmo que sem consciência, especialmente para aqueles que priorizam a operação. Em outras palavras, o fazejamento torna-se um fazejamento potencializado. 
@@ -40,7 +42,7 @@ Em “O fazejamento”, consideramos a situação desafiadora quando a operaçã
 
 Em *Faça Seu Negócio e Decolar*, o autor Fabrício Morini contou a história exemplar de um profissional de sucesso que nasceu empreendedor. Mas que, como todo empreendedor, precisou vencer um dois maiores desafios antes de conquistar um sucesso pleno. Esse profissional contou para Fabrício sua história sobre o antes e o depois. Que antes, ele não tinha a menor ideia do que era planejamento, sendo essencialmente seu método o fazejamento. Em outra ilustração do livro, Fabrício nos convida para ver o fazejamento bem do nosso lado: 
 
-!--
+<!--
 @todo
 * [Done , further] @todo - p1 - In "Part 1, Fazejamento" - #fazejamento #citation - Bring more objective content from the book of Fabricio Morini, "Faça Seu Negócio Decolar", identify where and what he says about the notion of "Fazejamento", bring a citation. @refid-20241218-0ab26bfb-4f84-4ab3-ab77-28b91baa1d7d
 --> 
