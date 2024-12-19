@@ -176,7 +176,8 @@ Se considerarmos a função empreendedora, podemos também destacar o pensamento
 
 
 <!--
-@doc v0.1 - https://docs.google.com/document/d/1786JnFgUQ4gowdCcS-zxhW051uqf0wJS854M1vurdnk/edit?tab=t.0
+@doc v0.2 - https://docs.google.com/document/d/1786JnFgUQ4gowdCcS-zxhW051uqf0wJS854M1vurdnk/edit?tab=t.0
+@ sync with v0.2 
 -->
 
 
@@ -213,8 +214,6 @@ Com isso, o estabelecimento crescia até aquele ponto quando um novo consumidor,
 Essa ideia, de emplacar o tempo como prova, caminhava junto com confirmações que as novas gerações encontravam quando perguntavam para seus pais ou avós. Eles contavam histórias, sobre a comida ou sobre o local ou sobre as memórias de terem ido lá tantas vezes. 
 
 Com este pré-aquecimento, dado que justificamos o fazejamento que gerava o aprendizado lento, podemos partir para considerar o Fazejamento Potencializado. 
-
-## Um plano para acelerar 
 
 De forma resumida, vamos imaginar que nosso plano de Fazejamento é fundamentado assim: Trabalhar vem em primeiro lugar, porque é moral, ético, ou honroso. Aprendemos depois de trabalhar, porque não queremos operar na tentativa e erro. Em outras palavras, vamos tentar perceber, refletir e conceitualizar antes de experimentar mudanças. Ainda, precisamos de meios para olhar no retrovisor, para saber como estamos andando. Esses meios serão nossos indicadores, como a satisfação do cliente sobre o espaço, comida, preço, etc. Até aí tudo bem. 
 
