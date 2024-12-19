@@ -5,6 +5,10 @@
 
 ## Todo footnotes 
 
+* [ , anchored] @todo - p1 - In “Part 1, Fazejamento, Fazejamento potencializado” - Add the footnote for [footnote_algo_IA], if applicable, to explain a bit about the AI algorithms used with social video networks. @refid-20241219-b1351b78-b880-4bab-9b7c-a188ceaf1e48
+
+* [ ] @todo - p1 - In "Part 1, Fazejamento" - Consider a footnote about Maslow, [^footnote_maslow_synergistic_nation] @refid-20241219-54bb6a47-616b-4d96-a2fb-e43735d94d78
+
 * [ , further ] @todo @todo-footnote - p1 - In "Acelerados" - Add the footnote, footnote_oceano_vermelho. @refid-20241212-b2a4b3b0-bc43-4f48-8b82-fb47c50ccf1a
 
 * [ , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
