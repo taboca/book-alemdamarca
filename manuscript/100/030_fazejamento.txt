@@ -169,9 +169,7 @@ Se considerarmos a função empreendedora, podemos também destacar o pensamento
 
 
 
-
-
-
+### Aprendizado dentro da bolha 
 
 <!--
 @doc v0.2 - https://docs.google.com/document/d/1786JnFgUQ4gowdCcS-zxhW051uqf0wJS854M1vurdnk/edit?tab=t.0
@@ -179,14 +177,6 @@ Se considerarmos a função empreendedora, podemos também destacar o pensamento
 -->
 
 
-
-
-<!--
-@todo
-* [ ] @todo-index, @todo - p1 - In "Parte 1, Fazejamento" - Consider, within the section "fornecedores", the case of the salesman pointed by Maslow and referred in the book Slow Down Start-up. @refid-20241219-948770ee-60e3-40ef-806f-57b54986e678
--->
-
-### Fazejamento potencializado 
 
 Se por um lado podemos avançar, seguindo nossa inclinação a encontrar soluções nos orientando pela busca por eficiência, por outro lado vem a dúvida sobre o aprendizado, até porque sabemos que avançar mais rápido também pode significar errar mais. Mesmo que com certa insegurança, sabemos que aprender em retrospectiva é normal. A “escola da vida” resume como essa ideia como sendo nada arbitrária nem passageira. Nossos primeiros passos foram conquistados assim, como Maslow nos lembrou: Próximo da perna da mãe, sentindo-se segura, a criança dá uns passinhos. E assim vai conquistando mais cantinhos. 
 
@@ -197,17 +187,22 @@ O mundo da educação também tem algo a nos dizer sobre isso. O Ciclo de Aprend
 KOLB, David A. Experiential Learning: Experience as the Source of Learning and Development. 2nd ed. Upper Saddle River: Pearson Education, 2014.
 -->
 
-Essas percepções sobre a existência de aprendizado que vem depois da execução, de uma forma ou outra pode se tornar uma forma de apoio para o Fazejamento, por conta que nos sugere que mesmo a partir do Fazejamento podemos aprender. É lógico, que se o assunto sobre aprender fosse mais evidente, estaríamos de uma forma ou outra nos perguntando coisas como: Temos interesse em aprender? Temos condições de aprender? Ou até se precisamos de estratégia para aprender? 
+Essas percepções sobre o aprendizado que vem depois da execução, de uma forma ou outra nos apoiam para o fazejamento. É lógico, que se o assunto sobre aprender, ou aprender como aprender, fosse mais evidente, estaríamos de uma forma ou outra nos perguntando coisas como: Temos interesse em aprender? Temos condições de aprender? Ou até se precisamos de estratégia para aprender? A complicação, quando o ciclo do aprendizado ocorre na esfera do fazejamento, é que encontramos no próprio ambiente os indicadores para refletir e conceitualizar, como por exemplo a satisfação do cliente que está, hoje, no local. 
 
-A complicação, uma vez que estamos envolvidos no Fazejamento, é que encontramos no próprio ambiente os indicadores que têm grande poder de nos guiar para refletir e conceitualizar. Um deles seria a satisfação do cliente. 
-
-Além da lógica, valorizamos isso por conta do passado que nos trouxe muitos estabelecimentos que de fato foram evoluindo com o tempo, de forma lenta, ou um cozimento lento. 
-
-Em outras palavras, o que acontecia no estabelecimento era mais isolado e lento, com interações locais e assim aprendizado local. A realidade a partir da operação, as dinâmicas de interação - como o cliente elogiando ou reclamando ou um ingrediente novo distribuído localmente - criava as condições para um aprendizado no tempo para a operação de liderança. Enquanto isso,  o efeito boca cuidava da percepção sobre o estabelecimento, formando a marca. 
+Além da lógica, valorizamos isso por conta do passado que nos trouxe muitos estabelecimentos que de fato foram evoluindo com o tempo, de forma lenta, ou um cozimento lento. Em outras palavras, o que acontecia no estabelecimento era mais isolado e lento, com interações locais e assim aprendizado local. A realidade a partir da operação, as dinâmicas de interação - como o cliente elogiando ou reclamando ou um ingrediente novo distribuído localmente - criava as condições para um aprendizado no tempo para a operação de liderança. Enquanto isso,  o efeito boca cuidava da percepção sobre o estabelecimento, formando a marca. 
 
 Com isso, o estabelecimento crescia até o ponto onde um certo novo cliente, uma ou duas gerações à frente, se deparava com a placa que dizia “desde 1964”. Essa ideia, de emplacar o tempo como prova, ia bem junto com as histórias por pais ou avós, sobre a comida ou como aqueles locais eram especiais, memórias que marcaram o tempo.  
 
-Com este pré-aquecimento, dado que justificamos o fazejamento que gerava o aprendizado lento, podemos partir para considerar o Fazejamento Potencializado. 
+
+<!--
+@todo
+* [ ] @todo-index, @todo - p1 - In "Parte 1, Fazejamento" - Consider, within the section "fornecedores", the case of the salesman pointed by Maslow and referred in the book Slow Down Start-up. @refid-20241219-948770ee-60e3-40ef-806f-57b54986e678
+-->
+
+### Fazejamento potencializado 
+
+
+Com este pré-aquecimento, justificamos um certo fazejamento anterior que dava oportunidade para um aprendizado que ocorria no tempo, com um cozimento lento. Agora pensando no nosso presente, mais quente e com mais pressão, podemos conversar sobre o Fazejamento Potencializado. 
 
 De forma resumida, vamos imaginar que nosso plano de Fazejamento é fundamentado assim: Trabalhar vem em primeiro lugar, porque é moral, ético, ou honroso. Aprendemos depois de trabalhar, porque não queremos operar na tentativa e erro. Em outras palavras, vamos tentar perceber, refletir e conceitualizar antes de experimentar mudanças. Ainda, precisamos de meios para olhar no retrovisor, para saber como estamos andando. Esses meios serão nossos indicadores, como a satisfação do cliente sobre o espaço, comida, preço, etc. Até aí tudo bem. 
 
