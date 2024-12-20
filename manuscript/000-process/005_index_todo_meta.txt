@@ -5,6 +5,8 @@
 
 ## Todo footnotes 
 
+* [ , anchored] @todo @todo-footnote - p1 - In “Part 2, QRCode” - #footnote - Add a footnote about smartphone and social networks reducing our focus capacity and also influencing habits @refid-20241220-8656a557-5b56-44b8-8842-355782aa2a9d
+
 * [ , anchored] @todo - p1 - In “Part 1, Fazejamento, Fazejamento potencializado” - Add the footnote for [footnote_algo_IA], if applicable, to explain a bit about the AI algorithms used with social video networks. @refid-20241219-b1351b78-b880-4bab-9b7c-a188ceaf1e48
 
 * [ ] @todo - p1 - In "Part 1, Fazejamento" - Consider a footnote about Maslow, [^footnote_maslow_synergistic_nation] @refid-20241219-54bb6a47-616b-4d96-a2fb-e43735d94d78

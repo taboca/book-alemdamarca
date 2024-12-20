@@ -1,5 +1,9 @@
 ## Done 
 
+* [Done] @todo - p1 - In "Part 1, Fazejamento,", type the edits done by 18th. 
+* [Done] @todo - p1 - By 18th dec, reviewed the draft n the printed version.
+* [Done] @todo - p1 - In "Part1, Fazejamento potencializado" review the introduction draft and complete the article.
+
 * [Done, removed, anchored] - @todo - p1 - In "Part 2, QRCode" - check how the following paragraph actually refers to the other section  given in the part one, "A comunicação, a tecnologia" @refid-20241217-a44f289f-a86f-499c-98f3-c93e1f178c3f
 
 * [Done , further] @todo - p1 - In "Part 1, Fazejamento" - #fazejamento #citation - Bring more objective content from the book of Fabricio Morini, "Faça Seu Negócio Decolar", identify where and what he says about the notion of "Fazejamento", bring a citation. @refid-20241218-0ab26bfb-4f84-4ab3-ab77-28b91baa1d7d

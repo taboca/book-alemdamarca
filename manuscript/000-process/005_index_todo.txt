@@ -1,9 +1,9 @@
 
 ## Todo 
 
+* [ ] @todo  - p1 - In "Part Resgate," somewhere - [Ft. CG] Consider if the story told by Christian can fit within the case of the TV which has evolved at Café Pagliaroni, Ribeirão Preto. @ref-e-mail "Book - ADM - caso carta do Christian sobre uso de tecnologia, inteligência artificial, para acessibilidade" @refid-20241219-49086dd7-695e-4b8c-9352-beb99bcaee39
 
 * [ , anchored ] @todo - p1 - In "Part 1, Fazejamento" - add a quote from Joseph Schumpeter. @refid-20241218-e17fe485-585b-4f54-bd78-f602480dcf81
-
 
 * [ , anchored] @todo - p1 - In “Part 1, fazejamento” - Consider the expand the section with ideas from Walter Fisher, the Homo Narrans - @refid-20241219-066e56ea-555c-48c2-9126-90a0ad42d5d5
 
