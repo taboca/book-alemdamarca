@@ -18,7 +18,7 @@
 * a - Case of QRcode. 
 --> 
 
-Eu vim do mundo da tecnologia. Ah, como poderei esquecer aqueles dias de Califórnia quando pedalava pela Rua Middlefield em Mountain View, Califórnia, no coração do Vale do Silício, a caminho da Netscape; enquanto lia um artigo na Web pela telinha daquele dispositivo tipo “protótipo de smartphone” que era chamado de Danger Device. Isso foi por volta de 2002, antes das redes sociais, antes dos Smartphones chegarem, e com isso antes do mix de experiências sociais que também nos guiaram para nos distrair ou até nos viciar [^footnote_smartphone_social_plus].
+Eu vim do mundo da tecnologia. Ah, aqueles dias de Califórnia, quando passava pela avenida Middlefield em Mountain View, bem no coração do Vale do Silício. Rumo a Netscape, eu pedalava enquanto lia um artigo da Web na telinha do Danger Device. Isso por volta de 2002, antes das redes sociais, antes dos Smartphones, antes esteira infinita de micro vídeos, bem antes de livros como Foco Roubado, Nação Dopamina, Máquina do Caos e milhares de outros que se tivéssemos tempo de ler nos diriam sobre os riscos da seringa digital [^footnote_smartphone_social_plus].
 
 <!--
 @todo  
