@@ -97,4 +97,28 @@ Over here is a theme for an article where I'm considering the possibility that s
 * [Done, removed, anchored] - @todo - p1 - In "Part 2, QRCode" - check how the following paragraph actually refers to the other section  given in the part one, "A comunicação, a tecnologia" @refid-20241217-a44f289f-a86f-499c-98f3-c93e1f178c3f
 --> 
 
+### Pizzaria La Bella Volta 
+
+Márcio, vamos pegar uma pizza? No minuto que minha mãe falou eu já estava indo no rumo da chave do carro. Era cedo, para pizza, início da noite, umas 6 da tarde. Pá, pum, tem dia que a narrativa não precisa de razões. Entre sair da garagem e puxar o freio de mão foram uns dois ou três quarteirões. 
+
+Rapidamente chegamos no local da Pizzaria La Bella Volta, nome fictício, que fica dentro da área de um posto de gasolina. 
+
+Já conhecíamos aquela pizza porém era a primeira vez que fomos diretamente ao local. Olhando de longe até parecia um “drive through”. Mas era mais para um tipo de quiosque onde você precisa estacionar, sair do carro, entrar, pedir, e então levar, em Inglês “drive, park, walk in and take out, through”. Por conta que era bem cedo não tinha ninguém lá no pequeno espaço. Um espaço bem bonito, por sinal. Por fora, estilo tijolo à vista, porém o efeito tijolo feito com azulejos de cerâmica. Iluminação amarelada, estou retrô, algumas arandelas vintage e ornamentos. Na parte de dentro, bem pequeno, um banco de madeira rústico, porém estilo moderno com verniz fosco, para esperar. Na frente do banco, o balcão de atendimento com dois pontos para fazer pedidos. Do lado de cá, só nós dois. Do lado de lá, duas atendentes. 
+
+Animados por conta que éramos os primeiros, minha mãe sacou o cartão de cŕedito ao mesmo tempo que pedimos o cardápio. 
+
+A resposta de uma das atendes foi “Senhora, você precisa pedir por aquele “QRcode”, fazer o pedido por lá”. Eu não lembro se soltei alguma interjeição neste momento. Mas lembro que ela ou elas comentaram que estavam lá para nos ajudar “caso tivéssemos problema”. Nessas horas, dá uma baita vontade de pedir a ajuda antes mesmo de precisar tipo “Okay, vamos lá, me ajuda vai”. Mas na vida real as coisas não são assim. Enquanto isso é bem provável que ela disse que era fácil, provavelmente quando percebeu e reação da minha mãe diante da missão técnica. Enfim, nada era mesmo complicado, não teria porque ser. Por isso, de lá mesmo atrás do balção, a atendente olhou ou apontou para a parede atrás da minha mãe. 
+
+Realmente, tinha um QRcode lá. Era um  cartaz, tipo poster, vertical tipo de cinema, mas padrão A3. Nesta cena estava em posição dupla de observador. Primeiro, por não estar com tanta fome. Segundo, porque a interação ficou ancorada para o lado da minha mãe, penso que por conta daquele movimento inicial quando ela sacou o cartão da bolsa logo ao passar pela porta. 
+
+Para nossa sorte, minha mãe estava de posse de um celular tipo smartphone padrão Android, logicamente capaz de ler QRcode, por conta da integração que já conversamos. Eu fiquei um pouco triste, ou frustrado. Mas nada foi tão aparente por conta que estava animado com a ideia da pizza. Mas meu inconsciente deve ter ficado um pouco decepcionado por aquela cena inicial: Nossa, ninguém na pizzaria, zero fila, lugar pequeno, duas atendentes só para a gente, e por saber que no modo família o pedido padrão era meia peperonni com metade qualquer coisa que normalmente ajudava a valorizar a parte do pepperoni, por conta da escassez.  Meu pai era inconformado com a ideia que pedíamos peperoni e outra coisa para normalmente todos brigarem pela metade peperoni. Isso também me faz lembrar do episódio do Simpsons onde o Homer abre a geladeira pega o pote de sorvete e grita “Marge, precisamos comprar mais sorvete Napolitano”, enquanto isso só a coluna do chocolate está vazia. 
+ 
+Continuando. Minha mãe pegou o celular da bolsa, preparou a câmera, tirou a foto e a foto começou a encaminhar ela para a uma tela de instalação que envolvia instalar o aplicativo da pizzaria. O processo foi ficando um pouco lento, ou tenso. Nada de brigas ou raiva. Foi mais um tipo de tensão no ar ou percepção de um paradoxo, talvez por conta daquelas cenas: Só nós lá, cartão na mão, primeiros na fila, atendentes disponíveis, atenção máxima para nós, e a boa intenção de ajudar. 
+
+Nessas horas se meu pai, meio Italiano meio Sírio Libanês, estivesse lá ele teria interceptado nossa cena dizendo “Mas por quê vocês, que não estão fazendo nada, simplesmente não pegam o nosso pedido?” 
+
+Enfim, em algum ponto alguma coisa complicou. Minha mãe deve ter demonstrado sinais de desconforto na hora de instalar o aplicativo, ou depois de instalar o aplicativo, ou na hora de preencher o formulário de pré-cadastro de usuário. Não sei bem, mas acredito que foi em alguma dessas fases iniciais, não na fase do menu. Isso porque não lembro dela ter destravado a fase do menu. Enquanto isso, eis que, do nada, uma da atendentes ativou o modo ajudar. Foi tão natural e diferente para mim porque não foi aquele tipo de cena que segue uma ordem, por exemplo “Ah, a senhora está tendo dificuldades, não é mesmo? Vou ajudar você” , onde o ajudar envolve a pessoa sair e lá para ajudar, talvez até ajudar com a situação na tela.  
+
+O diferente, que foi suave, eficiente, até surpreendente, foi que ela, de lá mesmo, atrás do caixa, disse “Qual é seu pedido?”
+
 
