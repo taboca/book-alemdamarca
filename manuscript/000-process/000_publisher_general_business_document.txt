@@ -19,7 +19,7 @@ Desenho capa sugestão - Mar turbulento, abaixo, com fragmentos de lixos de iten
 
 ## Brand @refid-20241217-a4f780ab-6104-4c9c-9fe5-7207f388e5f0
 
-* [ ] Await, "Tipo	Situação	Descrição	Data limite Processo de Liberação	Aguardando fim do processo de liberação		18/12/2024 15:00:00" 
+* [Done] Await, "Tipo	Situação	Descrição	Data limite Processo de Liberação	Aguardando fim do processo de liberação		18/12/2024 15:00:00" 
 * [Done] filled form to be in the queue. 
 * [Done] Todo, recheck checking with Registro.br 
 

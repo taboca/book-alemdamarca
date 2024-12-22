@@ -1,5 +1,13 @@
 ## Done 
 
+* [Done] @todo - p1 - In "QrCode, Bella Volta", sync the recent edit, v0.2, with the new beginning for the story - which added more about expectations. @refid-20241222-70ba10b8-00b0-4736-86c0-cc219d609879
+
+* [Done] @todo - p1 - Update the general business document with the success with domain registration  @refid-20241217-a4f780ab-6104-4c9c-9fe5-7207f388e5f0
+
+* [Done] @todo - p1 - Reviewd the qrcode email "Book - adm - qrcode article review" @refid-20241222-7f2fffad-1d31-4a0f-865b-8b7717c9f2b2
+
+* [Done , altered, anchored] - @todo - p1 - In "Part 2, QRCode" - Now: Just concluded with a note on speed, acceleration, hearts. Was:Consider to conclude with the acknowledgement of the force, of management, driven by market forces naturally, which pressures the young - acting as a sort of glue (filling the gap, or a tertius gaudens)  to make it work, the technology which doesn't, naturally. @refid-20241217-6a225964-6890-4c20-b6c0-fa1ef4c39db3
+
 * [Done] @todo - p1 - In "Part 1, Fazejamento,", type the edits done by 18th. 
 * [Done] @todo - p1 - By 18th dec, reviewed the draft n the printed version.
 * [Done] @todo - p1 - In "Part1, Fazejamento potencializado" review the introduction draft and complete the article.
