@@ -15,11 +15,13 @@
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Reflect on the dual considerations for "spaceships": (A) as a manifestation of the "scratch and itch" effect, and (B) as the birthplace where community values are exercised in a colleagueship context. Review Reid Hoffman's point from his interview with Brian Chesky, which emphasizes how being guided by the community provides essential guidelines. Incorporate this perspective into the framing of spaceships, highlighting the role of community strength and guidance. @refid-20241210-4cf621a1-6f56-4475-939a-3d660760e8c5
 
-* [ , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
-
 * [ ] @todo - p1 - In "Spaceships ..." - Consider the idea of community, connect with the story or Airbnb or Mozilla (case from Starfish and the Spider). @refid-20241210-4f1ab4ee-c403-4bb1-9f5a-4d2b62286b0c
 
 @done 
+
+* [Excluded , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
+
+* [Followup, Done] @todo - p1 - In Spaceships, Check for answers, for the possibility of a short interview with the owners of the La Fraternite - la fraternité photos https://g.co/kgs/SkX2k5i to check about if they had music, and how they used that style back in the days, and if their setting where like a prototype, like a club or a “second house”. Marcio had sent an e-mail to Erico. @refid-20241224-60757469-2579-476b-b35f-fafc2c298d09 ref e-mail https://mail.google.com/mail/u/0/#sent/KtbxLxglsJdgWJTxbGvdchKqGTvFTRSRxq?compose=new
 
 * [x, anchored] @todo - p1 - In spaceships - "Check email "Book - adm - todo - edit to spaceship, consider the points for who believes they are in the own bubble", consider the counterargument of the one who believes that these captains are in living in their own bubble. 
 
@@ -60,33 +62,22 @@ Esse tipo de observação também nos levava a especular quem eram os donos, tip
 E é isso. A vida girou, mudei de Sampa, meu amigo Z também. Mas ficou na memória. Por conta de ter sido em São Paulo - onde em teoria tudo é possível - por anos não tive motivo para considerar que havíamos experienciado um estabelecimento especial. Não a ponto de pensar como uma categoria especial. Mas ficou na memória, uma lembrança e uma pergunta do tipo “O que vivenciamos naquele espaço? Quem são eles? O que fazem? Onde vivem?”
 A resposta veio com o tempo ao longo de quase uma década, e por ter vivenciado três outras situações. Hoje penso que esses espaços são naves espaciais. E sobre seus líderes, alienígenas. 
 
-### Spaceships en-us 
+### Aparição 
 
-This idea I call spaceships. I think that it may, perhaps, create some confusion. But I ask you to follow me for this trip. Before we know what the spaceship is about, I have to tell you in advance that this is an idea in progress; with this I am therefore inviting you to consider what follows as notions. So as I go through the aspects of it, and the cases presented, I am therefore presenting to you with that intention, of one that is yet seeking, developing or discovering what this is about, and inviting you to join me. 
-
-Now, the reason I am saying this is because I almost missed noticing it, maybe so because the thing is moving. 
-
-So let us stand there, in front of what would be perhaps the first appearances of these kinds of these alien things, spaces, or establishments, let us see. 
-
-Many years ago, a friend introduced to me a different kind of place, a place to drink beers resembling a pub, in the city of São Paulo, although one quite different for the days. They had special beers, draft, and no food served. Sometimes a partner food truck would park in front of their door. But different from other places they had a particular schedule, as they would generally open on very specific days, like on fridays. For me it was quite surprising to see that sort of arrangement so I asked myself “how come they can do that?” But of course when we see something new that is real, what comes next is that we find an explanation, and this is when I generally find myself saying “of course they can”, or “they have the right to open anytime they want”. And that was the case because the learning was that the owners were colleagues, they were doing something else, and that they wanted to have a place for themselves, what could be called a second home or a second work. One speculative thought, implied at the time, was to think that they had the conditions, as in privilege, so they came up with something for themselves, a special place where they could have the beer they wanted, and them, it happened that the place was also open to the public, for other reasons, but certainly it was a special place that would be interesting for a specific niche given that the user/customer had to accept the specific hours, the style of beer, music, and other characteristics they brought to the place, such as no food.  
-
-But having experienced that in São Paulo city - where everything is possible - would not prompt one to create a special bucket and keep that place in it looking for similar things. Yet the place was kept in my memory, in a special unknown category, up to when I found other places in the city of Ribeirão Preto, more than a decade after. 
-Now living in the city of Ribeirão Preto, I found three other places, so now the bucket exists, it helps to collect these cases, and it is, for now, the spaceship bucket. 
-
-One point though, before we proceed: I am not suggesting that a place like these is better than others as we know it. The point here is, as said, to keep the bucket open, to observe and consider how these arrangements can take us to consider new possibilities for everyone involved, the crew. 
-
-Now, from the city of Ribeirão Preto one other spaceship is a larger one in terms of space, and has around 160 square meters. It’s also oriented to beer enjoyment but they brew their beer. In terms of the crew, there are two captains with a variable team of from one to four. One captain is in charge of beer making operations, his nickname is Frango. And the other, _______, which happens to be his wife, is responsible for the product designs, and quality, as she has the rank of a sommelier. They are both involved in taking care of whoever is aboard, like the rest of the crew. By observing the crew we also found that they had a relationship with the captains from a local major university, involved in courses like mathematics, economy and others. 
+Recentemente meu amigo Z achou outra dessas. A nave tem cerca de 160 metros quadrados. A missão dessa nave também é sobre a experiência de beber cervejas especiais, porém eles fazem a própria cerveja. A tripulação consiste em dois capitães e um time variável de um a quatro pessoas. A capitã, que é treinada como sommelier, é responsável pela criação e qualidade. O outro capitão, que por sinal é marido dela, fica encarregado da produção das cervejas. Ele também tem treinamento em química e atua como professor em uma universidade da cidade. Ambos cuidam da operação de gestão da nave e também da tripulação variável, que por sinal conta com estudantes em áreas como matemática, química, etc. 
 
 <!--
-* [ , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
+* [ Excluded , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
 --> 
 
 In terms of working hours, they might be seen as a place that is generally closed throughout the week, and when open I think it goes from probably noon to five PM. We went there many times, mainly myself and my other friend who happens to be the same one who introduced that other place in São Paulo a decade before - nicknamed here as Vedigas. So Vedigas might be a good space explorer. 
+
 When we get there and pick a seat we find a menu printed on A5 paper and placed in a vertical display, with a selection of beers, always fresh and subject to change at any time based on the production line. All the beers follow the Belgium style. 
 
 Once we got onboard for the first time, after the discovery investment of Vedigas of course, we were totally surprised, and excited, with thoughts crossing our heads such as “wow how come this place exists here in this city?” and that sort of question. We had certainly experienced something amazing, through the beers and by riding there in that spacious ship along with the small crew. And when you are in that position, like a fan or like an entrepreneur or a new member I don’t know, it comes as a sort of natural movement of protecting the place. 
 
 In that position, I may have engaged in a sort of natural movement of supporting them as if I were a captain, in a way fighting for them. And it was when I was wearing let us say a captain’s hat, suggesting ideas to them, that we were caught, actually, in front of first lessons about who they were, and a bit towards understanding their mission: 
+
 I or we may have suggested something related to advertising, or marketing, expressing our thoughts to the passing captain Frango. And it didn’t take long to get a sense that he had a conviction that the way they were navigating was right, or steady, or that they had a north guiding them. It the place was a all broken up ship with shity beers, we would certain be quiet, not ever talk again with them, and know they were navigating towards a spiral of death or something. But that wasn’t the case, the beers are special, the crew quite confident. So, for now, initially, it sounded like “something is wrong here” but at the same time “something is right” and perhaps other crossing thoughts would happen as in “let us keep our mouths shut so that we can continue to come here and the place continues to be this way”. 
 
 When we hear thoughts from the captains, we sense they know certain things we don’t know, and we sense a confidence level oriented to values. What they say goes along with the experience we have everytime we enter the ship: We feel our connection right when we sit at the table and we get to see the menu right away while a crew member brings cold water in a bottle with cups - which is unusual in Brazil - and popcorn, ask it or not. There is a ritual right there, which takes us to start with a lighter belgium beer. 

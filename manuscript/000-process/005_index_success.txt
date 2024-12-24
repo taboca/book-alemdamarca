@@ -1,5 +1,9 @@
 ## Done 
 
+* [Excluded , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
+
+* [Done] @todo - p1 - In Spaceships, Check for answers, for the possibility of a short interview with the owners of the La Fraternite - la fraternité photos https://g.co/kgs/SkX2k5i to check about if they had music, and how they used that style back in the days, and if their setting where like a prototype, like a club or a “second house”. Marcio had sent an e-mail to Erico. @refid-20241224-60757469-2579-476b-b35f-fafc2c298d09 ref e-mail https://mail.google.com/mail/u/0/#sent/KtbxLxglsJdgWJTxbGvdchKqGTvFTRSRxq?compose=new
+
 * [Done] @todo - p1 - In "QrCode, Bella Volta", sync the recent edit, v0.2, with the new beginning for the story - which added more about expectations. @refid-20241222-70ba10b8-00b0-4736-86c0-cc219d609879
 
 * [Done] @todo - p1 - Update the general business document with the success with domain registration  @refid-20241217-a4f780ab-6104-4c9c-9fe5-7207f388e5f0
