@@ -4,6 +4,8 @@
 
 * v0.2 sync [x] https://docs.google.com/document/d/1uyVTeEOyt47ZW9HUAczxgxrVPuDMLkImcf052DSHs1I/edit?tab=t.0
 
+* this = v0.3 
+
 @todo-references 
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Translate the story of the extended experience at Experiencia, to pt-br. @refid-20241216-27abb370-76a5-4e00-b6be-12934abea5f4
