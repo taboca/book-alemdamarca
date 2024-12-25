@@ -1,6 +1,9 @@
 
 ## Todo 
 
+
+* [ ] @todo - p1 - In "Tem remédio para isso" - Consider to make this one a final chapter. Consider to end with a final word, about not taking medicine, not being mad but also not following the movement. @refid-20241225-04d94cea-7b68-4d64-96ec-0a518e6e6f26
+
 * [ ] @todo - p1 - In "Tem remédio para isso" - Consider the case of the poster of "do not feed the Doves" at the hospital renowed in Ribeirão Preto. @refid-20241225-13ae5a5c-cb54-4291-844e-a7e6576a1e65
 
 
