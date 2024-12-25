@@ -27,12 +27,13 @@
 300/200_feito_com_amor.txt
 300/210_holistic_design.txt
 300/220_cliente_chato_e_fiel.txt
-300/260_dignostico.txt 
 
 # 000_part4.txt
 
 400/310_cooks_values.txt
 400/320_spaceships.txt
+
+300/260_dignostico.txt 
 
 #
 #400/100_cartas_business_cards.txt
