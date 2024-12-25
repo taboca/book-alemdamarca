@@ -1,6 +1,10 @@
 
 ## Todo 
 
+* [ ] @todo - p1 - In "Tem remédio para isso" - Consider the case of the poster of "do not feed the Doves" at the hospital renowed in Ribeirão Preto. @refid-20241225-13ae5a5c-cb54-4291-844e-a7e6576a1e65
+
+
+
 * [ ] @todo - p1 - In "5 estrelas para mais rápido", Consider the case where Marcio had to pick up his food order, downstairs, and where he was for the first time, evaluated  - for pickiing up his food. @refid-20241222-5f25eae2-2958-4298-ac75-b865138375a5
 
 * [ ] @todo  - p1 - In "Part Resgate," somewhere - [Ft. CG] Consider if the story told by Christian can fit within the case of the TV which has evolved at Café Pagliaroni, Ribeirão Preto. @ref-e-mail "Book - ADM - caso carta do Christian sobre uso de tecnologia, inteligência artificial, para acessibilidade" @refid-20241219-49086dd7-695e-4b8c-9352-beb99bcaee39
