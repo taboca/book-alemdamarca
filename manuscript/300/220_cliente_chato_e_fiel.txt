@@ -11,7 +11,7 @@
 * [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
 * [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
 
-* [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
+* [ , anchored] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
 
 * [ ] @todo - p1 - In "Cliente chato", consider my father and myself and this whole book. 
 * [ ] @todo - p1 - In "Cliente chato", check on rights, with @contact:OM, and notes in "Livro - além da marca - caso do quantitativo cantina Romar" ref "Aqui também é um lembrete de uma outra narrativa, que é a narrativa do não mudamos nada, de um consumidor bem crítico, que é um cliente fiel de uma cantina tradicional Ribeirão Preto, onde ele um dia falou que algo mudou em relação ao prato, e o novo gerente, que é descendente dos fundadores originais argumentou que nada mudou, e no argumento falou que as quantidades eram as mesmas, e como se naquele momento para esse cliente crítico a resposta já estava lá, como se ele tivesse dito exatamente, as quantidades são as mesmas e tudo começou assim, uma ideia, passar pelo quantitativo não significa nada talvez eram os ingredientes, ficou um momento um pouco tenso, talvez o jovem que está na liderança pode até não entender, se aquela pessoa está lá para criticar, somente por criticar, mas ali pelo menos foi um caso que passou mais para frente, onde esse jovem gerente viu o cliente lá e falou que gostaria de conversar mais com ele, estava interessado sim em melhorar, em trazer a identidade da cantina de volta, então pelo menos estamos aí um caso de alguém que se abriu, está aberto a ouvir"
@@ -116,9 +116,7 @@ Formalizando o desafio à nossa frente, em diante de todas as interações e cli
 
 --> 
 
-O primeiro caso aconteceu comigo. Um belo dia, entrei numa cafeteria, aparentemente bem chique, sentei lá, e lá estavam vários estudantes porque essa cafeteria fica próximo da universidade Unaerp, em Ribeirão Preto. Então, um garçom aproximou, fisicamente; eu achei bem legal. Mas ele veio para me avisar para pedir pelo QRCode. Talvez aquele não era um belo dia porque fui direto ao ponto - e falei “Será que vocês, às vezes, não perdem alguns clientes que, por exemplo, sentam aqui, não entendem o processo e acabam ficando desencorajados de comprar e ao mesmo tempo não dizem nada e vão simplesmente embora?” E então, ele respondeu que "o que os olhos não veem, o coração não sente".
-
-Eu nunca vou esquecer aquele comentário, porque foi tão forte até a ponto de eu desengajar do que seria uma conversa ou discussão. Tipo assim, enquanto uma gotinha de lágrima escorre. É lógico, pois não havia o que pudesse ser dito. Aquele é o tipo de comentário que chamo de comentário finalizador. Tem certos momentos, na vida, que os comentários finalizadores podem ser muito apropriados, é verdade. Mas é triste notar que o funcionário estava em uma situação ou condição daquela. Quando a nossa operação chega nessa condição, quando as coisas giram tão rápido, literalmente perdemos nosso tempo por conta da nossa capacidade de ouvir, não só os clientes mas o ambiente todo. 
+Você deve se lembrar da história do atendente que me disse "O que os olhos não veem, o coração não sente", dentro do capítulo que *QR Code esse desconhecido* na segunda parte, *A Bolha*. Eu nunca vou esquecer aquele comentário, porque foi tão forte ao ponto de desengajar da conversa ou discussão. Tipo assim, enquanto uma gotinha de lágrima escorre. É lógico, pois não havia o que pudesse ser dito. Aquele é o tipo de comentário que chamo de comentário finalizador. Tem certos momentos, na vida, que os comentários finalizadores podem ser muito apropriados, é verdade. Mas é triste notar que o funcionário estava naquela condição. Quando a nossa operação chega nessa condição, quando as coisas giram tão rápido, literalmente perdemos nosso tempo por conta da nossa capacidade de ouvir, não só os clientes mas o ambiente todo. 
 
 
 <!--
@@ -144,6 +142,11 @@ Quando olhamos pela ótica da comunicação e seu papel na gestão, podemos refl
 Neste sentido, Drucker reconhece que "O ponto de partida da comunicação nas organizações deve ser fazer o receptor tentar se comunicar." Quando a liderança reconhece essa responsabilidade, ela cria as condições no meio, permitindo aos seus colaboradores elevar a comunicação - além do respeitar ou traduzir o que é dito - gerando um ambiente saudável onde os envolvidos reconhecem que suas interações de comunicação geram mudanças. Em um estabelecimento que valoriza a comunicação dentro da ótica da gestão, os colaboradores tem tempo para conversar sobre esses assuntos, sentem-se responsáveis pelos canais e ferramentas, como por exemplo as caixas de sugestões, e ainda particularmente responsáveis por avaliar se o processo ou ferramenta ou meio está ajudando ou atrapalhando a comunicação. 
 
 
+<!--
+@todo 
+* [ , anchored] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
+
+-->
 
 
 
