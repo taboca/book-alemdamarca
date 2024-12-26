@@ -4,6 +4,9 @@
 
 @todo
 
+* [ ] @todo - p1 - In "Cliente chato" - Consider a new leading paragraph structure,  that has a end paragraph "Mas sim, pode ser ..." With  "Faremos isso também porque organizando nossa comunicação, orientados a valores, encontramos um foco e clareza sobre interações que podem passar despercedidas como reclamações ou discussões. " #ref-paper-replace-dec26-clacli0070 @refid-20241226-85bd2cbc-1a79-4a7d-8dce-b27711564f6e
+
+* [ ] @todo - p1 - In "Cliente chato" - Outline: S "Mundo estabelecimentos, um ser, comentários chatos, físico e digital - se for óbvio é relevante, senão é cliente clato." C "Problema, temos muito mais variabilidade, realmente. Pessoas com problemas, situações de stress, tudo. P "O que fazer?" R "Pode ter algo atrás; Como acontece; " @refid-20241226-e2235865-6eda-4d56-af36-94995f76f517
 
 * [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
 * [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
@@ -41,6 +44,14 @@
 
 
 -->
+
+
+
+
+
+
+
+
 
 Nesse mundo, nos cafés e restaurantes e outros estabelecimentos, podemos e devemos refletir sobre um certo corpo e sobre a possibilidade de um fenômeno. Digo isso porque por esses espaços se passa um certo ser que parece ser um cliente mas que muitas vezes parece ser um crítico, às vezes é visto como um chato. Este artigo é sobre a importância de observar esse ser, porque pode ser que exista algo que merece ser ouvido. A verdade é que é difícil ver, perceber, o que tem além do que parece ser quando ele aparenta ser um chato. Mas sim, pode ser que tenha valor, atrás do que parece ser uma discussão ou uma reclamação, algo especial que pode mudar não só o estabelecimento, mas a forma de comunicação com os clientes. 
 
@@ -118,6 +129,11 @@ Eu nunca vou esquecer aquele comentário, porque foi tão forte até a ponto de 
 
 Quando olhamos pela ótica da comunicação e seu papel na gestão, podemos refletir sobre essas situações quando a operação não permite que colaboradores ou clientes, como subordinados ao ambiente, possam efetivamente se comunicar, consequentemente, impedem que valor seja criado. Em Informação, Comunicação e Compreensão (2012), Peter Drucker reconhece que é papel da liderança criar as condições para que os receptores (clientes, colaboradores) possam se comunicar efetivamente. 
 
+<!--
+@aiuse 
+* @aiuse  - https://chatgpt.com/share/676dd3b2-3c40-8011-ab1e-7a7c8b6ef66f 
+-->
+
 > *"Podemos, então, dizer algo construtivo sobre comunicação? Podemos fazer alguma coisa? Podemos dizer que a comunicação deve partir do receptor, não do emissor. No contexto das organizações tradicionais, temos de começar de baixo para cima. A comunicação de cima para baixo não funciona. Ela só pode funcionar depois que a comunicação de baixo para cima for estabelecida com sucesso."* (DRUCKER, 2012, p. 16).
 
 <!--
@@ -125,11 +141,7 @@ Quando olhamos pela ótica da comunicação e seu papel na gestão, podemos refl
 * @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
 -->
 
-Drucker complementa que "O ponto de partida da comunicação nas organizações deve ser fazer o receptor tentar se comunicar." 
-
-Uma vez que a liderança reconhece essa responsabilidade, cabe a ela criar as condições, não importa se é por meio dessas pessoas, dos colaboradores ou com tecnologias, para elevar o nível da comunicação. Desta forma, criando um ambiente virtuoso. Por exemplo, por empoderar os envolvidos nesse processo, que é muito mais do que tradução, mas que como um processo efetivo de comunicação, cria um ambiente de trabalho mais saudável para todos os envolvidos. Um ambiente que valoriza esse tipo de iniciativa é um ambiente onde os colaboradores, de fato, podem utilizar o tempo deles com esse tipo de comunicação, não estão lá para rapidamente voltar para o que estavam fazendo e ignorar aquilo. Não importa se é a permissão para que as pessoas conversem e estabeleçam essa comunicação, ou por meio de tecnologias e ferramentas, por exemplo, a caixa de sugestão, mas importa que existe uma atenção consciente de que esse tipo de interação é parte da gestão.
-
-
+Com ssso, Drucker reconhece que "O ponto de partida da comunicação nas organizações deve ser fazer o receptor tentar se comunicar." Quando a liderança reconhece essa responsabilidade, ela passa a criar as condições no meio, permitindo que seus colaboradores possam se envolver nível de comunicação mais elevado que vai muito além do que respeitar o que é dito, ou mesmo traduzir; que de fato vê a comunicação como parte do ambiente saudável onde os envolvidos, agora, estão empoderados com interações que geram mudanças. É observável quando um estabelecimento valoriza a comunicação: os colaboradores tem tempo para conversar sobre esses assuntos, eles que são responsáveis por canais ou ferramentas, como caixas de sugestões, e inclusive sobre avaliarem se e como as tecnologias influenciam a comunicação. Em outras palavras, a gestão não pede para que os colaboradores criem canais de feedback como caixinhas de sugestão e simplesmente compilar os resultados. A liderança envolve seus colaboradores para que eles se sintam responsáveis e queiram entender se a comunicação de fato está ocorrendo. 
 
 
 
