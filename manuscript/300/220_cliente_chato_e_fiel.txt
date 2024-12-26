@@ -16,15 +16,32 @@
 
 * Cliente chato, que importa - Este capítulo começa com a história de um feedaback duro que foi deixado em um restaurante tradicional, que poderia ser recebido como um "comentário negativo de um cliente chato" mas que eventualmente foi reconhecido como um feedack importante dado por um cliente fiel. Consideramos os desafios para entender feedback por duas perspectivas. A primeira considera como as próprias métricas de execução tem poder de silenciar o feedback. A segunda destaca a importância de levar em consideração os perfis daqueles que deixam feedback. Neste sentido, apresentamos o modelo criado pelo pesquisador Adam Grant que identificou quatro perfís e destacou a importância de valorizar um perfil em especial: quem deixa um feedback duro mas ao mesmo tempo se importa "com você", nos levando a reconsiderar aquele "comentário negativo de um cliente chato" como possivelmente "um feeback crítico de um cliente fiel".  
 
+@done 
+
+* [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Em parte, em uma ... boa pitada de invencionismo." with "Sobre o meu chato interior, sei que em parte se parece com a chatisse do meu pai. Sempre reclamei das coisas também. Mas este é um chato diferente, que prepara o prato com narrativas com pitadas de ironia, às vezes dramáticas às vezes tristes às vezes engraçadas. Um chato que dá voltas em torno dos "bugs" dos estabelecimentos. #ref-paper-replace-dec26-clicha-0020 @refid-20241226-43e4f7c6-825d-4e6e-b36b-cbb07bc41253
+
+* [Done, anchored ] @todo - p1 - In "Cliente chato" - Add a last paragraph, "Talvez meu pai tenha deixado uma esperança sobre os chatos, que levou refletir sobre o potencial do meu chato". #ref-paper-dec26-clicha-0010 @refid-20241226-7ef7b4ad-6487-4745-aad4-ce081a4565f5
+
+
 -->
 
 Nesse mundo, nos cafés e restaurantes e outros estabelecimentos, podemos e devemos refletir sobre um certo corpo e sobre a possibilidade de um fenômeno. Digo isso porque por esses espaços se passa um certo ser que parece ser um cliente mas que muitas vezes parece ser um crítico, às vezes é visto como um chato. Este artigo é sobre a importância de observar esse ser, porque pode ser que exista algo que merece ser ouvido. A verdade é que é difícil ver, perceber, o que tem além do que parece ser quando ele aparenta ser um chato. Mas sim, pode ser que tenha valor, atrás do que parece ser uma discussão ou uma reclamação, algo especial que pode mudar não só o estabelecimento, mas a forma de comunicação com os clientes. 
 
 É bem complexo, para a liderança dos estabelecimentos, saber quem é quem. Eu mesmo não tinha clareza sobre isso porque o primeiro “cliente chato” que conheci foi meu pai. Ele era visto como um chato, para muitos. Mas para outros, que entendiam sua chatice, ele era respeitado. Aliás, sabemos muito sobre essa questão do chato que encontra outro chato e esses chatos se tornam amigos que não se veem como chatos. 
 
-Então, quando meu pai saia para as ruas de Ribeirão Preto, o que era raro, era uma luta. E quando ele ia, estávamos lá, no local e tudo, de novo, ficava chato, ou difícil. Ele acabava reclamando muito do restaurante, quase que brigando com o garçom ou quem quer que estivesse lá. Então aquele momento era mais ou menos perdido. E ele arrematava, no caminho de volta para casa, confirmando a tese que basicamente era “não quero sair porque é sair para passar mal”. O pior, para todos nós espectadores do show, era que era verdade, lá no fundo. Todos sabíamos que ele estava certo. 
+<!--
+@todo 
+* [Done, anchored ] @todo - p1 - In "Cliente chato" - Add a last paragraph, "Talvez meu pai tenha deixado uma esperança sobre os chatos, que levou refletir sobre o potencial do meu chato". #ref-paper-dec26-clicha-0010 @refid-20241226-7ef7b4ad-6487-4745-aad4-ce081a4565f5
+-->
 
-Não sei se em cafés eu cresci; mas sei que por cafés eu trabalhei muito. Em parte, em uma análise superficial, sei também que foi por cafés que vi algo mais crescendo, um certo ser, um ser não muito diferente do meu pai. Comecei reclamando das coisas, mas de uma forma, as vezes com ironia, criando narrativas engraçadas sobre “os bugs” dos estabelecimentos, tudo isso com uma boa pitada de invencionismo. Hoje, em retrospectiva, é mais fácil ver que essa questão da ironia ou dramatização ou invencionismo tem ligação com o que faço agora, que tudo isso quer chegar em lugar especial além do básico, além do chato. Então eu sei, hoje, em defesa dos chatos, que atrás de um chato, tem sempre uma criança, ou melhor, uma esperança. 
+Então, quando meu pai saia para as ruas de Ribeirão Preto, o que era raro, era uma luta. E quando ele ia, estávamos lá, no local e tudo, de novo, ficava chato, ou difícil. Ele acabava reclamando muito do restaurante, quase que brigando com o garçom ou quem quer que estivesse lá. Então aquele momento era mais ou menos perdido. E ele arrematava, no caminho de volta para casa, confirmando a tese que basicamente era “não quero sair porque é sair para passar mal”. O pior, para todos nós espectadores do show, era que era verdade, lá no fundo. Todos sabíamos que ele estava certo. Talvez por ser meu pai eu tenha mantido uma esperança sobre os supostos chatos, uma que me levou a refletir sobre o potencial do meu chato interior.
+
+<!--
+@todo 
+* [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Em parte, em uma ... boa pitada de invencionismo." with "Sobre o meu chato interior, sei que em parte se parece com a chatisse do meu pai. Sempre reclamei das coisas também. Mas este é um chato diferente, que prepara o prato com narrativas com pitadas de ironia, às vezes dramáticas às vezes tristes às vezes engraçadas. Um chato que dá voltas em torno dos "bugs" dos estabelecimentos. #ref-paper-replace-dec26-clicha-0020 @refid-20241226-43e4f7c6-825d-4e6e-b36b-cbb07bc41253
+-->
+
+Não sei se em cafés eu cresci; mas sei que por cafés eu trabalhei muito. Sobre o meu chato interior, em parte se parece com a chatisse do meu pai pois sempre reclamei das coisas. Mas este é um chato diferente, que prepara o prato, com narrativas, e tempera com pitadas de ironia. E, às vezes, dá uma apimentada dramática. Às vezes, dá uma salgada com lágrimas, desenha um pentagrama de ketchup no prato, etc. E ainda tenta rir de tudo dando boas voltas em torno dos "bugs" dos estabelecimentos. 
 
 Para te contar do meu lado chato semi-piadista eu tenho uma narrativa que criei depois que me mudei de São Carlos, quando tinha saudades de uma padaria especial onde de lá tanto trabalhei. Voltando para Ribeirão, contemplando o passado, falei muitas vezes que tinha "saudades dos pombos da padaria Tabajara." 
 
