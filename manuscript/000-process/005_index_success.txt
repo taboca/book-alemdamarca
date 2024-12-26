@@ -1,6 +1,8 @@
 ## Done 
 
-* [ Done ] @todo - p1 - In "Cliente chato" - Remove the section "Hoje, em retrospectiva .... uma esperança". #ref-paper-remove-dec26-remove0020 @refid-20241226-3e4d4787-1ce4-46a9-8c3e-b915d2d8c324
+* [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Aliás, enquanto ... aquilo." with "Sobre esse evento, um amigo deu nome, dôssie. E com isso nasceu um mito - quando o Marcio envia o Dossiê é o fim do estabelecimento. Nunca mais fiz outro. Mas fiquei pensando sobre aquele comportamento, enquanto ainda chato. " #ref-paper-replace-dec26-clicha-0030 @refid-20241226-5d262f1f-ca83-48e4-b43f-cdd502394295
+
+* [ Done ] @todo - p1 - In "Cliente chato" - Remove the section "Hoje, em retrospectiva .... uma esperança". #ref-paper-remove-dec26-remove0020 @refid-20241226-3e4d4787-1ce4-46a9-8c3e-b915d2d8c324 @git-commit:b135b40
 
 * [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Em parte, em uma ... boa pitada de invencionismo." with "Sobre o meu chato interior, sei que em parte se parece com a chatisse do meu pai. Sempre reclamei das coisas também. Mas este é um chato diferente, que prepara o prato com narrativas com pitadas de ironia, às vezes dramáticas às vezes tristes às vezes engraçadas. Um chato que dá voltas em torno dos "bugs" dos estabelecimentos. #ref-paper-replace-dec26-clicha-0020 @refid-20241226-43e4f7c6-825d-4e6e-b36b-cbb07bc41253
 
