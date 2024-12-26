@@ -2,6 +2,34 @@
 ## Todo 
 
 
+* [ , anchored] @todo - p1  - In Fazejamento , consider to bring back Maslow, @refid-20241226-c906d574-6475-4930-900c-6980cf7def8d
+
+* [, anchored ] @todo - p1 - In "Part 1, Fazejamento" - Translate to pt-br the quote from Joseph Schumpeter. @refid-20241226-ee7d639a-9596-4265-b974-28ff95587d82
+
+* [ ] @todo - p1 - In fazejamento - jtbd is referred 3 or 4 times. Need to check where JTBD enters one time only, recalling a prior story, or a point about the double side, when we miss the point. @refid-20241226-11021d4c-6fa4-4d9e-b704-db1f3106d924
+
+* [ ] @todo-index @todo - p1 - In fazejamento - Consider to cut section at "De certa forma, aqui eu celebro e critíco..." with the title "The power of confidence" or equivalent, #DorotheaBrande @refid-xxxx-xxxx-xxx-xxxx
+
+* [ , anchored] @todo - p1 - In “Part 1, fazejamento” - Consider the expand the section with ideas from Walter Fisher, the Homo Narrans - @refid-20241219-066e56ea-555c-48c2-9126-90a0ad42d5d5
+
+* [ , anchored] @todo - p1 - In “Part 1, Fazejamento potencializado, fornecedores” - Check a reference to “no capítulo anterior” to see if the idea was actually presented there. @refid-20241219-be55f5bc-fb7e-4dbc-93c2-3e6795633df9
+
+* [ , anchored] @todo - p1 - In "Parte 1, Fazejamento" - Consider, within the section "fornecedores", the case of the salesman pointed by Maslow and referred in the book Slow Down Start-up. @refid-20241219-948770ee-60e3-40ef-806f-57b54986e678
+
+* [ ] @todo - p1 - In "Part 1, Fazejamento Potencializado", Consider the citation from the video interview with Fabricio Morini. Ref "O que eu quis dizer no livro como abrir o foco é que, quando você se determina para fazer algo, entende o que vai fazer. Com esse bombardeio de informações que a gente recebe atualmente, nós não podemos nos desviar, temos que ser espartanos." (RÁDIO CBN, 2024, 25:06-25:12) @todo-reference RÁDIO CBN. Mundo Corporativo: tire sua ideia do PowerPoint e a faça funcionar no Excel, sugere Fabrício Morini. Entrevista com Fabrício Morini. Disponível em: https://www.youtube.com/watch?v=N0KpPraJ3eE. Acesso em: 18 dez. 2024. @refid-20241218-c0422296-76bc-44d5-8b6f-b72fbed7e012 
+
+* [ ] @todo - p2 -  In "Parte 1, Fazejamento Potencializado" - December  18th, 2024 - Consider the general startup idea of failing fast. It is cheaper to fail fast, etc. @refid-20241218-d7999ac6-911e-45f8-9bc3-a47d9677e50b
+
+* [ ] @todo - p1 - In "Part 1, Fazejamento" - check how JTBD is refered from the context of Fazejamento. @refid-20241218-e8d41ae9-7415-4183-80f1-dc090209784a
+
+* [ ] @todo - p1 - In 030_fazejamento_estabelecimentos, there are a number of references to the word "ritual". This seems to make sense, but, we need to understand why "ritual" needs to happen; in other words, what comes next. 
+
+
+
+
+
+
+
 * [ ] @todo - p1 - In "Tem remédio para isso" - Consider to make this one a final chapter. Consider to end with a final word, about not taking medicine, not being mad but also not following the movement. @refid-20241225-04d94cea-7b68-4d64-96ec-0a518e6e6f26
 
 * [ ] @todo - p1 - In "Tem remédio para isso" - Consider the case of the poster of "do not feed the Doves" at the hospital renowed in Ribeirão Preto. @refid-20241225-13ae5a5c-cb54-4291-844e-a7e6576a1e65
@@ -12,24 +40,6 @@
 
 * [ ] @todo  - p1 - In "Part Resgate," somewhere - [Ft. CG] Consider if the story told by Christian can fit within the case of the TV which has evolved at Café Pagliaroni, Ribeirão Preto. @ref-e-mail "Book - ADM - caso carta do Christian sobre uso de tecnologia, inteligência artificial, para acessibilidade" @refid-20241219-49086dd7-695e-4b8c-9352-beb99bcaee39
 
-* [ , anchored ] @todo - p1 - In "Part 1, Fazejamento" - add a quote from Joseph Schumpeter. @refid-20241218-e17fe485-585b-4f54-bd78-f602480dcf81
-
-* [ , anchored] @todo - p1 - In “Part 1, fazejamento” - Consider the expand the section with ideas from Walter Fisher, the Homo Narrans - @refid-20241219-066e56ea-555c-48c2-9126-90a0ad42d5d5
-
-* [ , anchored] @todo - p1 - In “Part 1, Fazejamento potencializado, fornecedores” - Check a reference to “no capítulo anterior” to see if the idea was actually presented there. @refid-20241219-be55f5bc-fb7e-4dbc-93c2-3e6795633df9
-
-* [ , anchored] @todo - p1 - In "Parte 1, Fazejamento" - Consider, within the section "fornecedores", the case of the salesman pointed by Maslow and referred in the book Slow Down Start-up. @refid-20241219-948770ee-60e3-40ef-806f-57b54986e678
-
-* [ , anchored] @todo - p1 - #references - In "Part 1, fazejamento" - Consider to refer to Dorothea Brande, Wake Up and Live. @refid-20241218-b9e46cc2-2512-4145-946e-da07d34af3c8
-
-* [ ] @todo - p1 - In "Part 1, Fazejamento Potencializado", Consider the citation from the video interview with Fabricio Morini. Ref "O que eu quis dizer no livro como abrir o foco é que, quando você se determina para fazer algo, entende o que vai fazer. Com esse bombardeio de informações que a gente recebe atualmente, nós não podemos nos desviar, temos que ser espartanos." (RÁDIO CBN, 2024, 25:06-25:12) @todo-reference RÁDIO CBN. Mundo Corporativo: tire sua ideia do PowerPoint e a faça funcionar no Excel, sugere Fabrício Morini. Entrevista com Fabrício Morini. Disponível em: https://www.youtube.com/watch?v=N0KpPraJ3eE. Acesso em: 18 dez. 2024. @refid-20241218-c0422296-76bc-44d5-8b6f-b72fbed7e012 
-
-* [ ] @todo - p2 -  In "Parte 1, Fazejamento Potencializado" - December  18th, 2024 - Consider the general startup idea of failing fast. It is cheaper to fail fast, etc. @refid-20241218-d7999ac6-911e-45f8-9bc3-a47d9677e50b
-
-* [ ] @todo - p1 - In "Part 1, Fazejamento" - check how JTBD is refered from the context of Fazejamento. @refid-20241218-e8d41ae9-7415-4183-80f1-dc090209784a
-
-* [ ] @todo - p1 - In 030_fazejamento_estabelecimentos, there are a number of references to the word "ritual". This seems to make sense, but, we need to understand why "ritual" needs to happen; in other words, what comes next. 
-* [ ] @todo - p1  - In 040_fazejamento_potencializado, bring back Maslow 
 
 
 

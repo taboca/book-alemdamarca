@@ -1,5 +1,24 @@
 ## Done 
 
+* [Auto done]] @todo-index @todo - p1 - In Fazejamento - Join the paragraph "Exceto uma pequena .." with "O que complicou... "
+* [Auto done ] @todo-index @todo - p1 - In Fazejamento - Consider a secion title "The user's voice" before the "Hoje, ao vivo, um jovem cliente " ...
+* [Auto done] @todo-index @todo - p1 - In Fazejamento - Join the paragraphs "Mas peço uma pausa..." with "Essa percepção, projetada ..."
+* [Auto done] @todo-index @todo - p1 - In "Fazejamento" - Add a point after paragraph of "O que complicou .. " with a "in other words" line which asserts that "we think we are reaching out to the market while in fact we are inviting them in to our ears..." rating:5starts. Note: this perfectly connnect with a statement which soon said that "nós criamos as condições..."
+
+* [Dismissed, anchored] @todo - p1 - In "Fazejamento" - Consider to move the section "Com isso, o estabelecimento crescia .. " into the section "Fazejamento potencializado" as part 1 of the leading paragraph, so that it contrasts with the correct situation assertion which said "justificamos um certo fazejamento anterior".. .  @refid-20241226-bd6da53f-bbb4-49b4-a679-9136d97bca6a
+
+* [Done, anchored ] @todo - p1 - In "Fazejamento" - Consider to put a title "O jogo" before the section "Convido você a imaginar um jogo... " @refid-20241226-818c6f48-fe1a-4366-9e48-a5990d236b4f
+
+* [Done, anchored] @todo - p1 - In "Fazejamento" - Consider to put a title before the section that starts with "Além do fazer, atrelado aos desafios..." as "Ação e reação". @refid-20241226-b162c2d5-95ce-46dd-8855-c76711bf2e91
+
+* [Dismissed, anchored] @todo - p1 - In "Fazejamento" - Consider to move the next section which starts with "Com isso, temporariamente... " within the section "Aprendizado dentro da bolha" and also replace this title with "A escola da vida". @refid-20241226-8ac6de17-8b92-4c6a-b06b-23aea405dcc6
+
+* [Done, anchored ] @todo - p1 - In "Part 1, Fazejamento" - add a quote from Joseph Schumpeter. @refid-20241218-e17fe485-585b-4f54-bd78-f602480dcf81
+
+* [Done , anchored] @todo - p1 - #references - In "Part 1, fazejamento" - Consider to refer to Dorothea Brande, Wake Up and Live. @refid-20241218-b9e46cc2-2512-4145-946e-da07d34af3c8
+
+* [Done, anchored] @todo - p1 - In fazejamento - Consider to cut section at "De certa forma, aqui eu celebro e critíco..." with the title "The power of confidence" or equivalent, #DorotheaBrande @refid-20241226-02ecd304-6f59-46e0-8b43-bf1a93859bc3
+
 * [Excluded , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
 
 * [Done] @todo - p1 - In Spaceships, Check for answers, for the possibility of a short interview with the owners of the La Fraternite - la fraternité photos https://g.co/kgs/SkX2k5i to check about if they had music, and how they used that style back in the days, and if their setting where like a prototype, like a club or a “second house”. Marcio had sent an e-mail to Erico. @refid-20241224-60757469-2579-476b-b35f-fafc2c298d09 ref e-mail https://mail.google.com/mail/u/0/#sent/KtbxLxglsJdgWJTxbGvdchKqGTvFTRSRxq?compose=new
