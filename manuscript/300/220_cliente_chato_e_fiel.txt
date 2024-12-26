@@ -4,7 +4,13 @@
 
 @todo
 
-* [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. 
+* [ , anchored @todo - p1 - In "Cliente chato" - Consider to remove the whole section that starts with "Eu preciso explicar ... o mérito." #ref-paper-remove-clicha-00060 @refid-20241226-319cf324-930e-482c-a355-1cfa0d90292f
+
+* [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
+* [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
+
+* [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
+
 * [ ] @todo - p1 - In "Cliente chato", consider my father and myself and this whole book. 
 * [ ] @todo - p1 - In "Cliente chato", check on rights, with @contact:OM, and notes in "Livro - além da marca - caso do quantitativo cantina Romar" ref "Aqui também é um lembrete de uma outra narrativa, que é a narrativa do não mudamos nada, de um consumidor bem crítico, que é um cliente fiel de uma cantina tradicional Ribeirão Preto, onde ele um dia falou que algo mudou em relação ao prato, e o novo gerente, que é descendente dos fundadores originais argumentou que nada mudou, e no argumento falou que as quantidades eram as mesmas, e como se naquele momento para esse cliente crítico a resposta já estava lá, como se ele tivesse dito exatamente, as quantidades são as mesmas e tudo começou assim, uma ideia, passar pelo quantitativo não significa nada talvez eram os ingredientes, ficou um momento um pouco tenso, talvez o jovem que está na liderança pode até não entender, se aquela pessoa está lá para criticar, somente por criticar, mas ali pelo menos foi um caso que passou mais para frente, onde esse jovem gerente viu o cliente lá e falou que gostaria de conversar mais com ele, estava interessado sim em melhorar, em trazer a identidade da cantina de volta, então pelo menos estamos aí um caso de alguém que se abriu, está aberto a ouvir"
 
@@ -18,7 +24,7 @@
 
 @done 
 
-* [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Formalizando ... então dois casos." with "Formalizando o desafio à nossa frente, em diante de todas as interações e clientes chatos, mais ou menos chatos, casos legítimos ou confusos, e considerando a velocidade que operamos, precisamos valorizar uma forma para ouvi-los, aumentar nossa atenção e paciência, justamente para obter valor e conseguirmos ressignificar essas interações. Imagina, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata na sua frente. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Primeiro, considerar dois cenários baseados em histórias reais, a situação do comentário curto e grosso silenciado, depois um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial." #ref-paper-replace-dec26-clicha-0050 @refid-20241226-cfb2c2f3-c5d0-4acc-b6d8-7ae37755ea03
+* [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Formalizando ... então dois casos." with "Formalizando o desafio à nossa frente, em diante de todas as interações e clientes chatos, mais ou menos chatos, casos legítimos ou confusos, e considerando a velocidade que operamos, precisamos valorizar uma forma para ouvi-los, aumentar nossa atenção e paciência, justamente para obter valor e conseguirmos ressignificar essas interações. Imagina, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata na sua frente. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Primeiro, considerar dois cenários baseados em histórias reais, a situação do comentário curto e grosso silenciado, depois um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial." #ref-paper-replace-dec26-clicha-0050 @refid-20241226-cfb2c2f3-c5d0-4acc-b6d8-7ae37755ea03 @refgit:f7c98f1
 
 * [Done , anchored ] @todo - p1 - In "Cliente chato" - Replace "Primeiro, que atrás ... sobre valor. " with "Por exemplo, que atrás de um cliente chato pode ter uma pessoa especial. Ou mais precisamente, a dica é essa: o comentário percebido como chato - certamente desconfortável -  por ser guiado por emoções é a ponte que pode para oportunidades." #ref-paper-replace-dec26-clicha-0040 @refid-20241226-24c2a348-6ae3-43d8-b142-bb5db6fd7d80
 
@@ -74,20 +80,36 @@ Minha interação com este café foi diferente. Comecei escrevendo por e-mail, e
 
 <!--
 @todo 
-* [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Formalizando ... então dois casos." with "Formalizando o desafio à nossa frente, em diante de todas as interações e clientes chatos, mais ou menos chatos, casos legítimos ou confusos, e considerando a velocidade que operamos, precisamos valorizar uma forma para ouvi-los, aumentar nossa atenção e paciência, justamente para obter valor e conseguirmos ressignificar essas interações. Imagina, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata na sua frente. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Primeiro, considerar dois cenários baseados em histórias reais, a situação do comentário curto e grosso silenciado, depois um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial." #ref-paper-replace-dec26-clicha-0050 @refid-20241226-cfb2c2f3-c5d0-4acc-b6d8-7ae37755ea03
+* [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Formalizando ... então dois casos." with "Formalizando o desafio à nossa frente, em diante de todas as interações e clientes chatos, mais ou menos chatos, casos legítimos ou confusos, e considerando a velocidade que operamos, precisamos valorizar uma forma para ouvi-los, aumentar nossa atenção e paciência, justamente para obter valor e conseguirmos ressignificar essas interações. Imagina, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata na sua frente. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Primeiro, considerar dois cenários baseados em histórias reais, a situação do comentário curto e grosso silenciado, depois um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial." #ref-paper-replace-dec26-clicha-0050 @refid-20241226-cfb2c2f3-c5d0-4acc-b6d8-7ae37755ea03 @refgit:f7c98f1
+
 -->
 
-Formalizando o desafio à nossa frente, em diante de todas as interações e clientes chatos, mais ou menos chatos, casos legítimos ou confusos, e considerando a velocidade que operamos, precisamos valorizar uma forma para ouvi-los, aumentar nossa atenção e paciência, justamente para obter valor e conseguirmos ressignificar essas interações. Imagina, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata na sua frente. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Primeiro, considerar dois cenários baseados em histórias reais, a situação do comentário curto e grosso silenciado, depois um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial.
+Formalizando o desafio à nossa frente, em diante de todas as interações e clientes chatos, mais ou menos chatos, casos legítimos ou confusos, e considerando a velocidade que operamos, precisamos valorizar uma forma para ouvi-los, aumentar nossa atenção e paciência, justamente para obter valor e conseguirmos ressignificar essas interações. Imagina, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata na sua frente. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Vamos considerar dois cenários baseados em histórias reais, primeiro uma situação do comentário curto e grosso que foi silenciado. Depois, um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial.
 
-O primeiro caso, bem chato, é de um cliente chato que fez um comentário e recebeu de volta algo mais chato ainda, algo bem chato de se ouvir. Este é o caso de um cliente chato na frente de um estabelecimento chato e uma não conversa. Já o outro é sobre um cliente que poderia ser um chato e um estabelecimento que poderia não ouvir. 
-O primeiro caso aconteceu comigo. Um belo dia, entrei numa cafeteria, aparentemente bem chique, sentei lá, e lá estavam vários estudantes porque essa cafeteria fica próximo da universidade Unaerp, em Ribeirão Preto. Então, um garçom aproximou, fisicamente; eu achei bem legal. Mas ele veio para me avisar para pedir pelo QRCode. Talvez aquele não era um belo dia porque fui direto ao ponto - e falei “Será que vocês, às vezes, não perdem alguns clientes que, por exemplo, sentam aqui, não entendem o processo e acabam ficando desencorajados de comprar e ao mesmo tempo não dizem nada e vão simplesmente embora?” E então, ele respondeu que "o que os olhos não veem, o coração não sente".
+
+
+
+
+
+
+
+
 
 <!--
 @todo 
+* [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
 * [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
+
 --> 
 
+O primeiro caso aconteceu comigo. Um belo dia, entrei numa cafeteria, aparentemente bem chique, sentei lá, e lá estavam vários estudantes porque essa cafeteria fica próximo da universidade Unaerp, em Ribeirão Preto. Então, um garçom aproximou, fisicamente; eu achei bem legal. Mas ele veio para me avisar para pedir pelo QRCode. Talvez aquele não era um belo dia porque fui direto ao ponto - e falei “Será que vocês, às vezes, não perdem alguns clientes que, por exemplo, sentam aqui, não entendem o processo e acabam ficando desencorajados de comprar e ao mesmo tempo não dizem nada e vão simplesmente embora?” E então, ele respondeu que "o que os olhos não veem, o coração não sente".
+
 Eu nunca vou esquecer aquele comentário, porque foi tão forte mas tão forte que minha raiva foi embora. Talvez enquanto uma gotinha de lágrima escorria. É lógico, não tinha mais nada que pudesse ser dito. Eu acho que aquele tipo de comentário é o que eu chamaria de um comentário finalizador. Tem certos momentos, na vida, que os comentários finalizadores podem ser muito apropriados. Talvez ele precisasse usar aquilo porque o dia dele também não estava legal. 
+
+<!--
+@todo 
+* [ , anchored @todo - p1 - In "Cliente chato" - Consider to remove the whole section that starts with "Eu preciso explicar ... o mérito." #ref-paper-remove-clicha-00060 @refid-20241226-319cf324-930e-482c-a355-1cfa0d90292f
+--> 
 
 Eu preciso explicar o que é o comentário finalizador: Às vezes tem uma pessoa do meu lado que não entende porque eu fiz uma coisa errada - ela quer saber o que me levou a fazer aquilo. Então, quando eu não quero uma discussão eu falo que é "porque eu sou burro!". E sinceramente funciona - elas não perguntam mais nada. Do outro lado, ouvindo "o que os olhos não veem o coração não sente," senti que era um comentário finalizador. Porque tinha total lógica e eu não poderia argumentar com a lógica. Acho que a maior parte das coisas que a gente leva para frente a briga é de fato quando encontramos um problema de lógica. Porque, na verdade, só brigamos quando discordamos do mérito, e, da lógica da comunicação que argumenta o mérito.  
 

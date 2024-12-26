@@ -2,6 +2,19 @@
 ## Todo 
 
 
+* [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
+
+* [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
+* [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
+
+* [ ] @todo - p1 - In "Cliente chato", consider my father and myself and this whole book. 
+* [ ] @todo - p1 - In "Cliente chato", check on rights, with @contact:OM, and notes in "Livro - além da marca - caso do quantitativo cantina Romar" ref "Aqui também é um lembrete de uma outra narrativa, que é a narrativa do não mudamos nada, de um consumidor bem crítico, que é um cliente fiel de uma cantina tradicional Ribeirão Preto, onde ele um dia falou que algo mudou em relação ao prato, e o novo gerente, que é descendente dos fundadores originais argumentou que nada mudou, e no argumento falou que as quantidades eram as mesmas, e como se naquele momento para esse cliente crítico a resposta já estava lá, como se ele tivesse dito exatamente, as quantidades são as mesmas e tudo começou assim, uma ideia, passar pelo quantitativo não significa nada talvez eram os ingredientes, ficou um momento um pouco tenso, talvez o jovem que está na liderança pode até não entender, se aquela pessoa está lá para criticar, somente por criticar, mas ali pelo menos foi um caso que passou mais para frente, onde esse jovem gerente viu o cliente lá e falou que gostaria de conversar mais com ele, estava interessado sim em melhorar, em trazer a identidade da cantina de volta, então pelo menos estamos aí um caso de alguém que se abriu, está aberto a ouvir"
+
+
+
+
+
+
 * [ , anchored] @todo - p1  - In Fazejamento , consider to bring back Maslow, @refid-20241226-c906d574-6475-4930-900c-6980cf7def8d
 
 * [, anchored ] @todo - p1 - In "Part 1, Fazejamento" - Translate to pt-br the quote from Joseph Schumpeter. @refid-20241226-ee7d639a-9596-4265-b974-28ff95587d82
@@ -55,7 +68,6 @@
 
 
 
-* [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
 
 
 
@@ -155,9 +167,6 @@
 
 * [ ] @todo - p1 - Expand the content in 110_visceral_different.txt
 
-* [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. 
-* [ ] @todo - p1 - In "Cliente chato", consider my father and myself and this whole book. 
-* [ ] @todo - p1 - In "Cliente chato", check on rights, with @contact:OM, and notes in "Livro - além da marca - caso do quantitativo cantina Romar" ref "Aqui também é um lembrete de uma outra narrativa, que é a narrativa do não mudamos nada, de um consumidor bem crítico, que é um cliente fiel de uma cantina tradicional Ribeirão Preto, onde ele um dia falou que algo mudou em relação ao prato, e o novo gerente, que é descendente dos fundadores originais argumentou que nada mudou, e no argumento falou que as quantidades eram as mesmas, e como se naquele momento para esse cliente crítico a resposta já estava lá, como se ele tivesse dito exatamente, as quantidades são as mesmas e tudo começou assim, uma ideia, passar pelo quantitativo não significa nada talvez eram os ingredientes, ficou um momento um pouco tenso, talvez o jovem que está na liderança pode até não entender, se aquela pessoa está lá para criticar, somente por criticar, mas ali pelo menos foi um caso que passou mais para frente, onde esse jovem gerente viu o cliente lá e falou que gostaria de conversar mais com ele, estava interessado sim em melhorar, em trazer a identidade da cantina de volta, então pelo menos estamos aí um caso de alguém que se abriu, está aberto a ouvir"
 
 * [ ] @todo - p1 - In "design holistico", Need to translate from the English to pt-br, and adjust the Airbnb story to make sense in the context. 
 * [ ] @todo - p1 - In "design holístico", consider the insight that Spielberg had learned through the relationship  with John Willians - article  https://br.ign.com/cinema-tv/132789/news/achei-que-fosse-uma-piada-ha-50-anos-steven-spielberg-nao-percebeu-que-estava-ouvindo-uma-das-maiore
