@@ -1,5 +1,7 @@
 ## Done 
 
+* [Done , anchored ] @todo - p1 - In "Cliente chato" - Replace "Primeiro, que atrás ... sobre valor. " with "Por exemplo, que atrás de um cliente chato pode ter uma pessoa especial. Ou mais precisamente, a dica é essa: o comentário percebido como chato - certamente desconfortável -  por ser guiado por emoções é a ponte que pode para oportunidades." #ref-paper-replace-dec26-clicha-0040
+
 * [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Aliás, enquanto ... aquilo." with "Sobre esse evento, um amigo deu nome, dôssie. E com isso nasceu um mito - quando o Marcio envia o Dossiê é o fim do estabelecimento. Nunca mais fiz outro. Mas fiquei pensando sobre aquele comportamento, enquanto ainda chato. " #ref-paper-replace-dec26-clicha-0030 @refid-20241226-5d262f1f-ca83-48e4-b43f-cdd502394295
 
 * [ Done ] @todo - p1 - In "Cliente chato" - Remove the section "Hoje, em retrospectiva .... uma esperança". #ref-paper-remove-dec26-remove0020 @refid-20241226-3e4d4787-1ce4-46a9-8c3e-b915d2d8c324 @git-commit:b135b40
