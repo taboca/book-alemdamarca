@@ -4,7 +4,6 @@
 
 @todo
 
-* [ , anchored @todo - p1 - In "Cliente chato" - Consider to remove the whole section that starts with "Eu preciso explicar ... o mérito." #ref-paper-remove-clicha-00060 @refid-20241226-319cf324-930e-482c-a355-1cfa0d90292f
 
 * [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
 * [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
@@ -23,6 +22,8 @@
 * Cliente chato, que importa - Este capítulo começa com a história de um feedaback duro que foi deixado em um restaurante tradicional, que poderia ser recebido como um "comentário negativo de um cliente chato" mas que eventualmente foi reconhecido como um feedack importante dado por um cliente fiel. Consideramos os desafios para entender feedback por duas perspectivas. A primeira considera como as próprias métricas de execução tem poder de silenciar o feedback. A segunda destaca a importância de levar em consideração os perfis daqueles que deixam feedback. Neste sentido, apresentamos o modelo criado pelo pesquisador Adam Grant que identificou quatro perfís e destacou a importância de valorizar um perfil em especial: quem deixa um feedback duro mas ao mesmo tempo se importa "com você", nos levando a reconsiderar aquele "comentário negativo de um cliente chato" como possivelmente "um feeback crítico de um cliente fiel".  
 
 @done 
+
+* [ Done, removed, anchored] @todo - p1 - In "Cliente chato" - Consider to remove the whole section that starts with "Eu preciso explicar ... o mérito." #ref-paper-remove-clicha-00060 @refid-20241226-319cf324-930e-482c-a355-1cfa0d90292f
 
 * [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Formalizando ... então dois casos." with "Formalizando o desafio à nossa frente, em diante de todas as interações e clientes chatos, mais ou menos chatos, casos legítimos ou confusos, e considerando a velocidade que operamos, precisamos valorizar uma forma para ouvi-los, aumentar nossa atenção e paciência, justamente para obter valor e conseguirmos ressignificar essas interações. Imagina, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata na sua frente. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Primeiro, considerar dois cenários baseados em histórias reais, a situação do comentário curto e grosso silenciado, depois um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial." #ref-paper-replace-dec26-clicha-0050 @refid-20241226-cfb2c2f3-c5d0-4acc-b6d8-7ae37755ea03 @refgit:f7c98f1
 
@@ -105,13 +106,6 @@ Formalizando o desafio à nossa frente, em diante de todas as interações e cli
 O primeiro caso aconteceu comigo. Um belo dia, entrei numa cafeteria, aparentemente bem chique, sentei lá, e lá estavam vários estudantes porque essa cafeteria fica próximo da universidade Unaerp, em Ribeirão Preto. Então, um garçom aproximou, fisicamente; eu achei bem legal. Mas ele veio para me avisar para pedir pelo QRCode. Talvez aquele não era um belo dia porque fui direto ao ponto - e falei “Será que vocês, às vezes, não perdem alguns clientes que, por exemplo, sentam aqui, não entendem o processo e acabam ficando desencorajados de comprar e ao mesmo tempo não dizem nada e vão simplesmente embora?” E então, ele respondeu que "o que os olhos não veem, o coração não sente".
 
 Eu nunca vou esquecer aquele comentário, porque foi tão forte mas tão forte que minha raiva foi embora. Talvez enquanto uma gotinha de lágrima escorria. É lógico, não tinha mais nada que pudesse ser dito. Eu acho que aquele tipo de comentário é o que eu chamaria de um comentário finalizador. Tem certos momentos, na vida, que os comentários finalizadores podem ser muito apropriados. Talvez ele precisasse usar aquilo porque o dia dele também não estava legal. 
-
-<!--
-@todo 
-* [ , anchored @todo - p1 - In "Cliente chato" - Consider to remove the whole section that starts with "Eu preciso explicar ... o mérito." #ref-paper-remove-clicha-00060 @refid-20241226-319cf324-930e-482c-a355-1cfa0d90292f
---> 
-
-Eu preciso explicar o que é o comentário finalizador: Às vezes tem uma pessoa do meu lado que não entende porque eu fiz uma coisa errada - ela quer saber o que me levou a fazer aquilo. Então, quando eu não quero uma discussão eu falo que é "porque eu sou burro!". E sinceramente funciona - elas não perguntam mais nada. Do outro lado, ouvindo "o que os olhos não veem o coração não sente," senti que era um comentário finalizador. Porque tinha total lógica e eu não poderia argumentar com a lógica. Acho que a maior parte das coisas que a gente leva para frente a briga é de fato quando encontramos um problema de lógica. Porque, na verdade, só brigamos quando discordamos do mérito, e, da lógica da comunicação que argumenta o mérito.  
 
 Mas uma coisa devemos nos voltar, aqui, é que aquele café tinha um grande problema, algo que realmente não é visto porque tudo gira tão rápido. Em outras palavras, fazer uma pausa neste episódio é importante porque nos dá o ponto de leitura que diz que está nas mãos do estabelecimento a capacidade de ouvir. 
 
