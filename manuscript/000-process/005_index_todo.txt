@@ -1,7 +1,6 @@
 
 ## Todo 
 
-
 * [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
 
 * [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd

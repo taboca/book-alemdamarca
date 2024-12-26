@@ -1,6 +1,8 @@
 ## Done 
 
-* [ Done, removed, anchored] @todo - p1 - In "Cliente chato" - Consider to remove the whole section that starts with "Eu preciso explicar ... o mérito." #ref-paper-remove-clicha-00060 @refid-20241226-319cf324-930e-482c-a355-1cfa0d90292f
+* [ Done, anchored ] @todo - p1 - In "Cliente chato" - Shorten the Peter Drucker paragraph, and refer to it at "Sobre isso, sobre comunicar". @refid-20241226-0e9c1cad-b037-4ca7-806e-3adcaa1ba095
+
+* [ Done, removed, anchored] @todo - p1 - In "Cliente chato" - Consider to remove the whole section that starts with "Eu preciso explicar ... o mérito." #ref-paper-remove-clicha-00060 @refid-20241226-319cf324-930e-482c-a355-1cfa0d90292f @refgit:7b5522f
 
 * [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Formalizando ... então dois casos." with "Formalizando o desafio à nossa frente, em diante de todas as interações e clientes chatos, mais ou menos chatos, casos legítimos ou confusos, e considerando a velocidade que operamos, precisamos valorizar uma forma para ouvi-los, aumentar nossa atenção e paciência, justamente para obter valor e conseguirmos ressignificar essas interações. Imagina, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata na sua frente. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Primeiro, considerar dois cenários baseados em histórias reais, a situação do comentário curto e grosso silenciado, depois um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial." #ref-paper-replace-dec26-clicha-0050 @refid-20241226-cfb2c2f3-c5d0-4acc-b6d8-7ae37755ea03 @refgit:f7c98f1
 

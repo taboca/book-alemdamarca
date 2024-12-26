@@ -23,7 +23,9 @@
 
 @done 
 
-* [ Done, removed, anchored] @todo - p1 - In "Cliente chato" - Consider to remove the whole section that starts with "Eu preciso explicar ... o mérito." #ref-paper-remove-clicha-00060 @refid-20241226-319cf324-930e-482c-a355-1cfa0d90292f
+* [ Done, anchored ] @todo - p1 - In "Cliente chato" - Shorten the Peter Drucker paragraph, and refer to it at "Sobre isso, sobre comunicar". @refid-20241226-0e9c1cad-b037-4ca7-806e-3adcaa1ba095
+
+* [ Done, removed, anchored] @todo - p1 - In "Cliente chato" - Consider to remove the whole section that starts with "Eu preciso explicar ... o mérito." #ref-paper-remove-clicha-00060 @refid-20241226-319cf324-930e-482c-a355-1cfa0d90292f @refgit:7b5522f
 
 * [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Formalizando ... então dois casos." with "Formalizando o desafio à nossa frente, em diante de todas as interações e clientes chatos, mais ou menos chatos, casos legítimos ou confusos, e considerando a velocidade que operamos, precisamos valorizar uma forma para ouvi-los, aumentar nossa atenção e paciência, justamente para obter valor e conseguirmos ressignificar essas interações. Imagina, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata na sua frente. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Primeiro, considerar dois cenários baseados em histórias reais, a situação do comentário curto e grosso silenciado, depois um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial." #ref-paper-replace-dec26-clicha-0050 @refid-20241226-cfb2c2f3-c5d0-4acc-b6d8-7ae37755ea03 @refgit:f7c98f1
 
@@ -93,7 +95,7 @@ Formalizando o desafio à nossa frente, em diante de todas as interações e cli
 
 
 
-
+### Curto e grosso 
 
 
 <!--
@@ -105,14 +107,39 @@ Formalizando o desafio à nossa frente, em diante de todas as interações e cli
 
 O primeiro caso aconteceu comigo. Um belo dia, entrei numa cafeteria, aparentemente bem chique, sentei lá, e lá estavam vários estudantes porque essa cafeteria fica próximo da universidade Unaerp, em Ribeirão Preto. Então, um garçom aproximou, fisicamente; eu achei bem legal. Mas ele veio para me avisar para pedir pelo QRCode. Talvez aquele não era um belo dia porque fui direto ao ponto - e falei “Será que vocês, às vezes, não perdem alguns clientes que, por exemplo, sentam aqui, não entendem o processo e acabam ficando desencorajados de comprar e ao mesmo tempo não dizem nada e vão simplesmente embora?” E então, ele respondeu que "o que os olhos não veem, o coração não sente".
 
-Eu nunca vou esquecer aquele comentário, porque foi tão forte mas tão forte que minha raiva foi embora. Talvez enquanto uma gotinha de lágrima escorria. É lógico, não tinha mais nada que pudesse ser dito. Eu acho que aquele tipo de comentário é o que eu chamaria de um comentário finalizador. Tem certos momentos, na vida, que os comentários finalizadores podem ser muito apropriados. Talvez ele precisasse usar aquilo porque o dia dele também não estava legal. 
+Eu nunca vou esquecer aquele comentário, porque foi tão forte até a ponto de eu desengajar do que seria uma conversa ou discussão. Tipo assim, enquanto uma gotinha de lágrima escorre. É lógico, pois não havia o que pudesse ser dito. Aquele é o tipo de comentário que chamo de comentário finalizador. Tem certos momentos, na vida, que os comentários finalizadores podem ser muito apropriados, é verdade. Mas é triste notar que o funcionário estava em uma situação ou condição daquela. Quando a nossa operação chega nessa condição, quando as coisas giram tão rápido, literalmente perdemos nosso tempo por conta da nossa capacidade de ouvir, não só os clientes mas o ambiente todo. 
 
-Mas uma coisa devemos nos voltar, aqui, é que aquele café tinha um grande problema, algo que realmente não é visto porque tudo gira tão rápido. Em outras palavras, fazer uma pausa neste episódio é importante porque nos dá o ponto de leitura que diz que está nas mãos do estabelecimento a capacidade de ouvir. 
 
-Sobre isso, sobre comunicar, eu percebi melhor quando li um pouco das ideias de Peter Drucker, quando ele falou sobre a comunicação, que só ocorre quando o lado receptor entende. Então vamos referenciar Peter Drucker com o intúito de celebrarmos essa questão sobre a comunicação e percepção:
+<!--
+@todo 
 
-> "Peter Drucker, Peter Drucker, Peter Drucker, Peter Drucker, Peter Drucker, Peter Drucker, Peter Drucker, Peter Drucker, Peter Drucker, Peter Drucker, Peter Drucker, Peter Drucker, ." (Druker, Peter, 20xx, p. xx)
-Então, esse caso mostra que é importante criar formas de ver, de ouvir, de sentir. De certa forma, a resposta que aquele garçom deu era a resposta para a melhoria. Eles poderiam criar uma caixa de sugestões ou uma placa perguntando - você deixaria de comprar por conta da experiência do QR code? Se sim, nos avise por favor. 
+* [ Done, anchored ] @todo - p1 - In "Cliente chato" - Shorten the Peter Drucker paragraph, and refer to it at "Sobre isso, sobre comunicar". @refid-20241226-0e9c1cad-b037-4ca7-806e-3adcaa1ba095
+-->
+
+Quando olhamos pela ótica da comunicação e seu papel na gestão, podemos refletir sobre essas situações quando a operação não permite que colaboradores ou clientes, como subordinados ao ambiente, possam efetivamente se comunicar, consequentemente, impedem que valor seja criado. Em Informação, Comunicação e Compreensão (2012), Peter Drucker reconhece que é papel da liderança criar as condições para que os receptores (clientes, colaboradores) possam se comunicar efetivamente. 
+
+> *"Podemos, então, dizer algo construtivo sobre comunicação? Podemos fazer alguma coisa? Podemos dizer que a comunicação deve partir do receptor, não do emissor. No contexto das organizações tradicionais, temos de começar de baixo para cima. A comunicação de cima para baixo não funciona. Ela só pode funcionar depois que a comunicação de baixo para cima for estabelecida com sucesso."* (DRUCKER, 2012, p. 16).
+
+<!--
+@references
+* @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
+-->
+
+Drucker complementa que "O ponto de partida da comunicação nas organizações deve ser fazer o receptor tentar se comunicar." 
+
+Uma vez que a liderança reconhece essa responsabilidade, cabe a ela criar as condições, não importa se é por meio dessas pessoas, dos colaboradores ou com tecnologias, para elevar o nível da comunicação. Desta forma, criando um ambiente virtuoso. Por exemplo, por empoderar os envolvidos nesse processo, que é muito mais do que tradução, mas que como um processo efetivo de comunicação, cria um ambiente de trabalho mais saudável para todos os envolvidos. Um ambiente que valoriza esse tipo de iniciativa é um ambiente onde os colaboradores, de fato, podem utilizar o tempo deles com esse tipo de comunicação, não estão lá para rapidamente voltar para o que estavam fazendo e ignorar aquilo. Não importa se é a permissão para que as pessoas conversem e estabeleçam essa comunicação, ou por meio de tecnologias e ferramentas, por exemplo, a caixa de sugestão, mas importa que existe uma atenção consciente de que esse tipo de interação é parte da gestão.
+
+
+
+
+
+
+
+
+
+### 40 minutos do segundo tempo
+
+
 E com isso podemos ir para a outra história porque ela é sobre quase não ouvir. Quem me contou foi uma pessoa especial que conheci no café Pagliaroni em Ribeirão Preto. Este senhor, um descendente libanês, é um historiador e grande conhecedor dos cafés e outros estabelecimentos de alimentação, apreciador de uma boa culinária do Brasil e do mundo.
 
 Quando ele falou sobre a culinária mexicana, a preocupação e o entendimento que eles têm sobre o milho, eu fiquei com saudades dos dias da Califórnia, quando eu entrava naqueles pequenos espaços - que normalmente jamais entraria com medo do visual - onde o profissional “da chapa” orquestrava taquitos de duas tortilhas de milho, bem frescas, que se encontraram com carnitas, e recebiam a aquele toque de limão fresco, aquele coentro, fresco, tudo aquilo acompanhado com guacamole, e aquele “vinagrete” de micro pedacinhos de pimentões - tudo que nos faz precisar inventar palavras, como Umami, para explicar o inexplicável. 
