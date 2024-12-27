@@ -151,6 +151,19 @@ Neste sentido, Drucker reconhece que "O ponto de partida da comunicação nas or
 -->
 
 
+Eu trouxe essa história de volta, não só para que pudéssemos repensar nossos processos de comunicação mas também para reconhecermos que o assunto "Como navegar feebdack" é de fato complexo. Saber ler feedback é complexo por conta que o feedback é dependente de vários fatores. Por exemplo, um cliente pode estar lá em um dia estressado e lançar mão de comentários arbitrários - tanto positivos como negativos. Por outro lado, como saber se um comentário merece mais atenção? Para nos ajudar com isso, o renomado Autor Adam Grant, autor de Originais, estruturou algumas ideias para nos ajudar.
+
+Um dos alertas que Adam Grant faz é sobre a cultura de gestão que, com um tom filosófico, geralmente nos envolve com a ideia: “não me traga problemas, traga-me soluções”. É verdade que, ao começar assim, somos motivados a dar mais atenção e entender o porquê da solução depois. Por outro lado, o foco exagerado nessa orientação pode nos distanciar do interesse em buscar leituras mais honestas sobre potenciais problemas. A solução de muitas organizações inovadoras consiste em criar um ambiente onde cultura não vê problemas em ver problemas. Iniciativas dessa ordem não se limitam a criar corporações mais resilientes, dado que prever caminhos diversos - negativos ou positivos - pode ser uma prática que ajuda a selecionar ideias mais criativas. É por isso que algumas corporações antecipam a leitura de uma visão honesta e crítica, literalmente nomeando um advogado do diabo (GRANT, 2017, p. 180). Em outras palavras, não temos porque esperar os problemas chegarem ao ponto insuportável para resolvê-los. 
+
+Em Dar e Receber (GRANT, 2014) Adam também chama nossa atenção para percebermos com quem estamos falando na hora de obter feedback. Para ajudar com isso, ele desenha um gráfico que separa as pessoas em quatro quadrantes definidos pelo eixo X, da agradabilidade quem mede quanto alguém concorda ou discorda de você, com o eixo Y, do egoísmo-autruísmo que mede a motivação sem intenção de ajudar até real intenção de ajudar. Em um dos extremos, temos aquela pessoa que nunca desiste de você, a amiga incondicional mas que infelizmente por concordar com tudo não lhe dá a visão honesta e descordante da vida, como algumas mães por exemplos. No extremo oposto, é simples ignorar essas, por ser as pessoas que não se importam com você e também discordam. Mas os dois outros quadrantes são realmente interessantes. Um deles, é o que o Adam chamaria de "amigo da onça" que pode concordar com você porém não se importa de verdade - logicamente um perfil para tomarmos cuidado. Já o quadrante restante é considerado o perfil ideal para feeddback. Isso por conta que estes se importam com você, porém não hesitam em discordar. É o perfil honesto que se importa. No mundo dos estabelecimentos, devemos prestar atenção neste perfil, que inclusive pode passar despercebido como o perfil do cliente chato. Em outras palavras, devemos ficar de olho porque um "cliente chato" pode ser de fato o cliente chato e fiel. 
+
+<!--
+@references
+* @reference - GRANT, Adam. Originais: como os inconformistas mudam o mundo. Tradução de Sérgio Rodrigues. Rio de Janeiro: Sextante, 2017.
+
+* @reference - GRANT, Adam. Dar e receber: uma abordagem revolucionária sobre sucesso, generosidade e influência. Tradução de Afonso Celso da Cunha Serra. Rio de Janeiro: Sextante, 2014. 
+-->
+
 
 ### 40 minutos do segundo tempo
 
