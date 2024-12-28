@@ -15,7 +15,13 @@
 
 @todo 
 
-* [  ]  @todo - p1 - Replace en-us with the draft from the pt-br in the doc entitled "Book - adm - Esse é diferente " @refid-20241228-b8a9e8a2-6d6a-4259-bbc0-eaeb4f044104
+* [ , anchored ] @todo - p1 - In "Esse é diferente" - Consider to expand the story of the instant ramen. @refid-20241228-222b2af7-3492-419f-a4d0-c5d947a48b11
+
+* [ , anchored] @todo - p1 - In "Esse é diferente " - Try to simplify as short as - lacking values? @refid-20241228-522a5c5c-8bb5-4087-9d60-0de7e1a3b196
+
+* [ , anchored] @todo - p1 - In "Esse é diferente" or "Tradicionalmente extraordinário"  - check the note from Dorothea Brande about purposeful action https://docs.google.com/document/d/1hLPFk83jwIaeOqI2qsYfO_LUMU07JYI9XqjGtg1BPiI/edit?tab=t.0 @refid-20241228-d1142f1c-c013-4686-976d-48d1f3927d3e
+
+* [ Doing ]  @todo - p1 - In "Esse é diferente " - Replace en-us with the draft from the pt-br in the doc entitled "Book - adm - Esse é diferente " @refid-20241228-b8a9e8a2-6d6a-4259-bbc0-eaeb4f044104
 
 * [ ] @todo - p1 - In #values #progress "Impossível é possível", translate to pt-br the "Special Pan and Digging Opportunities" https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0 consider to add the point of a) expert vs. expertise (andrew the six degree patent) and some ideas of reading the past, perhaps from Marc Andreessen or from the Blitzscaling. 
 
@@ -40,27 +46,41 @@ Isso nos leva a considerar um problema para a operação - que diz que não pode
 
 Vamos refletir sobre esse tema, sobre criação que fortalece e sobre a criação arbitrária. Esse assunto é relevante porque nossa propensão para usar nossa criatividade é o padrão. Temos fome de contribuir, de somar, de colaborar. E fazemos isso, com nossa imaginação, na hora H, queira ou nã queira. Porém, quando desprovidos de princípios, quando não temos tempo para uma leitura mais calma diante do que está na nossa frente, podemos muitas vezes - sem querer - nos envolver com aquele movimento arbitrário que não só nos guia para confusão mas também nos acostuma como sendo normal. O resultado é que fruto do nosso trabalho nos leva a patinar. Criamos experiências que não se tornam únicas, não são reconhecidas pelas pessoas. Mas mais do que isso, carregamos o peso das falhas, que irá pesar forte no dia que precisarmos, de verdade, e reavaliar nossa postura.  
 
-### O Lamen também 
-
-Qual é o segredo do macarrão instantâneo? Ah, deve ser o sal, aquele tempero endiabrado que foi ajustado com aquele macarrãozinho diferente. 
-
-One way to look at this is to consider the idea of a solar system, with planets that are very different, indeed, but at the same time they are all in a way aligned, around a sun, all connected in a way. 
-
-When I had included Ramen was during my trip to Salamanca, in Spain. I wasn’t expecting to find so many Ramen places in Salamanca - but finding them around November, with the weather getting cold, had really warmed things up. The very first Ramen was surprisingly good. Then another had a surprise it, I wasn’t expecting beef and mushrooms. At this moment, reporting on my trip experiences, I remembered that my friend who went to Japan recently reported that one of the best Ramens he had - in life - was a vegetarian one he found in Tokyo. So Ramen may comply with the solar system rules, by giving a certain framework and at the same time enabling these creators to advance the whole Ramen experience. That may be a way to see things - they are all advancing the whole story, their planets are different, unique, yet they spin around a certain sun. Now, what would be the core values of the Ramen? Maybe the fact that it has to be served very warm? As a customer, in November in Salamanca, I would certainly expect that. But now, reflecting on that, I remembered that that very same friend had in the past reported that he loved a summer creation in São Paulo city at Kazu Ramen. It was cold Ramen. But let us, for a while, lock in that variable, as a value, to keep things simple, considering that a good Ramen will generally be served quite warm - unless you really know what you are doing - as a key element. I would think that another element is the quality and the texture of the noodle. 
-
-### The DNA of the falafel 
-
-### The DNA of the acarajé 
-
-### Missing values - the case of advancing croissant in Brazil 
+### Procurando por sistemas solares 
 
 <!--
-https://docs.google.com/document/d/1hLPFk83jwIaeOqI2qsYfO_LUMU07JYI9XqjGtg1BPiI/edit?tab=t.0
+@todo 
+* [ , anchored ] @todo - p1 - In "Esse é diferente" - Consider to expand the story of the instant ramen. @refid-20241228-222b2af7-3492-419f-a4d0-c5d947a48b11
 -->
 
-Now, we should address an actual complex situation which arises when we try to create let us say new worlds but they aren't centered around values. 
+Qual é o segredo do macarrão instantâneo? Ah, deve ser o sal, aquele tempero endiabrado que foi ajustado com aquele macarrãozinho diferente. 
+Uma forma de ver esse mundo é pensar que é um sistema solar, cada um com sua estrutura, estável, e seus planetas diferentes todos girando em torno de um mesmo sol, todos conectados mesmo que distantes. 
 
-This subject is complex because, certainly, innovation depends on change and experimentation, and certainly on the movement where we need to go further to actually see if we have found interesting things. 
+<!--
+@note:aiuse v0.1 - translated from Marcio's English - https://chatgpt.com/share/67704162-4110-8011-9148-6dc475d2ed46 
+@tag:open
+-->
+Quando incluí o ramen foi durante minha viagem a Salamanca, na Espanha. Eu não esperava encontrar tantos lugares de ramen em Salamanca. Talvez apareceram por lá por conta de ser uma cidade universitária. Mas encontrá-los em Novembro que esfriava a cada dia realmente aqueceu as coisas. O primeiro ramen foi surpreendentemente bom. O segundo foi diferente. Não esperava carne de vaca e cogumelos no molho de shoyu. Naquele momento, lembrei que um amigo visitou Tóquio e reportou que lá encontrou uma experiência de ramen incrível. Disse que lá comeu um dos melhores Ramens da sua vida que para sua surpresa era um ramem vegetariano. Então, se o ramen sigue as regras de um sistema solar, essas criações expandem a experiência do sistema dos ramens - todos estão ampliando a história. São planetas são diferentes, únicos, que giram em torno de um mesmo sol.
+
+Agora, quais seriam os valores centrais do ramen? Um deles é sobre servir bem quente? Como cliente, em Novembro, em Salamanca, eu esperei por isso. Mas, agora, de volta ao Brasil, me lembrei que aquele mesmo amigo já havia comentado sobre um ramen especial que comeu em São Paulo, no planeta Kazu Ramen. Era um ramen frio, especial de verão. Frio e apimentado, muito bom. Mas, por enquanto, vamos fixar essa variável como um valor, só para simplificar. Vamos considerar que um bom ramen carrega o princípio de ser servido bem quente. Bom, isso ao menos que você realmente saiba o que está fazendo. 
+
+<!--
+@note:aiuse v0.1 - translated from Marcio's English - https://chatgpt.com/share/67704162-4110-8011-9148-6dc475d2ed46 
+@tag:close
+-->
+
+Agora seria fascinante, e importante, visitarmos outros sistemas solares, neste momento, como o do falafel e o do acarajé, sem dúvida. Se pudéssemos adentrar, observar um pouco, navegar entre os sistemas, fazer isso de forma desacelerada, temos muito a ganhar. Sobre isso, pelo momento, penso que precisamos de um pouco de coragem para nos entregar. Não estou falando de aprofundar e viver para sempre em um desses sistemas. Mas também não deveríamos nos entregar tão brutalmente ao que parece ser o novo sem perceber um pouco sobre essas histórias, sistemas, sobre o que é tradicional, receitas passadas ou experiências vividas - seguindo por este movimento acelerado de negação ao clássico, ao nosso passado e a história. Temos muito a ganhar em termos de progresso e evolução, se pudéssemos encontrar uma forma mais calma de resgatar, a partir de valores, um pensamento organizado que nos leva a sermos menos arbitrários.
+
+### Sistema desorientado 
+
+<!--
+@todo 
+* [ , anchored] @todo - p1 - In "Esse é diferente" or "Tradicionalmente extraordinário"  - check the note from Dorothea Brande about purposeful action https://docs.google.com/document/d/1hLPFk83jwIaeOqI2qsYfO_LUMU07JYI9XqjGtg1BPiI/edit?tab=t.0 @refid-20241228-d1142f1c-c013-4686-976d-48d1f3927d3e
+
+* [ , anchored] @todo - p1 - In "Esse é diferente " - Try to simplify as short as - lacking values? @refid-20241228-522a5c5c-8bb5-4087-9d60-0de7e1a3b196
+-->
+
+Enquanto isso, podemos nos ocupar um pouco em um outro espaço, complexo, que nos leva a um movimento desorientado mas que infelizemente a complicação se dá porque não percebemos assim. Acelerados, tentando avançar rápido e desprovidos de valores definidos, sem uma estrutura ou norte, sem avançar com uma elegância essencial, essencialmente nos perdemos. O assunto é complexo pois sabemos que inovação depende de experimentação. É verdade. Mas também é verdade que precisamos ter cautela com o movimento instintivo que nos leva ao espaço da variabilidade e longe do espaço da possibilidade - que nos distancia de sermos criativos e de poder criar experiências memoráveis. 
 
 With that said, there is always variability that seems to take us away from the possibility of improving the whole experience. 
 
