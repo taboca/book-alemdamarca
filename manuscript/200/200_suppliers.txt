@@ -4,14 +4,13 @@
 
 @version 
 
+* This v0.3.2 - beyond the v0.3
+
 * v0.3 Pt-br https://docs.google.com/document/d/13whk7qT6P1fYwsIYRhwzx3YCLtg9_kgwt4qkPNUxZgk/edit?tab=t.0
 * Now v0.2 - https://docs.google.com/document/d/1261uQfR-0tcGaAyofqFCMDjE2y9Li-OlzCsT3h815_w/edit?tab=t.0
 * Ref doc v0.1 - https://docs.google.com/document/d/1pIqgm1sjkVcxyhDEFMn67arH3RHEIpJD91Sa_xsZy-4/edit?tab=t.0
 
-
 @todo 
-
-* [ ] @todo - p1 - In Soluções aceleradas - copy and Part 2 @ search:vdec27v0.3.1 from the doc https://docs.google.com/document/d/13whk7qT6P1fYwsIYRhwzx3YCLtg9_kgwt4qkPNUxZgk/edit?tab=t.0 @refid-20241228-308d24df-1275-4b24-ad34-8027519f7970
 
 * [ ] @todo - p1 - In "Acelerados" - Check the Calendar "ok - adm - mozanna ep3 Thursday, December 5⋅3:00 – 4:00pm; for todo items. 
 
@@ -24,6 +23,8 @@
 * [ , further ] @todo @todo-footnote - p1 - In "Acelerados" - Add the footnote, footnote_oceano_vermelho. @refid-20241212-b2a4b3b0-bc43-4f48-8b82-fb47c50ccf1a
 
 @ done 
+
+* [ Done ] @todo - p1 - In Soluções aceleradas - copy and Part 2 @ search:vdec27v0.3.1 from the doc https://docs.google.com/document/d/13whk7qT6P1fYwsIYRhwzx3YCLtg9_kgwt4qkPNUxZgk/edit?tab=t.0 @refid-20241228-308d24df-1275-4b24-ad34-8027519f7970
 
 * [ Done ] @todo - p1 - In "Acelerados" - Translate to pt-br. @refid-20241212-134c3a7c-4cf0-485b-8299-327d8f665be6
 
@@ -39,19 +40,21 @@ Mas vamos lá celebrar as conquistas dessa categoria-solução, subproduto da no
 
 Caso você desconheça este produto, eu estou falando das pizzas tipo “mais em conta”. Aquelas que custam em torno de 10 a 15 dólares. Não das de 15-20 dólares - aquelas caras, todas deformadas e até esmirradinhas. 
 
-### Parênteses 
+### Tudo é relativo 
 
 Mas veja bem, você precisa ter cautela se sua intenção for injuriar essa experiência. Isso por conta do contexto sócio econômico que pode mudar nossa perspectiva. Não esqueço do dia que queria falar para a dona Maria da coxinha da Tabajara. Eu comecei com “Então, Maria, você sabe a coxinha da Tabajara né?”. E eu e ela, ao mesmo tempo, falamos juntos “Aquela coxinha é _____”. Ela preencheu com _deliciosa_ e eu com _horrível_. Naquele momento eu havia acabado de voltar dos EUA, tinha um salário indexado em dólares e passava na Tabajara só para tomar café e comer uma coxinha extra, sem fome, depois de almoçar no japonês. Mas essa perspectiva mudou depois que entrei no modo empreendedor. Nunca vou esquecer o dia que comi aquela mesma coxinha da Tabajara outro gosto e vontade. Tive orgulho de quase não ver aquele papel de embrulho transparente, tipo papel manteiga ou papel gordura hidrogenada. Não ligava que era uma bola de massa cheia de frango seco. Ela era pesada, volumosa e especialmente engordurada. E era um receptáculo para lotar de molho de pimenta. Deliciosa, como almoço, com fome. Deliciosamente econômica.  
 
-Com isso dito, vamos partir para o dia que descobri que aquilo tinha nome - Mazzamax - nome fictício. Foi o dia que li um artigo sobre esse produto e na sequência decidi visitar a página oficial na Web. Fiquei feliz, por descobrir que era um produto e por ter encontrado a resposta para aquela dúvida de longa data. E como desenvolvedor da Web e profissional de marketing, fiquei feliz por encontrar uma página super objetiva e profissional. Nesta altura da minha vida de empreendedor eu já estava bem envolvido com marketing. O que tinha na minha frente era uma “landing page”, o que chamamos de página de aterrissagem.
+### Mazza-xis 
+
+Com isso dito, vamos partir para o dia que descobri que aquilo tinha nome - Mazza-xis - nome fictício. Foi o dia que li um artigo sobre esse produto e na sequência decidi visitar a página oficial na Web. Fiquei feliz, por descobrir que era um produto e por ter encontrado a resposta para aquela dúvida de longa data. E como desenvolvedor da Web e profissional de marketing, fiquei feliz por encontrar uma página super objetiva e profissional. Nesta altura da minha vida de empreendedor eu já estava bem envolvido com marketing. O que tinha na minha frente era uma “landing page”, o que chamamos de página de aterrissagem.
 
 Caso você não conheça o conceito, uma página de aterrissagem é uma página na Web voltada para um público particularmente envolvido em um processo de compra. Por conta disso, ela precisa ser objetiva, onde suas várias seções servem para ajudar o processo de decisão. Essa página pode ser comparável a uma apresentação de negócios para uma audiência orientada a soluções. É um ato de venda, não muito diferente de um folder de marketing que é distribuído em um momento especial para uma audiência específica. A diferença é que é na Web, no digital. Vamos rolar juntos por essa página:
 
-Começando pela capa, o nome do produto estava lá, Mazzamax. Bem em cima da foto tipo papel de parede que ia de fora a fora. Era uma pizza, bem pertinho. Dava para sentir o calor. Foto linda. Mesmo sem fome coloquei o chapéu de pizzaiolo. Até este momento, essa primeira impressão ia de encontro com o esperado por meu cliente faminto por pizza. O queijo estava lá, bem calibrado, bem gratinado. Quando vejo coisas gratinadas meu cérebro se derrete, a boca abre, e a baba cai. Eu adoro ver coisas gratinadas: massa gratinada, pizza gratinada, lasanha gratinada, um trecho de queijo gratinado em cima do peixe e também sobremesas gratinadas. 
+Começando pela capa, o nome do produto estava lá, Mazza-xis. Bem em cima da foto tipo papel de parede que ia de fora a fora. Era uma pizza, bem pertinho. Dava para sentir o calor. Foto linda. Mesmo sem fome coloquei o chapéu de pizzaiolo. Até este momento, essa primeira impressão ia de encontro com o esperado por meu cliente faminto por pizza. O queijo estava lá, bem calibrado, bem gratinado. Quando vejo coisas gratinadas meu cérebro se derrete, a boca abre, e a baba cai. Eu adoro ver coisas gratinadas: massa gratinada, pizza gratinada, lasanha gratinada, um trecho de queijo gratinado em cima do peixe e também sobremesas gratinadas. 
 
 Percebi que a solução estava no caminho certo com aquele toque gratinado. Pensei assim, “Se eles estão mostrando isso é porque estão colocando a solução deles na reta.” Conclui que a solução não iria prejudicar aquele visual final que era o esperado. Digo isso porque visitar uma página de aterrissagem é sobre isso: A página deve responder certas perguntas do cliente. O que esperamos é um tipo de contrato. Mas um contrato leve e sem texto chato. 
 
-Logo na sequência, tinha uma seção do tipo cabeçalho direto ao ponto com uma frase que dizia “Mazzamax, o ingrediente que impulsiona o sucesso do seu negócio”, seguido de um subtítulo que trazia as palavras-chave padronização, performance, e economia. Também tinha uma frase contextualizadora que já avisava de antemão que a Mazzamax era voltada para receitas artesanais ou industriais, especificamente para quem está interessado em equilibrar qualidade e economia. Neste momento, senti a pressão no ombro do empreendedor pizzaiolo que, caso não estivesse lá por conta daquela condição consciente, deveria priorizar essa questão de qualidade e economia. Também foi bom ler “artesanais” por conta que minha pizzaria imaginária era pequena.
+Logo na sequência, tinha uma seção do tipo cabeçalho direto ao ponto com uma frase que dizia “Mazza-xis, o ingrediente que impulsiona o sucesso do seu negócio”, seguido de um subtítulo que trazia as palavras-chave padronização, performance, e economia. Também tinha uma frase contextualizadora que já avisava de antemão que a Mazza-xis era voltada para receitas artesanais ou industriais, especificamente para quem está interessado em equilibrar qualidade e economia. Neste momento, senti a pressão no ombro do empreendedor pizzaiolo que, caso não estivesse lá por conta daquela condição consciente, deveria priorizar essa questão de qualidade e economia. Também foi bom ler “artesanais” por conta que minha pizzaria imaginária era pequena.
 
 Dei uma espiadinha e notei que abaixo haviam seções que apresentavam os benefícios - fotos objetivas com explicações sem textos chatos. Mas antes, estava diante de uma seção que honrava uma questão mais séria: A primeira linha avisava que o produto estava de acordo com as normas da indústria. Um texto adicional me lembrava que os estabelecimentos de alimentação - por conta da manipulação de ingredientes -  estavam sujeitos a essas normas de qualidade. Lendo isso confesso que me veio à mente algo como “Que bom que falaram isso, porque se alguma coisa sair errado eu posso jogar nas costas deles a responsabilidade.” A outra linha dizia que Mozzamax estava já presente na vida de milhões de Brasileiros e inúmeros produtos da  indústria que envolviam mussarela na receita. Nessa hora, foi impossível não colocar o chapéu daquele outro na posição responsável pela produção em escala, de um produto ou em uma franquia, que sim estaria lidando com riscos para o consumir e questões regulatórias. 
 
@@ -59,42 +62,32 @@ Enfim, avançando para as seções sobre os benefícios, a primeira destacava so
 
 Com os benefícios bem elaborados, uma outra seção foi especialmente dedicada a tópicos como “Como utilizar” que explicava possíveis dúvidas e também me ajudou a entender sobre a versatilidade do produto que poderia ser utilizada no pão de queijo, esfihas, pasteis, pão de batata, kibe, enroladinhos, massas recheadas e - só para lembrar - as pizzas. 
 
-Adiante veio uma dúvida que quase que não tive mas que era importante - o assunto das quantidades. Confesso ter ficado um pouco decepcionado por conta que as quantidades sugeridas não eram agressivas - tipo substuir a mussarela com máximo de ¼ de mazzamax. Por outro lado, achei interessante que a comunicação não carregava aquele tom agressivo, tipo “Coloque 99% do produto e você ficará rico!”
+Adiante veio uma dúvida que quase que não tive mas que era importante - o assunto das quantidades. Confesso ter ficado um pouco decepcionado por conta que as quantidades sugeridas não eram agressivas - tipo substuir a mussarela com máximo de ¼ de Mazza-xis. Por outro lado, achei interessante que a comunicação não carregava aquele tom agressivo, tipo “Coloque 99% do produto e você ficará rico!”
 
-Para finalizar, bem abaixo, a página trazia um formulário de contato. Mas, antes disso, notei uma chamada especial, uma faixa de fora a fora que avisava sobre o futuro lançamento: Em breve, Mazzadar, nossa a versão cheddar.
+Para finalizar, bem abaixo, a página trazia um formulário de contato. Mas, antes disso, notei uma chamada especial, uma faixa de fora a fora que avisava sobre o futuro lançamento: Em breve, Mazza-che, nossa a versão cheddar.
 
-### 
+### Saindo da página 
 
 <!--
 @todo
 * [ ] @todo - p1 - In Soluções aceleradas - copy and Part 2 @ search:vdec27v0.1 from the doc https://docs.google.com/document/d/13whk7qT6P1fYwsIYRhwzx3YCLtg9_kgwt4qkPNUxZgk/edit?tab=t.0 @refid-20241228-308d24df-1275-4b24-ad34-8027519f7970
 -->
 
-Com este momento, não tão acelerado e fora da situação do usuário alvo, pude de certa forma entender os pontos argumentados e como o produto traz pontos fortes para aqueles que se aventuram no mundo da pizza e por uma razão ou outra precisam de, digamos, mais performance ou eficiência.
+Neste momento, fora do corpo daquele público alvo, devemos reconhecer que além da estrutura da comunicação, coerente, temos uma página recheada de explicações claras que para aquela audiência são boas razões que honestamente explicam os valores que a solução oferece -  claramente para aqueles que estão na trilha da performance, buscando mais eficiência. 
 
-Mas uma grande frustração me acompanhou sempre que me deparei com essa experiência “massupiri”, primeiro pelo gosto, por sentir uma massa, um volume, que é complexo de descrever, principalmente quando comparo com a experiência do queijo.   
+Não quero utilizar este momento para contra-argumentar - por exemplo falar do meu gosto particular que insiste em não se adequar ao padrão. Me chame de antiquado ou conservador, mas um instinto ainda me guia na tentativa de voltar para aquele velho mundo. Quero encontrar aquele poço de gordura bem do lado da azeitona que descansa no sopé do monte do queijo do cûme gratinado. Ainda quero aquela outra pizza assim, elegantemente transfigurada como uma obra de Picasso, e no limite do certo como a Torre de Pisa. Quero ver aquela mega montanha de pão emergir durante os 90 segundos do terremoto. Aquela pizza que se quisesse, se sustentaria sem molho. Não aquela outra, perfeitamente quadriculada com linhas de MassaXis e bolinhas de ervilha em conserva precisamente encaixadas, cada uma em seu quadrado.
 
-Mas depois de conhecer um desses produtos, por meio da navegação por essa página, depois de perceber que eu estava de certa forma fora da realidade do mundo, certamente fora do mundo da indústria alimentícia, parece que a situação ganhou um tom a mais de tristeza. 
+Em defesa desse novo enquadre, o que temos, de fato, por essa experiência de comunicação é, honestamente, uma comunicação honesta, coerente. Porque de fato casa bem, dado que o mundo tem fome de performance. Uma coisa está muito clara, que aquela página foi honesta. Um marketing bem feito? Sim, pois trouxe uma história que apela para o que muitos estão de fato procurando. Uma página sem mentiras, sem exageros, e com pontos lógicos. Até na questão da quantidade, confesso ter percebido um certo tom consciente, uma vez que a recomendação foi de 30% do ingrediente na mussarela. Ainda, temos que reconhecer os pontos fortes sobre à questão da regulação ou das normas. Isso porque é um argumento forte, não é mesmo? Por que a sua pizzaria se arriscaria com um queijo qualquer se, de certa forma, você tem uma proteção - está conduzindo seu negócio com um produto que é adequado e, ainda, como informaram, consumido por milhares de brasileiros. 
 
-Primeiro porque é coerente, aqueles pontos. Porque de fato casa bem, dado que o mundo precisa de performance. Ainda, tudo isso casa bem por conta que muitas pizzarias tentam vencer a competição pela briga de volume. Quando vejo aquele dizer que recomenda colocar cerca de 30% do ingrediente na mussarela, talvez a estratégia de muitas seja em somar mais quantidade, tipo 30% a mais “de queijo” poderia casar bem com a realidade do “mais é melhor”. 
+Ainda, tudo isso casa bem também por conta que muitas pizzarias tentam vencer a competição pela briga de volume. Quando vejo aquela nota de recomendação cautelosa, o dizer que recomenda colocar cerca de 30% do ingrediente na mussarela, me pergunto o que acontece no campo de batalha. Na hora H, na hora que a briga é economizar, será que ficamos só com os 30%? E na briga de volume? Agora estamos economizando. Mas precisamos de uma pizza que é grande, o povo pede uma pizza que é uma boa refeição. Vamos lotar de Mazzamax depois de toda a mussarela, o que acha? 
 
-Mas mesmo assim eu me pergunto se vale, digamos, colocar um terço de massupiri com o resto de mussarela. Será que este ganho de 30% “no queijo” muda o futuro da minha pizzaria? Será que meu faturamento muda mesmo no final do ano? 
+E no final, na hora da contabilidade, a gente quase por um minuto se perde, ou se encontra, perguntando: "Mas a ideia não era economizar? Sim, era, foi porque queríamos economizar que encontramos a Mazzamax. Mas descobrimos que o cliente queria mais queijo - bem mais queijo." 
 
-Ainda, me chame de antiquado, ou conservador, mas meu instinto me guia justamente para aquelas pizzas com poços de gordura. Mas não se engane, quando quero uma pizza assim, eu quero uma que é praticamente transfigurada, como uma obra de Picasso. Sei que esse não é o padrão das pizzas, não o padrão desta faixa, das mais baratinhas não é mesmo? Das de 10 a 15 dólares. 
+### Ação e reação 
 
-Uma coisa está muito clara, que aquela página foi honesta. Um marketing bem feito? Sim, pois trouxe uma história que apela para o que muitos estão de fato procurando. Uma página sem mentiras, sem exageros, e com pontos lógicos. Até na questão da quantidade, confesso ter percebido um certo tom consciente, uma vez que a recomendação foi de 30% do ingrediente na mussarela. 
+Em ação em reação, celebramos com tom de dúvida e tristeza, nossa capacidade de criar que faz coisas como a micro guilhotina de sachê. Sobre nossa propensão em criar soluções depois de uma realidade assumida. Devemos refletir sobre uma versão macro deste fenômeno - por conta que a indústria e governos também correm para resolver os problemas de forma mão tão diferente. Em “Tem gosto de queijo, parece queijo, mas não é queijo” [Viver Bem, UOL, 2023], temos uma noção da quantidade de camadas que, agora, o governo tem que se regular por conta desse potencial de fazer infinito da indústria. O fenômeno é quase igual ao caso da vaga proibida. Uma vez que a lei coloca uma multa, ela também regula de forma legítima novas “oportunidades”, como por exemplo podemos observar o efeito reverso onde muitos de fato passam a estacionar lá. Ah tá, é só pagar a multa. A multa que você leva por tentar imitar queijo sem queijo te levará ao caminho das “soluções lácteas”. Uma vez lá, o céu é o limite. 
 
-Ainda não sei se o produto permite variações da quantidade. Não duvido que uma vez nessa trilha, na trilha da performance, sobre a possibilidade da pizzaria aumentar os volumes. Não sei o que acontece, quando tem mais ou menos. Só sei que a experiência “massupiri” é triste.
-
-Ainda, para finalizar, quero voltar à questão da regulação ou das normas. Isso porque é um argumento forte, não é mesmo? Por que a sua pizzaria se arriscaria com um queijo qualquer se, de certa forma, você tem uma proteção - está conduzindo seu negócio com um produto que é adequado e, ainda, como informaram, consumido por milhares de brasileiros.
-
-Neste sentido, aproveito para nos lembrar sobre uma breve leitura que fiz no momento dessa minha surpresa que me levou a artigos que descrevem essas inovações como “soluções lácteas”. E é isso mesmo, segundo o artigo “Tem gosto de queijo, parece queijo, mas não é queijo” [Viver Bem, UOL, 2023] essas indústrias estão de fato envolvidas na criação de soluções para o mercado, o que está, de certa forma, bem dentro daquela ótica que conversamos anteriormente quando consideramos a abordagem Jobs To Be Done. 
-
-De certa forma a existência de várias dessas soluções - que muitos chefs se referem a elas como bizarras - encontram sim uma necessidade porque já existem várias pessoas naquela situação, precisando de economia, de performance, etc. 
-
-Considerar a questão onde certas soluções tipo performance, se encaixam, mas ao mesmo tempo, digamos, o amador que opta por elas de fato não faz questão alguma. Isso nos leva de volta para a questão do fazejamento e a ideia que conversamos, o fazejamento potencializado. Você, quando está lá, na liderança, na real, no calor com o forno nas suas costas e o cliente querendo mais quantidade - sem ligar para qualidade - está de fato meio caminho andado para optar com essa história bem coerente. 
-
-Opta por performance, sim, mas ao mesmo tempo opta por velocidade o que pode sim lhe posicionar em uma situação de mais que é menos no sentido porque parece econômico, parece mais eficiente, mas essencialmente significa atropelar o movimento de gestão de liderança; ainda alimentando obsessão por mais, mais performance, mais desconto, mais volume, mais clientes, mais movimento, mais vendas. Essencialmente, ainda que isso tudo gera um movimento de “mais lucro” , temos que nos alertar que essencialmente isso é alimentar nosso envolvimento no oceano vermelho [^footnote_oceano_vermelho], o mar de sangue onde muitos batalham com as mesmas armas. Neste mar vermelho, você é mais um. 
+Isso nos leva de volta para a questão do fazejamento e a ideia que conversamos, o fazejamento potencializado. Você, quando está lá, na liderança, na real, no calor da vida e do forno, nas suas costas, com o cliente querendo mais quantidade, está de fato meio caminho andado para optar com o que soa coerente, na sua frente. Opta por performance, sim, mas ao mesmo tempo opta por velocidade o que pode sim lhe posicionar em uma situação de mais que é menos no sentido porque parece econômico, parece mais eficiente, mas essencialmente significa atropelar o movimento de gestão de liderança; ainda alimentando obsessão por mais, mais performance, mais desconto, mais volume, mais clientes, mais movimento, mais vendas. Essencialmente, ainda que isso tudo gera um movimento de “mais lucro” , temos que nos alertar que essencialmente isso é alimentar nosso envolvimento no oceano vermelho [^footnote_oceano_vermelho], o mar de sangue onde muitos batalham com as mesmas armas. Neste mar vermelho, você é mais um. 
 
 <!--
 @todo 
@@ -108,7 +101,6 @@ Opta por performance, sim, mas ao mesmo tempo opta por velocidade o que pode sim
 
 * @reference - UOL. Parece queijo, tem gosto de queijo e é vendido como queijo, mas não é queijo. VivaBem, 21 set. 2023. Disponível em: https://www.uol.com.br/vivabem/noticias/redacao/2023/09/21/parece-queijo-tem-gosto-de-queijo-e-vendido-como-queijo-mas-nao-e-queijo.htm. Acesso em: 3 dez. 2024.
 --> 
-
 
 
 
