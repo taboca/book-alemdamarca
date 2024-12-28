@@ -7,8 +7,6 @@
 
 * [ , anchored] @todo - p1 - In "Esse é diferente" or "Tradicionalmente extraordinário"  - check the note from Dorothea Brande about purposeful action https://docs.google.com/document/d/1hLPFk83jwIaeOqI2qsYfO_LUMU07JYI9XqjGtg1BPiI/edit?tab=t.0 @refid-20241228-d1142f1c-c013-4686-976d-48d1f3927d3e
 
-* [ Done ]  @todo - p1 - In "Esse é diferente " - Replace en-us with the draft from the pt-br in the doc entitled "Book - adm - Esse é diferente " @refid-20241228-b8a9e8a2-6d6a-4259-bbc0-eaeb4f044104
-
 * [ ] @todo - p1 - In Acelerados - Motoboys - "De qualquer forma chega também deformada porém por conta de uma entrega acelerada, das empinadas e da frequência de ressonância do escapamento sem miolo. Mas por quê reclamar? Nossas pizzas baratinhas, essas entre 10 a 15 dólares, são sobreviventes de um romance trágico escrito pelas ruas - vidas aceleradas.  Temos que manter nossa postura, nossa felicidade, até porque para cada pizza que chega eu sei que um jovem motoqueiro - futuro do Brasil - naquele dia não morreu. Sou feliz por saber que se a pizza não vem cortada é porque o chef pizzaiolo tá preocupado com a gente, com aquela rápida." 
 
 * [ ] @todo - p1 - In "Acelerados" - Check the Calendar "ok - adm - mozanna ep3 Thursday, December 5⋅3:00 – 4:00pm; for todo items. 
