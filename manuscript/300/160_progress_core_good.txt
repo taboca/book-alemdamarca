@@ -2,6 +2,11 @@
 
 <!--
 
+@this 
+
+* v0.1 
+* doc pt-br v0.2 ? https://docs.google.com/document/d/1lT6lMfsKG3dq2jXL2HuTSZgy-dRrC3GsaOjWvN2I2t8/edit?tab=t.0 
+
 @tags 
 * #progress #innovation #buildtolast #falafel #acaraje #jimcollins #sabrina #espacoterraqueos
 
@@ -9,6 +14,8 @@
 * Core values and innovation 
 
 @todo 
+
+* [  ]  @todo - p1 - Replace en-us with the draft from the pt-br in the doc entitled "Book - adm - Esse é diferente " @refid-20241228-b8a9e8a2-6d6a-4259-bbc0-eaeb4f044104
 
 * [ ] @todo - p1 - In #values #progress "Impossível é possível", translate to pt-br the "Special Pan and Digging Opportunities" https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0 consider to add the point of a) expert vs. expertise (andrew the six degree patent) and some ideas of reading the past, perhaps from Marc Andreessen or from the Blitzscaling. 
 
@@ -25,13 +32,17 @@
 
 --> 
 
-Plates like falafel and the Brazilian acarajé and the lamen and maybe even the Brazilian coxinha are plates that actually have strong identities and yet the best places you know that they carry on the idea that they are not stuck in time so they are progressing they're evolving this experiences so the article where this article is about the opportunity a thought where when we get involved in food and with the experiences and the recipes and the cultures the specific things when you go there and you dig you shouldn't be afraid because you're not gonna be stuck in time so variability doesn't have to come only because of you are saving cost, or trying to capture a market in a hurry, although saving cost can actually take you to be creative but the variability there can come in many different ways and that can help you with the identity of your establishment. 
+Pratos como falafel, acarajé brasileiro e lamen podem ser considerados experiências que carregam identidades fortes. Você bate o olho e sabe o que é. Ou coloca na boca, de olhos fechados, e imediatamente é transportado para aquele mundo.
 
-This may be the case with the world of falafel and acarajé and certainly so many other things; or the actual point here is that this is the case with anything we do in life. But let us consider falafel and acarajé first. 
+Mas será que essa caracterização única significa que essas experiências estão paradas no tempo? Quando me permiti navegar por experiências tradicionais, algo começou a chamar minha atenção. Sobre o falafel, um dia me perguntei "Como pode cada falafel ser tão diferente ao mesmo tempo ser um falafel?" O mesmo aconteceu com o acarajé. Podemos dizer que cada acarajé é único. Ou que você deveria ouvir isso de quem fez se quiser um acarajé tradicional. Por esse olhar, o universo da tradição é um universo em expansão. Enquanto alguém diz "fazemos a nossa cuca assim, é tradição de família", o universo das cucas se expande. Então este é o teste: Se o acarajé não for diferente, não é autêntico. 
 
-Certainly certain things from the world of food experiences have called my attention, the falafel. How come every falafel be so different and yet be a falafel? And the same with acarajé, we may say that each acarajé is unique - or at least if you hear that from the protagonist, you will know it’s an acarajé. So then, how come every acarajé be so different and yet be an acarajé; I may even go ahead to think that if the acarajé is not different then it’s not authentic. 
+Isso nos leva a considerar um problema para a operação - que diz que não podemos nem copiar nem avançar de forma arbitrária - dois lados de uma moeda acelerada lançada no asfalto quente de uma vida que se sim é suada mas que acomoda mais do mesmo nos enquadrando no universo dos *commodities*. Sobre copiar, igual nos filmes: Vamos nos enchendo de histórias iguais, contadas da mesma forma, moldadas por clichês, guiadas por um movimento ansioso que faz de tudo para criar novas experiências mas que não gera histórias e experiências memoráveis - aquelas que valem a pena contar, como as histórias de família que um dia eram contadas. Sobre o arbitrário, ou sobre o recheio, desesperados pelo diferente que não mais nos basta porque ficou igual, buscamos o surpreendente. Negamos o roteiro clássico, gritamos que estamos fazendo o novo, ou alternativo, mas essencialmente imprimimos notas sem valor, criando realidades alternativas, temporárias, apelativas e essencialmente arbitrárias. A tradicional coxinha da Tia Rita, essa semana com mais 3 sabores, além dos 40 sabores que você conhece.  
 
-Since I started to think from this angle, I certainly took myself into the need to actually widen the range of food experiences that fits this criteria - unique values arranged so elegantly that it gives us room to progress into advancing these categories. So let’s add to that Ramen too, for now. So these are examples of food experiences that appear as a category, which follows a common denominator. 
+Vamos refletir sobre esse tema, sobre criação que fortalece e sobre a criação arbitrária. Esse assunto é relevante porque nossa propensão para usar nossa criatividade é o padrão. Temos fome de contribuir, de somar, de colaborar. E fazemos isso, com nossa imaginação, na hora H, queira ou nã queira. Porém, quando desprovidos de princípios, quando não temos tempo para uma leitura mais calma diante do que está na nossa frente, podemos muitas vezes - sem querer - nos envolver com aquele movimento arbitrário que não só nos guia para confusão mas também nos acostuma como sendo normal. O resultado é que fruto do nosso trabalho nos leva a patinar. Criamos experiências que não se tornam únicas, não são reconhecidas pelas pessoas. Mas mais do que isso, carregamos o peso das falhas, que irá pesar forte no dia que precisarmos, de verdade, e reavaliar nossa postura.  
+
+### O Lamen também 
+
+Qual é o segredo do macarrão instantâneo? Ah, deve ser o sal, aquele tempero endiabrado que foi ajustado com aquele macarrãozinho diferente. 
 
 One way to look at this is to consider the idea of a solar system, with planets that are very different, indeed, but at the same time they are all in a way aligned, around a sun, all connected in a way. 
 

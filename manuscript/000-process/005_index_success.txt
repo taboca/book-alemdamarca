@@ -1,6 +1,6 @@
 ## Done 
 
-* [ Done] @todo - p1 - In Acelerados - copy and Part 2 @ search:vdec27v0.3.1 from the doc https://docs.google.com/document/d/13whk7qT6P1fYwsIYRhwzx3YCLtg9_kgwt4qkPNUxZgk/edit?tab=t.0 @refid-20241228-308d24df-1275-4b24-ad34-8027519f7970
+* [ Done] @todo - p1 - In Acelerados - copy and Part 2 @ search:vdec27v0.3.1 from the doc https://docs.google.com/document/d/13whk7qT6P1fYwsIYRhwzx3YCLtg9_kgwt4qkPNUxZgk/edit?tab=t.0 @refid-20241228-308d24df-1275-4b24-ad34-8027519f7970 @refgit:77caf64
 
 * [ Done ] @todo - p1 - In "Acelerados" - Translate to pt-br. @refid-20241212-134c3a7c-4cf0-485b-8299-327d8f665be6
 
