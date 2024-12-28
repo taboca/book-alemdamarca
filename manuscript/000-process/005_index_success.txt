@@ -1,5 +1,7 @@
 ## Done 
 
+* [ Done ] @todo - p1 - In "Acelerados" - Translate to pt-br. @refid-20241212-134c3a7c-4cf0-485b-8299-327d8f665be6
+
 * [ Done, anchored ] @todo - p1 - In "Cliente chato" - Shorten the Peter Drucker paragraph, and refer to it at "Sobre isso, sobre comunicar". @refid-20241226-0e9c1cad-b037-4ca7-806e-3adcaa1ba095
 
 * [ Done, removed, anchored] @todo - p1 - In "Cliente chato" - Consider to remove the whole section that starts with "Eu preciso explicar ... o mérito." #ref-paper-remove-clicha-00060 @refid-20241226-319cf324-930e-482c-a355-1cfa0d90292f @refgit:7b5522f
