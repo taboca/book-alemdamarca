@@ -75,14 +75,10 @@ Agora seria fascinante, e importante, visitarmos outros sistemas solares, neste 
 
 <!--
 @todo 
-* [ , anchored] @todo - p1 - In "Esse é diferente" or "Tradicionalmente extraordinário"  - check the note from Dorothea Brande about purposeful action https://docs.google.com/document/d/1hLPFk83jwIaeOqI2qsYfO_LUMU07JYI9XqjGtg1BPiI/edit?tab=t.0 @refid-20241228-d1142f1c-c013-4686-976d-48d1f3927d3e
-
 * [ , anchored] @todo - p1 - In "Esse é diferente " - Try to simplify as short as - lacking values? @refid-20241228-522a5c5c-8bb5-4087-9d60-0de7e1a3b196
 -->
 
 Enquanto isso, podemos nos ocupar um pouco em um outro espaço, complexo, que nos leva a um movimento desorientado mas que infelizemente a complicação se dá porque não percebemos assim. Acelerados, tentando avançar rápido e desprovidos de valores definidos, sem uma estrutura ou norte, sem avançar com uma elegância essencial, essencialmente nos perdemos. O assunto é complexo pois sabemos que inovação depende de experimentação. É verdade. Mas também é verdade que precisamos ter cautela com o movimento instintivo que nos leva ao espaço da variabilidade e longe do espaço da possibilidade - que nos distancia de sermos criativos e de poder criar experiências memoráveis. 
-
-With that said, there is always variability that seems to take us away from the possibility of improving the whole experience. 
 
 A case worth considering is the situation with the croissant in Brazil, which I rather not use the word development or evolution, neigther to place them in a category, but anyway it may not be difficult to find these as croissant looking, salty ones, and always stuffed with things before the baking process - the stuffed croissant. Now, it is reasonable to give our folks the benefit of the doubt if where we are going is to hurt ourselves here, in other words we should certainly acknowledge that if we let them play we may find good things later, but for now and to make a point, let us focus on a somehow a category of establishments where stuffing them with a volume of things is a pattern.  
 
@@ -114,10 +110,8 @@ With this model pushed to the limits, we may consider that the coxinha dough bec
 
 <!--
 @todo 
-* @todo - p1 - Bring Dorothea Brande's insight about the apparent trick with speed - but the real point that purposeful action is stronger. 
---> 
-
-### Consider citation from Dorothea Brande, p.104, Wake Up and Live - on purposeful action 
+* [ , anchored] @todo - p1 - In "Esse é diferente" or "Tradicionalmente extraordinário"  - check the note from Dorothea Brande about purposeful action https://docs.google.com/document/d/1hLPFk83jwIaeOqI2qsYfO_LUMU07JYI9XqjGtg1BPiI/edit?tab=t.0 @refid-20241228-d1142f1c-c013-4686-976d-48d1f3927d3e
+-->
 
 > *”Purposeful action seems quicker, clearer more straightforward and enjoyable than any other. In reality, you may be working more slowly and more carefully than ordinarily; still, the fact that there is no confusion of issues, no part of your mind off woolgathering as you move, gives an unmistakable ‘tone’ to activities which are being carried on in the proper way. “ (Brande, Dorothea., p.104, 2014) 
 <!--
