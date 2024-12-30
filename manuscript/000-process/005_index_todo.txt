@@ -1,6 +1,12 @@
 
 ## Todo 
 
+* [ , ] @todo - p1 - In "O segredo da torta " - @todo-editing-reading - #collaboration - Consider to bring up the case of Gabi Silva to the book, when the point is the work of artists and where they sign. Send some of the texts to Gabi Silva, of Espresso Café @refid-20241230-00d06bd0-a7a5-4b21-8c8e-85741a01e9a8
+
+
+
+
+
 * [ , anchored ] @todo @todo-editor - p1 - In "A estante da culinária" - Check the various people which Antonio Carluccio had mentioned. @refid-20241230-5d56f07e-b220-47c8-81dc-cf6582f942df ref "bárbaros, árabes, cartagineses, etruscos, fenícios, turcos, romanos, borbones, espanhois e austríacos "
 
 * [ , anchored ] @todo - p1 - In "Impossível possível" - Compare the pt-br translation of ChatGPT at https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0 with this one which was hand made. @refid-20241229-8d9ddb59-064f-4823-9e42-bb1d0b256a5a
