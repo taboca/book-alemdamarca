@@ -4,6 +4,8 @@
 
 @version 
 
+* v1.0 - this 
+
 * v0.1 - from doc v0.1 - https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0
 
 @tags 
@@ -14,14 +16,15 @@
 
 @todo 
 
-* [ , anchored] @todo - p1 - In “Impossível possível” - Consider to remove the case of Brian, Airbnb  which in the draft in English is currently available as “On leaning how to learn”. @refid-20241229-b9734e96-e4a2-4b97-bc70-f450487fb8ec
+* [ , anchored ] @todo - p1 - In "Impossível possível" - Compare the pt-br translation of ChatGPT at https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0 with this one which was hand made. @refid-20241229-8d9ddb59-064f-4823-9e42-bb1d0b256a5a
+
+* [ , anchored] - p1 - In “Impossível possível” - Consider to bring the idea from Andrew from the SixDegree - perhaps is already in the book - instead of the case of Brian, Airbnb  which in the draft in English is currently available as “On leaning how to learn”. @refid-20241229-b9734e96-e4a2-4b97-bc70-f450487fb8ec
 
 * [ , anchored ] @todo - p1 - In #values #progress "Impossível possível", consider to insert the ideas from Andrew Weinreich CEO of Andrew's Roadmaps - ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. Ref Andrew is the author of the six degree network patent. Ref: * "I think there is a core level of competency an entrepreneur needs to have in every discipline to be successful. So, you don't need to be a programmer, but you need to understand programming. You don't need to be a marketer by background, but if you've never run a keyword campaign or if you have no idea what the difference between a CPM, a CPC, an EPL, or a CPA is, you're not going to be able to manage someone running a paid acquisition campaign. The idea of the bootcamp initially is to say, look, there are these minimal levels of proficiency you need in every discipline." (ANDREW'S ROADMAPS, 2019, 16:32–17:07). / ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. YouTube, 3 jan. 2019. Disponível em: https://www.youtube.com/watch?v=5Ow9DEGDcsg&t=1001s. Acesso em: 6 dez. 2024.  @refid-20241229-5a98e76b-24a2-4bf5-84da-5e4435361fb4
 
-* [ ] @todo - p1 - In #values #progress "Impossível é possível", translate to pt-br the "Special Pan and Digging Opportunities" https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0
-
-
 @done 
+
+* [ Done ] @todo - p1 - In #values #progress "Impossível é possível", translate to pt-br the "Special Pan and Digging Opportunities" https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0
 
 * [x] @todo - p1 - In values and progress In #progress #buildtolast #core - Bring the notion of the need to understand prior values, and what the past has to over, in the face of overlooking -  Check e-mail "Book - adm - article about digging for opportunities instead wrapping up as it's harder" 
 
@@ -93,7 +96,7 @@ Essa volta que fiz, não foi uma viagem tão grande pois, no final, foi um simpl
 <!--
 @todo 
 
-* [ , anchored] @todo - p1 - In “Impossível possível” - Consider to remove the case of Brian, Airbnb  which in the draft in English is currently available as “On leaning how to learn”. @refid-20241229-b9734e96-e4a2-4b97-bc70-f450487fb8ec
+* [ , anchored] - p1 - In “Impossível possível” - Consider to bring the idea from Andrew from the SixDegree - perhaps is already in the book - instead of the case of Brian, Airbnb  which in the draft in English is currently available as “On leaning how to learn”. @refid-20241229-b9734e96-e4a2-4b97-bc70-f450487fb8ec
 
 * [ , anchored ] @todo - p1 - In #values #progress "Impossível possível", consider to insert the ideas from Andrew Weinreich CEO of Andrew's Roadmaps - ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. Ref Andrew is the author of the six degree network patent. Ref: * "I think there is a core level of competency an entrepreneur needs to have in every discipline to be successful. So, you don't need to be a programmer, but you need to understand programming. You don't need to be a marketer by background, but if you've never run a keyword campaign or if you have no idea what the difference between a CPM, a CPC, an EPL, or a CPA is, you're not going to be able to manage someone running a paid acquisition campaign. The idea of the bootcamp initially is to say, look, there are these minimal levels of proficiency you need in every discipline." (ANDREW'S ROADMAPS, 2019, 16:32–17:07). / ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO of Andrew's Roadmaps. YouTube, 3 jan. 2019. Disponível em: https://www.youtube.com/watch?v=5Ow9DEGDcsg&t=1001s. Acesso em: 6 dez. 2024.  @refid-20241229-5a98e76b-24a2-4bf5-84da-5e4435361fb4
 
