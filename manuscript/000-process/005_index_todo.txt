@@ -1,6 +1,8 @@
 
 ## Todo 
 
+* [ , anchored ] @todo @todo-editor - p1 - In "A estante da culinária" - Check the various people which Antonio Carluccio had mentioned. @refid-20241230-5d56f07e-b220-47c8-81dc-cf6582f942df ref "bárbaros, árabes, cartagineses, etruscos, fenícios, turcos, romanos, borbones, espanhois e austríacos "
+
 * [ , anchored ] @todo - p1 - In "Impossível possível" - Compare the pt-br translation of ChatGPT at https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0 with this one which was hand made. @refid-20241229-8d9ddb59-064f-4823-9e42-bb1d0b256a5a
 
 * [ , anchored] - p1 - In “Impossível possível” - Consider to bring the idea from Andrew from the SixDegree - perhaps is already in the book - instead of the case of Brian, Airbnb  which in the draft in English is currently available as “On leaning how to learn”. @refid-20241229-b9734e96-e4a2-4b97-bc70-f450487fb8ec
