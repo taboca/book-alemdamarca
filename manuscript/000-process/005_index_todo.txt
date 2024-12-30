@@ -1,6 +1,12 @@
 
 ## Todo 
 
+* [ , anchored] - p1 - In “Impossível possível” - Consider to bring the idea from Andrew from the SixDegree - perhaps is already in the book - instead of the case of Brian, Airbnb  which in the draft in English is currently available as “On leaning how to learn”. @refid-20241229-b9734e96-e4a2-4b97-bc70-f450487fb8ec
+
+
+
+
+
 * [ , anchored ] @todo - p1 - In "Esse é diferente" - Consider to expand the story of the instant ramen. @refid-20241228-222b2af7-3492-419f-a4d0-c5d947a48b11
 
 * [ , anchored] @todo - p1 - In "Esse é diferente " - Try to simplify as short as - lacking values? @refid-20241228-522a5c5c-8bb5-4087-9d60-0de7e1a3b196
