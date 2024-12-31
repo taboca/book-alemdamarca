@@ -123,7 +123,6 @@
 
 * [ ,anchor] @todo - p1 - In "Part 1, Communications" -  Consider the me me me usage, and replace with us, or me connecting with us. @refid-20241217-45791c52-2ab6-4ca1-a19a-f8ebeb42c4ae
 
-* [ , anchored] @todo - p1 - In "Introduction" - Check if the point of Dorothea's thoughts can be contextualized, different from slowing down, towards "trancending", not slowing down the same accelerated, but about gaining awareness about the process. @refid-20241217-08837f4e-4a89-4e51-8466-42e69f4c4e6e
 
 * [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
 
