@@ -1,6 +1,12 @@
 
 ## Todo 
 
+
+* [ , anchored ] @todo - p1 - In "Introduction - " Check the e-mail "Book - ADM - Introdução elemento sobre complicação?" which may offer an insight that supports a better complication. @refid-20250102-78a18e9f-33a3-40c5-aabb-05823835eb94
+
+
+
+
 * [ , ] @todo - p1 - In "O segredo da torta " - @todo-editing-reading - #collaboration - Consider to bring up the case of Gabi Silva to the book, when the point is the work of artists and where they sign. Send some of the texts to Gabi Silva, of Espresso Café @refid-20241230-00d06bd0-a7a5-4b21-8c8e-85741a01e9a8
 
 
