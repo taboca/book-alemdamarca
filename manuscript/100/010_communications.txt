@@ -27,15 +27,65 @@
 * [ ,anchor] @todo - p1 - In "A comunicação" - Consider the me me me usage, and replace with us, or me connecting with us. @refid-20241217-45791c52-2ab6-4ca1-a19a-f8ebeb42c4ae
 --> 
 
-Segundo Peter Drucker, tecnologia é trabalho. Essa visão sugere que de fato tecnologia não existe. Essa visão também se alinha com uma perspectiva dada por um designer que trabalhava para a organização Mozilla, que encontrei em um vídeo onde ele falava sobre a interface do futuro e apresentou uma visão que diz que a tecnologia, no fundo, não quer ficar no caminho do usuário. Ele apresentou uma ilustração, contextualizando o assunto com o caso da enchada, primeiro fazendo a pergunta: Qual é enchada perfeita? Ele disse que existem tipos e tipos de enchada, cabos feitos de materiais diferentes, e o segurador de vários formatos, e existem lâminas diferentes, algumas até com diamante encustrados. Mas, ainda que existam enchadas de vários tipos a enchada perfeita é o buraco pronto. Em outras palavras, é a solução. Essa visão “do designer” não está longe do pensamento do Peter Drucker. Enquanto o designer observou o propósito da existência de uma tecnologia, a visão do Peter Drucker nos ajuda a ver toda a criação tecnológica como simplesmente experiências de trabalho. Ou, em outras palavras, que o uso que fazemos de soluções tecnológicas nos levam a acessar o trabalho humano, talvez parte dele, então o todo de todo o uso de todas as tecnologias não seria nada mais do que a soma de todo o trabalho. Essa visão também nos ajuda a perceber o trabalho no tempo presente não importando se se dá com a pedra que era utilizada para fazer lanças, um computador que de uma forma ou outra permite a criação de outras ferramentas de trabalho, como por exemplo a criação de humanóides inteligentes. 
 
-Então, sobre esse assunto, se tecnologia é trabalho, estamos convidados a reconhecer que o dia a dia do trabalho, das interações humanas, nos levam para o contexto da comunicação sobre o trabalho. 
+Minha curiosidade com relação à tecnologia é de longa data, desde que eu ganhei o primeiro computador, em 1985. Sempre fui curioso sobre o que poderia ser criado. Curioso ou apaixonado, sim. Mas não mais me surpreendo com o que pode acontecer. É como se a velocidade dos avanços tecnológicos estivessem nos familiarizando sobre as possibilidades. 
 
-O pensamento do designer também nos leva a essa reflexão de que, como designers, gostaríamos que toda e qualquer tecnologia nos desse, para já, o trabalho resolvido, o atalho perfeito depois do apertar do botão. Ao mesmo tempo, como designers, estamos nos lembrando que não conhecemos bem o que queremos; com isso, forçados a concordar com aquela ideia que diz que saber fazer a pergunta é mais importante do que a resposta. Ou, aquela expressão brasileira que diz que "o buraco está mais embaixo". Sobre isso, duas coisas sabemos: Que normalmente não sabemos onde está o buraco e que estamos criando tecnologias para cavar. Isso nos leva a concluir, pelo momento, que estamos apertando botões e utilizando nosso tempo na expectativa de, ou bem intencionados a, resolver o trabalho. Então, temporariamente, é inescapável reconhecer de que essencialmente estamos nos ocupando com trabalho tentando resolver trabalho.
+O que me surpreende é a velocidade com que a gente se envolve com novas tecnologias. Não esqueço aquele dia quando minha sobrinha, nenê, rapidamente mandou o dedinho no quadradinho de 16x16 pixels do Youtube para fechar a propaganda o mais rápido possível. Isso sim é novo para nós. 
 
-Essa preocupação dos designers nos leva à realização de que a tecnologia em uso, ao permitir que o trabalho seja feito, cria uma linguagem de trabalho. Em outras palavras, uma ferramenta que resolve problemas normalmente tem um manual de instrução e por conta disso cria experiências comunicativas bem intencionadas a ajudar as pessoas a usar a ferramenta, inclusive sem que todos leiam o manual. Decorre dessa situação que, diante da impossibilidade de vermos fora da caixa e ver o trabalho resolvido de outra forma, que estamos envolvidos (para não dizer presos) a essas experiências comunicativas atreladas as tecnologias. 
+Se ainda chegasse de frente, fazendo barulho, grande e imponente, soltando fumaça pelas ventas, como a locomotiva que assustou aquela  comunidade em Ohio em 1828 [^footnote_ohio_mauryklein] - talvez nos envolveríamos em reflexões acaloradas sobre o significado. Mas hoje, enquanto nossos pais se estressam em suas ocupações, nossos filhos estão do outro lado, ali no canto, estão vivenciando o tecido tecnológico e social que os envolve, pelas beiradas. 
 
-Além disso, dado que comunicamos para resolver o trabalho, decorre que também gostamos de criar certos modelos, ou esquemas comunicativos ou sociais, intencionados a ajudar os grupos com mais performance no trabalho. Criamos coisas como dizeres sobre o que é ideal ou não, tipo "pare de resmungar a aperte o botão" ou "se chegar atrasado tem que pagar um café" tudo isso com a intenção de otimizar nosso ambiente colaborativo de trabalho. Em outras palavras, por meio da dinâmica de experiencias comunicativas no meio social trabalho, ligada a tecnologia, criamos a cultura de trabalho. 
+[^footnote_ohio_mauryklein]: Em 1828, um conselho escolar de Ohio alertou que "se Deus tivesse planejado que suas criaturas inteligentes viajassem à assustadora velocidade de 25 milhas por hora a vapor, Ele teria predito isso por meio de seus santos profetas. É um dispositivo de Satanás para levar almas imortais ao inferno." Essa visão reflete o choque cultural e a resistência às inovações tecnológicas da época. (Klein, Maury. *The Power Makers: Steam, Electricity, and the Men Who Invented Modern America*. Bloomsbury Press, 2009, p. 57).
+
+Em outras palavras, já atingimos maturidade - para não dizer carne maturada - em um ambiente onde “o software está comendo o mundo”, como disse o co-criador do navegador da Web e renomado investidor do Vale do Silício, Marc Andreessen. 
+
+Já temos razões suficientes para nos preocuparmos sobre a influência das tecnologias nas nossas vidas. Mas ainda que bem intencionados, nosso problema com a tecnologia começa com a própria percepção, ou falta de, sobre o que é tecnologia. 
+Em uma publicação de 1959, Peter Drucker revelou suas frustrações com relação a definições arbitrárias com relação à tecnologia ao longo da história: Por que o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012).
+
+
+<!--
+@references 
+* @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
+--> 
+
+Ainda que o mundo digital nos ensine sobre essa definição mais abrangente, somos cercados por uma cristalização tecnológica que, como uma bala, nos encanta. Colocamos pilha na calculadora, deixando a matemática no escuro. 
+
+Foi olhando para reflexões de biólogos que Peter Drucker encontrou um melhor insight sobre o que é a tecnologia. 
+
+> "O que eu chamei aqui de 'Insight de Wallace', isto é, a abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora."
+
+Olhando por essa perspectiva, podemos constatar implicações tanto em relação ao design das tecnologias, como com relação à manipulação das tecnologias pelas pessoas no contexto social.
+
+Com relação ao design das tecnologias, podemos considerar uma perspectiva que ouvi de um designer que trabalhava para a organização Mozilla (os criadores do navegador Firefox) em um vídeo que falava sobre a interface do futuro. Ele abordou a questão utilizando o exemplo de uma tecnologia como sendo uma enxada. Na sequência, fez a pergunta “Qual seria a enxada perfeita?” Em primeiro lugar, falou sobre os vários tipos de enxada e suas características, as diferenças entre os cabos, por exemplo. E sobre as as lâminas, apontou que algumas até possuem lâminas com diamantes incrustados. E concluiu que, ainda que existam enxadas de vários tipos, a enxada perfeita seria o buraco pronto. 
+
+Essa visão do designer é bem intencionada, pois reconhece que o papel da tecnologia, no fundo, não é ficar no caminho do usuário. A visão de design ainda nos leva a considerar que, mesmo que a tecnologia tenha um nascimento bem intencionado para aquele propósito final, só encontrará seu espaço como tecnologia no meio social, uma vez que, de fato, resolve melhor um certo trabalho neste contexto.
+
+Essa visão também nos ajuda a perceber o trabalho no tempo presente não importando se se dá com a pedra que era utilizada para fazer lanças, um computador que de uma forma ou outra permite a criação de outras ferramentas de trabalho, como por exemplo a criação de humanoides “inteligentes”. 
+
+Essas observações estão também ligadas a outra implicação, que envolve a questão da manipulação das tecnologias. 
+
+Por permitir que o trabalho seja feito, a tecnologia cria uma linguagem no contexto. Se uma ferramenta resolve um problema, normalmente traz um manual de instrução. Por conta disso, a presenta da tecnologia no meio, ao ser manipulada, define uma experiência comunicativa - bem intencionada a ajudar as pessoas a usar a ferramenta para aquele objetivo. 
+
+Decorre dessa situação que, diante da impossibilidade de vermos fora da caixa e ver o trabalho resolvido de outra forma, que estamos envolvidos (para não dizer presos) a essas experiências comunicativas atreladas às tecnologias. 
+
+Também está de certa forma de acordo com a abordagem apontada por Peter Drucker ao concluir que: 
+
+> "As ferramentas e técnicas não só influenciarão fortemente qual trabalho pode e será realizado, mas também determinarão como ele será realizado. O trabalho, sua estrutura, organização e conceitos, por sua vez, influenciarão com a mesma força o desenvolvimento de ferramentas e técnicas." (Drucker, 2012, p.40) 
+
+<!--
+@references 
+* @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
+--> 
+
+Na vida real isso aparece de várias formas, mais elaboradas como métodos passados de um chefe para um subordinado, ou até dada por pérolas incrustadas em dizeres sobre o que é ideal ou não, tipo "pare de resmungar a aperte o botão" ou "se chegar atrasado tem que pagar um café". Tudo isso com a intenção de otimizar nosso ambiente colaborativo de trabalho, é lógico.
+
+Em outras palavras, por meio da dinâmica de experiências comunicativas no meio social trabalho, ligada a tecnologia, criamos a cultura de trabalho. 
+
+
+
+
+
+
+
 
 ### Segregação por tecnologia 
 

@@ -4,9 +4,13 @@
 This book is in the public library of Salamanca 
 --> 
 
-MORINI, Fabrício. Faça seu negócio decolar: verdades que ninguém te conta sobre o empreendedorismo na vida real. São Paulo: Editora Gente, 2017.
-
 BRANDE, Dorothea. Becoming a Writer. General Press, 2019. Original de 1934.
+
+<!-- 100 -->
+
+DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
+
+MORINI, Fabrício. Faça seu negócio decolar: verdades que ninguém te conta sobre o empreendedorismo na vida real. São Paulo: Editora Gente, 2017.
 
 Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 
@@ -41,7 +45,9 @@ YCOMBINATOR, Greylock. Scaling Product | Fireside with Joe Gebbia and Reid Hoffm
 
 <!-- 300 cliente chato --> 
 
+<!--
 DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
+-->
 
 GRANT, Adam. Originais: como os inconformistas mudam o mundo. Tradução de Sérgio Rodrigues. Rio de Janeiro: Sextante, 2017.
 
