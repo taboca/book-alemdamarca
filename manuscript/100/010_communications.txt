@@ -62,7 +62,7 @@ O problema é que não tem problema, como uma bala dura e doce que desliza pela 
 * [ , anchored ] @todo - p1 - In "Tecnologia" - Add a the Wallace saying. @refid-20250107-cc7f7051-1551-4dfd-8aed-3490cf4575c2
 -->
 
-Drucker percebeu que a história da tecnologia não poderia explicar a tecnlogia. Ele encontrou uma melhor resposta a partir da visão do co-criador da teoria da evolução, Wallace, que disse que "o homem, de todos os seres, é o único capaz de modificar seu meio". Ele chamou de insight de Wallace:
+Drucker percebeu que a história da tecnologia não poderia explicar a tecnlogia. Ele encontrou uma melhor resposta a partir da visão do co-criador da teoria da evolução, Wallace, que trouxe uma observação que diz que "o homem, de todos os animais, é o único capaz de evoluir por decisão própria, de modo não orgânico; ele constrói ferramentas." Ele chamou de insight de Wallace:
 
 > *"A abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora."* (Drucker, 2012, p.39)
 
