@@ -8,6 +8,10 @@
 
 @todo 
 
+* [ , anchored ] @todo - p1 - In "Tecnologia" - Add a the Wallace saying. @refid-20250107-cc7f7051-1551-4dfd-8aed-3490cf4575c2
+
+* [ , anchored ] @todo - p1 - In "Tecnologia" - Add a reference to the page for the Drucker's block quote. @refid-20250107-fbc2ffe7-9e7a-480c-b593-3e6dee2b5e3a
+
 * [ , anchored ] @todo - p1 - In “Tecnologia” - Consider to add a bit from Peter about manipulation. @refid-20250107-25dae8db-dbe1-4c94-92a0-a478f823c651
 
 * [ , ] @todo - p1 - In "Part 1, communications - #dup? - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB
@@ -30,14 +34,14 @@
 
 ## A tecnologia    
 
-Se ela chegasse de frente, fazendo barulho, grande e imponente, soltando fumaça pelas ventas, como aquela locomotiva que chegou em Ohio em 1828, talvez nos envolveríamos em uma discussão mais acalorada, talvez até parecida com o que publicado por um conselho escolar de Ohio:
+Se ela chegasse de frente, fazendo barulho, grande e imponente, soltando fumaça pelas ventas, como aquela locomotiva que chegou em Ohio em 1828, talvez nos envolveríamos em uma discussão mais acalorada, talvez parecida com o texto publicado por um conselho escolar da cidade:
 
 > *"Se Deus tivesse planejado que suas criaturas inteligentes viajassem à assustadora velocidade de 25 milhas por hora a vapor, Ele teria predito isso por meio de seus santos profetas. É um dispositivo de Satanás para levar almas imortais ao inferno."*
 > KLEIN, Maury. The Power Makers: Steam, Electricity, and the Men Who Invented Modern America. Bloomsbury Press, 2009, p. 57.
 
-Agora, quase 200 anos à frente, atingimos mais maturidade sobre o que pode acontecer, também por conta do ambiente digital. Hoje, ela não bate de frente. É como se fosse comendo pelas beiradas. Não esqueço aquele dia quando minha sobrinha, ainda nenê, foi rápida no gatilho sacando o dedinho e acertou em cheio o quadradinho de 16x16 pixels para fechar a propaganda do YouTube o mais rápido possível. Isso sim é novo, essa naturalidade  -a naturalidade que nos ocupamos com ela, a naturalidade que nossos filhos aprendem com ela. 
+Agora, 200 anos à frente, alcançamos uma ambiente tecnológico que nem nos assusta. Ou não bate de frente, não faz barulho nem solta fumaça. Hoje ela vem de lado, às vezes de manssinho. Não esqueço aquele dia, quando a minha sobrinha, ainda neném, sacou o dedinho, rápida no gatilho. Acertou bem na mosca, do quadradinho de 16 a 16 pixels. Matou a propaganda do vídeo. Isso sim é novo, essa naturalidade que ela entra. 
 
-Para o renomado investidor do Vale do Silício - e co-criador do primeiro navegador da Web - Marc Andreessen, já faz tempo que “o software está comendo o mundo” [^footnote_marc_software_eating]. 
+Já faz mais de uma década que Marc Andreessen - o renomado investidor do Vale do Silício e co-criador do primeiro navegador da web - disse que "o software está comendo o mundo" [^footnote_marc_software_eating]. Ela vem comendo pelas beiradas. 
 
 <!--
 @note-refai @refid-20250107-8a97db78-80ef-4de1-b963-9313bfd7c495
@@ -46,20 +50,35 @@ Para o renomado investidor do Vale do Silício - e co-criador do primeiro navega
 
 [^footnote_marc_software_eating]: ANDREESSEN, Marc. Why Software Is Eating the World. The Wall Street Journal, 20 ago. 2011. Tradução nossa: Por que o software está dominando o mundo. Disponível em: https://www.wsj.com/articles/SB10001424053111903480904576512250915629460. Acesso em: 7 jan. 2025.
 
-Em outras palavras, temos razões suficientes para nos preocuparmos sobre a influência das tecnologias nas nossas vidas. Ainda que o mundo digital tenha nos ensinado a ver de forma abrangente, além das ferramentas materiais, somos cercados por uma cristalização tecnológica que, como uma bala, nos encanta. Colocamos pilha na tecnologia da calculadora, deixando muitas vezes a tecnologia da matemática no escuro. 
+O problema é que não tem problema, como uma bala que desliza suavemente pela boca. Por um lado é dura. Por outro lado é doce. Às vezes quase engasgamos com ela, tipo quando nos um dia nos pegamos colocando pilha na calculadora e deixando a tecnologia da matemática no escuro. A verdade é que é difícil perceber o que ela é, quando é ela que cria nossas lentes. 
 
-Mesmo bem intencionados, nosso problema com a tecnologia começa com a própria percepção, ou falta de, sobre o que é tecnologia. Em uma publicação de 1959, Peter Drucker revelou suas frustrações com relação a definições arbitrárias com relação à tecnologia ao longo da história: Por que o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012).
+Em 1959, Peter Drucker se preocupou sobre a nossa percepção, ou falta de percepção, sobre seu significado influenciado por definições arbitrárias ao longo da história: Por que o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012).
 
 <!--
 @references 
 * @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
 --> 
 
-Foi olhando para reflexões de biólogos que Peter Drucker encontrou um melhor insight sobre o que é a tecnologia. 
+<!--
+@todo 
+* [ , anchored ] @todo - p1 - In "Tecnologia" - Add a the Wallace saying. @refid-20250107-cc7f7051-1551-4dfd-8aed-3490cf4575c2
+-->
 
-> "O que eu chamei aqui de 'Insight de Wallace', isto é, a abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora."
+Drucker percebeu que a história da tecnologia não poderia explicar a tecnlogia. Ele encontrou uma melhor resposta a partir da visão do co-criador da teoria da evolução, Wallace, que disse que "o homem, de todos os seres, é o único capaz de modificar seu meio". Ele chamou de insight de Wallace:
 
-### Tecnologia é trabalho
+> *"A abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora."* (Drucker, p.xx)
+
+<!--
+@todo 
+* [ , anchored ] @todo - p1 - In "Tecnologia" - Add a reference to the page for the Drucker's block quote. @refid-20250107-fbc2ffe7-9e7a-480c-b593-3e6dee2b5e3a
+-->
+
+<!--
+@references 
+* @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
+--> 
+
+### É trabalho
 
 Essa visão - da tecnologia como sendo trabalho - nos ajuda a perceber que nosso trabalho fez ela independente do tempo. Às vezes ela é a pedra que faz as lanças com os galhos das árvores. Outras vezes é o computador que lançou o software. E em breve, não muito distante, um humanoide lhe trará um espetinho. 
 
@@ -81,6 +100,11 @@ O outro aspecto envolve a questão da manipulação das tecnologias. Neste senti
 * [ Done , anchored ] @todo - p1 - In “Tecnologia” - Consider to add footnote and data for the Oliver Evan’s guide. @refid-20250107-f3034186-911e-4efc-82a3-3abc8ce855be
 --> 
 
+<!--
+@note-refai @refid-20250107-0412cbec-43e7-4a50-ab38-ae7642710436
+* @note #refai - Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/677d729a-7b08-8011-b0c5-c9bae25ca57f
+-->
+
 [^footnote_oliver_guide]: O manual, *The Young Mill-Wright and Miller's Guide*, de Oliver Evans, foi uma contribuição essencial para a engenharia de moinhos, oferecendo orientações práticas sobre a construção e operação. Referência completa: EVANS, Oliver. The Young Mill-Wright and Miller's Guide. 5th ed. Philadelphia: Lea & Blanchard, 1834.
 
 Mas Oliver Evans também viveu grandes frustrações depois que tantas implementações simplesmente copiaram suas ideias, mesmo que ele detinha várias patentes. Mas Oliver sabia, as duras penas, que a tecnologia era o manual. 
@@ -98,7 +122,6 @@ Na vida real isso aparece de várias formas, mais elaboradas como dada por méto
 
 
 ### Segregação por tecnologia 
-
 
 
 O interesse de Peter Drucker, sobre o uso da tecnologia no contexto, como a manipulamos, é um ponto de partida para uma reflexão sobre como a tecnologia influencia a tecnologia, ou concordando com ele, como o trabalho influencia o trabalho. 
