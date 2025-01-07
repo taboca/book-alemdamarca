@@ -50,9 +50,7 @@ Já faz mais de uma década que Marc Andreessen - o renomado investidor do Vale 
 
 [^footnote_marc_software_eating]: ANDREESSEN, Marc. Why Software Is Eating the World. The Wall Street Journal, 20 ago. 2011. Tradução nossa: Por que o software está dominando o mundo. Disponível em: https://www.wsj.com/articles/SB10001424053111903480904576512250915629460. Acesso em: 7 jan. 2025.
 
-O problema é que não tem problema, como uma bala que desliza suavemente pela boca. Por um lado é dura. Por outro lado é doce. Às vezes quase engasgamos com ela, tipo quando nos um dia nos pegamos colocando pilha na calculadora e deixando a tecnologia da matemática no escuro. A verdade é que é difícil perceber o que ela é, quando é ela que cria nossas lentes. 
-
-Em 1959, Peter Drucker se preocupou sobre a nossa percepção, ou falta de percepção, sobre seu significado influenciado por definições arbitrárias ao longo da história: Por que o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012).
+O problema é que não tem problema, como uma bala dura e doce que desliza pela boca. Às vezes quase engasgamos, tipo quando nos pegamos colocando pilha na calculadora, deixando a tecnologia da matemática no escuro. É difícil perceber, quando é ela cria nossas lentes. Em 1959, Peter Drucker se preocupou sobre a nossa percepção, ou falta de percepção, sobre seu significado influenciado por definições arbitrárias ao longo da história: Por que o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012).
 
 <!--
 @references 
@@ -66,7 +64,7 @@ Em 1959, Peter Drucker se preocupou sobre a nossa percepção, ou falta de perce
 
 Drucker percebeu que a história da tecnologia não poderia explicar a tecnlogia. Ele encontrou uma melhor resposta a partir da visão do co-criador da teoria da evolução, Wallace, que disse que "o homem, de todos os seres, é o único capaz de modificar seu meio". Ele chamou de insight de Wallace:
 
-> *"A abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora."* (Drucker, p.xx)
+> *"A abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora."* (Drucker, 2012, p.39)
 
 <!--
 @todo 
