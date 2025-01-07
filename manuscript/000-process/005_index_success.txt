@@ -1,5 +1,7 @@
 ## Done 
 
+* [ Done , anchored ] @todo - p1 - In “Tecnologia” - Consider to add footnote and data for the Oliver Evan’s guide. @refid-20250107-f3034186-911e-4efc-82a3-3abc8ce855be
+
 * [ done , anchored ] @todo - p1 - In “A Tecnologia” - Add a footnote about Marc Andreessen’s note, with a date. @refid-20250107-fca8a76e-e2dc-42b0-a331-869b818c6ddf
 
 * [ Dismissed didn't understand,anchor] @todo - p1 - In "A comunicação" - Consider the me me me usage, and replace with us, or me connecting with us. @refid-20241217-45791c52-2ab6-4ca1-a19a-f8ebeb42c4ae
