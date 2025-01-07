@@ -8,13 +8,17 @@
 
 @todo 
 
+* [ , anchored ] @todo - p1 - In “A Tecnologia” - Add a footnote about Marc Andreessen’s note, with a date. @refid-20250107-fca8a76e-e2dc-42b0-a331-869b818c6ddf
+
 * [ , ] @todo - p1 - In "Part 1, communications - #dup? - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB
 
 * [ , anchor] - @todo - p1 - In "Part 1, Communications" - Complete the story, here or at another article, of the shopping situatin. @refid-20241217-e9d92d8f-e601-4967-b8f7-a6463a44e69c
 
 * [ , anchor] - @todo - p1 - In "Part 1, Communications" - Consider the #dup reference to the (5 stars) case of the shopping center promotion. @refid-20241217-be8f95de-095e-4a5a-9aa9-84e578ff9972
 
-* [ ,anchor] @todo - p1 - In "A comunicação" - Consider the me me me usage, and replace with us, or me connecting with us. @refid-20241217-45791c52-2ab6-4ca1-a19a-f8ebeb42c4ae
+@done 
+
+* [ Dismissed didn't understand,anchor] @todo - p1 - In "A comunicação" - Consider the me me me usage, and replace with us, or me connecting with us. @refid-20241217-45791c52-2ab6-4ca1-a19a-f8ebeb42c4ae
 
 * [Done , anchored ] @todo - p1 - In "Part 1, communications - Consider to complete the end of the chapter "A tecnologia" with more about the story of the teen being there to help with the online promotion at e-mail ref "Book - adm - além da marca - artigo 2024 - young and experienced with technology ". which requires to be translated to pt-br too. @refid-20241217-5d789b23-da5e-43cf-90e4-1819b7212b70
 
@@ -22,36 +26,36 @@
 
 ## A tecnologia    
 
-<!--
-@todo 
-* [ ,anchor] @todo - p1 - In "A comunicação" - Consider the me me me usage, and replace with us, or me connecting with us. @refid-20241217-45791c52-2ab6-4ca1-a19a-f8ebeb42c4ae
+Se ela chegasse de frente, fazendo barulho, grande e imponente, soltando fumaça pelas ventas, como aquela locomotiva que chegou em Ohio em 1828, talvez nos envolveríamos em uma discussão mais acalorada, talvez até parecida com o que publicado por um conselho escolar de Ohio:
+
+> *"Se Deus tivesse planejado que suas criaturas inteligentes viajassem à assustadora velocidade de 25 milhas por hora a vapor, Ele teria predito isso por meio de seus santos profetas. É um dispositivo de Satanás para levar almas imortais ao inferno."*
+> KLEIN, Maury. The Power Makers: Steam, Electricity, and the Men Who Invented Modern America. Bloomsbury Press, 2009, p. 57.
+
+Agora, quase 200 anos à frente, atingimos mais maturidade sobre o que pode acontecer, também por conta do ambiente digital. Hoje, ela não bate de frente. É como se fosse comendo pelas beiradas. Não esqueço aquele dia quando minha sobrinha, ainda nenê, foi rápida no gatilho sacando o dedinho e acertou em cheio o quadradinho de 16x16 pixels para fechar a propaganda do YouTube o mais rápido possível. Isso sim é novo, essa naturalidade  -a naturalidade que nos ocupamos com ela, a naturalidade que nossos filhos aprendem com ela. 
+
+Para o renomado investidor do Vale do Silício - e co-criador do primeiro navegador da Web - Marc Andreessen, já faz tempo que “o software está comendo o mundo” [^footnote_marc_software_eating]. 
+
+[^footnote_marc_software_eating]: ANDREESSEN, Marc. Why Software Is Eating the World. The Wall Street Journal, 20 ago. 2011. Tradução nossa: Por que o software está dominando o mundo. Disponível em: https://www.wsj.com/articles/SB10001424053111903480904576512250915629460. Acesso em: 7 jan. 2025.
+
+<!-- 
+@todo
+* [ , anchored ] @todo - p1 - In “A Tecnologia” - Add a footnote about Marc Andreessen’s note, with a date. @refid-20250107-fca8a76e-e2dc-42b0-a331-869b818c6ddf
 --> 
 
+Em outras palavras, temos razões suficientes para nos preocuparmos sobre a influência das tecnologias nas nossas vidas. Ainda que o mundo digital tenha nos ensinado a ver de forma abrangente, além das ferramentas materiais, somos cercados por uma cristalização tecnológica que, como uma bala, nos encanta. Colocamos pilha na tecnologia da calculadora, deixando muitas vezes a tecnologia da matemática no escuro. 
 
-Minha curiosidade com relação à tecnologia é de longa data, desde que eu ganhei o primeiro computador, em 1985. Sempre fui curioso sobre o que poderia ser criado. Curioso ou apaixonado, sim. Mas não mais me surpreendo com o que pode acontecer. É como se a velocidade dos avanços tecnológicos estivessem nos familiarizando sobre as possibilidades. 
-
-O que me surpreende é a velocidade com que a gente se envolve com novas tecnologias. Não esqueço aquele dia quando minha sobrinha, nenê, rapidamente mandou o dedinho no quadradinho de 16x16 pixels do Youtube para fechar a propaganda o mais rápido possível. Isso sim é novo para nós. 
-
-Se ainda chegasse de frente, fazendo barulho, grande e imponente, soltando fumaça pelas ventas, como a locomotiva que assustou aquela  comunidade em Ohio em 1828 [^footnote_ohio_mauryklein] - talvez nos envolveríamos em reflexões acaloradas sobre o significado. Mas hoje, enquanto nossos pais se estressam em suas ocupações, nossos filhos estão do outro lado, ali no canto, estão vivenciando o tecido tecnológico e social que os envolve, pelas beiradas. 
-
-[^footnote_ohio_mauryklein]: Em 1828, um conselho escolar de Ohio alertou que "se Deus tivesse planejado que suas criaturas inteligentes viajassem à assustadora velocidade de 25 milhas por hora a vapor, Ele teria predito isso por meio de seus santos profetas. É um dispositivo de Satanás para levar almas imortais ao inferno." Essa visão reflete o choque cultural e a resistência às inovações tecnológicas da época. (Klein, Maury. *The Power Makers: Steam, Electricity, and the Men Who Invented Modern America*. Bloomsbury Press, 2009, p. 57).
-
-Em outras palavras, já atingimos maturidade - para não dizer carne maturada - em um ambiente onde “o software está comendo o mundo”, como disse o co-criador do navegador da Web e renomado investidor do Vale do Silício, Marc Andreessen. 
-
-Já temos razões suficientes para nos preocuparmos sobre a influência das tecnologias nas nossas vidas. Mas ainda que bem intencionados, nosso problema com a tecnologia começa com a própria percepção, ou falta de, sobre o que é tecnologia. 
-Em uma publicação de 1959, Peter Drucker revelou suas frustrações com relação a definições arbitrárias com relação à tecnologia ao longo da história: Por que o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012).
-
+Mesmo bem intencionados, nosso problema com a tecnologia começa com a própria percepção, ou falta de, sobre o que é tecnologia. Em uma publicação de 1959, Peter Drucker revelou suas frustrações com relação a definições arbitrárias com relação à tecnologia ao longo da história: Por que o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012).
 
 <!--
 @references 
 * @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
 --> 
 
-Ainda que o mundo digital nos ensine sobre essa definição mais abrangente, somos cercados por uma cristalização tecnológica que, como uma bala, nos encanta. Colocamos pilha na calculadora, deixando a matemática no escuro. 
-
 Foi olhando para reflexões de biólogos que Peter Drucker encontrou um melhor insight sobre o que é a tecnologia. 
 
 > "O que eu chamei aqui de 'Insight de Wallace', isto é, a abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora."
+
+### Por esse olhar
 
 Olhando por essa perspectiva, podemos constatar implicações tanto em relação ao design das tecnologias, como com relação à manipulação das tecnologias pelas pessoas no contexto social.
 
@@ -79,7 +83,6 @@ Também está de certa forma de acordo com a abordagem apontada por Peter Drucke
 Na vida real isso aparece de várias formas, mais elaboradas como métodos passados de um chefe para um subordinado, ou até dada por pérolas incrustadas em dizeres sobre o que é ideal ou não, tipo "pare de resmungar a aperte o botão" ou "se chegar atrasado tem que pagar um café". Tudo isso com a intenção de otimizar nosso ambiente colaborativo de trabalho, é lógico.
 
 Em outras palavras, por meio da dinâmica de experiências comunicativas no meio social trabalho, ligada a tecnologia, criamos a cultura de trabalho. 
-
 
 
 

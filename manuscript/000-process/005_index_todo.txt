@@ -2,6 +2,8 @@
 ## Todo 
 
 
+* [ , anchored ] @todo - p1 - In “A Tecnologia” - Add a footnote about Marc Andreessen’s note, with a date. @refid-20250107-fca8a76e-e2dc-42b0-a331-869b818c6ddf
+
 * [ , anchored ] @todo - p1 - In "Introduction - " Check the e-mail "Book - ADM - Introdução elemento sobre complicação?" which may offer an insight that supports a better complication. @refid-20250102-78a18e9f-33a3-40c5-aabb-05823835eb94
 
 
@@ -126,9 +128,6 @@
 * [ , ] @todo - p1 - In "Part 1, communications - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB
 
 * [ , anchor] - @todo - p1 - In "Part 1, Communications" - Consider the #dup reference to the (5 stars) case of the shopping center promotion. @refid-20241217-be8f95de-095e-4a5a-9aa9-84e578ff9972
-
-* [ ,anchor] @todo - p1 - In "Part 1, Communications" -  Consider the me me me usage, and replace with us, or me connecting with us. @refid-20241217-45791c52-2ab6-4ca1-a19a-f8ebeb42c4ae
-
 
 * [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
 

@@ -1,5 +1,7 @@
 ## Done 
 
+* [ Dismissed didn't understand,anchor] @todo - p1 - In "A comunicação" - Consider the me me me usage, and replace with us, or me connecting with us. @refid-20241217-45791c52-2ab6-4ca1-a19a-f8ebeb42c4ae
+
 * [ Done , anchored] @todo - p1 - In "Forword" or "Introduction" - Check if the point of Dorothea's thoughts can be contextualized, different from slowing down, towards "trancending", not slowing down the same accelerated, but about gaining awareness about the process. @refid-20241217-08837f4e-4a89-4e51-8466-42e69f4c4e6e
 
 * [ Done ]  @todo - p1 - In "Esse é diferente " - Replace en-us with the draft from the pt-br in the doc entitled "Book - adm - Esse é diferente " @refid-20241228-b8a9e8a2-6d6a-4259-bbc0-eaeb4f044104
