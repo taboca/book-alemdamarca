@@ -1,9 +1,6 @@
 
 ## Todo 
 
-
-* [ , anchored ] @todo - p1 - In “A Tecnologia” - Add a footnote about Marc Andreessen’s note, with a date. @refid-20250107-fca8a76e-e2dc-42b0-a331-869b818c6ddf
-
 * [ , anchored ] @todo - p1 - In "Introduction - " Check the e-mail "Book - ADM - Introdução elemento sobre complicação?" which may offer an insight that supports a better complication. @refid-20250102-78a18e9f-33a3-40c5-aabb-05823835eb94
 
 
