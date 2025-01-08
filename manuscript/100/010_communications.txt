@@ -22,6 +22,8 @@
 
 @done 
 
+* [ Done , anchored ] @todo - p1 - "In Tecnologia" - Consider tecnologia emprega, materializar: Essa visão otimista nos diz que se ela resolve melhor, irá se materializar. @refid-20250108-4f22ffcc-68bc-46e6-903c-abd11465291d
+
 * [ Done , anchored ] @todo - p1 - In “Tecnologia” - Consider to add footnote and data for the Oliver Evan’s guide. @refid-20250107-f3034186-911e-4efc-82a3-3abc8ce855be
 
 * [ Done , anchored ] @todo - p1 - In “A Tecnologia” - Add a footnote about Marc Andreessen’s note, with a date. @refid-20250107-fca8a76e-e2dc-42b0-a331-869b818c6ddf
@@ -80,15 +82,13 @@ Ele encontrou uma melhor resposta com o co-criador da teoria da evolução, Alfr
 
 ### É trabalho
 
-Essa visão - da tecnologia como sendo trabalho - nos ajuda a perceber que nosso trabalho fez ela independente do tempo. Às vezes ela é a pedra que faz as lanças com os galhos das árvores. Outras vezes é o computador que lançou o software. E em breve, não muito distante, um humanoide lhe trará um espetinho. 
+Essa visão faz a tecnologia se aproximar do trabalho. Sim, às vezes ela parece com a pedra que usamos para produzir lanças com os galhos das árvores. Em outros momentos, parece que é o computador que nos ajuda a lançar o software. Mas não é tão fácil percebermos, quando passamos uma instrução para um colega de trabalho, que estamos passando tecnologia. Como não será fácil perceber ela quando estivermos só pedindo para um humanóide lavar o prato na pia. 
 
-Essa perspectiva, nos leva também a considerar os desafios no contexto da criação e da manipulação da tecnologia.  
+Essa perspectiva também se alinha com a visão dos designers sobre o que é a melhor tecnologia. Considere a explicação que encontrei em um vídeo de um renomado designer que trabalhava para a organização Mozilla, os criadores do navegador Firefox. O tema era sobre a ferramenta do futuro. Para simplificar, ele começou com a pergunta “Qual seria a pá perfeita?” Primeiro descreveu os principais componentes da pá: o cabo, o pegador na parte de cima, a lâmina na parte de baixo. E falou sobre as diversas tipos de pás que existe. Algumas com cabos longos e outras de cabo curto. Sobre os pegadores, ilustrou que algumas trazem um pegador formato "D" enquanto outras tipo "T". Sobre a lâmina, falou que algumas trazem até diamantes incrustados. 
 
-Com relação a criação, considere a narrativa de um designer que trabalhava para a organização Mozilla (os criadores do navegador Firefox). O vídeo era sobre como criar a interface do futuro. Para simplificar, ele começou com a pergunta “Qual seria a pá perfeita?” Falou que a pá tinha o cabo, o pegador e a lâmina. Algumas com cabos longos e outras de cabo curto. Falou sobre o pegador tipo D ou o tipo T. Sobre a lâmina, falou que algumas tem até diamantes incrustados. Ele concluiu dizendo que a pá perfeita era o buraco pronto. 
+E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o papel da tecnologia, no fundo, não é estar no nosso caminho. Essa visão sobre por quê criar, é otimista e bem intencionada; pois espera que seja criada para ser empregada para resolver o trabalho que precisa ser feito. Ao mesmo tempo, ele também nos dá a deixa que diz que a tecnologia pode ser a pedra no caminho. 
 
-A visão do designer reconhece que o papel da tecnologia, no fundo, não é estar no nosso caminho. Em outras palavras, a tecnologia não pode ser a pedra no caminho. Espera que ela seja criada só para ser utilizada para resolver nossas necessidades, no meio social. 
 
-Essa visão otimista nos diz que se ela resolve melhor, irá se materializar. 
 
 
 
@@ -104,8 +104,15 @@ Essa visão otimista nos diz que se ela resolve melhor, irá se materializar.
 @todo 
 * [ , anchored ] @todo - p1 - In “Tecnologia” - Consider to add a bit from Peter about manipulation. @refid-20250107-25dae8db-dbe1-4c94-92a0-a478f823c651
 -->
-  
-O outro aspecto envolve a questão da manipulação das tecnologias. Neste sentido, quando empregamos a tecnologia no trabalho, ela passa a ser disseminada pela linguagem. O aprendiz aprendeu a fazer o forno com seu mentor, a partir da pura prática. A senhora ainda faz aquela cuca de fermentação natural seguindo a receida da avó. O moinho de trigo automático de Oliver Evans ganhou visibilidade em 1834 depois que escreveu e publicou um guia para o jovem moleiro [^footnote_oliver_guide]. 
+
+O desafio dos designers - a partir da criação bem intencionada - nos convida para refletir sobre o emprego da tecnologia no meio social. Se ela entra e fica é porque a percebemos como necessária para fazer aquele certo trabalho com menos trabalho. 
+
+<!--
+@todo
+* [ Done , anchored ] @todo - p1 - "In Tecnologia" - Consider tecnologia emprega, materializar: Essa visão otimista nos diz que se ela resolve melhor, irá se materializar. @refid-20250108-4f22ffcc-68bc-46e6-903c-abd11465291d
+-->
+
+Neste sentido, quando empregamos a tecnologia no trabalho, ela passa a ser disseminada pela linguagem. O aprendiz aprendeu a fazer o forno com seu mentor, a partir da pura prática. A senhora ainda faz aquela cuca de fermentação natural seguindo a receida da avó. O moinho de trigo automático de Oliver Evans ganhou visibilidade em 1834 depois que escreveu e publicou um guia para o jovem moleiro [^footnote_oliver_guide]. 
 
 <!--
 @todo 
