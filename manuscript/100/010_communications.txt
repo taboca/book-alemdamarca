@@ -54,7 +54,7 @@ Em 2011, o renomado investidor do Vale do Silício Marc Andreessen disse que "o 
 
 O problema é que ela não parece ser um problema. Tudo começa por conta dessa naturalidade que nos envolve em um ambiente que diz que "está tudo bem" ou que "é assim que as coisas funcionam". Usamos o que temos, ao lado, como se estivéssemos sobrevivendo em uma selva, tentando usar as ferramentas ao lado de forma mais eficiente, sem assumir que todo o ambiente é uma criação do nosso trabalho. Agora, o nosso ambiente, tecnologicamente digital e social, está no meio de tudo, no meio do comer, do lazer, do trabalho, do socializar, descançar, do sobreviver. Grande parte do problema está ligado a nossa percepção sobre o ambiente tecnologico. Quando é ela que cria as nossas lentes, como podemos perceber? 
 
-Em 1959, Peter Drucker se preocupou sobre a nossa percepção, ou falta de percepção sobre o que é a tecnologia, apontando que grande parte do problema começa com as definições arbitrárias sobre o que é tecnologia. Por quê o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012). Para ele, a história da tecnologia não explicou o que é a tecnologia. 
+Em 1959, Peter Drucker se preocupou sobre a nossa percepção, ou falta de percepção sobre o que é a tecnologia .Ele perguntou: Por quê o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012). Parte do problema é que, para ele, a história da tecnologia não só não explica mas também nos confunde por conta de definições arbitrárias sobre o que é tecnologia.
 
 <!--
 @references 
