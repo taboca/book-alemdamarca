@@ -127,30 +127,21 @@ Neste sentido, podemos considerar que quando empregamos a tecnologia no meio, es
 [^footnote_oliver_guide]: O manual, *The Young Mill-Wright and Miller's Guide*, de Oliver Evans, foi uma contribuição essencial para a engenharia de moinhos, oferecendo orientações práticas sobre a construção e operação. Referência completa: EVANS, Oliver. The Young Mill-Wright and Miller's Guide. 5th ed. Philadelphia: Lea & Blanchard, 1834.
 
 
-
-
-### Linguagem 
+### Manual 
 
 Mas Oliver Evans também viveu grandes frustrações depois que tantas implementações simplesmente copiaram suas ideias, mesmo que ele detinha várias patentes. Mas Oliver sabia, as duras penas, que a tecnologia era o manual. 
 
-Por conta disso, o uso ou a manipulação, define a experiência comunicativa, que logicamente começa bem intencionada para ajudar as pessoas, praticamente, com o trabalho. Em outras palavras, a própria experiência comunicativa, criada, pela caixa de ferramentas, nos limita a ver fora da caixa. De certa forma, podemos refletir sobre como ela influencia o ambiente, junto com Peter Drucker: 
-
-> *"As ferramentas e técnicas não só influenciarão fortemente qual trabalho pode e será realizado, mas também determinarão como ele será realizado. O trabalho, sua estrutura, organização e conceitos, por sua vez, influenciarão com a mesma força o desenvolvimento de ferramentas e técnicas."* (Drucker, 2012, p.40) 
-
-<!--
-@references 
-* @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
---> 
-
-Na vida real isso aparece de várias formas, mais elaboradas como dada por métodos passados pelo mentor para o aprendiz, ou até em pérolas incrustadas na lâmina afiada do chefe que diz coisas como "pare de resmungar a aperte o botão" ou "se chegar atrasado tem que pagar um café". Tudo isso com a intenção de otimizar nosso ambiente colaborativo de trabalho, é lógico. Em outras palavras, por meio da dinâmica de experiências comunicativas no meio social trabalho, ligada a tecnologia, criamos a cultura de trabalho. 
 
 
-### Segregação por tecnologia 
 
 
-O interesse de Peter Drucker, sobre o uso da tecnologia no contexto, como a manipulamos, é um ponto de partida para uma reflexão sobre como a tecnologia influencia a tecnologia, ou concordando com ele, como o trabalho influencia o trabalho. 
 
-Uma preocupação: Poderia a tecnologia empregada, justamente pelo valor criado em um contexto social, inviabilizar a evolução de outras tecnologias? 
+
+
+
+### Apanhado 
+
+
 
 Que a tecnologia empregada altera o meio, estamos cientes tanto por conta da história da tecnologia mas também porque agora vivenciamos, em tempo real, muita coisa mudar bem rápido. 
 
@@ -162,13 +153,95 @@ Esses exemplos da história da tecnologia nos mostram  tecnologias inovadoras qu
 
 [^footnote_destruicao_criadora]: O conceito de destruição criadora, introduzido por Joseph Schumpeter em seu livro Capitalism, Socialism and Democracy (1942), refere-se ao processo contínuo de inovação no capitalismo, onde novas ideias e tecnologias substituem as antigas, impulsionando o progresso econômico, mas também causando disrupções em setores estabelecidos.
 
+
+
+
+
+
+
+
+### Influencia  
+
+
+O interesse de Peter Drucker, sobre o uso da tecnologia no contexto, como a manipulamos, é um ponto de partida para uma reflexão sobre como a tecnologia influencia a tecnologia, ou concordando com ele, como o trabalho influencia o trabalho. 
+
+Uma preocupação: Poderia a tecnologia empregada, justamente pelo valor criado em um contexto social, inviabilizar a evolução de outras tecnologias? 
+
+
+
+
+
+Por conta disso, o uso ou a manipulação, define a experiência comunicativa, que logicamente começa bem intencionada para ajudar as pessoas, praticamente, com o trabalho. Em outras palavras, a própria experiência comunicativa, criada, pela caixa de ferramentas, nos limita a ver fora da caixa. De certa forma, podemos refletir sobre como ela influencia o ambiente, junto com Peter Drucker: 
+
+> *"As ferramentas e técnicas não só influenciarão fortemente qual trabalho pode e será realizado, mas também determinarão como ele será realizado. O trabalho, sua estrutura, organização e conceitos, por sua vez, influenciarão com a mesma força o desenvolvimento de ferramentas e técnicas."* (Drucker, 2012, p.40) 
+
+<!--
+@references 
+* @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
+--> 
+
+
+
+
+
+
+Na vida real isso aparece de várias formas, mais elaboradas como dada por métodos passados pelo mentor para o aprendiz, ou até em pérolas incrustadas na lâmina afiada do chefe que diz coisas como "pare de resmungar a aperte o botão" ou "se chegar atrasado tem que pagar um café". Tudo isso com a intenção de otimizar nosso ambiente colaborativo de trabalho, é lógico. Em outras palavras, por meio da dinâmica de experiências comunicativas no meio social trabalho, ligada a tecnologia, criamos a cultura de trabalho. 
+
+
+
+
+
+
+
+### Sobre viver 
+
+
 O que temos como consequência, é que a tecnologia empregada também molda a realidade. Em outras palavras, ela cristaliza, como se fosse material, por conta de criar valor pelo uso, e por conta da disseminação do seu uso. Isso nos leva inevitavelmente a reconhecer que a cola que une as pessoas e as tecnologias - as experiências comunicativas. Essa cristalização  é em grande parte impulsionada quando dependemos dela para sobreviver. Esse impulsionamento ocorre claramente por conta da necessidade de trabalho, por um lado. Por outro, também temos mais tecnologias empregadas no meio de dinâmicas sociais no contexto de interações sociais do cotidiano, como lazer, aprendizado, saúde, etc. 
 
 As implicações disso tudo extrapolam o domínio bem intencionado pela própria premissa que tecnologia é trabalho ou que a tecnologia ideal deveria ser aquele trabalho já resolvido. Em outras palavras, também nos prendem em interações do meio social e cultural com atividades que aparentemente são importantes. Ou, em outras palavras, mesmo que a tecnologia ideal daquela pá ideal seria o buraco pronto, não estamos tão capacitados no dia a dia a saber o que é o que queremos, nos confundindo em um ambiente que diz que o trabalho é importante, não exatamente o trabalho resolvido mas o trabalho aparente ou imediato na frente. Esse fenômeno também tem relação com nossa busca por resultados imediatos. O paradoxo se critaliza na nossa frente - buscamos o resultado aparente mais rápido como quem se envolve, e se encanta, com a equação que diz “Ah, se a pá me leva ao trabalho de resolver o buraco” me dê a pá que quero cavar o mais rápido - sem mesmo nos preocupar se o buraco era mais em baixo, ou mesmo se o buraco era necessário. Não somos burros, é lógico, Essa lógica está atrelada a nossa inteligência ligada ao contexto de sobrevivência que, no ambiente de pressão, nos dá carta branca para fazer o que tem que ser feito - mesmo em condições onde não gostamos. Eu não trabalho com isso porque é a melhor coisa do mundo, ou porque eu amo, ou porque é realmente bom para a sociedade. Eu trabalho com isso, aceito essa dinâmica, por conta que isso é sobre viver, é viver no meio social, e por conta que isso me paga, para o leite para as crianças por exemplo. 
 
-Esse fenômeno que caracteriza nosso envolvimento com tecnologias e experiências comunicativas assoc
 
-Até pouco tempo atrás, estávamos acostumados a procurar sobre assuntos na Web por meio de buscadores, em particular o popular Google. Hoje, muitas das novas pesquisas começam a partir de experiências conversacionais entre humanos e sistemas de inteligência artificial, como o ChatGPT.
+
+
+
+
+
+### Martelando no Insta
+
+A preocupação de Peter Drucker sobre o manuseio no contexto social é vital para a compreensão sobre a situação onde a tecnologia - mesmo que bem intencionada para resolver o trabalho - de fato, por conta das experiências comunicativas criadas em contexto social, tem poder de alterar nosso campo de visão e influenciar nossas decisões. Em outras palavras, ela nos dá, um martelo, o como utilizar o martelo, exemplos de outros utilizando o martelo, e motivações e incentivos (inclusive por vendedores de martelo), e martelos de todos os tipos, tamanhos, e valores, inclusive os que aparentam ser incrivelmente poderosos - como o martelo do Thor. O por quê fazer, como fazer, e o quando fazer está embutido pelas experiências comunicativas associadas a ferramenta. 
+
+Considere as interações sociais que agora apresentam-se como necessárias para sobrevivência (no contexto de convívio, aprendizado e de trabalho), como as interações por meio das redes sociais. Imersos naquele meio, nos inclinamos a achar que temos que agir de certa forma - como outros fazem - para obtermos resultados de sucesso. Envolvidos nesse ambiente, por conta de uma narrativa inicial que diz que é lá que as coisas acontecem, acabamos muitas vezes confusos nesse meio, lutando pela sobrevivência, dia após dia. Isso se explica porque milhares de pessoas criam contas em parte pessoal, em parte profissional, em redes como o Instagram, e martelam todo santo dia com o objetivo de escalar, mas não percebem que de forma síncrona todas elas caminham juntas concorrendo pelas mesmas audiências, assistindo a elas mesmas, aprendendo com elas mesmas, envolvidas em um ciclo de sobrevivência sem sair do lugar - em outras palavras, envolvidas agora em uma muralha. A simples constatação que milhares de usuários ficam martelando todos os dias com herois, como se fossem organismos desprovidos de tecnologias para dominar o meio, reafirma o fenômeno onde o manuseio altera o campo de visão. Em outras palavras, contribui com a cristalização de uma muralha no momento por conta do movimento automático que alimenta a inércia para não alterarmos nossa perspectiva.
+
+
+
+
+
+
+
+
+
+
+### Paradoxo de Wallace 
+
+
+Devemos celebrar um fenômeno pelas próprias redes que definem de certa forma o contexto social que auto alimenta o que parece ser a micro relaidade. Podemos considerar que temos, de certa forma, ilhas de interações sociais, como micro nações com conexões que de forma redundante alimentam suas narrativas. Em outras palavras, em outro local do mundo, uma tribo isolada que mantém suas tradições (não conectada), vê aquele grupo específico não necessariamente uma forma de civilização que com suas técnicas de interconexão podem transcender. Mas percebem de fora que de fato são vítimas de suas criações também. 
+
+Isso nos leva de volta celebrar o que seria o paradoxo de Wallace que é quando a tecnologia agora nos dá trabalho, ou é a pedra no caminho, ou define nossas lentes - veja como quiser: 
+
+> *"A abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora."* (Drucker, 2012, p.39)
+
+
+
+
+
+
+
+
+
+
+### Segregação por tecnologia 
+
+
 
 
 
@@ -179,11 +252,6 @@ Até pouco tempo atrás, estávamos acostumados a procurar sobre assuntos na Web
 * [ , anchor] - @todo - p1 - In "Part 1, Communications" - Consider the #dup reference to the (5 stars) case of the shopping center promotion. @refid-20241217-be8f95de-095e-4a5a-9aa9-84e578ff9972
 --> 
 
-
-A preocupação de Peter Drucker sobre o manuseio no contexto social é vital para a compreensão sobre a situação onde a tecnologia - mesmo que bem intencionada para resolver o trabalho - de fato, por conta das experiências comunicativas criadas em contexto social, tem poder de alterar nosso campo de visão e influenciar nossas decisões. Em outras palavras, ela nos dá, um martelo, o como utilizar o martelo, exemplos de outros utilizando o martelo, e motivações e incentivos (inclusive por vendedores de martelo), e martelos de todos os tipos, tamanhos, e valores, inclusive os que aparentam ser incrivelmente poderosos - como o martelo do Thor. O por quê fazer, como fazer, e o quando fazer está embutido pelas experiências comunicativas associadas a ferramenta. 
-
-Considere as interações sociais que agora apresentam-se como necessárias para sobrevivência (no contexto de convívio, aprendizado e de trabalho), como as interações por meio das redes sociais. Imersos naquele meio, nos inclinamos a achar que temos que agir de certa forma - como outros fazem - para obtermos resultados de sucesso. Envolvidos nesse ambiente, por conta de uma narrativa inicial que diz que é lá que as coisas acontecem, acabamos muitas vezes confusos nesse meio, lutando pela sobrevivência, dia após dia. Isso se explica porque milhares de pessoas criam contas em parte pessoal, em parte profissional, em redes como o Instagram, e martelam todo santo dia com o objetivo de escalar, mas não percebem que de forma síncrona todas elas caminham juntas concorrendo pelas mesmas audiências, assistindo a elas mesmas, aprendendo com elas mesmas, envolvidas em um ciclo de sobrevivência sem sair do lugar - em outras palavras, envolvidas agora em uma muralha. A simples constatação que milhares de usuários ficam martelando todos os dias com herois, como se fossem organismos desprovidos de tecnologias para dominar o meio, reafirma o fenômeno onde o manuseio altera o campo de visão. Em outras palavras, contribui com a cristalização de uma muralha no momento por conta do movimento automático que alimenta a inércia para não alterarmos nossa perspectiva.
-
 É lógico, não podemos concluir que envolvimento em certos meios sociais implica que é impossível que você se destaque naquele meio, ou até que possa escapar daquele meio se isso significar sucesso. O que está em consideração é que o envolvimento com o manuseio de tecnologias no meio social tem o poder de tomar sua atenção, de influenciar o comportamento e consequentemente influenciar seu crescimento pessoal. 
 
 Com isso, podemos considerar como o contexto social do manuseio das tecnologias pode criar uma segregação com base nas atividades. Para exemplificar essa situação em um potencial complicação, considere dois jovens em universos paralelos que têm o mesmo objetivo, escrever melhor. Em um dos universos, existe uma rede social popular que permite a escrita de mensagens curtas. No outro universo, essa tecnologia não existe e o jovem só pode escrever longas cartas, por exemplo, 3 a 6 páginas, inclusive por conta do custo e demora da entrega. Podemos dizer quem irá aprender mais rápido a escrever melhor, não necessariamente, por conta que existem vários fatores, por exemplo, o processo que eles utilizam. Mas, na pequena possibilidade de que o modelo de escrita em papel fosse um caminho mais curto para o crescimento, agora temos um problema para aquele que vive no universo e decidiu a rede social de mensagens. Isso porque o universo social à sua frente cria a ideia de que todos crescem lá, de que lá é o lugar para isso. Mesmo que ele pudesse escrever a carta para uma única pessoa, seria algo que não aparenta ser socialmente adequado. Independente das consequências catastróficas para o aprendizado daquele, ele não queria saber e iria continuar tentando evoluir seu processo lá. O que importa aqui é que podemos refletir sobre a influência das experiências comunicativas definidas pelo ambiente tecnológico, que de fato alteram o nosso crescimento pessoal.
@@ -191,9 +259,6 @@ Com isso, podemos considerar como o contexto social do manuseio das tecnologias 
 
 
 
-### Foco no trabalho 
-
-Essa é a complicação à nossa frente: Por um lado é importante nos conscientizarmos sobre como nos comunicamos, sobre experiências comunicativas ligadas a manuseio das tecnologias que estão associadas ao nosso ambiente social e de mercado de trabalho. Por outro lado, não necessariamente o ambiente nos garante o suporte no sentido de uma outra ferramenta que nos ajuda a observar fora do contexto. Ficamos presos àquela abordagem do contexto, avançamos com o que temos, com o que está ao nosso lado.
 
 
 Considere uma situação que viví depois de fazer uma compra grande em um dos shoppings na cidade de Ribeirão Pedro no final de 2022. A intenção era participar da promoção para concorrer a um carro. Com aquela compra eu tinha direito, na minha visão antiquada, a "vários cupons". Ou seja, poderia participar da promoção com mais chances. Fazia anos que não participava daquele tipo de promoção. Mas lembrava, mais ou menos, sobre como as coisas funcionavam. No passado, a gente trocava os cupons das compras por um tipo de ficha onde bastava preencher o nome e jogar na urna. Neste caso, eu nem pensei que algo tivesse mudado, simplesmente empolgado decidi pegar um Uber e ir para o shopping procurando aquela urna. Eu realmente achei que haveria uma urna lá. Chegando no shopping, encontrei uma experiência bem diferente, talvez híbrida. Primeiro, eu estava feliz, porque pelo menos encontrei toda uma praça dedicada para aquela experiência de interação.
@@ -209,4 +274,13 @@ Mas alguns sinais já estavam lá, sobre como muita coisa mudou, mas não tudo q
 
 Quando perguntei ao jovem onde estava a urna, ele comentou que tudo era para ser feito pelo aplicativo. Se não estivesse afetado emocionalmente por uma sensação difícil de explicar, diria que estava muito decepcionado por ter ido até lá, e, também muito decepcionado por ver que toda aquela área lá justamente para avisar todo mundo que deveria ter deveríamos ter feito tudo de casa. Eu fiquei deslocado. Um impulso automático me levou a perguntar para se seria necessário ter um telefone, um smartphone. E ele disse que sim. Então eu perguntei onde eu poderia comprar. E ele me informou que havia uma loja da Apple próxima. E assim a conversa parecia avançar nessa direção. A reação dele séria me deixou confuso sobre quem estava fazendo a piada com quem. Desconcertado pela situação acabei revelando para ele que eu tinha um celular. Ele não demonstrou nenhum sinal de alegria ou frutração. Disse que era uma piada, nada. E disse também que havia percebido que aquilo tudo era interessante. E ele simplesmente concordou, sério ou fazendo seu trabalho, não sei. Então ali mesmo eu decidi, digamos, seguir as instruções que na verdade não eram instruções porque o dito era para simplesmente baixar o aplicativo de shopping e fazer o cadastro. Quase fui mas um anjo da guarda deve ter dito para eu ficar por alí. Baixei o aplicativo para meu celular smartphone Androide, fiz o cadastro básico com *login* de alguma rede social, encontrei uma canto sobre a promoção, segui as pistas e então encontrei a tela onde eu podia cadastrar as notas fiscais. O processo era simples, de agora em diante bastava tirar foto dos *QR Code* para, digamos assim, validar os cupons. Na sequência, uma mensagem de erro. Meu inconsciente ficou orgulhoso de ter ido lá. Agora sim, feliz, olhei para ele, avisei que não tinha funcionado. Sem risadas nem lágrimas por ambas as partes, agora sim, neste contexto, ele então revelou que poderia me ajudar. Ele tirou o tablet de algum lugar, e fez tudo da tela dele. Eu agradeci e fui, confuso em parte ou triste por não ter colocado minhas fichas na urna de vidro. 
 
+
+
+
+
+
+
+### Conclusão sobre narrativas 
+
+Essa é a complicação à nossa frente: Por um lado é importante nos conscientizarmos sobre como nos comunicamos, sobre experiências comunicativas ligadas a manuseio das tecnologias que estão associadas ao nosso ambiente social e de mercado de trabalho. Por outro lado, não necessariamente o ambiente nos garante o suporte no sentido de uma outra ferramenta que nos ajuda a observar fora do contexto. Ficamos presos àquela abordagem do contexto, avançamos com o que temos, com o que está ao nosso lado.
 
