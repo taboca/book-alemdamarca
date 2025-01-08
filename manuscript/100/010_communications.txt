@@ -96,7 +96,7 @@ E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o pa
 
 
 
-### Manipulação e linguagem 
+### É disseminada  
 
 
 
@@ -112,7 +112,7 @@ O desafio dos designers - a partir da criação bem intencionada - nos leva a co
 * [ Done , anchored ] @todo - p1 - "In Tecnologia" - Consider tecnologia emprega, materializar: Essa visão otimista nos diz que se ela resolve melhor, irá se materializar. @refid-20250108-4f22ffcc-68bc-46e6-903c-abd11465291d
 -->
 
-Neste sentido, quando empregamos a tecnologia no trabalho, ela passa a ser disseminada pela linguagem. O aprendiz aprendeu a fazer o forno com seu mentor, a partir da pura prática. A senhora ainda faz aquela cuca de fermentação natural seguindo a receida da avó. O moinho de trigo automático de Oliver Evans ganhou visibilidade em 1834 depois que escreveu e publicou um guia para o jovem moleiro [^footnote_oliver_guide]. 
+Neste sentido, podemos considerar que quando empregamos a tecnologia no meio, estabelecemos uma disseminação do seu manuseio com base no valor percebido. O aprendiz aprendeu a fazer o forno com seu mentor, a partir da prática, dos conhecimentos passados, do valor percebido por perceber o forno em uso. Enquanto isso, aquela senhora assa uma deliciosa cuca de fermentação natural, seguindo a receita de família que foi passada por sua avó. Isso tudo também por conta que o trigo de qualidade está disponível, por conta anteriormente que Oliver Evans por volta de 1834 já havia publicado aquele guia voltado para o jovem moleiro [^footnote_oliver_guide] que explicava como construir e operar um moinho de trigo automático.  
 
 <!--
 @todo 
@@ -125,6 +125,11 @@ Neste sentido, quando empregamos a tecnologia no trabalho, ela passa a ser disse
 -->
 
 [^footnote_oliver_guide]: O manual, *The Young Mill-Wright and Miller's Guide*, de Oliver Evans, foi uma contribuição essencial para a engenharia de moinhos, oferecendo orientações práticas sobre a construção e operação. Referência completa: EVANS, Oliver. The Young Mill-Wright and Miller's Guide. 5th ed. Philadelphia: Lea & Blanchard, 1834.
+
+
+
+
+### Linguagem 
 
 Mas Oliver Evans também viveu grandes frustrações depois que tantas implementações simplesmente copiaram suas ideias, mesmo que ele detinha várias patentes. Mas Oliver sabia, as duras penas, que a tecnologia era o manual. 
 
