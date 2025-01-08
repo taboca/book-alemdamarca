@@ -41,7 +41,7 @@ Se ela chegasse de frente, fazendo barulho, grande e imponente, soltando fumaça
 
 Agora, 200 anos à frente, alcançamos uma ambiente tecnológico que nem nos assusta. Ou não bate de frente, não faz barulho nem solta fumaça. Hoje ela vem de lado, às vezes de manssinho. Não esqueço aquele dia, quando a minha sobrinha, ainda neném, sacou o dedinho, rápida no gatilho. Acertou bem na mosca, do quadradinho de 16 a 16 pixels. Matou a propaganda do vídeo. Isso sim é novo, essa naturalidade que ela entra. 
 
-Já faz mais de uma década que Marc Andreessen - o renomado investidor do Vale do Silício e co-criador do primeiro navegador da web - disse que "o software está comendo o mundo" [^footnote_marc_software_eating]. Ela vem comendo pelas beiradas. 
+Em 2011, o renomado investidor do Vale do Silício Marc Andreessen disse que "o software está comendo o mundo" [^footnote_marc_software_eating]. Nessa época, o navegador da Web já tinha feito mais de 18 anos. As primeiras redes sociais por volta dos 10 anos. Os smartphones com iPhone e Android ainda eram bebês. Hoje, estamos imersos no ambiente tecnológico social e digital. Então é isso, por todos os lados temos tecnologia, para aprender, trabalhar, para socializar. Ela comeu o mundo, sim, mas além disso, ela come pelas beiradas. 
 
 <!--
 @note-refai @refid-20250107-8a97db78-80ef-4de1-b963-9313bfd7c495
@@ -50,7 +50,9 @@ Já faz mais de uma década que Marc Andreessen - o renomado investidor do Vale 
 
 [^footnote_marc_software_eating]: ANDREESSEN, Marc. Why Software Is Eating the World. The Wall Street Journal, 20 ago. 2011. Tradução nossa: Por que o software está dominando o mundo. Disponível em: https://www.wsj.com/articles/SB10001424053111903480904576512250915629460. Acesso em: 7 jan. 2025.
 
-O problema é que não tem problema, como uma bala dura e doce que desliza pela boca. Às vezes quase engasgamos, tipo quando nos pegamos colocando pilha na calculadora, deixando a tecnologia da matemática no escuro. É difícil perceber, quando é ela cria nossas lentes. Em 1959, Peter Drucker se preocupou sobre a nossa percepção, ou falta de percepção, sobre seu significado influenciado por definições arbitrárias ao longo da história: Por que o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012).
+O problema é que ela não parece ser um problema. Tudo começa por conta dessa naturalidade que nos envolve em um ambiente que diz que "está tudo bem" ou que "é assim que as coisas funcionam". Usamos o que temos, ao lado, como se estivéssemos sobrevivendo em uma selva, tentando usar as ferramentas ao lado de forma mais eficiente, sem assumir que todo o ambiente é uma criação do nosso trabalho. Agora, o nosso ambiente, tecnologicamente digital e social, está no meio de tudo, no meio do comer, do lazer, do trabalho, do socializar, descançar, do sobreviver. Grande parte do problema está ligado a nossa percepção sobre o ambiente tecnologico. Quando é ela que cria as nossas lentes, como podemos perceber? 
+
+Em 1959, Peter Drucker se preocupou sobre a nossa percepção, ou falta de percepção sobre o que é a tecnologia, apontando que grande parte do problema começa com as definições arbitrárias sobre o que é tecnologia. Por quê o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012). Para ele, a história da tecnologia não explicou o que é a tecnologia. 
 
 <!--
 @references 
@@ -62,7 +64,7 @@ O problema é que não tem problema, como uma bala dura e doce que desliza pela 
 * [ , anchored ] @todo - p1 - In "Tecnologia" - Add a the Wallace saying. @refid-20250107-cc7f7051-1551-4dfd-8aed-3490cf4575c2
 -->
 
-Drucker percebeu que a história da tecnologia não poderia explicar a tecnlogia. Ele encontrou uma melhor resposta com o co-criador da teoria da evolução, Alfred Russel Wallace, que trouxe uma observação que diz que "o homem, de todos os animais, é o único capaz de evoluir por decisão própria, de modo não orgânico; ele constrói ferramentas." Ele chamou de insight de Wallace:
+Ele encontrou uma melhor resposta com o co-criador da teoria da evolução, Alfred Russel Wallace, que disse que "o homem, de todos os animais, é o único capaz de evoluir por decisão própria, de modo não orgânico; ele constrói ferramentas." Para ele, esse foi o *insight de Wallace*:
 
 > *"A abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora."* (Drucker, 2012, p.39)
 
@@ -84,7 +86,19 @@ Essa perspectiva, nos leva também a considerar os desafios no contexto da cria�
 
 Com relação a criação, considere a narrativa de um designer que trabalhava para a organização Mozilla (os criadores do navegador Firefox). O vídeo era sobre como criar a interface do futuro. Para simplificar, ele começou com a pergunta “Qual seria a pá perfeita?” Falou que a pá tinha o cabo, o pegador e a lâmina. Algumas com cabos longos e outras de cabo curto. Falou sobre o pegador tipo D ou o tipo T. Sobre a lâmina, falou que algumas tem até diamantes incrustados. Ele concluiu dizendo que a pá perfeita era o buraco pronto. 
 
-A visão do designer reconhece que o papel da tecnologia, no fundo, não é estar no nosso caminho. Em outras palavras, a tecnologia não pode ser a pedra no caminho. Espera que ela seja criada só para ser utilizada para resolver nossas necessidades, no meio social. Essa visão otimista nos diz que se ela resolve melhor, irá se materializar. 
+A visão do designer reconhece que o papel da tecnologia, no fundo, não é estar no nosso caminho. Em outras palavras, a tecnologia não pode ser a pedra no caminho. Espera que ela seja criada só para ser utilizada para resolver nossas necessidades, no meio social. 
+
+Essa visão otimista nos diz que se ela resolve melhor, irá se materializar. 
+
+
+
+
+
+
+
+### Manipulação e linguagem 
+
+
 
 <!--
 @todo 
