@@ -105,7 +105,7 @@ E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o pa
 * [ , anchored ] @todo - p1 - In “Tecnologia” - Consider to add a bit from Peter about manipulation. @refid-20250107-25dae8db-dbe1-4c94-92a0-a478f823c651
 -->
 
-O desafio dos designers - a partir da criação bem intencionada - nos convida para refletir sobre o emprego da tecnologia no meio social. Se ela entra e fica é porque a percebemos como necessária para fazer aquele certo trabalho com menos trabalho. 
+O desafio dos designers - a partir da criação bem intencionada - nos leva a considerar a questão do emprego da tecnologia no meio social. Acreditamos que se ela entra e fica é porque a percebemos como necessária para fazer aquele certo trabalho com menos trabalho. 
 
 <!--
 @todo
