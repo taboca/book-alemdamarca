@@ -8,6 +8,8 @@
 
 @todo 
 
+* [ , anchored] - @todo - p1 - In "Comunicação, Tecnologia" - Consider if it is needed to bring the fact that Oliver Evans went through a great deal of frustration with patents, learned the hard way that technology was the manual. @refid-20250109-bee7d635-f286-4e12-844a-951b095d39ce
+
 * [ , anchored ] @todo - p1 - In "Tecnologia" - Add a the Wallace saying. @refid-20250107-cc7f7051-1551-4dfd-8aed-3490cf4575c2
 
 * [ , anchored ] @todo - p1 - In “Tecnologia” - Consider to add a bit from Peter about manipulation. @refid-20250107-25dae8db-dbe1-4c94-92a0-a478f823c651
@@ -105,8 +107,6 @@ E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o pa
 
 ### É disseminada  
 
-
-
 <!--
 @todo 
 * [ , anchored ] @todo - p1 - In “Tecnologia” - Consider to add a bit from Peter about manipulation. @refid-20250107-25dae8db-dbe1-4c94-92a0-a478f823c651
@@ -134,45 +134,13 @@ Neste sentido, podemos considerar que quando empregamos a tecnologia no meio, es
 [^footnote_oliver_guide]: O manual, *The Young Mill-Wright and Miller's Guide*, de Oliver Evans, foi uma contribuição essencial para a engenharia de moinhos, oferecendo orientações práticas sobre a construção e operação. Referência completa: EVANS, Oliver. The Young Mill-Wright and Miller's Guide. 5th ed. Philadelphia: Lea & Blanchard, 1834.
 
 
-### Manual 
-
-Mas Oliver Evans também viveu grandes frustrações depois que tantas implementações simplesmente copiaram suas ideias, mesmo que ele detinha várias patentes. Mas Oliver sabia, as duras penas, que a tecnologia era o manual. 
-
-
+<!--
+* [ , anchored] - @todo - p1 - In "Comunicação, Tecnologia" - Consider if it is needed to bring the fact that Oliver Evans went through a great deal of frustration with patents, learned the hard way that technology was the manual. @refid-20250109-bee7d635-f286-4e12-844a-951b095d39ce
+-->
 
 
 
-
-
-
-
-### Apanhado 
-
-
-
-Que a tecnologia empregada altera o meio, estamos cientes tanto por conta da história da tecnologia mas também porque agora vivenciamos, em tempo real, muita coisa mudar bem rápido. 
-
-Revisitando a história da tecnologia, considere a evolução do motor a vapor entre final dos 1600 até 1800, começando de forma experimental, encontrando valor no contexto de bombear água, máquinas estacionárias (eventualmente sistemas complexos como os moinhos), eventualmente impulsionando embarcações (permitindo viagens contra a maré), eventualmente evoluindo-se como o motor a vapor de alta pressão permitindo a invenção das grandes locomotivas, que por sua vez alteraram as dinâmicas sociais e de mercado entre diferentes regiões, simultaneamente aumentando a demanda por mais transporte, mais velocidade, mais eficiência e consequentemente outras formas de transporte - não só de materiais físicos mas também de informação - entre regiões. 
-
-Em outro contexto, observaremos que o avanço dos sistemas de geração e distribuição de energia elétrica ocorreram em um período bem menor - cerca de duas décadas no final de 1800s - começando para distribuir energia para a lâmpada de Thomas Edison a partir de 1879, e rapidamente servindo para impulsionar motores elétricos, que por sua vez impulsionaram o crescimento de indústrias nas áreas de distribuição de energia, como nas grandes cidades. 
-
-Esses exemplos da história da tecnologia nos mostram  tecnologias inovadoras que foram empregadas no contexto social que destruíram criativamente [^footnote_destruicao_criadora] outras dinâmicas de trabalho anteriores. 
-
-[^footnote_destruicao_criadora]: O conceito de destruição criadora, introduzido por Joseph Schumpeter em seu livro Capitalism, Socialism and Democracy (1942), refere-se ao processo contínuo de inovação no capitalismo, onde novas ideias e tecnologias substituem as antigas, impulsionando o progresso econômico, mas também causando disrupções em setores estabelecidos.
-
-
-
-
-
-
-
-
-### Influencia  
-
-
-O interesse de Peter Drucker, sobre o uso da tecnologia no contexto, como a manipulamos, é um ponto de partida para uma reflexão sobre como a tecnologia influencia a tecnologia, ou concordando com ele, como o trabalho influencia o trabalho. 
-
-Uma preocupação: Poderia a tecnologia empregada, justamente pelo valor criado em um contexto social, inviabilizar a evolução de outras tecnologias? 
+O interesse de Peter Drucker, sobre o uso da tecnologia no contexto, como a manipulamos, é um ponto de partida para uma reflexão sobre como a tecnologia influencia a tecnologia, ou concordando com ele, como o trabalho influencia o trabalho. Uma preocupação: Poderia a tecnologia empregada, justamente pelo valor criado em um contexto social, inviabilizar a evolução de outras tecnologias? Ou, em outras palavras, o trabalho influenciar o trabalho? 
 
 
 
@@ -190,11 +158,9 @@ Por conta disso, o uso ou a manipulação, define a experiência comunicativa, q
 
 
 
+Na vida real isso aparece de várias formas, mais elaboradas como dada por métodos passados pelo mentor para o aprendiz, ou até em pérolas incrustadas na lâmina afiada do chefe que diz coisas como "pare de resmungar a aperte o botão" ou "se chegar atrasado tem que pagar um café". Tudo isso com a intenção de otimizar nosso ambiente colaborativo de trabalho, é lógico. 
 
-
-Na vida real isso aparece de várias formas, mais elaboradas como dada por métodos passados pelo mentor para o aprendiz, ou até em pérolas incrustadas na lâmina afiada do chefe que diz coisas como "pare de resmungar a aperte o botão" ou "se chegar atrasado tem que pagar um café". Tudo isso com a intenção de otimizar nosso ambiente colaborativo de trabalho, é lógico. Em outras palavras, por meio da dinâmica de experiências comunicativas no meio social trabalho, ligada a tecnologia, criamos a cultura de trabalho. 
-
-
+Em outras palavras, por meio da dinâmica de experiências comunicativas no meio social trabalho, ligada a tecnologia, criamos a cultura de trabalho. 
 
 
 
@@ -208,17 +174,12 @@ De certa forma, nosso desafio que envolve sair da zona de sobrevivência e obser
 
 
 
-
-### Martelando no Insta
+### Martelando quadros na rede 
 
 Vamos considerar como as experiências comunicativas no contexto social ligadas ao manuseio influenciam nosso campo de visão, assim como nossas decisões. O problema não é o martelo - aquele que está lá no cantinho. E o problema também não são os exemplos, de pessoas utilizando o martelo, que nos mostram o valor. Isso porque sempre foi assim -  aprendemos com exemplos práticos, olhando para os outros que pregaram quadros com o martelo, que montaram uma exposição. O que mudou, agora, é que podemos acessar muito mais exemplos, instantanemente por exemplo por meio de redes sociais que inclusive agora nos produzem vídeos muito bem elaborados. Elas nos dão exemplo sobre a ferramenta sendo empregada e isso nos diz sobre o potencial da ferramenta, de certa forma é como se nos desse a prova. Com isso, elas alimentam nossas percepções. Nós percebemos o martelo como sendo superpoderoso, como o martelo de um super herói. O problema é que por meio dessas experiências comunicativas, capturamos mais percepções mais rápido, muita mais sobre por que fazer, como fazer e quando fazer.
 
 
 Considere as interações sociais que agora apresentam-se como necessárias para sobrevivência (no contexto de convívio, aprendizado e de trabalho), como as interações por meio das redes sociais. Imersos naquele meio, nos inclinamos a achar que temos que agir de certa forma - como outros fazem - para obtermos resultados de sucesso. Envolvidos nesse ambiente, por conta de uma narrativa inicial que diz que é lá que as coisas acontecem, acabamos muitas vezes confusos nesse meio, lutando pela sobrevivência, dia após dia. Isso se explica porque milhares de pessoas criam contas em parte pessoal, em parte profissional, em redes como o Instagram, e martelam todo santo dia com o objetivo de escalar, mas não percebem que de forma síncrona todas elas caminham juntas concorrendo pelas mesmas audiências, assistindo a elas mesmas, aprendendo com elas mesmas, envolvidas em um ciclo de sobrevivência sem sair do lugar - em outras palavras, envolvidas agora em uma muralha. A simples constatação que milhares de usuários ficam martelando todos os dias com herois, como se fossem organismos desprovidos de tecnologias para dominar o meio, reafirma o fenômeno onde o manuseio altera o campo de visão. Em outras palavras, contribui com a cristalização de uma muralha no momento por conta do movimento automático que alimenta a inércia para não alterarmos nossa perspectiva.
-
-
-
-
 
 
 
@@ -276,13 +237,6 @@ Mas alguns sinais já estavam lá, sobre como muita coisa mudou, mas não tudo q
 
 Quando perguntei ao jovem onde estava a urna, ele comentou que tudo era para ser feito pelo aplicativo. Se não estivesse afetado emocionalmente por uma sensação difícil de explicar, diria que estava muito decepcionado por ter ido até lá, e, também muito decepcionado por ver que toda aquela área lá justamente para avisar todo mundo que deveria ter deveríamos ter feito tudo de casa. Eu fiquei deslocado. Um impulso automático me levou a perguntar para se seria necessário ter um telefone, um smartphone. E ele disse que sim. Então eu perguntei onde eu poderia comprar. E ele me informou que havia uma loja da Apple próxima. E assim a conversa parecia avançar nessa direção. A reação dele séria me deixou confuso sobre quem estava fazendo a piada com quem. Desconcertado pela situação acabei revelando para ele que eu tinha um celular. Ele não demonstrou nenhum sinal de alegria ou frutração. Disse que era uma piada, nada. E disse também que havia percebido que aquilo tudo era interessante. E ele simplesmente concordou, sério ou fazendo seu trabalho, não sei. Então ali mesmo eu decidi, digamos, seguir as instruções que na verdade não eram instruções porque o dito era para simplesmente baixar o aplicativo de shopping e fazer o cadastro. Quase fui mas um anjo da guarda deve ter dito para eu ficar por alí. Baixei o aplicativo para meu celular smartphone Androide, fiz o cadastro básico com *login* de alguma rede social, encontrei uma canto sobre a promoção, segui as pistas e então encontrei a tela onde eu podia cadastrar as notas fiscais. O processo era simples, de agora em diante bastava tirar foto dos *QR Code* para, digamos assim, validar os cupons. Na sequência, uma mensagem de erro. Meu inconsciente ficou orgulhoso de ter ido lá. Agora sim, feliz, olhei para ele, avisei que não tinha funcionado. Sem risadas nem lágrimas por ambas as partes, agora sim, neste contexto, ele então revelou que poderia me ajudar. Ele tirou o tablet de algum lugar, e fez tudo da tela dele. Eu agradeci e fui, confuso em parte ou triste por não ter colocado minhas fichas na urna de vidro. 
 
-
-
-
-
-
-
-### Conclusão sobre narrativas 
 
 Essa é a complicação à nossa frente: Por um lado é importante nos conscientizarmos sobre como nos comunicamos, sobre experiências comunicativas ligadas a manuseio das tecnologias que estão associadas ao nosso ambiente social e de mercado de trabalho. Por outro lado, não necessariamente o ambiente nos garante o suporte no sentido de uma outra ferramenta que nos ajuda a observar fora do contexto. Ficamos presos àquela abordagem do contexto, avançamos com o que temos, com o que está ao nosso lado.
 
