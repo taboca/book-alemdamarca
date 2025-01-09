@@ -1,4 +1,4 @@
-## "5 estrelas" se for rápido
+# "5 estrelas" se for rápido
 
 <!--
 @todo 
