@@ -10,9 +10,7 @@
 -->
 
 
-
 <!--
-
 
 ### Respeitar o ser 
 
@@ -21,9 +19,12 @@
 
 -->
 
+<!--
+@note-refai  @refid-20250110-26e01163-bfff-478d-8869-dfd843c78dff
+* @note #refai - In the following phrase, "Ao longo da minha trajetória com a escrita, um livro que fez uma grande diferença foi Becoming a Writer (em tradução livre, Tornando-se um Escritor), um clássico da renomada autora Dorothea Brande." I have used ChatGPT to suggest an ABNT2 translation to the title of Dorothea's book.  https://chatgpt.com/share/67814250-45d8-8011-baae-b8cc27413232 @commit
+-->
 
-
-Um livro que fez grande diferença na minha vida como escritor foi Becoming a Writer (BRANDE, 1934) - um clássico da renomada autora Dorothea Brande. Logo no início, ela disse que o volume não era destinado a substituir os livros sobre a técnica. E acrescentou que "este livro não é nem mesmo um volume complementar a tais obras; é preliminar a elas" (tradução nossa) (Brande, 1934-2019, p. 17-18).
+Ao longo da minha trajetória com a escrita, um livro que fez uma grande diferença foi *Becoming a Writer* (em tradução livre, Tornando-se um Escritor), um clássico da renomada autora Dorothea Brande. Logo no início, ela disse que o volume não era destinado a substituir os livros sobre a técnica. E acrescentou que "este livro não é nem mesmo um volume complementar a tais obras; é preliminar a elas" (tradução nossa) (Brande, 1934-2019, p. 17-18).
 
 <!--
 @todo 
