@@ -85,11 +85,13 @@ Em 1959, Peter Drucker se preocupou sobre essa percepção, ou falta de percepç
 ### É trabalho
 
 
-Essa perspectiva, que diz que a tecnologia é o trabalho, se alinha com o pensamento dos designers envolvidos na criação de ferramentas, produtos e processos. Um renomado designer, que trabalhou para a organização Mozilla (os criadores do navegador Firefox), explicou o pensamento que leva a construção da ferramenta perfeita. Para simplificar, ele começou com a pergunta “Qual seria a pá perfeita?” Primeiro descreveu os principais componentes da pá: o cabo, o pegador na parte de cima, a lâmina na parte de baixo. E falou sobre as diversas tipos de pás: Algumas de cabos longos e outras de cabo curto. Sobre os pegadores, falou que existem pegadores em formato "D" e outros do tipo "T". Já sobre a lâmina, falou que algumas trazem diamantes incrustados. 
+Essa perspectiva, que diz que a tecnologia é o trabalho, se alinha com o pensamento dos designers envolvidos na criação de ferramentas, produtos e processos. Um renomado designer, que trabalhou para a organização Mozilla (os criadores do navegador Firefox), explicou o pensamento que leva a construção da ferramenta perfeita.
 
-E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o papel da tecnologia, no fundo, não é estar no nosso caminho. 
+Para simplificar, ele começou com a pergunta “Qual seria a pá perfeita?” Primeiro descreveu os principais componentes da pá: o cabo, o pegador na parte de cima, a lâmina na parte de baixo. E falou sobre as diversas tipos de pás: Algumas de cabos longos e outras de cabo curto. Sobre os pegadores, falou que existem pegadores em formato "D" e outros do tipo "T". Já sobre a lâmina, falou que algumas trazem diamantes incrustados. 
 
-Muita coisa sobre isso sabemos, por exemplo que ela não pode ser a pedra no nosso caminho. Mas ainda assim, não é fáci percebê-la - na forma mais sutil, como o simples trabalho. Não quando ela parece ser cristalizada, como a pedra que um dia nos ajudou para fazer lanças. Ou naquele computador utilizado por Mark Zuckerberg para lançar a rede social TheFacebook [^footnote_mark_facebook].
+E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o papel da tecnologia, no fundo, não é estar no nosso caminho. Muita coisa sobre isso sabemos, por exemplo que ela não pode ser a pedra no nosso caminho. Mas também por esse mesmo mérito, sabemos que quando ela fica no nosso caminho é porque a escolhemos, que de certa forma ela venceu, se mostrou como válida por conta de fazer um trabalho melhor do que era feito antes. 
+
+É nessa hora que as coisas começam a ficar confusas, no sentido de concretas, ou materiais, como aquela pedra que um dia utilizamos para fazer lanças. Ou aquele computador utilizado por Mark Zuckerberg para lançar a rede social TheFacebook [^footnote_mark_facebook]. 
 
 <!--
 * @note-refai @refid-20250109-786a7d90-dab8-4073-97de-1b1ef80a9798 @note #refai - Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/678015e6-adb8-8011-ba17-3a25e32f45d4 @file:9028078/010_communications.txt 
