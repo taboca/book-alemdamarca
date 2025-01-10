@@ -8,8 +8,6 @@
 
 @todo 
 
-* [ , anchored] - @todo - p1 - In "Comunicação, Tecnologia" - Consider if it is needed to bring the fact that Oliver Evans went through a great deal of frustration with patents, learned the hard way that technology was the manual. @refid-20250109-bee7d635-f286-4e12-844a-951b095d39ce
-
 * [ , anchored ] @todo - p1 - In "Tecnologia" - Add a the Wallace saying. @refid-20250107-cc7f7051-1551-4dfd-8aed-3490cf4575c2
 
 * [ , anchored ] @todo - p1 - In “Tecnologia” - Consider to add a bit from Peter about manipulation. @refid-20250107-25dae8db-dbe1-4c94-92a0-a478f823c651
@@ -21,6 +19,8 @@
 * [ , anchor] - @todo - p1 - In "Part 1, Communications" - Consider the #dup reference to the (5 stars) case of the shopping center promotion. @refid-20241217-be8f95de-095e-4a5a-9aa9-84e578ff9972
 
 @done 
+
+* [ dismissed, anchored] - @todo - p1 - In "Comunicação, Tecnologia" - Consider if it is needed to bring the fact that Oliver Evans went through a great deal of frustration with patents, learned the hard way that technology was the manual. @refid-20250109-bee7d635-f286-4e12-844a-951b095d39ce
 
 * [ Done, anchored ] @todo - p1 - In "Tecnologia" - Add a reference to the page for the Drucker's block quote. @refid-20250107-fbc2ffe7-9e7a-480c-b593-3e6dee2b5e3a
 
@@ -130,13 +130,6 @@ Isto nos leva a reconhecer que, no momento em que a empregamos no meio, estabele
 -->
 
 [^footnote_oliver_guide]: O manual, *The Young Mill-Wright and Miller's Guide*, de Oliver Evans, foi uma contribuição essencial para a engenharia de moinhos, oferecendo orientações práticas sobre a construção e operação. Referência completa: EVANS, Oliver. The Young Mill-Wright and Miller's Guide. 5th ed. Philadelphia: Lea & Blanchard, 1834.
-
-
-<!--
-* [ , anchored] - @todo - p1 - In "Comunicação, Tecnologia" - Consider if it is needed to bring the fact that Oliver Evans went through a great deal of frustration with patents, learned the hard way that technology was the manual. @refid-20250109-bee7d635-f286-4e12-844a-951b095d39ce
--->
-
-
 
 O interesse de Peter Drucker, sobre o uso da tecnologia no contexto, como a manipulamos, é um ponto de partida para uma reflexão sobre como a tecnologia influencia a tecnologia, ou concordando com ele, como o trabalho influencia o trabalho. Uma preocupação: Poderia a tecnologia empregada, justamente pelo valor criado em um contexto social, inviabilizar a evolução de outras tecnologias? Ou, em outras palavras, o trabalho influenciar o trabalho? 
 
