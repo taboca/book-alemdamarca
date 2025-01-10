@@ -8,6 +8,8 @@
 
 @todo 
 
+* @todo-index @todo - p1 - "In Comunicação, Tecnologia" - Replace "Essa perspectiva ... melhor tecnologia."  with "Essa perspectiva, que sugere que a tecnologia é simplesmente o trabalho, se alinha com o pensamento de designers envolvidos na criação de ferramentas, produtos e processos.".
+
 * [ , anchored ] @todo - p1 - In “Tecnologia” - Consider to add a bit from Peter about manipulation. @refid-20250107-25dae8db-dbe1-4c94-92a0-a478f823c651
 
 * [ , ] @todo - p1 - In "Part 1, communications - #dup? - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB
@@ -78,17 +80,18 @@ Em 1959, Peter Drucker se preocupou sobre essa percepção, ou falta de percepç
 
 ### É trabalho
 
-Essa visão faz a tecnologia se aproximar do trabalho. Sim, às vezes ela parece com a pedra que usamos para produzir lanças com os galhos das árvores. Em outros momentos, parece com aquele computador que foi utilizado por Mark Zuckerberg para lançar a rede social intitulada TheFacebook [^footnote_mark_facebook]. Mas não é fácil percebê-la nessa forma sutil, por exemplo quando passamos uma instrução para o nosso colega de trabalho. Como será nossa percepção sobre a tecnologia quando no futuro estivermos instruindo um humanóide sobre como limpar os pratos da pia? 
+
+Essa perspectiva, que diz que a tecnologia é o trabalho, se alinha com o pensamento dos designers envolvidos na criação de ferramentas, produtos e processos. Um renomado designer, que trabalhou para a organização Mozilla (os criadores do navegador Firefox), explicou o pensamento que leva a construção da ferramenta perfeita. Para simplificar, ele começou com a pergunta “Qual seria a pá perfeita?” Primeiro descreveu os principais componentes da pá: o cabo, o pegador na parte de cima, a lâmina na parte de baixo. E falou sobre as diversas tipos de pás: Algumas de cabos longos e outras de cabo curto. Sobre os pegadores, falou que existem pegadores em formato "D" e outros do tipo "T". Já sobre a lâmina, falou que algumas trazem diamantes incrustados. 
+
+E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o papel da tecnologia, no fundo, não é estar no nosso caminho. 
+
+Muita coisa sobre isso sabemos, por exemplo que ela não pode ser a pedra no nosso caminho. Mas ainda assim, não é fáci percebê-la - na forma mais sutil, como o simples trabalho. Não quando ela parece ser cristalizada, como a pedra que um dia nos ajudou para fazer lanças. Ou naquele computador utilizado por Mark Zuckerberg para lançar a rede social TheFacebook [^footnote_mark_facebook].
 
 <!--
 * @note-refai @refid-20250109-786a7d90-dab8-4073-97de-1b1ef80a9798 @note #refai - Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/678015e6-adb8-8011-ba17-3a25e32f45d4 @file:9028078/010_communications.txt 
 -->
 
 [^footnote_mark_facebook]: Informações sobre a criação do Facebook disponíveis em: https://en.wikipedia.org/wiki/History_of_Facebook. Acesso em 9 de janeiro de 2025. 
-
-Essa perspectiva também se alinha com a visão dos designers sobre o que é a melhor tecnologia. Considere a explicação que encontrei em um vídeo de um renomado designer que trabalhava para a organização Mozilla, os criadores do navegador Firefox. O tema era sobre a ferramenta do futuro. Para simplificar, ele começou com a pergunta “Qual seria a pá perfeita?” Primeiro descreveu os principais componentes da pá: o cabo, o pegador na parte de cima, a lâmina na parte de baixo. E falou sobre as diversas tipos de pás: Algumas de cabos longos e outras de cabo curto. Sobre os pegadores, falou que existem pegadores em formato "D" e outros do tipo "T". Já sobre a lâmina, falou que algumas trazem diamantes incrustados. 
-
-E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o papel da tecnologia, no fundo, não é estar no nosso caminho. Esse ponto de partida, otimista e bem intencionado, se alinha com o que sabemos, que ela não pode ser a pedra no caminho. Mas se não é, nos posiciona para avaliá-las, para escolher, com base na utilização ou na performance, com relação ao trabalho esperado. 
 
 
 
@@ -105,14 +108,10 @@ E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o pa
 * [ , anchored ] @todo - p1 - In “Tecnologia” - Consider to add a bit from Peter about manipulation. @refid-20250107-25dae8db-dbe1-4c94-92a0-a478f823c651
 -->
 
-O desafio dos designers - a partir da criação bem intencionada - nos leva a considerar a questão do emprego da tecnologia no meio social. Acreditamos que se ela entra e fica é porque a percebemos como necessária para fazer aquele certo trabalho com menos trabalho. 
+Nosso problema com ela está do outro lado da moeda: Ela ganha seu espaço, no exato momento que ela resolve - não o trabalho completo exatamente - em parte o trabalho, quando ela faz melhor do que outra ferramenta equivalente. Em outras palavras, no momento que ela é empregada ela se materializa, no físico ou no digital, não importa. Essa materialização é intensificada pelo manuseio no contexto social, pela disseminação.
 
-<!--
-@todo
-* [ Done , anchored ] @todo - p1 - "In Tecnologia" - Consider tecnologia emprega, materializar: Essa visão otimista nos diz que se ela resolve melhor, irá se materializar. @refid-20250108-4f22ffcc-68bc-46e6-903c-abd11465291d
--->
 
-Isto nos leva a reconhecer que, no momento em que a empregamos no meio, estabelecemos a sua disseminação por conta do manuseio que estabelece o valor percebido. O aprendiz começou a fazer fornos com o seu avô pela prática e conhecimentos que foram passados. Ao mesmo tempo, uma senhora passou a assar deliciosas cucas de fermentação natural, seguindo a receita que foi passada por sua avó. Ao mesmo tempo, ela fez isso porque encontrou facilmente trigo no mercado da cidade de boa qualidade que, indiretamente, chegou a ela por conta que Oliver Evans, em 1834, havia publicado um guia para o jovem moleiro [^footnote_oliver_guide] sobre como construir e operar um moinho de trigo automático.
+O aprendiz começou a fazer fornos com o seu avô pela prática e conhecimentos que foram passados. Ao mesmo tempo, uma senhora passou a assar deliciosas cucas de fermentação natural, seguindo a receita que foi passada por sua avó. Ao mesmo tempo, ela fez isso porque encontrou facilmente trigo no mercado da cidade de boa qualidade que, indiretamente, chegou a ela por conta que Oliver Evans, em 1834, havia publicado um guia para o jovem moleiro [^footnote_oliver_guide] sobre como construir e operar um moinho de trigo automático.
 
 <!--
 @todo 
@@ -124,6 +123,14 @@ Isto nos leva a reconhecer que, no momento em que a empregamos no meio, estabele
 -->
 
 [^footnote_oliver_guide]: O manual, *The Young Mill-Wright and Miller's Guide*, de Oliver Evans, foi uma contribuição essencial para a engenharia de moinhos, oferecendo orientações práticas sobre a construção e operação. Referência completa: EVANS, Oliver. The Young Mill-Wright and Miller's Guide. 5th ed. Philadelphia: Lea & Blanchard, 1834.
+
+
+Então, assim ela é disseminada - pelo processo para criação do forno, pelas receitas de família, pelo trigo preparado que se diz meio caminho andado, pelo  moinho e com certeza naquele manual que explicava como criar e operar o moinho.
+
+<!--
+@todo-index @todo - p1 - In "Comunicação, Tecnologia" - After "moinho de trigo automático." insert the above.
+-->
+
 
 O interesse de Peter Drucker, sobre o uso da tecnologia no contexto, como a manipulamos, é um ponto de partida para uma reflexão sobre como a tecnologia influencia a tecnologia, ou concordando com ele, como o trabalho influencia o trabalho. Uma preocupação: Poderia a tecnologia empregada, justamente pelo valor criado em um contexto social, inviabilizar a evolução de outras tecnologias? Ou, em outras palavras, o trabalho influenciar o trabalho? 
 
