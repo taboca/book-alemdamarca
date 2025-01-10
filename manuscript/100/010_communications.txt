@@ -12,13 +12,13 @@
 
 * [ , ] @todo - p1 - In "Part 1, communications - #dup? - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB
 
-* [ , anchor] - @todo - p1 - In "Part 1, Communications" - Complete the story, here or at another article, of the shopping situatin. @refid-20241217-e9d92d8f-e601-4967-b8f7-a6463a44e69c
-
 * [ , anchor] - @todo - p1 - In "Part 1, Communications" - Consider the #dup reference to the (5 stars) case of the shopping center promotion. @refid-20241217-be8f95de-095e-4a5a-9aa9-84e578ff9972
 
 @done 
 
-* [ done, anchored ] @todo - p1 - In "Tecnologia" - Add a the Wallace saying. @refid-20250107-cc7f7051-1551-4dfd-8aed-3490cf4575c2
+* [ done, anchor] - @todo - p1 - In "Part 1, Communications" - Complete the story, here or at another article, of the shopping situatin. @refid-20241217-e9d92d8f-e601-4967-b8f7-a6463a44e69c
+
+* [ done, anchored ] @todo - p1 - In "Tecnologia" - Add a the Wallace saying. @refid-20250107-cc7f7051-1551-4dfd-8aed-3490cf4575c2 @ref-commit:650976d
 
 * [ dismissed, anchored] - @todo - p1 - In "Comunicação, Tecnologia" - Consider if it is needed to bring the fact that Oliver Evans went through a great deal of frustration with patents, learned the hard way that technology was the manual. @refid-20250109-bee7d635-f286-4e12-844a-951b095d39ce @ref-commit:e0e9184
 
@@ -56,12 +56,7 @@ Sobre isso, precismos refletir. Sobre um envolvimento que nos encanta, ou um env
 
 Devemos nos preocupar? A versão adulta desse fenômeno começa com essa naturalidade que diz que "está tudo bem em utilizar a tecnologia para sobrevivermos nesse ambiente. Quando a tecnologia está por todo lado - no físico e digital, no contexto de trabalho ou social - ela define o meio, como uma selva moderna onde ficamos orgulhosos porque sabemos das coisas, o que caçar, como fazer as coisas, como sobreviver. Selva tecnológica ou selva digital. Grande parte do problema está ligado a nossa percepção sobre o ambiente tecnologico, por conta que é ela que cria as nossas lentes. Como podemos perceber a tecnologia a partir do campo de visão criado por ela? 
 
-<!--
-@todo 
-* [ done, anchored ] @todo - p1 - In "Tecnologia" - Add a the Wallace saying. @refid-20250107-cc7f7051-1551-4dfd-8aed-3490cf4575c2
--->
-
-Em 1959, Peter Drucker se preocupou sobre essa percepção, ou falta de percepção, sobre a tecnologia. Ele perguntou: Por quê o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012). O que ele encontrou, ao olhar para a história da tecnologia, foi parte da resposta, a parte complicada, as definições arbitrárias sobre o que é tecnologia. A outra parte, a parte boa, ele achou do lado da biologia, o *Insight de Wallace*, do co-criador da teoria da evolução Alfred Russel Wallace que disse que "o homem, de todos os animais, é o único capaz de evoluir por decisão própria, de modo não orgânico; ele constrói ferramentas." 
+Em 1959, Peter Drucker se preocupou sobre essa percepção, ou falta de percepção, sobre a tecnologia. Ele perguntou: Por quê o ábaco e o compasso ganharam status de ferramenta tecnológica, enquanto a tabuada de multiplicação e a tabela de logaritmos não? (Drucker, 2012). Foi olhando para a história da tecnologia que ele encontrou parte da resposta. A parte complicada, segundo ele, por conta das definições arbitrárias sobre o que é tecnologia. A outra parte, ele encontrou a partir da biologia, do co-criador da teoria da evolução Alfred Russel Wallace que disse que "o homem, de todos os animais, é o único capaz de evoluir por decisão própria, de modo não orgânico; ele constrói ferramentas." Esse foi o que Peter Drucker chamou de *Insight de Wallace*. 
 
 <!--
 @references 
