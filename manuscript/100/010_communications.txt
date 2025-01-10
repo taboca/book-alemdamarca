@@ -8,8 +8,6 @@
 
 @todo 
 
-* @todo-index @todo - p1 - "In Comunicação, Tecnologia" - Replace "Essa perspectiva ... melhor tecnologia."  with "Essa perspectiva, que sugere que a tecnologia é simplesmente o trabalho, se alinha com o pensamento de designers envolvidos na criação de ferramentas, produtos e processos.".
-
 * [ , anchored ] @todo - p1 - In “Tecnologia” - Consider to add a bit from Peter about manipulation. @refid-20250107-25dae8db-dbe1-4c94-92a0-a478f823c651
 
 * [ , ] @todo - p1 - In "Part 1, communications - #dup? - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB
@@ -17,6 +15,12 @@
 * [ , anchor] - @todo - p1 - In "Part 1, Communications" - Consider the #dup reference to the (5 stars) case of the shopping center promotion. @refid-20241217-be8f95de-095e-4a5a-9aa9-84e578ff9972
 
 @done 
+
+* @todo-index @todo - p1 - In "Comunicação, Tecnologia" - Replace "A simples constatação ... maré." with the above. And consider to move ### paradoxo de wallave to above this.
+
+* @todo-index @todo - p1 - In "Comunicação, Tecnologia" - After "moinho de trigo automático." insert the above. @ref-commit: dbaa219
+
+* @todo-index @todo - p1 - "In Comunicação, Tecnologia" - Replace "Essa perspectiva ... melhor tecnologia."  with "Essa perspectiva, que sugere que a tecnologia é simplesmente o trabalho, se alinha com o pensamento de designers envolvidos na criação de ferramentas, produtos e processos.".
 
 * [ done, anchor] - @todo - p1 - In "Part 1, Communications" - Complete the story, here or at another article, of the shopping situatin. @refid-20241217-e9d92d8f-e601-4967-b8f7-a6463a44e69c
 
@@ -127,18 +131,9 @@ O aprendiz começou a fazer fornos com o seu avô pela prática e conhecimentos 
 
 Então, assim ela é disseminada - pelo processo para criação do forno, pelas receitas de família, pelo trigo preparado que se diz meio caminho andado, pelo  moinho e com certeza naquele manual que explicava como criar e operar o moinho.
 
-<!--
-@todo-index @todo - p1 - In "Comunicação, Tecnologia" - After "moinho de trigo automático." insert the above.
--->
+Por conta disso, o manuseio e a disseminação torna-se uma experiência comunicativa no contexto social. Mas mesmo que bem intencionada, para ajudar as pessoas com um trabalho para ser feito da melhor forma, exerce sua influência. Em outras palavras, a caixa de ferramentas também nos limita a ver fora da caixa. Isso nos leva a conclusão reflexiva, junto com o Peter Drucker, que o trabalho influencia o trabalho:
 
 
-O interesse de Peter Drucker, sobre o uso da tecnologia no contexto, como a manipulamos, é um ponto de partida para uma reflexão sobre como a tecnologia influencia a tecnologia, ou concordando com ele, como o trabalho influencia o trabalho. Uma preocupação: Poderia a tecnologia empregada, justamente pelo valor criado em um contexto social, inviabilizar a evolução de outras tecnologias? Ou, em outras palavras, o trabalho influenciar o trabalho? 
-
-
-
-
-
-Por conta disso, o uso ou a manipulação, define a experiência comunicativa, que logicamente começa bem intencionada para ajudar as pessoas, praticamente, com o trabalho. Em outras palavras, a própria experiência comunicativa, criada, pela caixa de ferramentas, nos limita a ver fora da caixa. De certa forma, podemos refletir sobre como ela influencia o ambiente, junto com Peter Drucker: 
 
 > *"As ferramentas e técnicas não só influenciarão fortemente qual trabalho pode e será realizado, mas também determinarão como ele será realizado. O trabalho, sua estrutura, organização e conceitos, por sua vez, influenciarão com a mesma força o desenvolvimento de ferramentas e técnicas."* (Drucker, 2012, p.40) 
 
@@ -150,28 +145,43 @@ Por conta disso, o uso ou a manipulação, define a experiência comunicativa, q
 
 
 
-Na vida real isso aparece de várias formas, mais elaboradas como dada por métodos passados pelo mentor para o aprendiz, ou até em pérolas incrustadas na lâmina afiada do chefe que diz coisas como "pare de resmungar a aperte o botão" ou "se chegar atrasado tem que pagar um café". Tudo isso com a intenção de otimizar nosso ambiente colaborativo de trabalho, é lógico. 
+Esse pensamento nos coloca de frente para a reflexão sobre as experiências comunicativas no contexto de trabalho. Experiências comunicativas, passadas por métodos escritos, por fórmulas verbalizadas do mentor para o aprendiz, demandas do chefe para o subordinado, etc; e nas pérolas encrustradas na lâmina afiada do chefe que diz coisas como "pare de resmungar e aperte o botão". 
 
-Em outras palavras, por meio da dinâmica de experiências comunicativas no meio social trabalho, ligada a tecnologia, criamos a cultura de trabalho. 
+Encontramos nas experiências comunicativas de grupos que colaboram, a cristalização do manuseio do próprio trabalho, que é de fato intencinada a influenciar o trabalho do grupo com um comportamento esperado dentro de um contexto específico.
 
-
-
-
-O que temos como consequência, é que a tecnologia empregada também molda a realidade. Em outras palavras, ela cristaliza, como se fosse material, por conta de criar valor pelo uso, e por conta da disseminação do seu uso. Isso nos leva inevitavelmente a reconhecer que a cola que une as pessoas e as tecnologias - as experiências comunicativas. Essa cristalização  é em grande parte impulsionada quando dependemos dela para sobreviver. Esse impulsionamento ocorre claramente por conta da necessidade de trabalho, por um lado. Por outro, também temos mais tecnologias empregadas no meio de dinâmicas sociais no contexto de interações sociais do cotidiano, como lazer, aprendizado, saúde, etc. 
-
-As implicações disso tudo extrapolam o domínio bem intencionado pela própria premissa que tecnologia é trabalho ou que a tecnologia ideal deveria ser aquele trabalho já resolvido. Em outras palavras, também nos prendem em interações do meio social e cultural com atividades que aparentemente são importantes. Ou, em outras palavras, mesmo que a tecnologia ideal daquela pá ideal seria o buraco pronto, não estamos tão capacitados no dia a dia a saber o que é o que queremos, nos confundindo em um ambiente que diz que o trabalho é importante, não exatamente o trabalho resolvido mas o trabalho aparente ou imediato na frente. Esse fenômeno também tem relação com nossa busca por resultados imediatos. O paradoxo se critaliza na nossa frente - buscamos o resultado aparente mais rápido como quem se envolve, e se encanta, com a equação que diz “Ah, se a pá me leva ao trabalho de resolver o buraco” me dê a pá que quero cavar o mais rápido - sem mesmo nos preocupar se o buraco era mais em baixo, ou mesmo se o buraco era necessário. Não somos burros, é lógico, Essa lógica está atrelada a nossa inteligência ligada ao contexto de sobrevivência que, no ambiente de pressão, nos dá carta branca para fazer o que tem que ser feito - mesmo em condições onde não gostamos. Eu não trabalho com isso porque é a melhor coisa do mundo, ou porque eu amo, ou porque é realmente bom para a sociedade. Eu trabalho com isso, aceito essa dinâmica, por conta que isso é sobre viver, é viver no meio social, e por conta que isso me paga, para o leite para as crianças por exemplo. 
-
-De certa forma, nosso desafio que envolve sair da zona de sobrevivência e observar nosso movimento, isso é fato. Mas aqui, neste momento, nos leva à consideração sobre o contexto das experiências comunicativas que influenciam nossos movimentos.
+Em outras palavras, quando dizemos "Quém chegar atrasado tem que pagar um café", é uma punição leve, sim. Mas que reenforça, ou impulsiona o modelo de trabalho adequado. Essas experiências comunicativas  acontecem no berço que define as culturas de trabalho dos grupos.
 
 
 
 
-### Martelando quadros na rede 
-
-Vamos considerar como as experiências comunicativas no contexto social ligadas ao manuseio influenciam nosso campo de visão, assim como nossas decisões. O problema não é o martelo - aquele que está lá no cantinho. E o problema também não são os exemplos, de pessoas utilizando o martelo, que nos mostram o valor. Isso porque sempre foi assim -  aprendemos com exemplos práticos, olhando para os outros que pregaram quadros com o martelo, que montaram uma exposição. O que mudou, agora, é que podemos acessar muito mais exemplos, instantanemente por exemplo por meio de redes sociais que inclusive agora nos produzem vídeos muito bem elaborados. Elas nos dão exemplo sobre a ferramenta sendo empregada e isso nos diz sobre o potencial da ferramenta, de certa forma é como se nos desse a prova. Com isso, elas alimentam nossas percepções. Nós percebemos o martelo como sendo superpoderoso, como o martelo de um super herói. O problema é que por meio dessas experiências comunicativas, capturamos mais percepções mais rápido, muita mais sobre por que fazer, como fazer e quando fazer.
 
 
-Considere as interações sociais que agora apresentam-se como necessárias para sobrevivência (no contexto de convívio, aprendizado e de trabalho), como as interações por meio das redes sociais. Imersos naquele meio, nos inclinamos a achar que temos que agir de certa forma - como outros fazem - para obtermos resultados de sucesso. Envolvidos nesse ambiente, por conta de uma narrativa inicial que diz que é lá que as coisas acontecem, acabamos muitas vezes confusos nesse meio, lutando pela sobrevivência, dia após dia. Isso se explica porque milhares de pessoas criam contas em parte pessoal, em parte profissional, em redes como o Instagram, e martelam todo santo dia com o objetivo de escalar, mas não percebem que de forma síncrona todas elas caminham juntas concorrendo pelas mesmas audiências, assistindo a elas mesmas, aprendendo com elas mesmas, envolvidas em um ciclo de sobrevivência sem sair do lugar - em outras palavras, envolvidas agora em uma muralha. A simples constatação que milhares de usuários ficam martelando todos os dias com herois, como se fossem organismos desprovidos de tecnologias para dominar o meio, reafirma o fenômeno onde o manuseio altera o campo de visão. Em outras palavras, contribui com a cristalização de uma muralha no momento por conta do movimento automático que alimenta a inércia para não alterarmos nossa perspectiva.
+Esse fenômeno também tem relação com nossa busca por resultados imediatos. O paradoxo se critaliza na nossa frente - buscamos o resultado aparente mais rápido como quem se envolve, e se encanta, com a equação que diz “Ah, se a pá me leva ao trabalho de resolver o buraco” me dê a pá que quero cavar o mais rápido - sem mesmo nos preocupar se o buraco era mais em baixo, ou mesmo se o buraco era necessário. Não somos burros, é lógico, Essa lógica está atrelada a nossa inteligência ligada ao contexto de sobrevivência que, no ambiente de pressão, nos dá carta branca para fazer o que tem que ser feito - mesmo em condições onde não gostamos. Eu não trabalho com isso porque é a melhor coisa do mundo, ou porque eu amo, ou porque é realmente bom para a sociedade. Eu trabalho com isso, aceito essa dinâmica, por conta que isso é sobre viver, é viver no meio social, e por conta que isso me paga, para o leite para as crianças por exemplo. 
+
+
+
+
+
+
+### Martelando quadros  
+
+
+
+Olhando para os grupos de trabalho é fácil entender que no meio da cultura encontramos as formas de trabalhar. Mas quando olhamos para o ambiente externo, não fomos preparados para perceber que o novo poder do nosso novo ambiente social, a sua capacidade de nos influenciar.
+
+Se considerarmos o ambiente das redes sociais digitais, podemos refletir sobre como nosso campo de visão pode ser influenciando. Vamos olhar para um simpes martelo, que antigamente sozinho não dizia muita coisa - era só um objetivo, no cantinho ou mesmo na prateleira. Sabíamos que precisávamos de alguém para entender como utilizar, ou que precisaríamos de um curso, ou de aprender com a prática. Era um aprendizado mais lento, como se fôssemos validando o valor a partir da experiência. Isso sempre foi assim: olhamos para outros que pregaram coisas com aquele martelo, ou outros que montaram uma exposição. 
+
+O que mudou, agora, é que podemos antecipar, de certa forma instantaneamente, narrativas projetadas que dizem muito sobre o uso. Por meio das modernas redes sociais que aparentam-se como o meio externo global (e não como um grupo particular) encontramos narrativas que chamam nossa atenção, que nos dão exemplos, que de certa forma nos provam. Compramos o martelo antecipadamente.
+
+
+Nós percebemos o martelo como sendo superpoderoso, como o martelo de um super herói. O problema é que por meio dessas experiências comunicativas, capturamos mais percepções mais rápido, muita mais sobre por que fazer, como fazer e quando fazer.
+
+
+Nossa complicação é que não é possível ver essas narrativas como problemas, porque elas são totalmente opcionais, são livres, são simples narrativas, porque são exemplos, porque são cativantes, motivantes, alegres, bonitas.
+
+
+
+Considere as interações sociais que agora apresentam-se como necessárias para sobrevivência (no contexto de convívio, aprendizado e de trabalho), como as interações por meio das redes sociais. Imersos naquele meio, nos inclinamos a achar que temos que agir de certa forma - como outros fazem - para obtermos resultados de sucesso. Envolvidos nesse ambiente, por conta de uma narrativa inicial que diz que é lá que as coisas acontecem, acabamos muitas vezes confusos nesse meio, lutando pela sobrevivência, dia após dia. Isso se explica porque milhares de pessoas criam contas em parte pessoal, em parte profissional, em redes como o Instagram, e martelam todo santo dia com o objetivo de escalar, mas não percebem que de forma síncrona todas elas caminham juntas concorrendo pelas mesmas audiências, assistindo a elas mesmas, aprendendo com elas mesmas, envolvidas em um ciclo de sobrevivência sem sair do lugar - em outras palavras, envolvidas agora em uma muralha.
 
 
 
@@ -181,11 +191,11 @@ Considere as interações sociais que agora apresentam-se como necessárias para
 ### Paradoxo de Wallace 
 
 
-Com isso, podemos considerar um fenômeno que poderia ser um paradoxo para Wallace e Darwin, se eles estivessem olhando para as modernas interações humanas no contexto das redes sociais. Se estivessem acompanhando a micro realidade do ambiente de narrativas do contexto social definido pelo tecnológico, encontrariam ilhas de interações sociais que alimentam comportamentos por conta de conexões com narrrativas redundantes. Em outras palavras, em outro local do mundo, uma tribo isolada que mantém suas tradições (não conectada), vê aquele grupo específico não necessariamente uma forma de civilização que com suas técnicas de interconexão podem transcender. Mas percebem de fora que de fato são vítimas de suas criações também. 
+É simples constatação que milhares de profissionais ficam martelando (no ambiente digital) todos os dias como se fossem heróis mas essencialmente, não dominando o meio, é uma reafirmação do fenômeno: Em primeiro lugar, que o ambiente todo torna-se influenciado pelas tecnológias em uso. Mas além disso, o que poderia ser visto como um paradoxo para Wallace e Darwin: 
 
-Não precisaríamos nos isolar para perceber isso. Mas logicamente é difícil, quando estamos atolados, ou focados, ou presos, na rotina acelerada da vida que se repete. Se pudéssemos parar por 30 minutos, ou uma hora por dia, para perceber o nosso movimento, poderíamos talvez navegar diferente pelas prateleiras, talvez um pouco ignorar as milhares de soluções rápidas e de vez em quando considerar perspectivas que nos ajudam com o movimento consciente, perspectivas que infelizmente as percebemos hoje como sendo navegar contra a maré [^footnote_slow_down_books].
+A constatação da confusão ocorre a partir do fenômeno observável do usuário que torna-se vítima do ambiente tecnológico e que parece estar, como no caso dos outros animais, lutando pela sobrevivência diária. Em outras palavras, quando o ambiente todo diz como agir, ele nos leva ao que parece ser o compartamento esperado; e ainda, qualquer que seja a intenção de escapar do meio passa a ser percebida como navegar contra a maré [^footnote_slow_down_books].
 
-[^footnote_slow_down_books]: Livros como Nação Dopamina, Foco Roubado, Máquina do Caos, e milhares de outros - bestsellers ou não - não são os mais vendidos nem os mais procurados. Muita coisa da seção de auto ajuda não carrega o apelo por resultados. 
+[^footnote_slow_down_books]: Livros como Nação Dopamina, Foco Roubado, Máquina do Caos, e milhares de outros parecidos - bestsellers ou não - não são os mais procurados. Muita coisa da seção de auto ajuda não carrega o apelo por resultados. 
 
 Celebrar esse paradoxo em alinhamento com a preocupação de Peter Drucker, nos leva de frente com aquela ideia genial que diz que "o homem supera as limitações das leis de ferro de biologia, ao contrário de todos os animais que tem que lutar para se manterem vivos no dia seguinte ou na própria hora" e simultaneamente com a dura realidade que, agora, diz que o ambiente tecnológico define o contexto social, que em certo grau cria certas leis de ferro no ambiente, e que, como consequência, os coloca também na posição passiva mas que infelizemtne envolver a luta diária para se manterem-se vivos no dia seguinte na próxima hora - como é o caso quando nos entregamos a ideias de nos envolvem para martelar, todos os dias, por conta que muitos estariam fazendo isso. 
 
