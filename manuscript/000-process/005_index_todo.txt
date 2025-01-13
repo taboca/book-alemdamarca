@@ -1,6 +1,8 @@
 
 ## Todo 
 
+* [ , anchored] @todo - p1 - In "Foreword" - consider the citation from Dorothea .. from the chapter "the practice story" the part "recapitulation".She wrote "You were warned not to read your own work before starting on each morning's writing" .. followed by "A newspaper, a novel, the speech of someone else, or even your own writing, so long as you are under the influence of others - all have a circumscribing effect. We are very easily drawn into a circle of ideas; we fall into the rhythm of any book or newspaper we read." (Brande, Dorothea, 2019, p.96) @refid-20250113-26d814d8-3f8b-457a-9948-ddbc6ae8e748
+
 * [ , anchored] @todo - p1 - In "Bolha, Vale Presente" (105_vale_presente.txt) - Check for "então" repetitive words. @refid-20250113-ee4b7591-3b42-4027-8b2a-de9bcb713c6c
 
 * [ , anchored ] @todo - p1 - In "Introduction - " Check the e-mail "Book - ADM - Introdução elemento sobre complicação?" which may offer an insight that supports a better complication. @refid-20250102-78a18e9f-33a3-40c5-aabb-05823835eb94
