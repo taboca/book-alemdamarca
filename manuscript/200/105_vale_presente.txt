@@ -6,7 +6,7 @@
 v0.1 doc - https://docs.google.com/document/d/125ALCXYWADV0Se1JsIMjRhV2WcMlo5TdUtDruElyMFw/edit?tab=t.0 
 --> 
 
-# Vale o presente?
+# Vale meio presente
 
 <!--
 @todo 
