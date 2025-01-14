@@ -8,6 +8,14 @@
 
 * [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
 
+* [ , anchored ] @todo - p1 - in Introduction - This is likely GKA. 
+* [ , anchored ] @todo - p1 - in Introduction - Consider to bring this up? After why? Nothing of this would be necessary.. 
+
+* [ , anchored ] @todo - p1 - in Introduction - Check if the following which talks about the supermarket, can be brought a whole context, latter or now, but all the supermarket metaphor together - refid-
+* [ , anchored ] @todo - p1 - in Introduction - Is the following too soon? 
+* [ , anchored ] @todo - p1 - in Introduction - The following could be part of a general induction introduction, SCqA for this part, the book part. 
+
+
 @outline 
 
 * Originality - SCqA of the introduction - Situation of us being trapped, in this world, by the market, the problem of acceleration. The reading, aspect A, will give us the opportunity to the "in the establishment" but not there.  Highlights - "I was not there, as a cheff, as an entrepreneur, a collaborator, or even a customer." Highlights - This trip, outside, is a must especially to anyone in this area, because of an intrinsic mechanized experience whcih comes with these places, the impossibility of not being there. 
@@ -20,27 +28,107 @@
 
 -->
 
-
-
-Em meados de 1997, um estudante de computação publicou uma página na web intitulada "A Vida se Repete" [^footnote_avidaserepete]. O texto falava da rotina de estudante que começava no bar, quando pedia aquele mesmo pingado ao lado da mesma moça que fumava o mesmo cigarro. Ele fazia a mesma piada e ouvia a mesma risada do amigo ao lado. E o mesmo copo meiado ficava por horas, ao lado da mesma estação de trabalho. Isso tudo, é lógico, porque a vida se repete. 
-
-25 anos depois, aquele velho pingado testemunhou milhares de episódios que vieram antes deste material. Foram horas e horas, como horas de voo, por cafeterias, como essa, o café da Gabi em Ribeirão Preto. Eu escapei do escritório, de casa. Fiquei deslocado. Às vezes perguntei por quê? Sou uma figurinha repetida nessa padaria, eu sei. Estou rodeando? É capaz. Em certo episódio deixei 20 páginas para um restaurante mexicano. Mas ficava distante. Distante de empreender na área, distante como colaborador. Mas também distante daquele cliente padrão. Meio deslocado ou em cima do muro. Só estive lá, trabalhando, do cantinho, cuidando e sendo cuidado pelo velho pingado. Observando, de hora em hora. Interagindo, às vezes. Comentando e refletindo, de pingado em pingado. 
+Em meados de 1997, um estudante de computação publicou uma página na web intitulada "A Vida se Repete" [^footnote_avidaserepete]. Falava  da rotina que começava no bar quando ele pedia seu pingado, ao lado da mesma moça, que fumava o mesmo cigarro, que ouvia a mesma piada, que ouvia a mesma risada do amigo ao lado. E falava que aquele copo “meiado” ficava lá, por horas, ao lado da mesma estação de trabalho. Isso tudo, porque a vida se repete. 
 
 [^footnote_avidaserepete]: "A Vida se Repete", publicado em 1997, é um texto que descreve a rotina repetitiva de um estudante: o mesmo pingado, a mesma companhia, as mesmas piadas e risadas, simbolizando como os pequenos rituais do cotidiano parecem se repetir infinitamente. A página original pode ser encontrada no [arquivo da web](https://web.archive.org/web/19970517035253/http://www.icmsc.sc.usp.br/~taboca/lifesites/repeat.html).
 
-Em 2024, depois de tantas horas de voo e relendo as cartas deixadas para o Café Pagliaroni, percebi um valor sobre estar deslocado. Uma delas dizia "Olá pessoal, como sempre meu ponto é um pouco indireto,... ". E também nas respostas, por conta de alguns agradecimentos que trouxeram a palavra parceiro na mesma frase. Essas reflexões, fora do tempo e sem pressão, reconheciam valores na operação e também falavam sobre valores. De lá, de cima do muro, pude perceber, sem medo, o valor de ficar lá. Fiquei feliz por perceber. Primeiro porque me livrei de um diagnóstico. Porque, é lógico, as livrarias da vida trazem diagnósticos e soluções para tudo. Segundo, ganhei este livro, de certa forma deslocado da estante normal. O ponto de inflexão sobre este livro é isso mesmo, é sobre estar lá e não estar lá, fora da pele do cliente e deslocado da operação. Em um episódio, antes do café instalar o corrimão próximo ao degrau da entrada, eu já havia observado uns dez tropeços de clientes. Tropeçavam mas não caiam. Deixei algumas cartas reportando o fenômeno. Mas não esqueço da última carta antes do corrimão ser instalado e nunca mais ver pessoas caírem. A mensagem era curta e objetiva e falava da cena da cliente que foi de cabeça para o vidro da porta depois de torcer o pé no degrau. Naquele dia, a operação parou tudo para ajudá-la. Acelerados, ou focados, eles perceberam. Fiquei feliz que naquela altura o café havia recebido cartas sobre aqueles tropeços anteriores. Feliz porque tínhamos um padrão, mais do que um acidente  ou um evento extraordinário.  
+25 anos se passaram e aquele velho amigo pingado testemunhou milhares de episódios, como agora, do café da Gabi Ribeirão Preto. 
 
-Então, bem-vindo a bordo. Eu espero que a sua viagem seja diferente. Como piloto, minha intenção é proporcionar a despressurização da cabine. Não importa seu lugar na operação - no atendimento, atrás do balcão, na cozinha, na gestão, se é investidor, professor, mentor ou até se você é um cliente - o objetivo é um momento para respirar. Como adulto, colocar a máscara no adulto antes do adulto. Nosso destino também não traz receitas, fórmulas, métodos, ferramentas e tudo mais que já temos nas prateleiras do hipermercado de soluções para todos os problemas da operação. Nosso destino é resgatar nossa operação, reconhecendo o potencial do ser humano, como seres conscientes. Desejo que o resultado do seu trabalho - não importa sua posição - seja saudável, primeiro para você, e depois para todos ao seu lado, clientes, colaboradores, investidores e o mundo. 
+Por quê faço temporadas nesses espaços? Devo estar rodeando o mundo dos estabelecimentos. Sei que fui uma figurinha repetida naquela padaria tradicional de São Carlos - durante aquela temporada de leitura. E da mesma forma, o tradicional Café Pagliaroni, ao lado do Teatro Pedro II em Ribeirão Preto, me acomodou por mais de 300 dias de escrita.  
 
-Nada disso seria necessário se não estivéssemos acelerados, mecanizados, ou digitalmente controlados. No contexto dos estabelecimentos de alimentação, nosso ponto de partida começa por reconhecer as experiências comunicativas ligadas a este ambiente hiperconectado. Duas situações nos levam a considerar o problema: A primeira é que muitos estabelecimentos focam na execução em primeiro lugar, seja por conta da própria atenção voltada aos processos que garantem a experiência do cliente, ou por outras como falta de investimento. A regra clássica é sair fazendo. Pouco mudou neste sentido. Por outro lado, diante das tecnologias e experiências comunicativas, o físico se aproxima do digital. Estamos mais conectados - ou cercados - pelo ambiente que mais nos conecta a clientes, fornecedores, parceiros e outras vozes que influenciam nossas decisões.  
+O que me atrai para esses estabelecimentos? Prefiro achar que é o velho pingado. Mas sei que fiz coisas fora da agenda normal do trabalho. Eu escapei. Sei que essas escapadas me ajudaram a avançar coisas que minha agenda “normal” não permitia, investir em ler e escrever. Então foi aquele velho pingado que me deu, no final das contas, uma rotina repetitiva que eventualmente me levou para desacelerar, para ler, mais lentamente, e para escrever, finalmente, e escrever este material também. 
+
+Agradeço aos vários espaços que nos acolheram. Alguns poderiam dizer que fiquei em cima do muro, sem me envolver na operação. Ou até sem ser um cliente padrão. Mas foi neste processo que fui aprendendo sobre minha relação com esse mundo, e que tinha algo que pudesse ser dito, dessa posição, distante do cliente padrão, distante da operação.  
+
+
+Em 2024, relendo as cartas que deixei para uma cafeteria, percebi  exatamente o valor de estar nessa posição. Uma das cartas começou assim: “Olá pessoal, como sempre meu ponto é um pouco indireto,...” Minhas cartas estavam longe de ser um cliente acelerado. Percebi que eram reflexões, de certa forma fora do tempo, ou sem pressão. Percebi que estava pausando, em primeiro lugar reconhecendo os valores da operação, antes de trazer ideias, como sugestões. Fui percebendo que essencialmente falar sobre valores, ou sobre o resgate de valores, envolvia em primeiro lugar a valorização de valores já existentes. Quero que este material seja sobre isso, seja uma oportunidade para percebermos que, ainda, temos valores, por toda parte. Talvez nossa grande frustação - no trabalho acelerado - seja porque estamos percebendo valores, e ao mesmo tempo atropelando valores. 
+
+Pude ver também o valor de organizar nossa comunicação por valores também por conta das respostas que recebi do café. Algumas das minhas cartas foram bem recebidas, bem respondidas, e trouxeram notas onde a palavra parceiro estava na mesma frase. Agradeço as cartas do proprietário da cafeteria, MP, que me ajudou a perceber o valor dessa perspectiva.
+
+De lá, de cima do muro, pude perceber, sem medo, o valor de ficar lá. Feliz, por perceber. Feliz também, por ter me livrado daquele diagnóstico que diz “Marcinho, o que você está fazendo aí em cima do muro?” Porque, é lógico, sabemos que as estantes da vida trazem diagnósticos para tudo. 
+
+Este livro é o produto dessa posição em perspectiva, ou deslocada, ou desacelerada. É sobre estar lá, na operação ou como cliente, e não estar lá, fora da pele do cliente, fora do relógio acelerado da operação, fora do calor do forno da vida. 
+
+Vamos para um exemplo: Em um episódio, antes do café instalar o corrimão próximo ao degrau da entrada, eu já havia observado uns dez tropeços de clientes. Tropeçavam mas não caiam. Eu deixei algumas cartas reportando o fenômeno. E também não esqueço da última carta. A mensagem era curta e objetiva e falava da cena da cliente que foi de cabeça para o vidro da porta depois de torcer o pé no degrau. Naquele dia, a operação parou tudo para ajudá-la. Acelerados, ou focados, eles perceberam. Fiquei feliz que naquela altura o café havia recebido cartas sobre aqueles tropeços anteriores. Fiquei feliz que aquela foi a última carta. Feliz que aquela foi a última pessoa que tropeçou. Feliz que eles instalaram um corrimão. Feliz que nunca mais ninguém caiu. Feliz que foi a última carta sobre aquele assunto, feliz porque tínhamos um padrão, mais do que um relato de um acidente extraordinário.  
+
+Então, bem-vindo a bordo. Eu espero que a sua viagem seja diferente. Como piloto, minha intenção é proporcionar a despressurização da cabine. Não importa seu lugar na operação - no atendimento, atrás do balcão, na cozinha, na gestão, se é investidor, professor, mentor ou se você é um cliente que também gosta desse mundo - o objetivo é um momento para respirar. Como adulto, colocar a máscara no adulto antes do adulto.
+
+
+
+
+
+
+
+
+<!--
+@section 
+* The book part 
+--> 
+
+
+
+
+<!--
+@todo 
+* [ , anchored ] @todo - p1 - in Introduction - Check if the following which talks about the supermarket, can be brought a whole context, latter or now, but all the supermarket metaphor together - refid-
+--> 
+
+Essa viagem também não traz receitas, fórmulas, métodos, ferramentas e tudo mais que já temos nas prateleiras do hipermercado de soluções para todos os problemas da operação. 
+
+<!--
+@todo 
+* [ , anchored ] @todo - p1 - in Introduction - Is the following too soon? 
+--> 
+
+Nosso destino é resgatar nossa operação, reconhecendo o potencial do ser humano, como seres conscientes. Desejo que o resultado do seu trabalho - não importa sua posição - seja saudável, primeiro para você, e depois para todos ao seu lado, clientes, colaboradores, investidores e o mundo. ]
+
+Nada disso seria necessário se não estivéssemos acelerados, mecanizados, ou até digitalmente controlados. Como assim? 
+
+
+<!--
+@todo 
+* [ , anchored ] @todo - p1 - in Introduction - The following could be part of a general induction introduction, SCqA for this part, the book part. 
+--> 
+
+
+No contexto dos estabelecimentos de alimentação, devemos considerar e reconhecer as experiências comunicativas que nos colocam em um ambiente hiperconectado. 
+
+
+
+
+
+
+
+Duas situações nos levam a considerar o problema: A primeira é que muitos estabelecimentos focam na execução em primeiro lugar, seja por conta da própria atenção voltada aos processos que garantem a experiência do cliente, ou por outras como falta de investimento. A regra clássica é sair fazendo. Pouco mudou neste sentido. Por outro lado, diante das tecnologias e experiências comunicativas, o físico se aproxima do digital. Estamos mais conectados - ou cercados - pelo ambiente que mais nos conecta a clientes, fornecedores, parceiros e outras vozes que influenciam nossas decisões.  
 
 Do lado dos clientes, a interação que era lenta e controlada - com sugestões e reclamações no estabelecimento e o boca-a-boca lá fora - hoje está mais dinâmica. Eles não pensam duas vezes antes de comentar, avaliar e recomendar. E suas razões e formatos variam, com comentários simples ou narrativas elaboradas, entre *Likes* e vídeos com efeitos incríveis, eles se expressam entre amigos ou para o mundo, em grupos privados ou publicamente. Do lado dos fornecedores, temos mais soluções e narrativas elaboradas que prometem resultados para todos os tipos de desafios - fachadas, mesas, menus, promoções e muito mais. Temos ainda as plataformas digitais que trazem soluções para aquisição de clientes, pedidos, pagamentos, entregas, etc.  
 
+<!--
+@todo 
+* [ , anchored ] @todo - p1 - in Introduction - Consider to bring this up? After why? Nothing of this would be necessary.. 
+
+--> 
+
 No meio dessas vozes, diante da pressão sobre o que fazer e como fazer, nossa operação se vê empoderada em um hipermercado de soluções. Em outras palavras, com fome por resultados, no meio de infinitos corredores e narrativas e soluções. Se por um lado é um ambiente empoderador, por outro nos sobrecarrega. Se este meio tem poder de influenciar a operação, devemos nos perguntar se também pode influenciar a saúde do negócio a experiência toda, tanto para clientes como também sobre o bem estar dos envolvidos. 
 
-Para estruturar o problema, simplificamos a questão como sendo um problema de foco. Com esta lógica, partindo do princípio que a operação investe energia e atenção, consideramos que o ambiente tem poder de influenciar a liderança, especialmente quando a operação é desprovida de valores próprios (no sentido de princípios guiados por propósito). Neste cenário, o movimento de liderança é enfraquecido porque proporcionalmente carrega narrativas mais fracas diante desse ambiente externo que comunica cada vez melhor. Em outras palavras, se a regra geral é uma espécie de fazejamento, a operação agora se envolve em um fazejamento potencializado. Além disso, consideramos outros efeitos paralelos; em especial, a caracterização da marca aos termos do externo, que passa a ser construída por este movimento, impactando tanto a identidade, saúde do negócio e o bem-estar dos colaboradores. 
+<!--
+@todo 
+* [ , anchored ] @todo - p1 - in Introduction - This is likely GKA. 
+--> 
 
-Ainda que a questão seja relevante, é importante sensibilizar o leitor, justamente pela premissa do foco dividido. Neste sentido, duas perspectivas conduzem o leitor a se sensibilizar e entender o problema: A bolha da comunicação e a bolha dos estabelecimentos. 
+
+Para estruturar o problema, simplificamos a questão como sendo um problema de foco. Com esta lógica, partindo do princípio que a operação investe energia e atenção, consideramos que o ambiente tem poder de influenciar a liderança, especialmente quando a operação é desprovida de valores próprios (no sentido de princípios guiados por propósito). Neste cenário, o movimento de liderança é enfraquecido porque proporcionalmente carrega narrativas mais fracas diante desse ambiente externo que comunica cada vez melhor.
+
+Em outras palavras, se a regra geral é uma espécie de fazejamento, a operação agora se envolve em um fazejamento potencializado.
+
+Além disso, consideramos outros efeitos paralelos; em especial, a caracterização da marca aos termos do externo, que passa a ser construída por este movimento, impactando tanto a identidade, saúde do negócio e o bem-estar dos colaboradores. 
+
+As três partes a seguir, 
+
+<!--
+@todo 
+* [ , anchored ] @todo - p1 - in Introduction - A, B, C. 
+--> 
 
 Na primeira parte, faremos uma volta em torno do mundo das experiências comunicativas. A intenção é perceber como as tecnologias de comunicação podem influenciar nossas percepções e nossos comportamentos. Chamamos atenção para a questão que encontramos, no ambiente, as narrativas que saciam nossa fome por eficiência. Nesta parte, poderemos refletir sobre como mais soluções oferecidas pela própria riqueza da máquina capitalista nos dá, juntamente com narrativas, um tecido social para a execução. E mais, que pode nos transformar em super herois, por conta das tantas ferramentas dispostas no cinturão infinito, que ao mesmo tempo que nos encanta também nos tira o foco, reduzindo nosso espectro consciente. 
 
@@ -49,4 +137,6 @@ Na sequência, aterrizamos na "Bolha". Não diferente da experiência dos pacote
 Com essas perspectivas, a parte final traz narrativas sobre a importância de resgatarmos a nossa liderança. Sendo nosso grande desafio “a equação do foco”, avançaremos na contramão de remediar nossas ações de uma execução obcecada por resultados. Resgatamos aquilo que cria organizações verdadeiras, que envolve o respeito ao ser humano, a valorização da vida e a natureza, valores em termos de moral e ética, valores ligados à cultura e arte. 
 
 Nosso destino, Além da Marca, nos guia para uma operação que é prática e produtiva, que apoiada em valores nos ajuda a separar ruído de sinal, e que simultaneamente nos posiciona para percebermos a construção de uma operação mais leve que ao mesmo tempo constroi uma marca forte. Mas mais do que isso, que empodera o ambiente interno e externo para construir juntos. Com mais energia e menos frustração, resgatamos nosso papel de liderança e simultaneamente construímos uma marca forte e um ambiente saudável que respeita os envolvidos como seres humanos, criativos.  
+
+
 
