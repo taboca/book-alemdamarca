@@ -32,18 +32,11 @@ Em meados de 1997, um estudante de computação publicou uma página na web inti
 
 [^footnote_avidaserepete]: "A Vida se Repete", publicado em 1997, é um texto que descreve a rotina repetitiva de um estudante: o mesmo pingado, a mesma companhia, as mesmas piadas e risadas, simbolizando como os pequenos rituais do cotidiano parecem se repetir infinitamente. A página original pode ser encontrada no [arquivo da web](https://web.archive.org/web/19970517035253/http://www.icmsc.sc.usp.br/~taboca/lifesites/repeat.html).
 
-25 anos se passaram e aquele velho amigo pingado testemunhou milhares de episódios, como agora, do café da Gabi Ribeirão Preto. 
+25 anos se passaram e aquele velho amigo pingado me acompanhou por milhares de episódios, como este agora, do café da Gabi Silva, em Ribeirão Preto. Por quê faço temporadas nesses espaços? Devo estar rodeando o mundo dos estabelecimentos. Sei que fui uma figurinha repetida naquela padaria tradicional de São Carlos - durante aquela temporada de leitura. E da mesma forma, o tradicional Café Pagliaroni, ao lado do Teatro Pedro II em Ribeirão Preto, me acomodou por mais de 300 dias de escrita.  
 
-Por quê faço temporadas nesses espaços? Devo estar rodeando o mundo dos estabelecimentos. Sei que fui uma figurinha repetida naquela padaria tradicional de São Carlos - durante aquela temporada de leitura. E da mesma forma, o tradicional Café Pagliaroni, ao lado do Teatro Pedro II em Ribeirão Preto, me acomodou por mais de 300 dias de escrita.  
+O que me atrai para esses estabelecimentos? Prefiro achar que é o velho pingado. Mas nesses espaços encontrei uma agenda extraordinária. Primeiro, eu escapei. Mas foram escapadas que se tornaram um investimento. Atividades não antes permitidas no meu trabalho, como leitura e escrita. O velho pingado acabou testemunhando uma rotina repetitiva de escapadas reflexivas, de pingado em pingado, no rumo da leitura, e da leitura mais lenta, e eventualmente no rumo da escrita, finalmente, e eventualmente escrever esse material. Por isso, agradeço aos muitos estabelecimentos que nos acolheram, de certa forma em cima de um murro. Bem alí, dentro no estabelecimento, mas sem estar na operação. Bem ali, disfarçado de cliente, mas sem ser um cliente padrão. Nesta posição me envolvi em um processo de descoberta sobre minha relação com este mundo. Tinha muita coisa para ser dita justamente por estar naquela posição, distante de ser um cliente padrão e distante da operação.
 
-O que me atrai para esses estabelecimentos? Prefiro achar que é o velho pingado. Mas sei que fiz coisas fora da agenda normal do trabalho. Eu escapei. Sei que essas escapadas me ajudaram a avançar coisas que minha agenda “normal” não permitia, investir em ler e escrever. Então foi aquele velho pingado que me deu, no final das contas, uma rotina repetitiva que eventualmente me levou para desacelerar, para ler, mais lentamente, e para escrever, finalmente, e escrever este material também. 
-
-Agradeço aos vários espaços que nos acolheram. Alguns poderiam dizer que fiquei em cima do muro, sem me envolver na operação. Ou até sem ser um cliente padrão. Mas foi neste processo que fui aprendendo sobre minha relação com esse mundo, e que tinha algo que pudesse ser dito, dessa posição, distante do cliente padrão, distante da operação.  
-
-
-Em 2024, relendo as cartas que deixei para uma cafeteria, percebi  exatamente o valor de estar nessa posição. Uma das cartas começou assim: “Olá pessoal, como sempre meu ponto é um pouco indireto,...” Minhas cartas estavam longe de ser um cliente acelerado. Percebi que eram reflexões, de certa forma fora do tempo, ou sem pressão. Percebi que estava pausando, em primeiro lugar reconhecendo os valores da operação, antes de trazer ideias, como sugestões. Fui percebendo que essencialmente falar sobre valores, ou sobre o resgate de valores, envolvia em primeiro lugar a valorização de valores já existentes. Quero que este material seja sobre isso, seja uma oportunidade para percebermos que, ainda, temos valores, por toda parte. Talvez nossa grande frustação - no trabalho acelerado - seja porque estamos percebendo valores, e ao mesmo tempo atropelando valores. 
-
-Pude ver também o valor de organizar nossa comunicação por valores também por conta das respostas que recebi do café. Algumas das minhas cartas foram bem recebidas, bem respondidas, e trouxeram notas onde a palavra parceiro estava na mesma frase. Agradeço as cartas do proprietário da cafeteria, MP, que me ajudou a perceber o valor dessa perspectiva.
+Em 2024, relendo as cartas que deixei para uma cafeteria, percebi  exatamente o valor de estar nessa posição. Uma das cartas começou assim: “Olá pessoal, como sempre meu ponto é um pouco indireto,...” Minhas cartas estavam longe de ser um cliente acelerado. Percebi que eram reflexões, de certa forma fora do tempo, ou sem pressão. Percebi que estava pausando, em primeiro lugar reconhecendo os valores da operação, antes de trazer ideias, como sugestões. Fui percebendo que essencialmente falar sobre valores, ou sobre o resgate de valores, envolvia em primeiro lugar a valorização de valores já existentes. Quero que este material seja sobre isso, seja uma oportunidade para percebermos que, ainda, temos valores, por toda parte. Talvez nossa grande frustação - no trabalho acelerado - seja porque estamos percebendo valores, e ao mesmo tempo atropelando valores. Pude ver também o valor de organizar nossa comunicação por valores também por conta das respostas que recebi do café. Algumas das minhas cartas foram bem recebidas, bem respondidas, e trouxeram notas onde a palavra parceiro estava na mesma frase. Agradeço as cartas do proprietário da cafeteria, MP, que me ajudou a perceber o valor dessa perspectiva.
 
 De lá, de cima do muro, pude perceber, sem medo, o valor de ficar lá. Feliz, por perceber. Feliz também, por ter me livrado daquele diagnóstico que diz “Marcinho, o que você está fazendo aí em cima do muro?” Porque, é lógico, sabemos que as estantes da vida trazem diagnósticos para tudo. 
 
@@ -73,14 +66,7 @@ Então, bem-vindo a bordo. Eu espero que a sua viagem seja diferente. Como pilot
 * [ , anchored ] @todo - p1 - in Introduction - Check if the following which talks about the supermarket, can be brought a whole context, latter or now, but all the supermarket metaphor together - refid-
 --> 
 
-Essa viagem também não traz receitas, fórmulas, métodos, ferramentas e tudo mais que já temos nas prateleiras do hipermercado de soluções para todos os problemas da operação. 
-
-<!--
-@todo 
-* [ , anchored ] @todo - p1 - in Introduction - Is the following too soon? 
---> 
-
-Nosso destino é resgatar nossa operação, reconhecendo o potencial do ser humano, como seres conscientes. Desejo que o resultado do seu trabalho - não importa sua posição - seja saudável, primeiro para você, e depois para todos ao seu lado, clientes, colaboradores, investidores e o mundo. ]
+Nesse sentido, esta viagem também não lhe trará receitas prontas ou fórmulas ou métodos, ferramentas, nem mesmo plataformas. Isso tudo porque você sabe, você já tem muito por esse ambiente hiperconectado que vivemos nas prateleiras infinitas de um hipermercado de soluções para todo e qualquer tipo de problemas de cooperação que você tem.
 
 Nada disso seria necessário se não estivéssemos acelerados, mecanizados, ou até digitalmente controlados. Como assim? 
 
@@ -91,15 +77,9 @@ Nada disso seria necessário se não estivéssemos acelerados, mecanizados, ou a
 --> 
 
 
-No contexto dos estabelecimentos de alimentação, devemos considerar e reconhecer as experiências comunicativas que nos colocam em um ambiente hiperconectado. 
+Podemos considerar a complicação no nosso caminho a partir da celebração de duas perspectivas, aparentemente virtuosas, presentes no ambiente moderno. Uma delas é que queremos trabalhar, que gostamos de colocar a mão à massa, de focar na execução. Esta intenção está também ligada à valorização do cliente, que logicamente nos envolvem com os processos que estão lá, bem intencionados para garantir uma experiência do cliente. Fora isso, sabemos sobre nosso compromisso com o trabalho, sobre o que é ética de trabalho, sobre a importância de trabalhar, batalhar, lutar, acordar cedo e dormir tarde, elementos virtuosos da vida. Pouca coisa mudou nesse sentido. Outro aspecto, também virtuoso, é que o mundo moderno quer muito nos ajudar com isso. Que nosso ambiente hiperconectado traz também uma infinidade de narrativas e soluções. Estamos mais conectados, mais interagindo com clientes, fornecedores, parceiros, plataformas e outras vozes que querem nos ajudar. 
 
-
-
-
-
-
-
-Duas situações nos levam a considerar o problema: A primeira é que muitos estabelecimentos focam na execução em primeiro lugar, seja por conta da própria atenção voltada aos processos que garantem a experiência do cliente, ou por outras como falta de investimento. A regra clássica é sair fazendo. Pouco mudou neste sentido. Por outro lado, diante das tecnologias e experiências comunicativas, o físico se aproxima do digital. Estamos mais conectados - ou cercados - pelo ambiente que mais nos conecta a clientes, fornecedores, parceiros e outras vozes que influenciam nossas decisões.  
+Essas perspectivas definitivamente virtuosas, em certo grau, formam como correntes que se encontram a fonte ou a pororoca dos nossos problemas. Quando a vontade de fazer é grande e encontra com a abundância de narrativa sobre o que pode ser feito, certa forma nos entregamos, conectados, ficamos cercados por um ambiente de vozes, de clientes, fornecedores, parceiros e plataformas, e outros que influenciam por todos os lados.
 
 Do lado dos clientes, a interação que era lenta e controlada - com sugestões e reclamações no estabelecimento e o boca-a-boca lá fora - hoje está mais dinâmica. Eles não pensam duas vezes antes de comentar, avaliar e recomendar. E suas razões e formatos variam, com comentários simples ou narrativas elaboradas, entre *Likes* e vídeos com efeitos incríveis, eles se expressam entre amigos ou para o mundo, em grupos privados ou publicamente. Do lado dos fornecedores, temos mais soluções e narrativas elaboradas que prometem resultados para todos os tipos de desafios - fachadas, mesas, menus, promoções e muito mais. Temos ainda as plataformas digitais que trazem soluções para aquisição de clientes, pedidos, pagamentos, entregas, etc.  
 
@@ -109,7 +89,7 @@ Do lado dos clientes, a interação que era lenta e controlada - com sugestões 
 
 --> 
 
-No meio dessas vozes, diante da pressão sobre o que fazer e como fazer, nossa operação se vê empoderada em um hipermercado de soluções. Em outras palavras, com fome por resultados, no meio de infinitos corredores e narrativas e soluções. Se por um lado é um ambiente empoderador, por outro nos sobrecarrega. Se este meio tem poder de influenciar a operação, devemos nos perguntar se também pode influenciar a saúde do negócio a experiência toda, tanto para clientes como também sobre o bem estar dos envolvidos. 
+Estamos pressionados, por um lado pelo ambiente competitivo do mercado, e por outro no meio dessas vozes que nos dizem o que fazer, como fazer e quando fazer. Nossa operação, que se vê como empoderada, também se desgasta na medida que se ocupa no oceano de narrativas e soluções para tudo. Podemos nos perguntar, se este ambiente tem poder de influenciar a operação? E mais do que isso, a experiência toda como a identidade e a saúde do negócio tanto para o lado do cliente como para os colaboradores.
 
 <!--
 @todo 
