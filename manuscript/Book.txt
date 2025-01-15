@@ -1,5 +1,6 @@
 
-000_foreword.txt
+000_foreword_1.txt
+000_foreword_2.txt
 000_introduction.txt
 
 000_part1.txt
