@@ -1,5 +1,15 @@
 ## Done 
 
+* [Cut] Check the e-mail entitled "Livro - além da marca - tecnologias painéis" which refer to the experience acquired with the Tela Social project, and the idea that screens, and communication "through hallways" could actually be used in virtuous ways to help the development of the team. 
+
+* [ Done, ] @todo - p1 - In "Accelerated ... " - (ref-file: 130_mundo_cao.txt) This is a reminder for Márcio that he should be considering the case of the kids' buffet in Brazil whpvc
+
+* [ Done, moved into 011_publisher_synopsis.txt] Get the summary, short, which was sent as the introduction message in the letter to Senac, which can be found in the reply e-mail from Senac. That as one of the shortest explanations, seem amazing. 
+
+* [ Ignored ] Case of cold egg São Carlos - Uma vez em São Carlos, olhei para a janelinha de onde saiam as comidas de uma das lojas de uma conhecida franquia de fast food e lá tinha uma folha A4 pregada com umas 5 sentenças para lembrar os colaboradores da relação  entre o ovo e o cliente: O cliente não aceita o ovo frio, nunca servir um ovo frio, o lanche deve ser feito com o ovo quente, e outras 2 que diziam a mesma coisa.  
+
+* [ done ] Book - ADM - Book - livro - adm - tecnologia trabalho e linguagem, incorporate into book - Saturday, November 23⋅6:45 – 7:45pm - https://docs.google.com/document/d/11tM9McRL6zSA9Jf3OLY1WvPtZpU8LxXYBARfHYf8fSA/edit?usp=drivesdk - Incorporagted into part 1  - https://docs.google.com/document/d/11tM9McRL6zSA9Jf3OLY1WvPtZpU8LxXYBARfHYf8fSA/edit?tab=t.0
+
 * [ Done, anchored ] @todo - p1 - In "Tecnologia" - Add a reference to the page for the Drucker's block quote. @refid-20250107-fbc2ffe7-9e7a-480c-b593-3e6dee2b5e3a
 
 * [ Done , anchored ] @todo - p1 - "In Tecnologia" - Consider tecnologia emprega, materializar: Essa visão otimista nos diz que se ela resolve melhor, irá se materializar. @refid-20250108-4f22ffcc-68bc-46e6-903c-abd11465291d

@@ -15,6 +15,9 @@
 * [ , anchored ] @todo - p1 - in Introduction - Is the following too soon? 
 * [ , anchored ] @todo - p1 - in Introduction - The following could be part of a general induction introduction, SCqA for this part, the book part. 
 
+@done 
+
+* [ done ] Book - ADM - introduction - review points - Deslocamento - to the reader, to be out of that situation which we all know what it is, when we are taken. And this is so, detachment set us together because this material was brought because of detachment, as I had experience, years and years working from these places, not being there as I will explain. 
 
 @outline 
 
@@ -26,26 +29,20 @@
 
 * A1 - Get from the justification?
 
+
 -->
 
 Em meados de 1997, um estudante de computação publicou uma página na web intitulada "A Vida se Repete" [^footnote_avidaserepete]. Falava  da rotina que começava no bar quando ele pedia seu pingado, ao lado da mesma moça, que fumava o mesmo cigarro, que ouvia a mesma piada, que ouvia a mesma risada do amigo ao lado. E falava que aquele copo “meiado” ficava lá, por horas, ao lado da mesma estação de trabalho. Isso tudo, porque a vida se repete. 
 
 [^footnote_avidaserepete]: "A Vida se Repete", publicado em 1997, é um texto que descreve a rotina repetitiva de um estudante: o mesmo pingado, a mesma companhia, as mesmas piadas e risadas, simbolizando como os pequenos rituais do cotidiano parecem se repetir infinitamente. A página original pode ser encontrada no [arquivo da web](https://web.archive.org/web/19970517035253/http://www.icmsc.sc.usp.br/~taboca/lifesites/repeat.html).
 
-25 anos se passaram e aquele velho amigo pingado me acompanhou por milhares de episódios, como este agora, do café da Gabi Silva, em Ribeirão Preto. Por quê faço temporadas nesses espaços? Devo estar rodeando o mundo dos estabelecimentos. Sei que fui uma figurinha repetida naquela padaria tradicional de São Carlos - durante aquela temporada de leitura. E da mesma forma, o tradicional Café Pagliaroni, ao lado do Teatro Pedro II em Ribeirão Preto, me acomodou por mais de 300 dias de escrita.  
+25 anos se passaram e aquele velho amigo pingado me acompanhou por milhares de episódios, como este, escrevendo do café da Gabi Silva em Ribeirão Preto. Por quê faço temporadas nesses espaços? Devo estar rodeando o mundo dos estabelecimentos. Sei que fui uma figurinha repetida naquela padaria tradicional de São Carlos - durante aquela temporada de leitura. E da mesma forma sei que me acomodei por mais de 300 dias de escrita no tradicional Café Pagliaroni ao lado do Teatro Pedro II em Ribeirão Preto.
 
-O que me atrai para esses estabelecimentos? Prefiro achar que é o velho pingado. Mas nesses espaços encontrei uma agenda extraordinária. Primeiro, eu escapei. Mas foram escapadas que se tornaram um investimento. Atividades não antes permitidas no meu trabalho, como leitura e escrita. O velho pingado acabou testemunhando uma rotina repetitiva de escapadas reflexivas, de pingado em pingado, no rumo da leitura, e da leitura mais lenta, e eventualmente no rumo da escrita, finalmente, e eventualmente escrever esse material. Por isso, agradeço aos muitos estabelecimentos que nos acolheram, de certa forma em cima de um murro. Bem alí, dentro no estabelecimento, mas sem estar na operação. Bem ali, disfarçado de cliente, mas sem ser um cliente padrão. Nesta posição me envolvi em um processo de descoberta sobre minha relação com este mundo. Tinha muita coisa para ser dita justamente por estar naquela posição, distante de ser um cliente padrão e distante da operação.
+O que me atrai para esses estabelecimentos? Não sei, deve ser o velho pingado. Sobre o que sei, é que tudo começou com escapadas. Escapei do trabalho. Escapei de um ambiente que não permitia certas atividades. Atividades que se tornaram investimento. No final, o velho pingado testemunhou uma rotina repetitiva de escapadas reflexivas, de pingado e pingado, no rumo da leitura, na leitura mais lenta, eventualmente no rumo da escrita, e, eventualmente, também para escrever esse material Por isso, agradeço aos muitos estabelecimentos que nos acolheram. Bem alí, no estabelecimento, mas sem estar na operação. Bem ali, disfarçado de cliente, mas sem ser o cliente padrão. Nesta posição, descobri sobre minha relação com este mundo. Que tinha muita coisa para ser dita, justamente por estar naquela posição, distante de ser um cliente padrão e distante da operação.
 
 Em 2024, relendo as cartas que deixei para uma cafeteria, percebi  exatamente o valor de estar nessa posição. Uma das cartas começou assim: “Olá pessoal, como sempre meu ponto é um pouco indireto,...” Minhas cartas estavam longe de ser um cliente acelerado. Percebi que eram reflexões, de certa forma fora do tempo, ou sem pressão. Percebi que estava pausando, em primeiro lugar reconhecendo os valores da operação, antes de trazer ideias, como sugestões. Fui percebendo que essencialmente falar sobre valores, ou sobre o resgate de valores, envolvia em primeiro lugar a valorização de valores já existentes. Quero que este material seja sobre isso, seja uma oportunidade para percebermos que, ainda, temos valores, por toda parte. Talvez nossa grande frustação - no trabalho acelerado - seja porque estamos percebendo valores, e ao mesmo tempo atropelando valores. Pude ver também o valor de organizar nossa comunicação por valores também por conta das respostas que recebi do café. Algumas das minhas cartas foram bem recebidas, bem respondidas, e trouxeram notas onde a palavra parceiro estava na mesma frase. Agradeço as cartas do proprietário da cafeteria, MP, que me ajudou a perceber o valor dessa perspectiva.
 
-De lá, de cima do muro, pude perceber, sem medo, o valor de ficar lá. Feliz, por perceber. Feliz também, por ter me livrado daquele diagnóstico que diz “Marcinho, o que você está fazendo aí em cima do muro?” Porque, é lógico, sabemos que as estantes da vida trazem diagnósticos para tudo. 
-
-Este livro é o produto dessa posição em perspectiva, ou deslocada, ou desacelerada. É sobre estar lá, na operação ou como cliente, e não estar lá, fora da pele do cliente, fora do relógio acelerado da operação, fora do calor do forno da vida. 
-
-Vamos para um exemplo: Em um episódio, antes do café instalar o corrimão próximo ao degrau da entrada, eu já havia observado uns dez tropeços de clientes. Tropeçavam mas não caiam. Eu deixei algumas cartas reportando o fenômeno. E também não esqueço da última carta. A mensagem era curta e objetiva e falava da cena da cliente que foi de cabeça para o vidro da porta depois de torcer o pé no degrau. Naquele dia, a operação parou tudo para ajudá-la. Acelerados, ou focados, eles perceberam. Fiquei feliz que naquela altura o café havia recebido cartas sobre aqueles tropeços anteriores. Fiquei feliz que aquela foi a última carta. Feliz que aquela foi a última pessoa que tropeçou. Feliz que eles instalaram um corrimão. Feliz que nunca mais ninguém caiu. Feliz que foi a última carta sobre aquele assunto, feliz porque tínhamos um padrão, mais do que um relato de um acidente extraordinário.  
-
-Então, bem-vindo a bordo. Eu espero que a sua viagem seja diferente. Como piloto, minha intenção é proporcionar a despressurização da cabine. Não importa seu lugar na operação - no atendimento, atrás do balcão, na cozinha, na gestão, se é investidor, professor, mentor ou se você é um cliente que também gosta desse mundo - o objetivo é um momento para respirar. Como adulto, colocar a máscara no adulto antes do adulto.
-
+Então fiquei feliz de estar lá, por perceber o valor de estar naquela posição. Feliz também por ter me livrado de um possível diagnóstico que diria, "Marcinho, o que você está fazendo em cima do muro?" Porque é lógico, sabemos que as estantes da vida trazem diagnóstico para tudo. Então este livro é um produto dessa posição em perspectiva, ou deslocada, ou desacelerada. É sobre estar lá, na operação ou como cliente, e não estar lá, fora da pele do cliente, fora do relógio acelerado da operação, fora do calor do forno da vida. Vamos para um exemplo: Em um episódio, antes do café instalar o corrimão próximo ao degrau da entrada, eu já havia observado uns dez tropeços de clientes. Tropeçavam mas não caiam. Eu deixei algumas cartas reportando o fenômeno. E também não esqueço da última carta. A mensagem era curta e objetiva e falava da cena da cliente que foi de cabeça para o vidro da porta depois de torcer o pé no degrau. Naquele dia, a operação parou tudo para ajudá-la. Acelerados, ou focados, eles perceberam. Fiquei feliz que naquela altura o café havia recebido cartas sobre aqueles tropeços anteriores. Fiquei feliz que aquela foi a última carta. Feliz que aquela foi a última pessoa que tropeçou. Feliz que eles instalaram um corrimão. Feliz que nunca mais ninguém caiu. Feliz que foi a última carta sobre aquele assunto, feliz porque tínhamos um padrão, mais do que um relato de um acidente extraordinário.  
 
 
 
@@ -61,14 +58,12 @@ Então, bem-vindo a bordo. Eu espero que a sua viagem seja diferente. Como pilot
 
 
 
-<!--
-@todo 
-* [ , anchored ] @todo - p1 - in Introduction - Check if the following which talks about the supermarket, can be brought a whole context, latter or now, but all the supermarket metaphor together - refid-
---> 
+
+Então, bem-vindo a bordo. Eu espero que essa viagem seja diferente. Como piloto, minha intenção é a despressurização da cabine. Não importa seu lugar na operação - no atendimento, atrás do balcão, na cozinha, na gestão, se é investidor, professor, mentor ou se você é um cliente hoje mas interessado neste mundo - esse livro é sobre respirar, sobre refletir em perspectiva, sobre, como adulto, colocar a máscara consciente no adulto que se envolve de forma impulsiva. Uma advertência, sobre o que o que este material não é: Não é sobre fórmulas, não traz receitas prontas, nem métodos e ferramentas, ou frameworks. Primeiro, porque como você sabe, estamos cercados dessas coisas na infinidade de estantes das soluções para todo tipo de problema. Segundo, porque neste ambiente estamos esquecendo, que no final ainda somos o recurso mais valioso.
 
 Nesse sentido, esta viagem também não lhe trará receitas prontas ou fórmulas ou métodos, ferramentas, nem mesmo plataformas. Isso tudo porque você sabe, você já tem muito por esse ambiente hiperconectado que vivemos nas prateleiras infinitas de um hipermercado de soluções para todo e qualquer tipo de problemas de cooperação que você tem.
 
-Nada disso seria necessário se não estivéssemos acelerados, mecanizados, ou até digitalmente controlados. Como assim? 
+
 
 
 <!--
@@ -76,8 +71,7 @@ Nada disso seria necessário se não estivéssemos acelerados, mecanizados, ou a
 * [ , anchored ] @todo - p1 - in Introduction - The following could be part of a general induction introduction, SCqA for this part, the book part. 
 --> 
 
-
-Podemos considerar a complicação no nosso caminho a partir da celebração de duas perspectivas, aparentemente virtuosas, presentes no ambiente moderno. Uma delas é que queremos trabalhar, que gostamos de colocar a mão à massa, de focar na execução. Esta intenção está também ligada à valorização do cliente, que logicamente nos envolvem com os processos que estão lá, bem intencionados para garantir uma experiência do cliente. Fora isso, sabemos sobre nosso compromisso com o trabalho, sobre o que é ética de trabalho, sobre a importância de trabalhar, batalhar, lutar, acordar cedo e dormir tarde, elementos virtuosos da vida. Pouca coisa mudou nesse sentido. Outro aspecto, também virtuoso, é que o mundo moderno quer muito nos ajudar com isso. Que nosso ambiente hiperconectado traz também uma infinidade de narrativas e soluções. Estamos mais conectados, mais interagindo com clientes, fornecedores, parceiros, plataformas e outras vozes que querem nos ajudar. 
+Não lhe convidaria para esta viagem se a situação dos estabelecimentos, ligada as condições do nosso ambiente moderno, não estivesse turbulenta. Se não estivéssemos acelerados, mecanizados, ou digitalmente guiados, nada disso seria necessário. Podemos considerar a complicação no nosso caminho a partir da celebração de duas perspectivas, aparentemente virtuosas, presentes no ambiente moderno. Uma delas é que queremos trabalhar, que gostamos de colocar a mão à massa, de focar na execução. Esta intenção está também ligada à valorização do cliente, que logicamente nos envolvem com os processos que estão lá, bem intencionados para garantir uma experiência do cliente. Fora isso, sabemos sobre nosso compromisso com o trabalho, sobre o que é ética de trabalho, sobre a importância de trabalhar, batalhar, lutar, acordar cedo e dormir tarde, elementos virtuosos da vida. Pouca coisa mudou nesse sentido. Outro aspecto, também virtuoso, é que o mundo moderno quer muito nos ajudar com isso. Que nosso ambiente hiperconectado traz também uma infinidade de narrativas e soluções. Estamos mais conectados, mais interagindo com clientes, fornecedores, parceiros, plataformas e outras vozes que querem nos ajudar. 
 
 Essas perspectivas definitivamente virtuosas, em certo grau, formam como correntes que se encontram a fonte ou a pororoca dos nossos problemas. Quando a vontade de fazer é grande e encontra com a abundância de narrativa sobre o que pode ser feito, certa forma nos entregamos, conectados, ficamos cercados por um ambiente de vozes, de clientes, fornecedores, parceiros e plataformas, e outros que influenciam por todos os lados.
 
@@ -97,13 +91,10 @@ Estamos pressionados, por um lado pelo ambiente competitivo do mercado, e por ou
 --> 
 
 
-Para estruturar o problema, simplificamos a questão como sendo um problema de foco. Com esta lógica, partindo do princípio que a operação investe energia e atenção, consideramos que o ambiente tem poder de influenciar a liderança, especialmente quando a operação é desprovida de valores próprios (no sentido de princípios guiados por propósito). Neste cenário, o movimento de liderança é enfraquecido porque proporcionalmente carrega narrativas mais fracas diante desse ambiente externo que comunica cada vez melhor.
+Para estruturar essa complicação, podemos simplificar a questão com sendo um problema de foco. Consideramos um fenômeno onde a operação - que investe energia e atenção - encontra no ambiente externo as narrativas que a influenciam. Neste sentido, quando quando ela é desprovida de valores próprios - como princípios - o movimento de liderança próprio é enfraquecido, caracterizando um movimento de liderança guiado pelo externo que diz o que fazer, como fazer, quando e por quê fazer. Com disso, efeitos paralelos surgem, como a caracterização da marca pelo ambiente externo, caracterizada de diversas formas arbitrárias, mas potencialmente guiando a operação no rumo da total caracterização da marca e da identidade e levando a operação a resultados catastróficos impactando profundamente a saúde do negócio e o bem-estar dos colaboradores.
 
-Em outras palavras, se a regra geral é uma espécie de fazejamento, a operação agora se envolve em um fazejamento potencializado.
+Como seu guia, lhe convido para um roteiro de reflexões por três paradas: A Comunicação, A Bolha e O Resgate.
 
-Além disso, consideramos outros efeitos paralelos; em especial, a caracterização da marca aos termos do externo, que passa a ser construída por este movimento, impactando tanto a identidade, saúde do negócio e o bem-estar dos colaboradores. 
-
-As três partes a seguir, 
 
 <!--
 @todo 

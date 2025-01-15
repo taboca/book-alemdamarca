@@ -1,11 +1,100 @@
 
 ## Todo 
 
+
+
+
+@@ general 
+
+* [ ] @todo - p1 - general - Check e-mail entitled "Book - além da marca - noticing the communication" Whicih could be helpful to the first part of the book where it offers a way to think about how we "get going" with life or how we fall out of a parashoot situation. This section offers a context to an essay that touches in ideas from Walter Fisher (Narrative Paradigm), Peter Drucker, and others. 
+
+* [ ] @todo - p1 - general - Check e-mail and audio - "queijo and uber" 
+
+* [ ] @todo - p1 - general - Consider the use of blast images within the chapters or articles, to bring some fun to the book. An example is the "blast-motoboy.jpg" image. 
+
+* [ ] @todo - p1 - general #opportunity - Check the e-mail entitled "Livro - além da marca - fazer não fazer reclamar fazer acontecer e necessidade de expressão" which almost brings up a point "chicken and the egg problem" but somehow I could not yet figure the motivational point. It may be about giving collaborators the opportunity to express some of their pains, about creating some possible channels. @refid-20250115-43cf8767-c7a2-4ca4-a920-8bc516848590
+
+* [ ] @todo - p1 - general - In the 3rd part, consider the notion of "pasteurização do passado" ref from the chapters structure "Em “A pasteurização, do passado”, consideramos uma situação paradoxal, dado que certas experiências do passado, como o bolinho de bacalhau, ainda existem mas em uma versão “sem graça” onde o público jovem não vê nada demais enquanto os antigos que provaram da versão original se decepcionam. Celebraremos, com tom de tristeza e saudosismo, como muitas experiências gastronômicas correm risco de extinção."
+
+
+
+
+
+
+
+
+
+
+
+@@ Foreword and Introduction 
+
 * [ , anchored] @todo - p1 - In "Foreword" - consider the citation from Dorothea .. from the chapter "the practice story" the part "recapitulation".She wrote "You were warned not to read your own work before starting on each morning's writing" .. followed by "A newspaper, a novel, the speech of someone else, or even your own writing, so long as you are under the influence of others - all have a circumscribing effect. We are very easily drawn into a circle of ideas; we fall into the rhythm of any book or newspaper we read." (Brande, Dorothea, 2019, p.96) @refid-20250113-26d814d8-3f8b-457a-9948-ddbc6ae8e748
 
-* [ , anchored] @todo - p1 - In "Bolha, Vale Presente" (105_vale_presente.txt) - Check for "então" repetitive words. @refid-20250113-ee4b7591-3b42-4027-8b2a-de9bcb713c6c
-
 * [ , anchored ] @todo - p1 - In "Introduction - " Check the e-mail "Book - ADM - Introdução elemento sobre complicação?" which may offer an insight that supports a better complication. @refid-20250102-78a18e9f-33a3-40c5-aabb-05823835eb94
+
+* [ ] @todo - p1 - In Foreword or Postword - check e-mail and transcribe, ref "Todo - book - thought on foreword or postword" ref this was written in the yellow note book. @refid-20241210-43b1a307-a214-4c44-ab43-edf49156cde0
+
+* [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
+
+* [ ] @todo - p1 - In "Foreword" - Consider to use the text which refers to Dorothea Brande, at the beginning in the Introduction, as Foreword text. Or consider to flip, part of intro as foreword and the foreword with ref to dorothea as intro ... @refid-20241218-507b6129-dde0-44ea-b852-ea12c86ddac4
+
+
+
+
+
+
+
+
+
+
+* [ , ] @todo - p1 - In "Part 1, communications - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB
+
+* [ , anchor] - @todo - p1 - In "Part 1, Communications" - Consider the #dup reference to the (5 stars) case of the shopping center promotion. @refid-20241217-be8f95de-095e-4a5a-9aa9-84e578ff9972
+
+* [ ] @todo - p1 - In "Trabalho" - #JTDB #categories #rise - "So, when I talk about the jobs to be done through the introduction, I guess, or maybe not, actually within part one, talking about the world and the need for us to actually create these spaces or experience that gives us the opportunity to advance with the actual other higher order jobs that we need to be done, I have actually referred to the jobs to be done theory, and then we have these spaces, these experiences, these eating experiences in the middle. Now, of course, the initial question there would be to consider that we just need to eat and then continue to do our stuff, right? So, what pretty much we have in front of us is that occasionally we need to eat. Now, with that said, the eating kind of goes along with the actual next step for us, and that's why in the theory of the jobs to be done, the milkshake case comes in handy because we are, to a certain extent, parallelizing and walking along with the food experience. Maybe part of this situation is because we are not anymore giving ourselves the time we need to eat, we cannot go back home, and so on. And then it turns out that through the eating ritual, we actually do so many other things, but that didn't start today. If you think about the wedding parties, they have food, and then there is many of the concept of the happy hours for companies, and we have the birthday parties with cakes, and et cetera, and we have many kinds of celebrations. And then festivals, they usually have food as well. So, the food is everywhere, and they are next to it, or kind of, in a way, giving a framework there, either because we need, and we do that through food, or because we're doing a certain job, we need to get the food along the way. And that brings us to interesting whole experiences, like the hamburger moment with the family. And some people could judge that it's not certainly the healthier option there, right? But then, even people there, that they do a routine, a healthier program, routine, a healthier program, they have a healthier calendar, let's say, routine. Families, they kind of give allowance for a certain day, the burger experience with the family, and that's kind of like the moment where they allow, you know, the junkie moment, and that kind of thing. But they do pick, there's variability there. Some of them do pick even healthier burgers, non-healthier burgers, and that's a moment where they allow to drink soda, that sort of thing. So, I'm pointing here that the burger moment can be actually a kind of a party in a way. Maybe because, exactly, that resembles the exaggeration of the big parties. So, that's something to consider here. Not for the introduction, certainly. This should go within the first chapter, when I contextualize how food experiences are present in our lives.
+
+
+
+
+
+
+
+@@ bolha, menos é mais, chamar a atenção 
+
+* [ ] @todo - p1 - Expand the content in 110_visceral_different.txt
+
+* [ ] @todo - p1 - In "Mais é menos" - consider what "passa despercebido", como o menu de 256 tipos de pizza que ainda traz uma última opção “faça sua própria pizza”. 
+* [ ] @todo - p1 - In "Mais é menos" - iremos contar as moedinhas coloridas de chocolate das pizzas doces que nossos filhos adoram. 
+
+* [ ] @todo - p1 - In "Chamando a atenção" - Check the insight commnet - when the youngsters control technology ...like leading evangelists and docs and UI, and you don't know what goes on, like clichês, they follow. @refid-20250115-b9799716-e570-4886-a0ce-05632b32e0a3
+* [ ] @todo - p1 - In Chamar a atenção - Consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
+* [ ] @todo - p1 - In Chamar a atenção - check “lanche na piscina de cheddar”
+* [ ] @todo - p1 - In Chamar a atenção - check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
+
+
+
+
+
+
+
+
+
+
+@@ part 3, rescuing 
+
+* [ ] @todo  - p1 - In "Part Resgate," somewhere - [Ft. CG] Consider if the story told by Christian can fit within the case of the TV which has evolved at Café Pagliaroni, Ribeirão Preto. @ref-e-mail "Book - ADM - caso carta do Christian sobre uso de tecnologia, inteligência artificial, para acessibilidade" @refid-20241219-49086dd7-695e-4b8c-9352-beb99bcaee39
+
+
+* [ ] @todo - p1 - In "Tem remédio para isso" - Consider to make this one a final chapter. Consider to end with a final word, about not taking medicine, not being mad but also not following the movement. @refid-20241225-04d94cea-7b68-4d64-96ec-0a518e6e6f26
+
+* [ ] @todo - p1 - In "Tem remédio para isso" - #doves - Consider the case of the poster of "do not feed the Doves" at the hospital renowed in Ribeirão Preto. @refid-20241225-13ae5a5c-cb54-4291-844e-a7e6576a1e65
+
+
+
+
+
+
+
 
 
 
@@ -16,7 +105,11 @@
 
 
 
-* [ , anchored ] @todo @todo-editor - p1 - In "A estante da culinária" - Check the various people which Antonio Carluccio had mentioned. @refid-20241230-5d56f07e-b220-47c8-81dc-cf6582f942df ref "bárbaros, árabes, cartagineses, etruscos, fenícios, turcos, romanos, borbones, espanhois e austríacos "
+
+
+
+
+
 
 * [ , anchored ] @todo - p1 - In "Impossível possível" - Compare the pt-br translation of ChatGPT at https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0 with this one which was hand made. @refid-20241229-8d9ddb59-064f-4823-9e42-bb1d0b256a5a
 
@@ -29,11 +122,15 @@
 
 
 
-* [ , anchored ] @todo - p1 - In "Esse é diferente" - Consider to expand the story of the instant ramen. @refid-20241228-222b2af7-3492-419f-a4d0-c5d947a48b11
 
-* [ , anchored] @todo - p1 - In "Esse é diferente " - Try to simplify as short as - lacking values? @refid-20241228-522a5c5c-8bb5-4087-9d60-0de7e1a3b196
+* [ , anchored] @todo - p1 - In "Bolha, Vale Presente" (105_vale_presente.txt) - Check for "então" repetitive words. @refid-20250113-ee4b7591-3b42-4027-8b2a-de9bcb713c6c
 
-* [ , anchored] @todo - p1 - In "Esse é diferente" or "Tradicionalmente extraordinário"  - check the note from Dorothea Brande about purposeful action https://docs.google.com/document/d/1hLPFk83jwIaeOqI2qsYfO_LUMU07JYI9XqjGtg1BPiI/edit?tab=t.0 @refid-20241228-d1142f1c-c013-4686-976d-48d1f3927d3e
+
+
+
+
+
+
 
 * [ ] @todo - p1 - In Acelerados - Motoboys - "De qualquer forma chega também deformada porém por conta de uma entrega acelerada, das empinadas e da frequência de ressonância do escapamento sem miolo. Mas por quê reclamar? Nossas pizzas baratinhas, essas entre 10 a 15 dólares, são sobreviventes de um romance trágico escrito pelas ruas - vidas aceleradas.  Temos que manter nossa postura, nossa felicidade, até porque para cada pizza que chega eu sei que um jovem motoqueiro - futuro do Brasil - naquele dia não morreu. Sou feliz por saber que se a pizza não vem cortada é porque o chef pizzaiolo tá preocupado com a gente, com aquela rápida." 
 
@@ -48,15 +145,6 @@
 
 
 
-
-
-* [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
-
-* [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
-* [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
-
-* [ ] @todo - p1 - In "Cliente chato", consider my father and myself and this whole book. 
-* [ ] @todo - p1 - In "Cliente chato", check on rights, with @contact:OM, and notes in "Livro - além da marca - caso do quantitativo cantina Romar" ref "Aqui também é um lembrete de uma outra narrativa, que é a narrativa do não mudamos nada, de um consumidor bem crítico, que é um cliente fiel de uma cantina tradicional Ribeirão Preto, onde ele um dia falou que algo mudou em relação ao prato, e o novo gerente, que é descendente dos fundadores originais argumentou que nada mudou, e no argumento falou que as quantidades eram as mesmas, e como se naquele momento para esse cliente crítico a resposta já estava lá, como se ele tivesse dito exatamente, as quantidades são as mesmas e tudo começou assim, uma ideia, passar pelo quantitativo não significa nada talvez eram os ingredientes, ficou um momento um pouco tenso, talvez o jovem que está na liderança pode até não entender, se aquela pessoa está lá para criticar, somente por criticar, mas ali pelo menos foi um caso que passou mais para frente, onde esse jovem gerente viu o cliente lá e falou que gostaria de conversar mais com ele, estava interessado sim em melhorar, em trazer a identidade da cantina de volta, então pelo menos estamos aí um caso de alguém que se abriu, está aberto a ouvir"
 
 
 
@@ -77,7 +165,7 @@
 
 * [ , anchored] @todo - p1 - In "Parte 1, Fazejamento" - Consider, within the section "fornecedores", the case of the salesman pointed by Maslow and referred in the book Slow Down Start-up. @refid-20241219-948770ee-60e3-40ef-806f-57b54986e678
 
-* [ ] @todo - p1 - In "Part 1, Fazejamento Potencializado", Consider the citation from the video interview with Fabricio Morini. Ref "O que eu quis dizer no livro como abrir o foco é que, quando você se determina para fazer algo, entende o que vai fazer. Com esse bombardeio de informações que a gente recebe atualmente, nós não podemos nos desviar, temos que ser espartanos." (RÁDIO CBN, 2024, 25:06-25:12) @todo-reference RÁDIO CBN. Mundo Corporativo: tire sua ideia do PowerPoint e a faça funcionar no Excel, sugere Fabrício Morini. Entrevista com Fabrício Morini. Disponível em: https://www.youtube.com/watch?v=N0KpPraJ3eE. Acesso em: 18 dez. 2024. @refid-20241218-c0422296-76bc-44d5-8b6f-b72fbed7e012 
+* [ ] @todo - p1 - rating:5 - In "Part 1, Fazejamento Potencializado", Consider the citation from the video interview with Fabricio Morini. Ref "O que eu quis dizer no livro como abrir o foco é que, quando você se determina para fazer algo, entende o que vai fazer. Com esse bombardeio de informações que a gente recebe atualmente, nós não podemos nos desviar, temos que ser espartanos." (RÁDIO CBN, 2024, 25:06-25:12) @todo-reference RÁDIO CBN. Mundo Corporativo: tire sua ideia do PowerPoint e a faça funcionar no Excel, sugere Fabrício Morini. Entrevista com Fabrício Morini. Disponível em: https://www.youtube.com/watch?v=N0KpPraJ3eE. Acesso em: 18 dez. 2024. @refid-20241218-c0422296-76bc-44d5-8b6f-b72fbed7e012 
 
 * [ ] @todo - p2 -  In "Parte 1, Fazejamento Potencializado" - December  18th, 2024 - Consider the general startup idea of failing fast. It is cheaper to fail fast, etc. @refid-20241218-d7999ac6-911e-45f8-9bc3-a47d9677e50b
 
@@ -91,25 +179,22 @@
 
 
 
-* [ ] @todo - p1 - In "Tem remédio para isso" - Consider to make this one a final chapter. Consider to end with a final word, about not taking medicine, not being mad but also not following the movement. @refid-20241225-04d94cea-7b68-4d64-96ec-0a518e6e6f26
-
-* [ ] @todo - p1 - In "Tem remédio para isso" - Consider the case of the poster of "do not feed the Doves" at the hospital renowed in Ribeirão Preto. @refid-20241225-13ae5a5c-cb54-4291-844e-a7e6576a1e65
 
 
 
-
-* [ ] @todo  - p1 - In "Part Resgate," somewhere - [Ft. CG] Consider if the story told by Christian can fit within the case of the TV which has evolved at Café Pagliaroni, Ribeirão Preto. @ref-e-mail "Book - ADM - caso carta do Christian sobre uso de tecnologia, inteligência artificial, para acessibilidade" @refid-20241219-49086dd7-695e-4b8c-9352-beb99bcaee39
+@@ bolha 
 
 
 
 
 
+* [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
 
+* [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
+* [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
 
-
-
-
-* [ ] @todo - p1 - In "Foreword" - Consider to use the text which refers to Dorothea Brande, at the beginning in the Introduction, as Foreword text. @refid-20241218-507b6129-dde0-44ea-b852-ea12c86ddac4
+* [ ] @todo - p1 - In "Cliente chato", consider my father and myself and this whole book. 
+* [ ] @todo - p1 - In "Cliente chato", check on rights, with @contact:OM, and notes in "Livro - além da marca - caso do quantitativo cantina Romar" ref "Aqui também é um lembrete de uma outra narrativa, que é a narrativa do não mudamos nada, de um consumidor bem crítico, que é um cliente fiel de uma cantina tradicional Ribeirão Preto, onde ele um dia falou que algo mudou em relação ao prato, e o novo gerente, que é descendente dos fundadores originais argumentou que nada mudou, e no argumento falou que as quantidades eram as mesmas, e como se naquele momento para esse cliente crítico a resposta já estava lá, como se ele tivesse dito exatamente, as quantidades são as mesmas e tudo começou assim, uma ideia, passar pelo quantitativo não significa nada talvez eram os ingredientes, ficou um momento um pouco tenso, talvez o jovem que está na liderança pode até não entender, se aquela pessoa está lá para criticar, somente por criticar, mas ali pelo menos foi um caso que passou mais para frente, onde esse jovem gerente viu o cliente lá e falou que gostaria de conversar mais com ele, estava interessado sim em melhorar, em trazer a identidade da cantina de volta, então pelo menos estamos aí um caso de alguém que se abriu, está aberto a ouvir"
 
 
 
@@ -120,24 +205,70 @@
 
 
 
+* [ ] @todo - p1 - In "5 estrelas para mais rápido", Consider the case where Marcio had to pick up his food order, downstairs, and where he was for the first time, evaluated  - for pickiing up his food. @refid-20241222-5f25eae2-2958-4298-ac75-b865138375a5
+
+* [ ] @todo - p1 - In "5 estrelas para mais rápido" - Consider the case where Marcio were graded for picking up his food, going downstairs, for being hungry and having ordered. Note: So here is a remark, I am considering an idea that is not yet in the book, but I think it's worth it. And it has to do with an experience that I had where I was, to a certain extent, required to grade the delivery person. And this kind of pressure is not uncommon in Brazil, for instance, among Uber drivers. But then this time was pretty new to me because I was not expecting the delivery boy from the motorcycle to tell me that he gave me five stars. And in the circumstances of my apartment, actually, normally they deliver at the entrance, and that's it, that's just about delivery of the food. And I am the person that gives them stars. But this day, I was hungry, and I ended up going downstairs and waiting there. And then he told me that he gave me five stars because I did a good job, something like that. And the tone were of a pressure, I felt, but I couldn't understand because it was totally new for me. And I was, when I came back to the apartment with the pizza in my hand, I was wondering, oh, how interesting, I was just graded for doing the job of picking up the food that I already ordered and I wanted in the first place. @refid-20241212-3990c882-2f5f-491b-928a-493e1f46cbb6
+
+* [ ] @todo - p1 - In "5 estrelas para mais rápido", - consider the case of "Iremos estar juntos, na garoupa das motocicletas, sentindo o som do escapamento sem miolo e cruzando o sinal vermelho, observando o suave nadar das fatias de peperoni." @refid-20241212-c1e92cc2-0b6a-4691-917c-506b18e86b57
+
+* [ ] @todo - p1 - In "5 estrelas para mais rápido" - Consider the case of "não chegou a pizza, porque o motoboy se acidentou" which has happened with my brother in law. @refid-20241212-73a5c7f2-8aab-4c0c-ab55-c95a5687b392
 
 
 
 
 
 
-* [ , ] @todo - p1 - In "Part 1, communications - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB
-
-* [ , anchor] - @todo - p1 - In "Part 1, Communications" - Consider the #dup reference to the (5 stars) case of the shopping center promotion. @refid-20241217-be8f95de-095e-4a5a-9aa9-84e578ff9972
-
-* [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
 
 
 
 
 
 
+* [ ] @todo - p1 - In "Esse é diferente" Check if we have honored the e-mail entitled "Livro - além da marca - cultura e tradição o lado bom" which may offer insights about the special things from the things special from the past, and how we may actually misunderstand things, and how we may sometimes fall into the situation of missing the point about the past. @refid-20250115-a83c7ff8-d3a1-4c0e-8069-735a7de99bb3
 
+* [ , anchored ] @todo - p1 - In "Esse é diferente" - Consider to expand the story of the instant ramen. @refid-20241228-222b2af7-3492-419f-a4d0-c5d947a48b11
+
+* [ , anchored] @todo - p1 - In "Esse é diferente " - Try to simplify as short as - lacking values? @refid-20241228-522a5c5c-8bb5-4087-9d60-0de7e1a3b196
+
+* [ , anchored] @todo - p1 - In "Esse é diferente" or "Tradicionalmente extraordinário"  - check the note from Dorothea Brande about purposeful action https://docs.google.com/document/d/1hLPFk83jwIaeOqI2qsYfO_LUMU07JYI9XqjGtg1BPiI/edit?tab=t.0 @refid-20241228-d1142f1c-c013-4686-976d-48d1f3927d3e
+
+
+
+
+
+
+* [ ] @todo - p1 - In values and progress In #progress #buildtolast #core "Values and progressing" - Edit this chapter to consider the case of Brazilian mayonese, or "Batatonese" and the the Spanish contribution to this domain. As I spent 30 days in Spain, having found many places with that "mayo salad" which they called "Russian salad" or "Ensaladita" I end up redefining my views. In other words, Spain helped me to rethink possibilities for this thing which I thought was pretty much too basic to accept changes. So here is a reflection about when we anchor ourselves around one way of doing, static, it's when we lose the opportunity. 
+
+* [ ] @todo - p1 - In values and progress In #progress #buildtolast #core "Values and progressing", after we arrive at concept from Build to Last, consider the insight from Dorothea Brande's about how it feels, an apparent trick? Where the progress with "purposeful action" feels fast, and her point that purposeful action is stronger. (Ref 160_progressing_with_no_core)
+
+* [ ] @todo - p1 - In values and progress In #progress #buildtolast #core - Bring the case of Jim Collins into the subject, the case of entrepreneurs. Ref /  as we consider this idea we should incorporate here the ideas from Jim Collins and Jerry Porras, through the book Build to Last, where they present the concept of "preserve the core, and stimulate progress". (Ref 160_progressing_with_no_core)
+
+
+
+
+
+
+
+
+* [ , ] @todo - p2 - In "Design holístico" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
+
+* [ , further] @todo - p1 - In "Design holístico" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
+
+* [ ] @todo - p1 - In "design holistico", Need to translate from the English to pt-br, and adjust the Airbnb story to make sense in the context. 
+* [ ] @todo - p1 - In "design holístico", consider the insight that Spielberg had learned through the relationship  with John Willians - article  https://br.ign.com/cinema-tv/132789/news/achei-que-fosse-uma-piada-ha-50-anos-steven-spielberg-nao-percebeu-que-estava-ouvindo-uma-das-maiore
+
+
+
+
+
+
+
+
+
+
+
+
+* [ ] @todo - p1 - In spaceships - Check the e-mail entitled "Livro - projeto - além da marca - depois que estado de excelência é conquistado" which talks about the apparent situation of stagnation but, on the other hand, considers how the existance of the place does a social function, for example to new customers; but its existance, its functional operation. This note also makes a reference to a letter which may have been sent to Pagliaroni where Marcio talked about families at Pagliarone, about babies crying and the cartoon book which was given to the kid. @refid-20250115-b2f07faa-337f-4307-8f5b-91d389cfdb49
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Translate the story of the extended experience at Experiencia, to pt-br. @refid-20241216-27abb370-76a5-4e00-b6be-12934abea5f4
 
@@ -154,29 +285,9 @@
 
 
 
-* [ ] @todo - p1 - In all - Consider the use of blast images within the chapters or articles, to bring some fun to the book. An example is the "blast-motoboy.jpg" image. 
+* [ , anchored ] @todo @todo-editor - p1 - In "A estante da culinária" - Check the various people which Antonio Carluccio had mentioned. @refid-20241230-5d56f07e-b220-47c8-81dc-cf6582f942df ref "bárbaros, árabes, cartagineses, etruscos, fenícios, turcos, romanos, borbones, espanhois e austríacos "
 
-* [ ] @todo - p1 - In "5 estrelas para mais rápido", Consider the case where Marcio had to pick up his food order, downstairs, and where he was for the first time, evaluated  - for pickiing up his food. @refid-20241222-5f25eae2-2958-4298-ac75-b865138375a5
-
-* [ ] @todo - p1 - In "5 estrelas para mais rápido" - Consider the case where Marcio were graded for picking up his food, going downstairs, for being hungry and having ordered. Note: So here is a remark, I am considering an idea that is not yet in the book, but I think it's worth it. And it has to do with an experience that I had where I was, to a certain extent, required to grade the delivery person. And this kind of pressure is not uncommon in Brazil, for instance, among Uber drivers. But then this time was pretty new to me because I was not expecting the delivery boy from the motorcycle to tell me that he gave me five stars. And in the circumstances of my apartment, actually, normally they deliver at the entrance, and that's it, that's just about delivery of the food. And I am the person that gives them stars. But this day, I was hungry, and I ended up going downstairs and waiting there. And then he told me that he gave me five stars because I did a good job, something like that. And the tone were of a pressure, I felt, but I couldn't understand because it was totally new for me. And I was, when I came back to the apartment with the pizza in my hand, I was wondering, oh, how interesting, I was just graded for doing the job of picking up the food that I already ordered and I wanted in the first place. @refid-20241212-3990c882-2f5f-491b-928a-493e1f46cbb6
-
-* [ ] @todo - p1 - In "5 estrelas para mais rápido", - consider the case of "Iremos estar juntos, na garoupa das motocicletas, sentindo o som do escapamento sem miolo e cruzando o sinal vermelho, observando o suave nadar das fatias de peperoni." @refid-20241212-c1e92cc2-0b6a-4691-917c-506b18e86b57
-
-* [ ] @todo - p1 - In "5 estrelas para mais rápido" - Consider the case of "não chegou a pizza, porque o motoboy se acidentou" which has happened with my brother in law. @refid-20241212-73a5c7f2-8aab-4c0c-ab55-c95a5687b392
-
-
-
-
-
-* [ , ] @todo - p2 - In "Design holístico" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
-
-* [ , further] @todo - p1 - In "Design holístico" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
-
-
-
-
-
-* [ ] @todo - p1 - In Foreword or Postword - check e-mail and transcribe, ref "Todo - book - thought on foreword or postword" ref this was written in the yellow note book. @refid-20241210-43b1a307-a214-4c44-ab43-edf49156cde0
+* [ ] @todo - p1 - In "Spaceships" or "Estante da culinária" - Check the e-mail entitled "project / book / além da marca / capítulo estabelecimento zen" which talks about the possibility that an establishment is a value-genration enviroment not only for customers but also for the crew. Marcio talks about all places, spaces, to become a space of opportunity for people to interact, to be calm, to be friends; and how that model has a lot to offer. To somme extent, perhaps, this model is what many companies don't want - like to be too much oriented to therapeutic function - but on the other hand, many companies also in the end of the day are working likely because of the growth function that is associated with some therapeutic aspects. [ ] Check too that Brian Chesky may have communicated in the recent days that he does not like 101 because these meetings end up being therapy meetings. This may be a good article to check - because it comes from  Brian. @refid-20250115-27167de8-328d-49e7-bc58-986e33a24a38
 
 * [ , ] @todo - p2 - In "A estante da culinária" -  #Future #bookintroductions - Consider to also incorporate the ideas from the introduction of the book "La Cocina Sagrada" which finds the sweet spot among religions.  @note Check - One point from the book, open quote, La Cotina Sagrada, end quote, by Deborah Chomsky, in its introduction, it says, recognize that society is changing with its cultures, religions, different beliefs, literally, mosaic, human and social. And she recognized the need to learn from the plural society. She uses the term Torre de Babel, the Babel Tower, which culture through cultures and gastronomy. She wonders, open quote, Nos cerramos a tal diversidad o aprendemos de los otros y nos enriquecemos con estas nuevas perspectivas, end quote, of course in Spanish. She says that the purpose is the plural plural cooking, or open quote in Spanish, Cotina Plural es la propuesta final de este libro, como para ayudarnos a entender el futuro como cada vez más complejo y global, period, end quote. She makes a point that she is going to cover, to the reader, to discover aspects related to food and spirituality through five different religious cultures, more traditional ones, Hinduism, Judaism, Christianism, Islamism, Buddhism. She claims that through that perspective, we will be able to understand the meaning of the festivities they have and the food and the value from each culture. @refid-20241210-4b9b2000-ce87-48be-a7ae-fa8725566440
 
@@ -184,59 +295,9 @@
 
 * [ , ] @todo - p1 - In "A estante da culinária" - Consider the case which @Contact:RCS had mentioned after visiting the VegFest in São Paulo, the topic of a transition of Fugini from a bolonhesa sauce to steps of evolution with soy, and then a bolonhesa like sauce entirely with soy. https://www.fugini.com.br/produtos/atomatados/105/molho-de-tomate-premium-fugini-sache-300g @refid-20241210-3e531059-883f-472b-8354-bcc1ebbd3047
 
-* [ ] @todo - p1 - In "Accelerated ... " - This is a reminder for Márcio that he should be considering the case of the kids' buffet in Brazil where they serve the surprise tower within the PVC plastic tube. The surprise tower consists of potato, bacon, cheddar and these things all stuffed in a vertical tube which is basically the same tube that is used for the underground, how to say in Portuguese is the underground canos de esgoto and then when you order there is the experience of lifting the tube so that the materials are placed in a plate. @refid-20241210-67f4e1af-3221-42b9-927c-5be2318f8bfb
-
-* [ ] @todo - p1 - In values and progress In #progress #buildtolast #core "Values and progressing" - Edit this chapter to consider the case of Brazilian mayonese, or "Batatonese" and the the Spanish contribution to this domain. As I spent 30 days in Spain, having found many places with that "mayo salad" which they called "Russian salad" or "Ensaladita" I end up redefining my views. In other words, Spain helped me to rethink possibilities for this thing which I thought was pretty much too basic to accept changes. So here is a reflection about when we anchor ourselves around one way of doing, static, it's when we lose the opportunity. 
-
-* [ ] @todo - p1 - In values and progress In #progress #buildtolast #core "Values and progressing", after we arrive at concept from Build to Last, consider the insight from Dorothea Brande's about how it feels, an apparent trick? Where the progress with "purposeful action" feels fast, and her point that purposeful action is stronger. (Ref 160_progressing_with_no_core)
-
-* [ ] @todo - p1 - In values and progress In #progress #buildtolast #core - Bring the case of Jim Collins into the subject, the case of entrepreneurs. Ref /  as we consider this idea we should incorporate here the ideas from Jim Collins and Jerry Porras, through the book Build to Last, where they present the concept of "preserve the core, and stimulate progress". (Ref 160_progressing_with_no_core)
-
-* [ ] @todo - p1 - In "Mais é menos" - consider what "passa despercebido", como o menu de 256 tipos de pizza que ainda traz uma última opção “faça sua própria pizza”. 
-* [ ] @todo - p1 - In "Mais é menos" - iremos contar as moedinhas coloridas de chocolate das pizzas doces que nossos filhos adoram. 
-
-
-* [ ] @todo - p1 - In Chamar a atenção - Consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
-* [ ] @todo - p1 - In Chamar a atenção - check “lanche na piscina de cheddar”
-* [ ] @todo - p1 - In Chamar a atenção - check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
-
-* [ ] @todo - p1 - In the 3rd part, consider the notion of "pasteurização do passado" ref from the chapters structure "Em “A pasteurização, do passado”, consideramos uma situação paradoxal, dado que certas experiências do passado, como o bolinho de bacalhau, ainda existem mas em uma versão “sem graça” onde o público jovem não vê nada demais enquanto os antigos que provaram da versão original se decepcionam. Celebraremos, com tom de tristeza e saudosismo, como muitas experiências gastronômicas correm risco de extinção."
-
-* [ ] @todo - p1 - Expand the content in 110_visceral_different.txt
-
-
-* [ ] @todo - p1 - In "design holistico", Need to translate from the English to pt-br, and adjust the Airbnb story to make sense in the context. 
-* [ ] @todo - p1 - In "design holístico", consider the insight that Spielberg had learned through the relationship  with John Willians - article  https://br.ign.com/cinema-tv/132789/news/achei-que-fosse-uma-piada-ha-50-anos-steven-spielberg-nao-percebeu-que-estava-ouvindo-uma-das-maiore
 
 
 
 
 
-
-
-* [ ] @todo - p1 - #JTDB #categories #rise - "So, when I talk about the jobs to be done through the introduction, I guess, or maybe not, actually within part one, talking about the world and the need for us to actually create these spaces or experience that gives us the opportunity to advance with the actual other higher order jobs that we need to be done, I have actually referred to the jobs to be done theory, and then we have these spaces, these experiences, these eating experiences in the middle. Now, of course, the initial question there would be to consider that we just need to eat and then continue to do our stuff, right? So, what pretty much we have in front of us is that occasionally we need to eat. Now, with that said, the eating kind of goes along with the actual next step for us, and that's why in the theory of the jobs to be done, the milkshake case comes in handy because we are, to a certain extent, parallelizing and walking along with the food experience. Maybe part of this situation is because we are not anymore giving ourselves the time we need to eat, we cannot go back home, and so on. And then it turns out that through the eating ritual, we actually do so many other things, but that didn't start today. If you think about the wedding parties, they have food, and then there is many of the concept of the happy hours for companies, and we have the birthday parties with cakes, and et cetera, and we have many kinds of celebrations. And then festivals, they usually have food as well. So, the food is everywhere, and they are next to it, or kind of, in a way, giving a framework there, either because we need, and we do that through food, or because we're doing a certain job, we need to get the food along the way. And that brings us to interesting whole experiences, like the hamburger moment with the family. And some people could judge that it's not certainly the healthier option there, right? But then, even people there, that they do a routine, a healthier program, routine, a healthier program, they have a healthier calendar, let's say, routine. Families, they kind of give allowance for a certain day, the burger experience with the family, and that's kind of like the moment where they allow, you know, the junkie moment, and that kind of thing. But they do pick, there's variability there. Some of them do pick even healthier burgers, non-healthier burgers, and that's a moment where they allow to drink soda, that sort of thing. So, I'm pointing here that the burger moment can be actually a kind of a party in a way. Maybe because, exactly, that resembles the exaggeration of the big parties. So, that's something to consider here. Not for the introduction, certainly. This should go within the first chapter, when I contextualize how food experiences are present in our lives.
-
-* [ ] Book - ADM - Book - livro - adm - tecnologia trabalho e linguagem, incorporate into book - Saturday, November 23⋅6:45 – 7:45pm - https://docs.google.com/document/d/11tM9McRL6zSA9Jf3OLY1WvPtZpU8LxXYBARfHYf8fSA/edit?usp=drivesdk - Incorporagted into part 1  - https://docs.google.com/document/d/11tM9McRL6zSA9Jf3OLY1WvPtZpU8LxXYBARfHYf8fSA/edit?tab=t.0
-
-* [ ] Book - ADM - introduction - review points - Deslocamento - to the reader, to be out of that situation which we all know what it is, when we are taken. And this is so, detachment set us together because this material was brought because of detachment, as I had experience, years and years working from these places, not being there as I will explain. 
-
-* [ ] Case of cold egg São Carlos - Uma vez em São Carlos, olhei para a janelinha de onde saiam as comidas de uma das lojas de uma conhecida franquia de fast food e lá tinha uma folha A4 pregada com umas 5 sentenças para lembrar os colaboradores da relação  entre o ovo e o cliente: O cliente não aceita o ovo frio, nunca servir um ovo frio, o lanche deve ser feito com o ovo quente, e outras 2 que diziam a mesma coisa.  
-
-* [ ] Check the insight commnet - when the youngsters control technology ...like leading evangelists and docs and UI, and you don't know what goes on, like clichês, they follow. 
-
-* [ ] Get the summary, short, which was sent as the introduction message in the letter to Senac, which can be found in the reply e-mail from Senac. That as one of the shortest explanations, seem amazing. 
-
-* [ ] Check e-mail entitled "Book - além da marca - noticing the communication" Whicih could be helpful to the first part of the book where it offers a way to think about how we "get going" with life or how we fall out of a parashoot situation. This section offers a context to an essay that touches in ideas from Walter Fisher (Narrative Paradigm), Peter Drucker, and others. 
-
-* [ ] Check e-mail and audio - "queijo and uber" 
-
-* [ ] Check the e-mail entitled "Livro - projeto - além da marca - depois que estado de excelência é conquistado" which talks about the apparent situation of stagnation but, on the other hand, considers how the existance of the place does a social function, for example to new customers; but its existance, its functional operation. This note also makes a reference to a letter which may have been sent to Pagliaroni where Marcio talked about families at Pagliarone, about babies crying and the cartoon book which was given to the kid. 
-
-* [ ] Check the e-mail entitled "Livro - além da marca - cultura e tradição o lado bom" which may offer insights about the special things from the things special from the past, and how we may actually misunderstand things, and how we may sometimes fall into the situation of missing the point about the past. 
-
-* [ ] Check the e-mail entitled "project / book / além da marca / capítulo estabelecimento zen" which talks about the possibility that an establishment is a value-genration enviroment not only for customers but also for the crew. Marcio talks about all places, spaces, to become a space of opportunity for people to interact, to be calm, to be friends; and how that model has a lot to offer. To somme extent, perhaps, this model is what many companies don't want - like to be too much oriented to therapeutic function - but on the other hand, many companies also in the end of the day are working likely because of the growth function that is associated with some therapeutic aspects. [ ] Check too that Brian Chesky may have communicated in the recent days that he does not like 101 because these meetings end up being therapy meetings. This may be a good article to check - because it comes from  Brian. 
-
-* [ ] Check the e-mail entitled "Livro - além da marca - fazer não fazer reclamar fazer acontecer e necessidade de expressão" which almost brings up a point "chicken and the egg problem" but somehow I could not yet figure the motivational point. It may be about giving collaborators the opportunity to express some of their pains, about creating some possible channels. 
-
-* [Cut] Check the e-mail entitled "Livro - além da marca - tecnologias painéis" which refer to the experience acquired with the Tela Social project, and the idea that screens, and communication "through hallways" could actually be used in virtuous ways to help the development of the team. 
 

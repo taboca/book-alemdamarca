@@ -15,6 +15,8 @@
 
 @todo 
 
+* [ ] @todo - p1 - In "Esse é diferente" Check if we have honored the e-mail entitled "Livro - além da marca - cultura e tradição o lado bom" which may offer insights about the special things from the things special from the past, and how we may actually misunderstand things, and how we may sometimes fall into the situation of missing the point about the past. @refid-20250115-a83c7ff8-d3a1-4c0e-8069-735a7de99bb3
+
 * [ , anchored ] @todo - p1 - In "Esse é diferente" - Consider to expand the story of the instant ramen. @refid-20241228-222b2af7-3492-419f-a4d0-c5d947a48b11
 
 * [ , anchored] @todo - p1 - In "Esse é diferente " - Try to simplify as short as - lacking values? @refid-20241228-522a5c5c-8bb5-4087-9d60-0de7e1a3b196
