@@ -18,6 +18,13 @@
 --> 
 
 
+<!--
+v0.1 - https://docs.google.com/document/d/1IBrMCipiDK2A9Sa9U6Tkw999e9cdQsmUCg9VwLkK8W4/edit?tab=t.0 
+
+v0.2 next 
+
+--> 
+
 
 Recentemente fiz um pedido de um lanche pelo aplicativo. Chegou. Pacote grande, bonito. E dentro, uma caixa retangular de papelão, tipo barra de ouro. Abri a caixa e encontrei o lanche. Fiquei feliz porque não era pequeno e acompanhava o tamanho da embalagem. Na sequência percebi uma frase, escrita em preto no interior de fundo branco, com fonte grande ao longo da extensão da caixa, que dizia “Não basta ser diferente, tem que ser surpreendente”. 
 
@@ -25,7 +32,20 @@ Enfim, avancei. Quando terminei de comer o lanche, pensei sobre tudo aquilo: sob
 
 Então, agora, a lojinha de hot dog da esquina pode comprar soluções “a granel” para qualquer necessidade. Ela facilmente encontrará soluções especializadas - certamente profissionais. Mas também corre o risco de empacotar - profissionalmente - experiências sem graça, ou confusas, ou que não agregam a longo prazo, ou confundem. Nesta situação, nos perdemos, com falta de coerência e sem propósito. 
 
-Em parte fiquei frustrado porque aquela frase me fez lembrar do “Pense diferente” (Think Different) dos dias de ouro da Apple; sobre coisas que o Steve Jobs dizia sobre o que significa diferente, por exemplo sobre como é complexo inventar coisas simples. Talvez o que acontecia aqui é tudo que o Steve Jobs não gostaria, quando atropelamos o diferente que quer ser simples e corremos atrás do surpreendente. Sobre isso, sabemos algumas coisas, todo Brasileiro conhece uma tal inclinação para “chamar a atenção”. 
+Em parte fiquei frustrado porque aquela frase me fez lembrar do “Pense diferente” dos dias de ouro da Apple; sobre as coisas que o Steve Jobs disse quando ele havia voltado para, digamos assim, recuperar a Apple. Antes de lançar aquela campanha "Think Different", ele fez questão de falar sobre valores: 
+
+<!--
+@note-refai @refid-20250116-620a0879-d22a-4f57-b590-f1589ecaccba - https://chatgpt.com/share/67897620-02c4-8011-9ff5-a88e09f6c64c
+-->
+
+> *"Para mim, marketing é sobre valores. Este é um mundo muito complicado; é um mundo muito barulhento, e não vamos ter muitas chances de fazer as pessoas se lembrarem muito sobre nós. Nenhuma empresa terá. Então, precisamos ser realmente claros sobre o que queremos que elas saibam sobre nós."* (JOBS, 1997)
+
+<!--
+@references
+* reference - JOBS, Steve. Get much simpler, be really clear - Sept. 23, 1997. YouTube, 1 jun. 2012. Disponível em: https://www.youtube.com/watch?v=jMSa9sSZpF8. Acesso em: 16 jan. 2025.
+-->
+
+O que Steve nos deixou, sobre essa ideia de ser diferente, ou pensar diferente, é justamente sobre o diferente que é simples, o diferente simples que cria experiências memoráveis, e sobre o trabalho verdadeiro que faz com que as coisas sejam lembradas. Quando o este diferente é atropelado querendo ser surpreendente é exatamente o que Steve Jobs não queria, é só faz barulho, como quando nos pegamos procurando aquele tal movimento de “chamar a atenção”. 
 
 Para começarmos essa reflexão, o mundo do cinema pode nos ajudar, especialmente o renomado professor de escrita de roteiro de cinema, Robert McKee. Ele foi perguntado sobre os grandes desafios para um roteirista de primeira viagem, “com o que deveriam se preocupar?”. Ele apontou para a questão do clichê. Disse que o jovem roteirista deve aprender sobre clichês.
 
@@ -78,6 +98,13 @@ Agora, imagine estar diante dessa lista de opções cada vez que você precisa d
 
 ### Trio elétrico 
 
+
+
+
+### Reflexão 
+
+
+Agora, esses potes de soluções estão por toda parte. Reflita sobre os serviços, metodologias, sistemas. Perceba como tudo ao seu redor está prometendo algo. Perceba como tudo é atraente. Como tudo, como diria o brasileiro, chama atenção. Note como você provavelmente está preso na categoria de uma promessa, como um carro, uma pizza ou uma metodologia para expandir sua startup. Perceba como provavelmente estamos comparando opções e nos orgulhando de procurar a melhor oferta entre elas. Perceba como somos puxados para tomar decisões, para seguir em frente. Perceba como as consequências de decidir têm menos a ver com a promessa original e como soluções e decisões geram outros eventos.
 
 
 
