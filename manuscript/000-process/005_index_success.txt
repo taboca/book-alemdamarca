@@ -1,5 +1,7 @@
 ## Done 
 
+* [ Done , anchored ] @todo-index @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
+
 * [Cut] Check the e-mail entitled "Livro - além da marca - tecnologias painéis" which refer to the experience acquired with the Tela Social project, and the idea that screens, and communication "through hallways" could actually be used in virtuous ways to help the development of the team. 
 
 * [ Done, ] @todo - p1 - In "Accelerated ... " - (ref-file: 130_mundo_cao.txt) This is a reminder for Márcio that he should be considering the case of the kids' buffet in Brazil whpvc

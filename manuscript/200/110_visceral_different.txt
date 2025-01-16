@@ -26,7 +26,7 @@ v0.2 next
 --> 
 
 
-Recentemente fiz um pedido de um lanche pelo aplicativo. Chegou. Pacote grande, bonito. E dentro, uma caixa retangular de papelão, tipo barra de ouro. Abri a caixa e encontrei o lanche. Fiquei feliz porque não era pequeno e acompanhava o tamanho da embalagem. Na sequência percebi uma frase, escrita em preto no interior de fundo branco, com fonte grande ao longo da extensão da caixa, que dizia “Não basta ser diferente, tem que ser surpreendente”. 
+Recentemente fiz um pedido de um lanche pelo aplicativo. Chegou. Pacote grande, bonito. E dentro, uma caixa retangular de papel, daquelas tipo barra de ouro. Abri. Fiquei feliz que o lanche não era pequeno, que acompanhava a extensão da embalagem. Na sequência, tinha uma frase que acompanhava também toda a extensão, e dizia que "não basta ser diferente, tem que ser surpreendente". 
 
 Enfim, avancei. Quando terminei de comer o lanche, pensei sobre tudo aquilo: sobre a embalagem, sobre o lanche e sobre a frase. Conclui que o que me surpreendeu foi a frase. Também pensei no problema da “agência” que se envolveu com essas frases: talvez eles gastaram a frase “Não basta ser igual, tem que ser diferente!” no lote anterior. Qual seria a próxima frase para o próximo lote de 1000 embalagens? 
 
@@ -45,17 +45,29 @@ Em parte fiquei frustrado porque aquela frase me fez lembrar do “Pense diferen
 * reference - JOBS, Steve. Get much simpler, be really clear - Sept. 23, 1997. YouTube, 1 jun. 2012. Disponível em: https://www.youtube.com/watch?v=jMSa9sSZpF8. Acesso em: 16 jan. 2025.
 -->
 
-O que Steve nos deixou, sobre essa ideia de ser diferente, ou pensar diferente, é justamente sobre o diferente que é simples, o diferente simples que cria experiências memoráveis, e sobre o trabalho verdadeiro que faz com que as coisas sejam lembradas. Quando o este diferente é atropelado querendo ser surpreendente é exatamente o que Steve Jobs não queria, é só faz barulho, como quando nos pegamos procurando aquele tal movimento de “chamar a atenção”. 
+O que Steve nos deixou sobre aquela ideia de ser diferente - ou pensar diferente - é justamente sobre o diferente simples que cria experiências memoráveis, sobre o trabalho verdadeiro que vem antes das coisas que são lembradas. Agora me pareceu que aquele diferente não só foi ignorado mas também atropelado, atropelado justamente pelo movimento ansioso que quer ser surpreendente, exatamente o que Steve Jobs não queria, o movimento que só faz barulho. Muito sabemos sobre isso, quando nos pegamos procurando por um jeito de “chamar a atenção". 
 
-Para começarmos essa reflexão, o mundo do cinema pode nos ajudar, especialmente o renomado professor de escrita de roteiro de cinema, Robert McKee. Ele foi perguntado sobre os grandes desafios para um roteirista de primeira viagem, “com o que deveriam se preocupar?”. Ele apontou para a questão do clichê. Disse que o jovem roteirista deve aprender sobre clichês.
+Mas é lógico, não foi o Brasileiro que inventou a tal da vontade de chamar a atenção. O mundo do cinema tem algo a nos dizer sobre isso. Quando o renomado professor de roteiro de cinema, Robert McKee, foi entrevistado sobre os maiores erros do jovem roteirista, ele apontou a questão dos clichês como um dos grandes problemas: 
 
-Na sequência, ele reconheceu que uma vez que aprendem sobre como fazer clichês, eles não voltam mais. Eles vendem suas almas.  Pensando sobre isso, lembrei sobre aquela situação, quando criticamos o cinema americano, quando dizemos que “este é um típico filme americano.” O triste é isso, um volume de material na nossa frente, que como uma névoa nos confunde: achamos que o cinema americano é isso. E é lógico, como não ser percebido assim quando um volume gigantesco de filmes se sustenta assim? Essa névoa esconde o que Robert McKee gostaria que fosse o cinema americano, o que nos cativa com roteiros clássicos e inesquecíveis.
+<!--
+@note-refai @refid-20250116-a7217570-7207-42e1-8ab3-9611aacb25ba https://chatgpt.com/share/67897e37-0278-8011-bcb0-fc68ab852223
+--> 
 
-É triste, para um bom professor de cinema, ver tantos filmes moldados e saturados de clichês, essencialmente orientados por essa pressão. Triste também, porque vende. De forma análoga, devemos refletir sobre como criamos narrativas - nas embalagens, nas apresentações e na experiência gastronômica - também guiadas por clichês. Em outras palavras, assim como os roteiristas de primeira viagem que vendem suas almas para o mundo dos clichês, de repente caímos de paraquedas pensando que é assim mesmo que se faz, tipo assim, “chamando a atenção”, que é a regra do mercado, que é nossa realidade, o que a audiência quer. Enquanto isso, essencialmente usamos nossa energia nos posicionando bem no meio da briga do mercado, mais um no meio dos milhares de estabelecimentos que querem ser surpreendentes, esquecendo que poderíamos surfar no mundo do diferente. E ainda, contribuindo e intensificando a névoa que encobre o que é - ou foi ou deveria ser - a verdadeira experiência gastronômica brasileira. 
+> *"Eles querem ser originais, mas, ao mesmo tempo, querem ter certeza de que vai funcionar. Então, eles reciclam as coisas que todo mundo sempre fez e tentam reciclá-las com uma diferença, o que é absolutamente necessário—eu entendo. Você não vai reinventar a roda; precisa apenas girá-la de uma maneira diferente. Mas aí eles ficam muito... sabe, uma vez que vendem a alma, é difícil recuperá-la."*  (McKee, 2021, min. 10:02).
+
+
+<!--
+@references
+* reference - MCKEE, Robert. The Art of Story, Dialogue and Character with Robert McKee (Free Masterclass). Indie Film Hustle Podcast, 2021. Disponível em: https://youtu.be/ITSu9IbCr9Q?si=Hlor67yz8ssVGeVX. Acesso em: 16 jan. 2025.
+-->
+
+Pensando sobre isso, lembrei sobre aquela situação, por exemplo quando criticamos o cinema americano e dizemos que “este é um típico filme americano.” O triste é isso, o volume de material em nossa frente, como uma névoa, que nos confunde. E é lógico, nos perdemos nessa névoa que esconde o que Robert McKee chamaria de verdadeiro cinema americano, ou verdadeiro cinema, aquele que nos cativa, mesmo com roteiros clássicos, de forma inesquecível. 
+
+E é triste porque vende. E de forma análoga, criamos narrativas - para as embalagens, apresentações ou toda a experiência gastronômica - nos orientando reciclando, e pilhando, mais do mesmo, seguindo o modelo dos clichês. Em outras palavras, assim como os roteiristas de primeira viagem que vendem suas almas para o mundo dos clichês, não só caímos de paraquedas nessa onda mas aceitamos, inclusive com muito orgulho, buscando “chamar a atenção” como sendo a regra do mercado, assumindo que é a nossa realidade e que é isso que a audiência quer. Enquanto o tempo passa, infelizmente e essencialmente, é a nossa energia que está em jogo. Ficamos bem posicionados na briga do mercado, como mais um no meio dos milhares de outros estabelecimentos que também lutam para serem surpreendentes, ignorando que poderiam surfar no mundo daquele diferente. E ainda, intensificando a névoa que encobre o que é - ou foi ou deveria ser - a verdadeira experiência gastronômica brasileira. 
 
 <!--
 @todo 
-* [ , anchored ] @todo-index @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
+* [ Done , anchored ] @todo-index @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
 --->
 
 Neste sentido, seguem três cenas para nossa observação e posterior reflexão. 
