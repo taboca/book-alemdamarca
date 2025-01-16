@@ -3,6 +3,24 @@
 
 
 
+@@ bolha, menos é mais, chamar a atenção 
+
+* [ , anchored ] @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
+
+* [ ] @todo - p1 - Expand the content in 110_visceral_different.txt
+
+* [ ] @todo - p1 - In "Mais é menos" - consider what "passa despercebido", como o menu de 256 tipos de pizza que ainda traz uma última opção “faça sua própria pizza”. 
+* [ ] @todo - p1 - In "Mais é menos" - iremos contar as moedinhas coloridas de chocolate das pizzas doces que nossos filhos adoram. 
+
+* [ ] @todo - p1 - In "Chamando a atenção" - Check the insight commnet - when the youngsters control technology ...like leading evangelists and docs and UI, and you don't know what goes on, like clichês, they follow. @refid-20250115-b9799716-e570-4886-a0ce-05632b32e0a3
+* [ ] @todo - p1 - In Chamar a atenção - Consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
+* [ ] @todo - p1 - In Chamar a atenção - check “lanche na piscina de cheddar”
+* [ ] @todo - p1 - In Chamar a atenção - check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
+
+
+
+
+
 
 @@ general 
 
@@ -57,19 +75,6 @@
 
 
 
-
-
-@@ bolha, menos é mais, chamar a atenção 
-
-* [ ] @todo - p1 - Expand the content in 110_visceral_different.txt
-
-* [ ] @todo - p1 - In "Mais é menos" - consider what "passa despercebido", como o menu de 256 tipos de pizza que ainda traz uma última opção “faça sua própria pizza”. 
-* [ ] @todo - p1 - In "Mais é menos" - iremos contar as moedinhas coloridas de chocolate das pizzas doces que nossos filhos adoram. 
-
-* [ ] @todo - p1 - In "Chamando a atenção" - Check the insight commnet - when the youngsters control technology ...like leading evangelists and docs and UI, and you don't know what goes on, like clichês, they follow. @refid-20250115-b9799716-e570-4886-a0ce-05632b32e0a3
-* [ ] @todo - p1 - In Chamar a atenção - Consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
-* [ ] @todo - p1 - In Chamar a atenção - check “lanche na piscina de cheddar”
-* [ ] @todo - p1 - In Chamar a atenção - check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
 
 
 
