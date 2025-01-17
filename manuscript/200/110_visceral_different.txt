@@ -1,11 +1,16 @@
-# Chamando a atenção 
+# Chamar a atenção 
 
 <!--
+
+@expression "brasileiro precisa ser estudado" 
+
 @tags 
 
 * #visceral 
 
 @todo 
+
+* [ , anchored ] @todo - p1 - In "Chamar a atenção" Review, the leading paragraphs, ABC vs. BAB [(1) Book - adm - Revisão de "Chamar a atenção" Sobre começar com um caso, depois contexto. Ou contexto. - YouTube](https://www.youtube.com/shorts/ICB6xLx9VF8) @refid-20250117-8dace7fb-f918-4e55-b1e5-62afa300096a
 
 * [ , anchored ] @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
 
@@ -30,6 +35,11 @@ Recentemente fiz um pedido de um lanche pelo aplicativo. Chegou. Pacote grande, 
 
 Enfim, avancei. Quando terminei de comer o lanche, pensei sobre tudo aquilo: sobre a embalagem, sobre o lanche e sobre a frase. Conclui que o que me surpreendeu foi a frase. Também pensei no problema da “agência” que se envolveu com essas frases: talvez eles gastaram a frase “Não basta ser igual, tem que ser diferente!” no lote anterior. Qual seria a próxima frase para o próximo lote de 1000 embalagens? 
 
+<!--
+@todo 
+* [ , anchored ] @todo - p1 - In "Chamar a atenção" Review, the leading paragraphs, ABC vs. BAB [(1) Book - adm - Revisão de "Chamar a atenção" Sobre começar com um caso, depois contexto. Ou contexto. - YouTube](https://www.youtube.com/shorts/ICB6xLx9VF8) @refid-20250117-8dace7fb-f918-4e55-b1e5-62afa300096a
+-->
+
 Então, agora, a lojinha de hot dog da esquina pode comprar soluções “a granel” para qualquer necessidade. Ela facilmente encontrará soluções especializadas - certamente profissionais. Mas também corre o risco de empacotar - profissionalmente - experiências sem graça, ou confusas, ou que não agregam a longo prazo, ou confundem. Nesta situação, nos perdemos, com falta de coerência e sem propósito. 
 
 Em parte fiquei frustrado porque aquela frase me fez lembrar do “Pense diferente” dos dias de ouro da Apple; sobre as coisas que o Steve Jobs disse quando ele havia voltado para, digamos assim, recuperar a Apple. Antes de lançar aquela campanha "Think Different", ele fez questão de falar sobre valores: 
@@ -47,7 +57,28 @@ Em parte fiquei frustrado porque aquela frase me fez lembrar do “Pense diferen
 
 O que Steve nos deixou sobre aquela ideia de ser diferente - ou pensar diferente - é justamente sobre o diferente simples que cria experiências memoráveis, sobre o trabalho verdadeiro que vem antes das coisas que são lembradas. Agora me pareceu que aquele diferente não só foi ignorado mas também atropelado, atropelado justamente pelo movimento ansioso que quer ser surpreendente, exatamente o que Steve Jobs não queria, o movimento que só faz barulho. Muito sabemos sobre isso, quando nos pegamos procurando por um jeito de “chamar a atenção". 
 
-Mas é lógico, não foi o Brasileiro que inventou a tal da vontade de chamar a atenção. O mundo do cinema tem algo a nos dizer sobre isso. Quando o renomado professor de roteiro de cinema, Robert McKee, foi entrevistado sobre os maiores erros do jovem roteirista, ele apontou a questão dos clichês como um dos grandes problemas: 
+Neste sentido, seguem três cenas para nossa observação e posterior reflexão. 
+
+### Pote da felicidade 
+
+<!-- 
+* ref - Original, referido abaixo como v2.1, https://docs.google.com/document/d/1YU-e9NkbqOcSl5c83UdC_QUrVt0d8Ofj0GnnVwRzRn4/edit?tab=t.0
+* Nota, original, v2.1 - final, exercício reflexivo está na versão portugues, Verificar, abaixo, inserir complicação. 
+-->
+
+Num belo Sábado, eu seguia particularmente não faminto a caminho da padaria Lyon em Ribeirão Preto, sendo meu objetivo buscar pão para minha sogra. No geral, não sou especialmente atraído por doces. Mas, naquele dia fiquei curioso ao me deparar com um tipo diferente de sobremesa que se destacou no meio dos bolos e sobremesas, normais. 
+
+Imagine seus olhos escaneando, da direita para a esquerda, como um raio-x. Vai passando, passando, notam um tipo particular de item, e continua a passar, até que o escaner volta para aquele item, e então as pupilas se dilatam: Item não identificado, alerta. Era uma espécie de cupcake, disposto em um copo tipo plástico transparente, uma espécie de copo padrão "tipo açaí", tamanho médio (que seria em 2024 em torno de 500ml). Então a segunda análise no modo raio-x foi agora de baixo para cima. Por conta da transparência, fui notando as várias camadas, andar por andar, seguindo para o andar do topo. Chegando no topo, voltando ao copo, notei que era aquele tipo de copo que traz um andar extra, uma espécie de domus, uma semi-esfera transparente que normalmente teria granola se a parte debaixo fosse toda cheia de iogurte com frutas. Porém, encontrei o que me surpreendeu foi encontrar outra coisa nessa cobertura. Era um pudim de leite condensado. Sim, aquele pudim padrão Brasileiro, amados por muitos. Neste momento eu travei. Não seria possível explicar meu sentimento e isso me faz ter orgulho do Brasileiro que tem consciencia de seus atos minimamente ao ponto de ter cunhado a frase que diz que "o brasileiro precisa ser estudado."
+
+Se você pode vê problema nisso, peço que pule este capítulo. Não porque você está errado ou eu esteja certo. Mas porque você deve amar doces ao ponto que não está apto para uma análise objetiva. O que temos na cena é: Alguém foi lá e instalou uma sobremesa em cima de outra sobremesa. E isso não seria não grave, sabemos. Hoje tems confetes até em cima de pizza doce não é mesmo? Mas o problema aqui, de lógica, é que aquela sobremesa acima é uma especial que se sustenta sozinha no mundo. Ela sempre existiu assim. 
+
+Aparentemente, de alguma forma, alguém pensou que colocar o pudim em cima do cupcake agregaria valor. Mas eu não estava ali para lidar com aquele pote, como consumidor. Como estava intrigado, perguntei à atendente o que era aquilo. Foi então que ela revelou o nome como "O Pote da Felicidade". Naquele momento, eu pude sentir o encanto que o pote - e seu título - poderia exercer sobre a vida de um mortal que ama doces. Para mim, era uma curiosidade estranha. Então, tive tempo para imaginar se o pote fosse animado, tentando se vender. Ei, amigo, eu sou o pote da felicidade. Estou aqui para encantar você, para alegrar o seu dia. Após aquele momento, saí nervosamente, chutando o ar. Alguns pombos por perto voaram para longe.
+
+Mais tarde, quando tudo se acalmou, lembrei-me da situação imaginária: se potes pudessem falar. Uma triste constatação me veio: aqueles potes já estavam falando. Foram-se os dias de caça. Foram-se os dias de plantar. E foram-se os dias de comprar ingredientes para fazer. O que temos, agora, são soluções, na hora certa, nas vitrines, prateleiras ou gôndolas da vida. Nosso problema começa no momento que saímos de casa, bem intencionados, já estamos procurando a solução, agora a granel. 
+
+### Na banheira de cheddar 
+
+Mas é lógico, não foi o Brasileiro que inventou a tal da ideia de chamar a atenção. O mundo do cinema tem algo a nos dizer sobre isso. Quando o renomado professor de roteiro de cinema, Robert McKee, foi entrevistado sobre os maiores erros do jovem roteirista, ele apontou a questão dos clichês como um dos maiores erros: 
 
 <!--
 @note-refai @refid-20250116-a7217570-7207-42e1-8ab3-9611aacb25ba https://chatgpt.com/share/67897e37-0278-8011-bcb0-fc68ab852223
@@ -70,43 +101,18 @@ Isso nos leva ao outro lado, que é também triste porque vende. E de forma aná
 * [ Done , anchored ] @todo-index @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
 --->
 
-Neste sentido, seguem três cenas para nossa observação e posterior reflexão. 
 
-### Pote da felicidade 
+Essa questão da névoa é um problema porque só podemos ver como névoa quando sabemos o que está atrás da névoa. A realidade é que se você nasceu em um mundo de névoa, não existe névoa. Talvez seja por isso que nós dizemos criticamos o cinema americano como sendo "o cinema americano", mesmo que, do nada, às vezes, um ou outro filme nos surpreende, de ano em ano, mesmo seguindo um modelo clássico. Nessa momento, a gente pensa que é provável uma bola dentro, tipo "de vez em quando eles acertam". 
 
-<!-- 
-* ref - Original, referido abaixo como v2.1, https://docs.google.com/document/d/1YU-e9NkbqOcSl5c83UdC_QUrVt0d8Ofj0GnnVwRzRn4/edit?tab=t.0
-* Nota, original, v2.1 - final, exercício reflexivo está na versão portugues, Verificar, abaixo, inserir complicação. 
--->
+<!--
+@expression "brasileiro precisa ser estudado" 
+--> 
 
-Num belo Sábado, eu seguia particularmente não faminto a caminho da padaria Lyon em Ribeirão Preto, sendo meu objetivo buscar pão para minha sogra. No geral, não sou especialmente atraído por doces. Mas, naquele dia fiquei curioso ao me deparar com um tipo diferente de sobremesa que se destacou no meio dos bolos e sobremesas, normais. 
+No mundo dos lanches, eu caí nessa pegadinha, não encontrei a fonte por um breve momento. Estava navegando no aplicativo e "iFominha" um belo dia, procurando por lanches. Aliás, sempre que estou navegando procuro um lanche tradicional que está em extinção. O famoso carne e queijo. Quando encontro, está escondido e é bem caro. Então, o que temos, à vista, são outras coisas, coisas que me surpreendem, pelas fotos, títulos e descrições. De repente eu estava na frente daquilo. Encontrei, bem nas fotos em destaque, um lanche atolado no que era dito como sendo a piscina de cheddar. Não sei se você já viu. Quando me deparei com essa anomalia eu achei que era um "achadinho", que era uma criação original da própria lanchonete na minha frente. Achei que o era só mais um bom exemplo que nos motiva a dizer que brasileiro precisa ser estudado. 
 
-Imagine seus olhos escaneando, da direita para a esquerda, como um raio-x. Vai passando, passando, notam um tipo particular de item, e continua a passar, até que o escaner volta para aquele item, e então as pupilas se dilatam: Item não identificado, alerta. Era uma espécie de cupcake, disposto em um copo tipo plástico transparente, uma espécie de copo padrão "tipo açaí", tamanho médio (que seria em 2024 em torno de 500ml). Então a segunda análise no modo raio-x foi agora de baixo para cima. Por conta da transparência, fui notando as várias camadas, andar por andar, seguindo para o andar do topo. Chegando no topo, voltando ao copo, notei que era aquele tipo de copo que traz um andar extra, uma espécie de domus, uma semi-esfera transparente que normalmente teria granola se a parte debaixo fosse toda cheia de iogurte com frutas. Porém, encontrei o que me surpreendeu foi encontrar outra coisa nessa cobertura. Era um pudim de leite condensado. Sim, aquele pudim padrão Brasileiro, amados por muitos. Neste momento eu travei. Não seria possível explicar meu sentimento e isso me faz ter orgulho do Brasileiro que tem consciencia de seus atos minimamente ao ponto de ter cunhado a frase que diz que "o brasileiro precisa ser estudado."
+Então era isso. Um lanche, que normalmente não ficaria de pé; agora de lado, 50% atolado na piscina por conta da viscosidade do materal alaranjado, referido como cheddar. Demorei para entender que eles estavam por toda parte. Quem procura acha. Decidí procurar. Encontrei uma categoria toda. Era isso, o "lanche na piscina de cheddar." Se você for procurar, é por sua conta e risco. Pode pode ser que o buscador queira validar se você tem mais de 18 anos. Tanto no quesito visual como nas narrativas, já aviso, as imagens são fortes. Tem que tudo. Por exemplo, tem lanche que está atolado ao mesmo tempo que o liquido viscoso transborda. Alguns trazem um polvilhado de bacon triturado na piscina. Quanto ao material e formas da piscina, tem de tudo também. Piscina de plástico, piscina de papel, piscina de isopor. Na linha gourmet, achei uma piscina de alumínio estilo "da roça". Achei também uma piscina na forma de coração. É isso, as banheiras ou piscinas ficam criativas. E as narrativas são ousadas. Dizem coisas como "mergulhar tudo que tem direito". Olhando algumas narrativas, parece que nos encaminham para atolar, enfiar, chuchar, me faz pensar que tudo aquilo deveria ser proibido. Opa, é isso! 
 
-Se você pode vê problema nisso, peço que pule este capítulo. Não porque você está errado ou eu esteja certo. Mas porque você deve amar doces ao ponto que não está apto para uma análise objetiva. O que temos na cena é: Alguém foi lá e instalou uma sobremesa em cima de outra sobremesa. E isso não seria não grave, sabemos. Hoje tems confetes até em cima de pizza doce não é mesmo? Mas o problema aqui, de lógica, é que aquela sobremesa acima é uma especial que se sustenta sozinha no mundo. Ela sempre existiu assim. 
-
-Aparentemente, de alguma forma, alguém pensou que colocar o pudim em cima do cupcake agregaria valor. Mas eu não estava ali para lidar com aquele pote, como consumidor. Como estava intrigado, perguntei à atendente o que era aquilo. Foi então que ela revelou o nome como "O Pote da Felicidade". Naquele momento, eu pude sentir o encanto que o pote - e seu título - poderia exercer sobre a vida de um mortal que ama doces. Para mim, era uma curiosidade estranha. Então, tive tempo para imaginar se o pote fosse animado, tentando se vender. Ei, amigo, eu sou o pote da felicidade. Estou aqui para encantar você, para alegrar o seu dia. Após aquele momento, saí nervosamente, chutando o ar. Alguns pombos por perto voaram para longe.
-
-Mais tarde, quando tudo se acalmou, lembrei-me da situação imaginária (se potes pudessem falar) e uma triste constatação me veio, que forma a base para esta reflexão: Estes potes estavam falando. Muitos itens, produtos, serviços ou métodos, estão à nossa frente, nas vitrines da vida; quando saímos em busca de algo. Minha motivação para este artigo surge desta realidade alarmante. Começa no momento em que saímos, pois estamos procurando algo. Não saímos mais apenas para não fazer nada. E essa predisposição é o gancho para sermos sitiados em espaços, diante de vitrines, sites, resultados de pesquisa e mais.
-
-### 8 ingredientes, 256 pizzas 
-
-Estamos constantemente cercados por opções que prometem nos ajudar a realizar tarefas, resolver problemas e atingir nossos objetivos. Consider o forno elétrico que é pronto para assar uma pizza. Ou um quarto de hotel, que está disponível para uma estadia confortável. Ou aquele Pote da Felicidade que promete satisfazer nossa fome e desejo por doces. Aparentemente a situação não tem nada de mais em um mundo que nem mais ficamos assustados com o que as vitrines prometem. Mas outra situação ou fenômeno (checar sobre chamar de fenômeno), embutida nessa situação, vem da competição pela atenção do consumidor. Os potes estão competindo pela atenção do consumidor. Potes, quartos, fornos e outros produtos, serviços, processos, métodos, etc.   
-
-De fato, não poderia ser diferente em um mundo de soluções que competem. Uma empresa pode criar uma serra melhor caso ela souber melhor o trabalho-a-ser-realizado (job-to-be-done) [^jobtobedone] de um marceneiro diante de uma necessidade. Uma vez que esse produto atende melhor, torna-se uma solução disponível. Essa solução disponível pode então ser disponibilizada para possíveis clientes. Para isso é importante um posicionamento, uma mensagem. Quando o produto é apresentado nas vitrines reais ou digitais, esse produto está contextualizado dentro de uma história, uma história que promete. 
-
-[^jobtobedone]: O conceito de "Job-to-be-Done", na visão do praticante Tony Ulwick, é uma abordagem focada na necessidade do cliente. Em vez de se concentrar em características demográficas ou comportamentais tradicionais, o "Job-to-be-Done" se concentra na ideia de que os clientes "contratam" produtos ou serviços para realizar um "trabalho" específico que persiste no tempo. Este "trabalho" é a necessidade fundamental que o cliente está tentando satisfazer ou o problema que está tentando resolver. Ao entender o "trabalho" que os clientes estão tentando realizar, as empresas podem projetar produtos e serviços que atendam melhor a essas necessidades. Isso permite identificar e atender a um mercado não tradicional, baseado na necessidade persistente, em vez de características demográficas ou comportamentais.
-
-Mas voltando ao usuário, ou cliente, considere a pessoa que anda pela vida resolvendo seus problemas; ou melhor, realizando um trabalho. Elas podem, quase que automaticamente, se verem diante de pressão para escolher. Lógico que essa pressão não vem do fato que produtos e serviços estão de fato gritando por nossa atenção; mas porque eles apresentam um potencial transacional que é apelativo. 
-
-Considere o serviço de aplicativo Uber, por exemplo. Não estamos mais apenas escolhendo entre pegar um táxi ou dirigir nós mesmos. Agora, temos uma miríade de opções Uber à nossa disposição, cada uma prometendo uma experiência de viagem ligeiramente diferente. Temos o UberX, a opção mais acessível para viagens diárias. O Uber Comfort, que oferece carros mais novos e espaçosos para um passeio mais confortável. O Uber Black, para quando queremos viajar com estilo em um carro preto de luxo. O UberXL, para quando precisamos de um carro maior para acomodar um grupo maior. O UberSUV, para quando queremos o luxo do Uber Black, mas em um SUV. O UberPOOL, onde compartilhamos nossa viagem com outros passageiros para economizar dinheiro. O Uber Green, para quem prefere veículos elétricos ou híbridos. O Uber Pet, para quando estamos viajando com nossos amigos peludos. O Uber Assist, para aqueles que precisam de assistência extra para entrar e sair do veículo. E o Uber WAV, para passageiros que precisam de um veículo acessível para cadeira de rodas. E isso é apenas para citar alguns.
-
-Agora, imagine estar diante dessa lista de opções cada vez que você precisa de uma carona. Muitas vezes, a decisão que tomamos não é baseada no que realmente precisamos, mas sim no que é mais atraente ou conveniente no momento.
-
-
-### Na banheira de cheddar 
-
-
+Enfi, eu demorei para perceber que havia uma criação referência. Que ideia tinha sido impulsionada, digamos assim, por uma grande franquia. Para a nossa sorte, essa versão era só um inofensivo lanchinho da franquia, atoladinho em uma piscininha de 100ml de cheddar. Então algo realmente surpreendente aconteceu, como o caso do cinema americano. Podemos fazer não é mesmo? Não é difícil. Bom, mas se fizermos irá ficar igual ao deles. Bom, vamos aumentar!. Podemos jogar bacon na piscina. Ou batata palha. Liga para o a Sra. Pandora e vê com ela se podemos evoluir isso. Opa, podemos sim. Já sei, bacon com batata palha. Não, não, vamos colocar dois lanches na mesma piscina, o que acha? 
 
 ### Trio elétrico 
 
