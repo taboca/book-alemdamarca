@@ -1,16 +1,58 @@
 # A espiral da morte
 
 <!--
-
-@titles
-* vender a alma 
-
-@tags 
-
-* #venderaalma #cliches #robertmckee
-
+@todo
+* [ , anchored ] @todo - p1 - In "Bolha, A Espiral da morte" - Check talk about tables, colored, "Uma outra experiência que eu gostaria de refletir é o que eu chamo das mesinhas de boteco patrocinadas, que me parece ser um caminho onde o bar vende a alma, isso é realmente complicado." @refid-20250117-bc204254-e908-465f-a21b-825611322b73
 -->
 
-Uma outra experiência que eu gostaria de refletir é o que eu chamo das mesinhas de boteco patrocinadas, que me parece ser um caminho onde o bar vende a alma, isso é realmente complicado. Eu vou colocar a história de um lugar incrível que foi se tornando, foi vendendo a sua alma devido às dificuldades, é como se ele tivesse se perdido. Nós havíamos percebido como cliente um certo potencial, mas realmente aquela zona de acreditar no potencial é muito difícil, você precisa dar o passo de fé e sei que para dar o passo de fé você precisa de ter uma infraestrutura ou ter o suporte, por exemplo, para aguentar alguns anos, para aguentar os dias chuvosos. Isso foi uma coisa que eu aprendi com o Mozilla, eles falavam que eles estavam ganhando, guardando dinheiro, mesmo sendo uma entidade sem fins lucrativos, eles guardavam muito dinheiro porque o Firefox produzia contratos milionários, e eles falavam, estamos guardando para os dias chuvosos, já que ninguém está colocando no bolso em termos de acionistas. Vale lembrar, não quer dizer que os funcionários não ganhavam bem, eles ganhavam bem. Enfim, a questão do bar que eu percebia uma mudança, era um lugar incrível em São Carlos, onde visitávamos, a carne era incrível, era tudo muito bom, o preço não era dos mais baratos, mas também não era dos mais caros, e tenho certeza que se ele tivesse aumentado o preço nós teríamos continuado a ir, até me pergunto se ele tivesse aumentado se ele não teria atraído outros públicos, mas enfim, aquele bar estava lá, o movimento não era tão grande, eventualmente, além de alguns pratos que adorávamos, ele colocou os espetinhos, ali foram as primeiras caracterizações diferentes, mas até aí tudo bem, depois veio o litrão, e nesse ponto ele acabou não mexendo nas mesas, porque ele já tinha mesa de madeira, mas acredito que se ele não tivesse, ele teria ganhado mesas vermelhas ou amarelas com a marca da cerveja padrão. Depois do litrão, nós percebemos que as mesas, que tinham sim algumas mesas com 10 a 15 ou 25 estudantes, nós estamos falando da cidade de São Carlos, então realmente é tentador, é normal que alguém irá pensar em atrair o público de estudantes, e lotou, só que eu lembro, depois foi reportado, em uma entrevista que eu fiz com o dono, depois que ele fechou, que aquele movimento, era um movimento que não trazia tanto lucro, os estudantes iam lá, ficavam um grande tempo, tomavam, mas só tomavam porque a promoção era hiper barata com lucro muito baixo, enfim, outra caracterização, que pode ser considerada em retrospectivo um desespero, mas eu entendo que durante a batalha difícil, foi quando apareceu uma máquina de karaokê, uma máquina de karaokê patrocinada pela própria MBF, é como se o pessoal das empresas de cervejas começasse a ficar criativos, só que o que acontece é que eles estavam sendo criativos e não tinha alguém para coordenar a linha, a perspectiva, aquela visão, os valores, então não tinha controle, o dono acabou ficando rendido, talvez, às milhares de ideias, então você tinha agora uma empresa que fazia pratos premium, de certa forma, pratos de carne deliciosos, de outro lado tinha também os espetinhos e tinha também as porções de estudante, as promoções de estudante, o litrão, a cerveja especial, depois teve a fase da comida por quilo no almoço e ainda as hiper promoções do litrão e também o karaokê, não deu muito tempo e o local fechou.
+Sabemos que o nosso destino, mesmo que confuso muitas vezes, não é sobre sobreviver. É sobre viver. Operando nossas vidas, a intenção é viver. Na visão do estabelecimento, esse viver significa crescer. 
+
+Neste sentido, também sabemos, precisamos de segurança. A vida nos diz muito sobre isso: que a criança só aprende a partir do ambiente seguro, que dinheiro faz dinheiro, dentre outras ideias. Muitas pessoas até desejam ganhar na loteria para abrirem um negócio, com segurança. 
+
+Mas a mesma necessidade de segurança também torna-se uma força que também nos leva para distrações e ou para o que no caso extremo é a espiral da morte. Não é que a mão que se estende, é do mal. Nunca é. A mão que se estende é sempre a mão que se estende para todo e qualquer lado que pede. Mas é que muitas vezes encontramos, de certa forma, não a segurança a longo prazo, ou a segurança-dura que nos ajuda a ser resilientes. Encontramos uma segurança mais imediata, direta, como a segurança de um fornecedor, ou de uma plataforma, ou até do cliente do momento. Aceitamos, de certa forma, a mão arbitrária.  
+
+### Restaurante fogão em chamas 
+
+Quero te levar para uma história de um restaurante que chegou na cidade e que nos surpreendeu. Mas ele foi mudando, talvez sobrevivendo diante das dificuldades. Ou outros diriam que foi vendendo sua alma. Enfim, o espaço morreu. Saudades daquele bar-restaurante. 
+
+Quando o restaurante chegou, já conhecíamos o local físico. Isso porque o restaurante anterior era muito bom; por alguma razão os donos venderam. Então, agora, estávamos acostumados a ir lá e esperávamos uma experiência legal. Então, um dia, fomos lá. E constatamos que muita coisa mudou. 
+
+O que encontramos foi uma surpresa. Percebemos um potencial. Mas não aquele potencial que diz que falta alguma coisa. É como se já estivesse tudo certo. Talvez essa ideia veio porque era novo, por conta dos poucos clientes.
+
+Então, por outro lado, tudo estava certo mesmo: mesas de madeira, escuras e envernizadas. Eram as mesmas do restaurante anterior. o ambiente era uma casa mas era bonito, um meio-rústico meio-moderno. O pátio, na frente, era um deck; o que foi um dia a garagem de fora a fora de uma casa. Era bonito e coberto, sustentado por pilares de madeira modernos. Depois partir do deck, rumo a dentro “da casa”, bastava subir uma escadinha que te levava para ou o fundo inacreditável ou para dentro, passando por um mini bar tipo pub com balcão. Sobre o fundo inacreditável, nunca foi utilizado. Mas o potencial estava gritando por conta do jardim que ficaria incrível se fosse iluminado. Era o tipo de lugar que daria para fazer uma celebração especial, tipo festa de casamento menor por conta do espaço. Seguindo por dentro, passando pelo bar-balcão, tinha uma boa área interna, aconchegante. No fundo, o caixa, próximo aos banheiros. Sobre o espaço, era isso. E muito disso, como disse, sabíamos por conta do bar anterior que já era “top”. 
+
+Mas o que nos surpreendeu foram as carnes. Era simples, ou especial, era bem feito. Era melhor, em sabor e na experiência, comparando com o bar anterior. Em resumo, foi surpreendente ir lá e experienciar algo melhor do que o bom anterior. 
+
+Alguns diriam feito com amor, outros que era trabalho de profissional. Rumores e lendas e/ou verdades já estavam brotando. Uma delas era que a cozinheira havia ganhado um prêmio no mundo das carnes. Sobre essa verdade quem nos disse foi o dono. Mas a gente também sabia que ele era quem carregava o segredo sobre as carnes. E era isso. Começamos indo em três mas eventualmente chamávamos mais amigos. Ter esse restaurante em São Carlos, na cidade reconhecia como a capital da tecnologia, me fazia lembrar dos dias que morei no Vale do Silício. Eu dizia que São Carlos estava no caminho certo, por conta das lembranças sobre o rico ecossistema de restaurantes do vale do Silício. 
+
+### Segurança para os dias chuvosos
+
+Para darmos o passo de fé e sei que para dar o passo de fé você precisa de ter uma infraestrutura ou ter o suporte, por exemplo, para aguentar alguns anos, ou para suportar os dias chuvosos. 
+
+Isso foi uma coisa que eu aprendi com a organização Mozilla. Quando notei que guardavam muito dinheiro, por conta de contratos milhonários do Firefox, perguntei - dado que sabia que era uma instituição sem fins lucrativos. A resposta era simples: diziam que estavam guardando o dinheiro para os dias chuvosos. 
+
+### A mudança 
+
+Sobre o preço, não era dos mais baratos. Mas também não dos mais caros. Pensávamos que se aumentassem o preço teríamos que continuar a ir. Talvez fossemos menos vezes. Eu também pensava que iriam conquistar novos públicos, talvez como os tantos professores doutores da cidade. Enfim, certamente novos públicos iriam conhecer o local, como sendo um restaurante de carnes de qualidade. 
+
+Enfim, o bar estava lá, operando. E o movimento não era tão grande, lógico. Mas o cardápio era ótimo, como era. Eventualmente, além de alguns pratos que adorávamos, ele colocou os espetinhos. Opa, um cantinho brotou no menu. Opa, agora tem espetinhos. Eram bons. Mas os pratos ainda eram muito bons. Agora tínhamos que decidir.  
+
+Ali foram as primeiras caracterizações sobre um certo fenômeno, de desdobramentos, de movimentos, de procura por segurança mas que também foi dando uma nova característica ao local. 
+
+Então veio o litrão. Nesse ponto, ele acabou não mexendo nas mesas, porque como mencionei as mesas eram bonitas, escuras, de madeira, envernizadas e elegantes. Acredito que se não tivessem aquelas mesas, teriam aceitado uma oferta com um pacote de mesas vermelhas, ou amarelas. Depois do litrão, percebemos a aparição de grupos, tipo de 10 ou 15 ou 20. Estudantes. Bom, estamos falando da cidade de São Carlos, não é mesmo? A saudosa capital da tecnologia, berço de duas grandes universidades públicas, aquela que diz ter a maior concentração de doutores por metro quadrado. Mas esses não eram os doutores. Eram os estudantes. Como um dia fomos. 
+
+Foi observável. Que tinha vida naquilo. Um pouquinho de barulho, talvez. Talvez alguns os chamariam de “os malditos estudantes”. Mas definitivamente tinha vida. Vida aparente parecia seguro também. E parecia que iria crescer. E é realmente tentador, ou normal, qualquer operação naquela cidade pensar sobre atrair o público dos estudantes. Por que não? Deve ter um ajuste fino não é mesmo? E ainda, não esqueça da tese que muitos desses estudantes dessas universidades públicas são de fato filhos de escolas privadas. 
+
+A princípio, foi observável, parecia ser início do que seria a ideia de lotar. Avançando um pouco o filme, não esqueço do relato do dono que me deu uma entrevista (do tipo pós-morte depois que ele fechou) e falou sobre a outra visão sobre aquele movimento - uma ideia que diz que estudantes não trazem lucro. Que diz coisas como eles juntam, ficam lá, tomam bastante, cervejas grandes e com descontos gigantescos. E é isso. Em retrospectiva, estava claro o movimento de desespero. 
+
+Mas antes, lá na hora H, na arena, na batalha, é difícil. Então, voltando um pouco para observar o ponto de inflexão, as mudanças haviam começado no menu: primeiro, tínhamos os pratos especiais ou mais caros. E tinham as porções. Então chegaram os espetinhos. Então, além das cervejas, veio o litrão, para estudantes. E as promoções do litrão. Mas não é só isso; porque depois apareceu uma máquina do tamanho de uma geladeira; grande e vermelha, encapada tipo fibra de vidro, com uma tela. Era uma máquina de karaokê que trazia claramente a cor do fornecedor patrocinador. A cor que seria a mesma cor das mesas se o bar já não tivesse as mesas de madeira. Quando vi a máquina de Karaoke, comecei a entender as coisas, a perceber o movimento da mão que se estende, dos fornecedores, tipo os grandes fornecedores de bebidas. E começar a notar a mão criativa. 
+
+### Criativos 
+
+Então estavam sendo criativos. Mas não tinha alguém para coordenar uma linha, tipo espinha dorsal, uma visão. Faltavam critérios, como valores. Talvez o dono tenha ficado rendido. Talvez, no meio de milhares de ideias.
+
+### Voltando 
+
+Então tínhamos, agora, uma empresa que fazia pratos premium, de certa forma pratos deliciosos. E de outro lado, os espetinhos. E as porções de estudante, e as promoções de estudante, e o litrão para estudantes. Opa, pensamos, vamos pegar o litrão? Normalmente ficávamos com as cervejas mais fortes de qualquer maneira. Mas se um amigo quisesse o litrão eu não teria objeção. Ou talvez tenhamos pivotado para as promoções porque seria ridículo a gente pagar mais caro sabendo que tinham promoções especiais (para estudantes). E depois, lembrando agora, teve a fase da comida por quilo no almoço. Não deu muito tempo e o local fechou. Uma coisa eu não notei, que não vieram as bandas. 
 
 
