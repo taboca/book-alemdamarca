@@ -1,6 +1,11 @@
 # A espiral da morte
 
 <!--
+@version 
+
+* online v0.1 - https://docs.google.com/document/d/1oyDNbE2W6j-amETjZ280Eujzuk1HZ3t4iu8PGxwa46A/edit?tab=t.0
+* this v0.2 
+
 @todo
 * [ , anchored ] @todo - p1 - In "Bolha, A Espiral da morte" - Check talk about tables, colored, "Uma outra experiência que eu gostaria de refletir é o que eu chamo das mesinhas de boteco patrocinadas, que me parece ser um caminho onde o bar vende a alma, isso é realmente complicado." @refid-20250117-bc204254-e908-465f-a21b-825611322b73
 -->
