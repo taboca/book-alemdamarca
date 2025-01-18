@@ -40,6 +40,8 @@
 
 * [Done , anchored ] @todo - p1 - In "Part 1, communications - Consider to complete the end of the chapter "A tecnologia" with more about the story of the teen being there to help with the online promotion at e-mail ref "Book - adm - além da marca - artigo 2024 - young and experienced with technology ". which requires to be translated to pt-br too. @refid-20241217-5d789b23-da5e-43cf-90e4-1819b7212b70
 
+* version v0.3 
+
 -->
 
 # A tecnologia    

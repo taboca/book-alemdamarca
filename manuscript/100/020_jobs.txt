@@ -5,54 +5,95 @@
 
 * [ Done, anchored] - @todo - p1 - In "Part 1, o trabalho" - confirm jobs to be done steps, @refid-20241217-20ef79a7-dadb-458c-b37a-c4890dafabe3
 
+* v0.4 - https://docs.google.com/document/d/1fNM1ToUYP4-1d5E5El02LlSVrO056KEEH9WOFEBzti0/edit?tab=t.0
+
+* v0.4+
+
 --> 
 
 # O trabalho 
 
-Para refletirmos sobre essa função social podemos olhar para aquelas seções dos questionários de avaliações de bares ou restaurantes, por exemplo o formulário do concurso "Comida de Boteco de Ribeirão Preto" coloca os seguintes aspectos para que as pessoas possam votar e dar uma nota ao ambiente: a nota sobre a comida, a nota sobre o espaço, a nota sobre o atendimento, sobre a limpeza, e outros campos também específicos como por exemplo a nota do prato que é o prato que em geral está em evidência no concurso.
+Um restaurante cinco estrelas em uma cidade onde a região predominantemente de estudantes não seria o local ideal para uma família levar o seu filho de cinco anos e seus três primos com idades de sete, onze, treze anos, respectivamente. 
 
-Avaliamos assim, é lógico, e isso diz muito sobre o ambiente. Mas também, por outro lado, sabemos bem sobre o que é ver avaliações que estão bem atreladas ao contexto social, por exemplo influenciadas por grupos específicos, pela cultura, pela estrutura do mercado regional. Por exemplo, podemos considerar que em certas cidades, por exemplo nas cidades universitárias, muitos estabelecimentos ficam em evidência por conta do ponto de vista de certos grupos que caracterizam, de certa forma, a percepção sobre o que é o mercado local, no digital. Um restaurante cinco estrelas, em uma cidade que tem uma grande população de estudantes, não seria exatamente o esperado restaurante cinco estrelas para uma família com três filhos onde dois deles têm sete anos. 
+Isso nos leva a considerar que em certas regiões nas cidades, por exemplo áreas de alta concentração de estudantes, muitos estabelecimentos ganham visibilidade por conta do ponto do vista do público, de certos grupos, que caracterizam percepção sobre a demanda e soluções disponíveis no mercado local. 
 
-Se estas percepções sociais, hoje projetadas no digital, atuam como filtros, é porque estão ligadas, de fato, ao contexto do trabalho, aos objetivos daqueles grupos. Isso tudo nos leva a aprofundar um pouco mais e procurar um modelo organizado para entender como que tecnologias e soluções são criadas, de fato, para responder ao trabalho, especificamente ao trabalho que precisa ser feito "na hora". A seguir, vamos considerar a pesquisa de Clayton Christensen, renomado autor e professor de gestão que criou um conceito conhecido como *Jobs to Be Done*, um conceito que tornou-se uma abordagem para criar produtos inovadores. 
+Esse tema nos leva a considerar como essas dinâmicas sociais influenciam a percepção no espaço digital, por exemplo que se aquele grupo familiar cair de paraquedas em uma cidade de estudantes, poderão encontrar (nos resultados da busca online) uma percepção de uma realidade; que logicamente não é a realidade. Ainda temos que considerar que no ritmo frenético da busca por resultados rápidos, muitas vezes quem procura nem mesmo lê os comentários - que em muitas situações poderiam ser esclarecedores, levando a ainda maior frustração. 
 
-### Jobs To be Done e o caso do Milkshake
+### Complicação (procuramos por pistas da narrativa do trabalho funcional mais curto)
+
+Neste sentido, uma reflexão sobre a complicação para os usuários nos levará também a refletir sobre como os estabelecimentos, digamos assim, caem na mesma pegadinha. 
+
+Isso tudo nos leva a aprofundar um pouco mais e procurar um modelo organizado para entender como que tecnologias e soluções são criadas, de fato, para responder ao trabalho, especificamente ao trabalho que precisa ser feito "na hora".
+
+### Jobs to be done 
+
+A seguir, vamos considerar a pesquisa de Clayton Christensen, renomado autor e professor de gestão que criou um conceito conhecido como *Jobs to Be Done*, um conceito que tornou-se uma abordagem para criar produtos inovadores. 
 
 <!--
 @todo 
 * [Done , anchored] - @todo - p1 - In "Part 1, o trabalho" - Add the text about the milkshake and jobs to be done, here. ref doc https://docs.google.com/document/d/1U3d3tc2_CBt9BNPb-unYrqxRThFSIDYsh8cPHkqF3fs/edit?tab=t.0, @refid-20241217-a0fe9b22-a99a-43c1-9326-04f0d61a6358
 --> 
 
-Considere a ilustração do professor Clayton como sendo uma introdução ao assunto. A situação inicial considera uma empresa interessada em vender mais milkshakes. A partir do desafio identificado, torna-se necessário entender mais sobre o consumidor. Seguindo essa lógica, um dos meios de buscar a resposta nos leva a necessidade de segmentar o público, por exemplo a considerar atributos demográficos como idade, estado civil, etc. 
+A narrativa como ilustração é sobre uma empresa interessada em vender mais milkshakes. Seguindo pela lógica padrão, normalmente as empresas pensam em começar pela segmentação do público, por exemplo a considerar atributos demográficos como idade, estado civil, etc. Vamos vender milkshake para famílias com crianças? A partir disso, a empresa poderia pensar sobre a experiência toda. 
 
-Segundo *Jobs To Be Done*, o problema dessa lógica é que a segmentação por elementos do mercado, como atributos demográficos, influencia completamente o entendimento do problema e do trabalho a ser feito. 
+Segundo *Jobs To Be Done*, o problema dessa lógica é que essas pré-segmentações - por exemplo por definições do mercado existente, como atributos demográficos - influenciam o entendimento sobre o problema, consequentemente afetando o processo de inovação.
 
-A abordagem do pensamento Jobs To Be Done, define o mercado não por atributos de mercado, como demográficos, mas pelo problema que eles querem resolver. Em outras palavras, a abordagem começa considerando o que as pessoas estão querendo fazer, ou, como o professor Clayton colocou, que tipo de “trabalho” elas estão querendo contratar para resolver seus problemas. 
+Na abordagem Jobs To Be Done, o “mercado” deve ser definido em termos do trabalho essencial a ser feito. Em outras palavras, a abordagem considera, como o professor Clayton colocou, que as pessoas contratam “coisas” dentro de um contexto do que tem que ser feito, de um trabalho. 
 
-Por esse olhar, a empresa pode perceber que não eram certos tipos de pessoas que queriam um milkshake, por exemplo inicialmente pessoas segmentadas por idade ou condição econômica. Descobriram que o milkshake poderia aparecer como uma solução que ajudava a pessoa com uma necessidade em um certo momento. Olhando por esta perspectiva, o milkshake poderia ser útil para muitas pessoas em contextos diferentes. 
+Por esse olhar, a segmentação padrão - como por idade ou contexto familiar - foi descartada; o que abriu todo um outro contexto de atuação, onde essencialmente o milkshake poderia ser útil para pessoas em contextos diferentes. Desta forma, por exemplo, a empresa pode identificar que o milkshake poderia ser “contratado” por pessoas que faziam viagens frequentes no carro. Neste caso, o “trabalho” do milkshare consistia em alimentar a pessoa, sem atrapalhar a direção, por um razoável período de trajeto. Neste contexto, eles otimizaram o trabalho do milkshake, por exemplo criando um canudinho mais grosso. A pessoa teria, de certa forma, um companheiro de viagem, uma alimentação como uma refeição, que é prática e que durava por um razoável tempo. Bem melhor do que se o motorista tivesse contratado um pacote de bolacha, salgados, etc. 
 
-Esse olhar permitiu a empresa identificar que o milkshake era “contratado” por algumas pessoas que queriam o levar para uma viagem, para tomar no carro, por exemplo enquanto estavam viajando no rumo do trabalho. Neste caso, o “job” do milkshare envolvia permitir que a pessoa pudesse se alimentar durante um razoável trajeto. Além disso, pensando por esta perspectiva, eles otimizaram o trabalho do milkshake, criando um canudinho mais grosso. A pessoa teria, de certa forma, um companheiro de viagem, uma alimentação como uma refeição, que é prática e que durava por um razoável tempo. E vinculado a isso, a vantagem competitiva, por exemplo em relação a um pacote de bolacha, salgados, etc. 
+### O trabalho essencial e seus passos 
 
-Como informado, a abordagem Jobs To Be Done evoluiu muito ao longo dos anos; especialmente por conta do trabalho de Tony Ulwick e seu time da Strategyn que define com rigor o que é o trabalho. Essa abordagem começa pela definição do "mercado”, pelo trabalho a ser feito. Com isso, logicamente, torna-se relevante comunicar o que é este trabalho, não de forma arbitrária, dado que variabilidade na definição do trabalho atrapalharia todo o processo de inovação. Ainda, o trabalho precisa atender a certos requisitos:
+A abordagem *Jobs To Be Done* evoluiu ao longo dos anos - especialmente por conta do trabalho de Tony Ulwick e do time da *Strategyn* - trazendo um grau de formalismo que faz diferença para entendermos como decidimos contratar produtos inovadores. 
 
-Um deles, diz que o trabalho não pode mudar no tempo. Essa definição ajuda com menos confusão porque, em geral, não é difícil confundir o trabalho a ser feito com certos trabalhos ligados a tecnologia (como vimos no capítulo anterior). Desta forma, por partirmos de um referencial que define um trabalho essencial, podemos partir para entender o que leva o usuário a escolher quais, entre possíveis soluções, quer contratar, ou se quer fazer o trabalho com próprias mãos por exemplo. 
+Um dos pontos críticos envolve a necessidade de uma definição formal e não arbitrária sobre o trabalho essencial em consideração. Em outras palavras, só poderemos pensar sobre as soluções depois que a definição sobre o “trabalho a ser feito” seja estável, ou não arbitrária; e comunicada de forma não ambígua. 
 
-Seguindo por essa formalidade, a abordagem indica que todo e qualquer trabalho traz oito passos: Definir, identificar, preparar, confirmar, executar, monitorar, modificar, concluir. 
+Desta forma, este “trabalho a ser feito” não pode mudar no tempo. 
+Além disso, a partir disso, este trabalho deverá progredir por oito passos: Definir, identificar, preparar, confirmar, executar, monitorar, modificar, concluir. 
 
 <!--
 @todo 
 * [ Done, anchored] - @todo - p1 - In "Part 1, o trabalho" - confirm jobs to be done steps, @refid-20241217-20ef79a7-dadb-458c-b37a-c4890dafabe3
 --> 
 
-Para exemplificar, considere o trabalho de ouvir uma música na rua. É uma atividade de trabalho que não muda no tempo? Sim. A atividade de ouvir música, para ser cumprida de forma efetiva, tem passos? Depende, pois tem gente que diria que basta apertar o botão e play, e pronto. Porém, quando consideramos esse mapa mais abrangente podemos entender que para ouvir uma música alguém precisa definir qual música quer ouvir, depois preparar para ouvir, depois confirmar que o que irá ouvir é o que quer ouvir, depois então parte para executar, e ainda pode querer monitorar o progresso. A questão é que normalmente alguns desses passos estão, digamos assim, meio que escondidos. 
+Para exemplificar, considere o “trabalho de ouvir uma música na rua”. É uma atividade de trabalho que não muda no tempo? Sim, existem pessoas que querem ouvir música na rua. Sobre os oito passos, alguns diriam que basta escolher a música e apertar o botão e play. Porém, com mais atenção, veremos que ouvir música envolve definir (escolher) qual música quer ouvir. E o usuário deverá preparar (selecionar) a música. E que de uma forma ou outra, irá confirmar (que seja, com um feedback visual) que está prestes a ouvir é o que escolheu. E, finalmente, irá executar (apertando o botão de play). E, é lógico, enquanto ouve apreciará monitorar o progresso.
 
-Mas é justamente quando consideramos o mapa do trabalho que estamos mais próximos de saber como as pessoas decidem. Elas decidem porque as soluções se encaixam em alguns desses pontos do mapa, de uma forma ou outra ajudando com o trabalho. No caso de uma cirgurgia do coração, um monitor ajuda a acompanhar os sinais vitais. Isso nos leva a essa ideia de que as soluções, como no caso do Milkshake, não precisam atender os vários passos. Se pensarmos em um estabelecimento de alimentação, podemos ver como as soluções se encaixam - como fogão, geladeira, panelas, máquinas de combrança, utensílios, etc - e que estão lá por conta de certos trabalhos. Recentemente eu visitei algumas páginas sobre máquinas de lavar louça e fiquei surpreso ao perceber que algumas máquinas modernas trazem um recurso para higienização de alimentos. Neste caso fica claro que o produto, máquina de lavar louças, estaria de certa forma, avançando o contexto de atuação, não é mesmo? 
+Não é que todos os passos precisam estar lá exatamente. De fato é o contrário, é que fundamentalmente o que fazemos - de forma estável no sentido de recorrente - essencialmente cumpre um ciclo. 
 
-Isso nos leva a reconhecer que certos produtos, como plataformas, avançam com a intenção de cuidar de vários passos dentro do mapa de um trabalho, ou até entre trabalhos. Para uma jovem empresa que quer inovar, essa tentativa poderia ser arriscada. Porém, grandes empresas de tecnologia fazem isso. Um exemplo didático neste sentido é o produto iPod da Apple, que de fato reinventou a forma de ouvir música ao oferecer recursos que atendem a vários pontos do mapa, permitindo ao usuário definir qual música ouvir (ao buscar), identificar por exemplo comprando, confirmar na tela antes de tocar, executar e monitorar, etc. Já se voltarmos um pouco mais no tempo, entenderemos que o famoso toca-fitas portátil da Sony, o Walkman, foi uma incrível inovação simplesmente por nos permitir, depois de identificar a fita, ouvi-la, na rua, com o toca fitas no bolso. 
+Um exemplo didático neste sentido é o produto iPod da Apple, que de fato reinventou a forma de ouvir música ao oferecer recursos que atendem a vários pontos do mapa, permitindo ao usuário definir qual música ouvir (ao buscar), identificar por exemplo comprando, confirmar na tela antes de tocar, executar e monitorar, etc. Já se voltarmos um pouco mais no tempo, entenderemos que o famoso toca-fitas portátil da Sony, o Walkman, foi uma incrível inovação simplesmente por nos permitir, depois de identificar a fita, ouvi-la, na rua, com o toca fitas no bolso. 
 
 ### O problema, complicação 
 
-Essa também é a experiência para aqueles que trabalham nos estabelecimentos. Igualmente estão condicionados por esses momentos, por esse momento todo, de certa forma, guiados pelo mercado.
+Mas é justamente quando consideramos o mapa do trabalho que estamos mais próximos de saber como as pessoas decidem, como inovam em alguns asos, e como também são vítimas desse ciclo. 
 
-Porém, é também por essa razão que nós como consumidores ou mesmo empreendedores acabamos conduzidos, como muita coisa na vida, na forma que caímos no mundo. Caímos de paraquedas, em uma situação, um outro público fora do contexto vê problemas, ou uma oportunidade, mas muitas vezes não temos essa possibilidade. É como se não tivéssemos razão para reavaliar nada - porque o que temos são só espaços que são adequados, de certa forma estabilizados, servem para esse contexto social. Temos ambientes onde pais se levam para comer na rua quando estão com crianças - é como se para eles a cidade toda tivesse que ser vista com uma lente diferente, um filtro - por exemplo, não podem nem pensar em locais tipo baladas de adultos. E para isso, muitos filtram por espaços que tem espaço para crianças. Ao mesmo tempo, um casal que está marcando um encontro romântico, esse ambiente não cabe - talvez mais tarde, anos mais tarde, se tudo der certo. Mas não naquela hora, naquele momento. E, é lógico, alguém está acompanhado daquele Milkshake que dura pelo percurso de um bom trajeto. E assim vamos indo, sim, mas vamos também nos condicionando justamente por esse relógio sincronizado da vida moderna que nos conduz. Mas perdemos muito com isso, por várias razões, se olharmos tudo isso como é como sendo um caminho sem volta, onde só encaixamos cada vez mais como se fossemos peças consumidoras de tudo. 
+Elas decidem porque as soluções se encaixam em alguns desses pontos do mapa, de uma forma ou outra ajudando com o trabalho. No caso de uma cirurgia do coração, um monitor ajuda a acompanhar os sinais vitais.
 
+Se pensarmos em um estabelecimento de alimentação, podemos ver como as soluções se encaixam - como fogão, geladeira, panelas, sistemas de cobrança, entregas, utensílios, etc - e que estão lá por conta de certos trabalhos.
+
+A complicação automaticamente se instala, qundo nosso ambiente nos pressiona a puramente avançar o trabalho - como é feito - com o objetivo de eficiência. Sim, por um lado é bom. Mas também nos leva a uma zona crítica de atuação onde perdemos nossa percepção sobre o trabalho essencial. 
+
+Recentemente eu visitei algumas páginas sobre máquinas de lavar louça e fiquei surpreso ao perceber que algumas máquinas modernas trazem um recurso para higienização de alimentos. Neste caso fica claro que o produto, máquina de lavar louças, estaria de certa forma, avançando o contexto de atuação, que antes era no contexto de lavar utensílios, para um outro contexto e trabalho relativo ao preparo dos alimentos. Até aí tudo bem. 
+
+Mas isso também nos leva a constatação sobre um fenômeno provável - e observável - que é a inovação do usuário que diz, sim o usuário inova e é ele que cria, justamente por estar lá e por viver essas experiências em primeira mão [ˆfootnote_user_innovation]. Vamos contextualizar, ou nos lembrar, de que alguém um belo dia colocou uma maça na máquina de lavar, ligou a função pré-lavagem por 5 minutos e saiu gritando de alegria se achando um gênio. E, é lógico, que quando chegou na sala do chefe da cozinha, recebeu para sua surpresa aquela resposta que conhecemos pela TV, um simples, curto e grosso e dito em voz alta (na frente de todos os outros aprendizes): a sua carreira acabou aqui. Eu só pedi para você lavar os alimentos, nem isso você sabe fazer. 
+
+<!--
+@todo-index @todo - p1 - In “Comunicação, Trabalho” - Add footnote [ˆfootnote_user_innovation] first hand. 
+-->
+
+Segundo o professor Eric von Hippel, do MIT, User Innovation é um fenômeno e está em todo lugar [ˆfoonote_eric_everywhere], como basquetebol, braille, o sutiã, a mountain bike, o skate, o aplicativo Dropbox, etc. 
+
+<!--
+@todo-index @todo - p1 - In “Comunicação, Trabalho” - Add footnote [ˆfoonote_eric_everywhere] about UI Eric von Hippel.
+-->
+
+
+Isso nos leva a reconhecer a entidade criadora de soluções - como fabricantes de produtos e plataformas ou soluções - cria produtos para se estabelecerem seja dentro de um único passo de um trabalho maior (monitor do coração) ou dentro de múltiplos passos (iPod) ou até casos mais complexos entre múltiplos trabalhos, por exemplo quando a máquina de lavar pegou um trabalho adicional de higienizar alimentos. Ou poderíamos também pensar sobre os humanoides que estão chegando que certamente poderão, digamos assim, pivotar entre contextos. 
+
+Agora, para nós, na operação no calor dos estabelecimentos, ficamos com a reflexão sobre a qualidade do nosso ambiente, sobre como podemos nos colocar em um ambiente que nos condiciona, por exemplo a operarmos como máquinas estáticas e não como humanos que se lembram do contexto maior sobre qual trabalho essencialmente estamos nos envolvendo. 
+
+Quando caímos de paraquedas, em uma situação, e somos pressionados, ficamos assim. Enquanto isso, um outro público, fora do contexto ou da pressão, veria problemas, ou oportunidades. Devemos refletir sobre nossos espaços, se estamos utilizando o potencial dos nossos colegas. 
+
+### Check 
+
+É como se não tivéssemos razão para reavaliar nada - porque o que temos são só espaços que são adequados, de certa forma estabilizados, servem para esse contexto social. Temos ambientes onde pais se levam para comer na rua quando estão com crianças - é como se para eles a cidade toda tivesse que ser vista com uma lente diferente, um filtro - por exemplo, não podem nem pensar em locais tipo baladas de adultos. E para isso, muitos filtram por espaços que tem espaço para crianças. Ao mesmo tempo, um casal que está marcando um encontro romântico, esse ambiente não cabe - talvez mais tarde, anos mais tarde, se tudo der certo. Mas não naquela hora, naquele momento. E, é lógico, alguém está acompanhado daquele Milkshake que dura pelo percurso de um bom trajeto. E assim vamos indo, sim, mas vamos também nos condicionando justamente por esse relógio sincronizado da vida moderna que nos conduz. Mas perdemos muito com isso, por várias razões, se olharmos tudo isso como é como sendo um caminho sem volta, onde só encaixamos cada vez mais como se fossemos peças consumidoras de tudo. 
 

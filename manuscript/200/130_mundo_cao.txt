@@ -4,7 +4,7 @@
 
 @refs
 
-* v0.1 
+* v0.2
 * doc v0.1 https://docs.google.com/document/d/1bqzGV4Y6KazglYCvdhIayol6WJ0FKMTd7-5Q3a5rRU0/edit?tab=t.0
 
 @tags 
