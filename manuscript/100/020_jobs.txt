@@ -5,9 +5,9 @@
 
 * [ Done, anchored] - @todo - p1 - In "Part 1, o trabalho" - confirm jobs to be done steps, @refid-20241217-20ef79a7-dadb-458c-b37a-c4890dafabe3
 
-* v0.4 - https://docs.google.com/document/d/1fNM1ToUYP4-1d5E5El02LlSVrO056KEEH9WOFEBzti0/edit?tab=t.0
+* v0.5 - https://docs.google.com/document/d/1fNM1ToUYP4-1d5E5El02LlSVrO056KEEH9WOFEBzti0/edit?tab=t.0
 
-* v0.4+
+* v0.5
 
 --> 
 
