@@ -1,23 +1,12 @@
 # O fazejamento   
 
-
-
-
 <!--
 
-
-
-
-@doc 
+####### @doc 
 
 * Ref - https://docs.google.com/document/d/1dRUwZa12fB5CsmLsqXJe9jJ6mhYlfNPjlbmmk8rIC4E/edit?tab=t.0 
 
-
-
-
-
-@todo 
-
+###### @todo 
 
 * [ , anchored] @todo - p1  - In Fazejamento , consider to bring back Maslow, @refid-20241226-c906d574-6475-4930-900c-6980cf7def8d
 
@@ -37,17 +26,12 @@
 
 * [ , further ] @todo - p1-editing -  In "Parte 1, Fazejamento Potencializado" - December 18th 2024 - Research editing check: Check the reference to the Kolb model, can we call it a model? Perhaps Chatgpt can do that, instead of the actual research. The notion of using ChatGPT to actually check against formal research is a subject which Marcio had reflected and written before within the Book "Escrevendo um Escritor". @refid-20241218-d156ee08-679a-40da-bff4-d9ffe9fff9a5
 
-
-
-
-
-@done 
+#######  @done 
 
 * [Auto done]] @todo-index @todo - p1 - In Fazejamento - Join the paragraph "Exceto uma pequena .." with "O que complicou... "
 * [Auto done ] @todo-index @todo - p1 - In Fazejamento - Consider a secion title "The user's voice" before the "Hoje, ao vivo, um jovem cliente " ...
 * [Auto done] @todo-index @todo - p1 - In Fazejamento - Join the paragraphs "Mas peço uma pausa..." with "Essa percepção, projetada ..."
 * [Auto done] @todo-index @todo - p1 - In "Fazejamento" - Add a point after paragraph of "O que complicou .. " with a "in other words" line which asserts that "we think we are reaching out to the market while in fact we are inviting them in to our ears..." rating:5starts. Note: this perfectly connnect with a statement which soon said that "nós criamos as condições..."
-
 
 * [Dismissed, anchored] @todo - p1 - In "Fazejamento" - Consider to move the section "Com isso, o estabelecimento crescia .. " into the section "Fazejamento potencializado" as part 1 of the leading paragraph, so that it contrasts with the correct situation assertion which said "justificamos um certo fazejamento anterior".. .  @refid-20241226-bd6da53f-bbb4-49b4-a679-9136d97bca6a
 
@@ -65,13 +49,7 @@
 
 * [Done , further] @todo - p1 - In "Part 1, Fazejamento" - #fazejamento #citation - Bring more objective content from the book of Fabricio Morini, "Faça Seu Negócio Decolar", identify where and what he says about the notion of "Fazejamento", bring a citation. @refid-20241218-0ab26bfb-4f84-4ab3-ab77-28b91baa1d7d
 
-
-
-
-
-
-
-@Notes 
+############ @Notes 
 
 Em “O fazejamento”, consideramos a situação desafiadora quando a operação prioriza a execução por conta da atenção voltada ao cliente (e outros fatores como falta de investimento), desta forma caracterizando a operação que se torna reativa ao que acontece no presente e, na falta de valores, pressionada a executar buscando mais eficiência. 
 
@@ -84,17 +62,9 @@ Em “O fazejamento”, consideramos a situação desafiadora quando a operaçã
 * Ref - https://docs.google.com/document/d/1dRUwZa12fB5CsmLsqXJe9jJ6mhYlfNPjlbmmk8rIC4E/edit?tab=t.0 
 
 
-
-
+* this v0.3
 
 -->
-
-
-
-
-
-
-
 
 Em *Faça Seu Negócio e Decolar*, o autor Fabrício Morini trouxe a história de um profissional de sucesso que nasceu empreendedor. Mas, como todo empreendedor, precisou vencer um dois maiores desafios no caminho do sucesso. O profissional contou para Fabrício sobre o antes e o depois. Que antes, não tinha a menor ideia do que era planejar. Antes, seu método era o fazejamento. Em outra ilustração, Fabrício nos leva para ver o fazejamento bem do nosso lado: 
 

@@ -1,13 +1,15 @@
 <!--
 @todo 
 
+* [ done , anchored] @todo - p1 - In “Comunicação, Trabalho” - Add footnote [foonote_eric_user_innovation] about UI Eric von Hippel. @refid-20250122-b0bcdb7b-1df2-4060-a109-ce5c51e6926a
+
 * [ Done , anchored] - @todo - p1 - In "Part 1, o trabalho" - Add the text about the milkshake and jobs to be done, here. ref doc https://docs.google.com/document/d/1U3d3tc2_CBt9BNPb-unYrqxRThFSIDYsh8cPHkqF3fs/edit?tab=t.0, @refid-20241217-a0fe9b22-a99a-43c1-9326-04f0d61a6358
 
 * [ Done, anchored] - @todo - p1 - In "Part 1, o trabalho" - confirm jobs to be done steps, @refid-20241217-20ef79a7-dadb-458c-b37a-c4890dafabe3
 
 * v0.5 - https://docs.google.com/document/d/1fNM1ToUYP4-1d5E5El02LlSVrO056KEEH9WOFEBzti0/edit?tab=t.0
-
 * v0.5
+* v0.6 
 
 --> 
 
@@ -69,15 +71,11 @@ Este fenômeno, que só provável quando o ambiente aceita este trabalho de cria
 [^foonote_eric_user_innovation]: O conceito de inovação do usuário e a democratização da inovação, popularizado por Eric von Hippel, refere-se à ideia de que os usuários finais, em vez de fabricantes ou fornecedores tradicionais, frequentemente impulsionam a inovação ao criar ou modificar produtos para atender às suas necessidades específicas. Esse processo democratiza a inovação, pois empodera indivíduos e pequenos grupos a contribuírem para avanços tecnológicos e de produtos, sem depender exclusivamente de instituições ou empresas centralizadas.
 
 <!--
-@todo-index @todo - p1 - In “Comunicação, Trabalho” - Add footnote [foonote_eric_user_innovation] about UI Eric von Hippel.
+@todo
+* [ done , anchored] @todo - p1 - In “Comunicação, Trabalho” - Add footnote [foonote_eric_user_innovation] about UI Eric von Hippel. @refid-20250122-b0bcdb7b-1df2-4060-a109-ce5c51e6926a
 -->
 
 Uma simples consideração sobre o fenômeno que começa com o usuário, nos leva a ver o filme que antecipa a inovação dessa máquina: um belo dia, Maurício colocou uma maçã na máquina de lavar e ligou a função pré-lavagem por 5 minutos. E ele pensou "Nossa, sou um gênio não é mesmo?" Enquanto isso, em um universo paralelo não tão distante do nosso, Maurício saiu doidão, gritando de alegria e se achando um gênio. Chegando na cozinha principal, molhado como a maçã, contou para o chef; e na sequência foi surpreendido com o que conhecemos dos *reality shows* da TV, aquele curto e grosso grito que na frente de todos diz "Eu só pedi para você lavar os alimentos. Nem isso você sabe fazer. Você está demitido. A sua carreira acabou hoje."  
 
 Em grande parte nosso universo do trabalho é assim, infelizmente, normal, ou frenético, ou urgente. Caímos de paraquedas, mas para fazer o que tem que ser feito. Pressionados, não podemos refletir sobre o que é feito. Não temos tempo, para isso, porque não temos cultura, para isso. E consequentemente, para nossa infelicidade maior, aceitamos que a tecnologia pode fazer isso. Tipo assim "Certo, ela pode". E mesmo frustrados, vamos aceitando o jeito que ela faz como sendo a única forma de fazer.    
-
-<!--
-@todo @todo-index - p1 - In “Comunicação, Trabalho” - Check the note, 
-É como se não tivéssemos razão para reavaliar nada - porque o que temos são só espaços que são adequados, de certa forma estabilizados, servem para esse contexto social. Temos ambientes onde pais se levam para comer na rua quando estão com crianças - é como se para eles a cidade toda tivesse que ser vista com uma lente diferente, um filtro - por exemplo, não podem nem pensar em locais tipo baladas de adultos. E para isso, muitos filtram por espaços que tem espaço para crianças. Ao mesmo tempo, um casal que está marcando um encontro romântico, esse ambiente não cabe - talvez mais tarde, anos mais tarde, se tudo der certo. Mas não naquela hora, naquele momento. E, é lógico, alguém está acompanhado daquele Milkshake que dura pelo percurso de um bom trajeto. E assim vamos indo, sim, mas vamos também nos condicionando justamente por esse relógio sincronizado da vida moderna que nos conduz. Mas perdemos muito com isso, por várias razões, se olharmos tudo isso como é como sendo um caminho sem volta, onde só encaixamos cada vez mais como se fossemos peças consumidoras de tudo. 
--->
 

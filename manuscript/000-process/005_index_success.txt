@@ -1,5 +1,7 @@
 ## Done 
 
+* [ done , anchored] @todo - p1 - In “Comunicação, Trabalho” - Add footnote [foonote_eric_user_innovation] about UI Eric von Hippel. @refid-20250122-b0bcdb7b-1df2-4060-a109-ce5c51e6926a
+
 * [ Done , anchored ] @todo-index @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
 
 * [Cut] Check the e-mail entitled "Livro - além da marca - tecnologias painéis" which refer to the experience acquired with the Tela Social project, and the idea that screens, and communication "through hallways" could actually be used in virtuous ways to help the development of the team. 
