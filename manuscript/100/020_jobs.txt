@@ -13,21 +13,11 @@
 
 # O trabalho 
 
-Um restaurante cinco estrelas em uma cidade onde a região predominantemente de estudantes não seria o local ideal para uma família levar o seu filho de cinco anos e seus três primos com idades de sete, onze, treze anos, respectivamente. 
+Com essa complicação à nossa frente, vivemos em um ambiente hiperconectado que nos traz experiências comunicativas que reafirmam o normal. Um ambiente que, de fato, cria leis de ferro, definido pela manuzil das tecnologias, pelo contexto social e cultural e pela cultura de trabalho. É triste porque, neste ambiente, não encontramos os meios que nos permitem ver com outras lentes ou fora da caixa. Por exemplo, aquela figura do avô ou do mentor, daquele que se preocupa com você. Continuamos em um ambiente que nos diz o que fazer e como fazer, por que fazer e quanto fazer. Avançamos, tudo como sendo normal. Essa situação ficou mais grave também por conta de plataformas tecnológicas que nos deram meios para aprender o que fazer, para ver as dinâmicas sociais. Em outras palavras, encontramos exemplos agora mais facilmente. Encontramos receitas sobre o que fazer e tudo isso é muito coerente, bem do nosso lado.
 
-Isso nos leva a considerar que em certas regiões nas cidades, por exemplo áreas de alta concentração de estudantes, muitos estabelecimentos ganham visibilidade por conta do ponto do vista do público, de certos grupos, que caracterizam percepção sobre a demanda e soluções disponíveis no mercado local. 
+Considere, por exemplo, uma família buscando um restaurante cinco estrelas, começando pela pesquisa em uma rede social online. Eles encontram um local e partem para lá. Só que essa família está, neste momento, em uma região predominantemente de estudantes. Então, os cinco estrelas, para os estudantes, é diferente da situação deles. Já que eles estão levando um filho de cinco anos e seus três primos de idades, respectivamente, de sete, onze e treze anos. O que nós temos aqui é um ambiente tecnológico definido pelas lentes sociais que os levam direto para um ambiente que é inadequado. Ficam infelizes com a concepção de cinco estrelas. De forma similar, as dinâmicas sociais em um ambiente específico, por exemplo, estabelecimento de alimentação, restaurante, qualquer outro ambiente de trabalho, definem muito sobre as regras a forma de fazer as coisas. E, logicamente, como temos considerado, pressões de trabalho e sobrevivência. Por exemplo, que você está pago para fazer certos trabalhos e não pode observar a situação por outro ponto de vista.
 
-Esse tema nos leva a considerar como essas dinâmicas sociais influenciam a percepção no espaço digital, por exemplo que se aquele grupo familiar cair de paraquedas em uma cidade de estudantes, poderão encontrar (nos resultados da busca online) uma percepção de uma realidade; que logicamente não é a realidade. Ainda temos que considerar que no ritmo frenético da busca por resultados rápidos, muitas vezes quem procura nem mesmo lê os comentários - que em muitas situações poderiam ser esclarecedores, levando a ainda maior frustração. 
-
-### Complicação (procuramos por pistas da narrativa do trabalho funcional mais curto)
-
-Neste sentido, uma reflexão sobre a complicação para os usuários nos levará também a refletir sobre como os estabelecimentos, digamos assim, caem na mesma pegadinha. 
-
-Isso tudo nos leva a aprofundar um pouco mais e procurar um modelo organizado para entender como que tecnologias e soluções são criadas, de fato, para responder ao trabalho, especificamente ao trabalho que precisa ser feito "na hora".
-
-### Jobs to be done 
-
-A seguir, vamos considerar a pesquisa de Clayton Christensen, renomado autor e professor de gestão que criou um conceito conhecido como *Jobs to Be Done*, um conceito que tornou-se uma abordagem para criar produtos inovadores. 
+Neste sentido, uma reflexão sobre a complicação para os usuários nos levará também a refletir sobre como os estabelecimentos, digamos assim, caem na mesma pegadinha. Isso tudo nos leva a aprofundar um pouco mais e procurar um modelo organizado para entender como que tecnologias e soluções são criadas, de fato, para responder ao trabalho, especificamente ao trabalho que precisa ser feito "na hora". A seguir, vamos considerar a pesquisa de Clayton Christensen, renomado autor e professor de gestão que criou um conceito conhecido como *Jobs to Be Done*, um conceito que tornou-se uma abordagem para criar produtos inovadores. 
 
 <!--
 @todo 
@@ -42,7 +32,7 @@ Na abordagem Jobs To Be Done, o “mercado” deve ser definido em termos do tra
 
 Por esse olhar, a segmentação padrão - como por idade ou contexto familiar - foi descartada; o que abriu todo um outro contexto de atuação, onde essencialmente o milkshake poderia ser útil para pessoas em contextos diferentes. Desta forma, por exemplo, a empresa pode identificar que o milkshake poderia ser “contratado” por pessoas que faziam viagens frequentes no carro. Neste caso, o “trabalho” do milkshare consistia em alimentar a pessoa, sem atrapalhar a direção, por um razoável período de trajeto. Neste contexto, eles otimizaram o trabalho do milkshake, por exemplo criando um canudinho mais grosso. A pessoa teria, de certa forma, um companheiro de viagem, uma alimentação como uma refeição, que é prática e que durava por um razoável tempo. Bem melhor do que se o motorista tivesse contratado um pacote de bolacha, salgados, etc. 
 
-### O trabalho essencial e seus passos 
+### Todo trabalho tem seus passos 
 
 A abordagem *Jobs To Be Done* evoluiu ao longo dos anos - especialmente por conta do trabalho de Tony Ulwick e do time da *Strategyn* - trazendo um grau de formalismo que faz diferença para entendermos como decidimos contratar produtos inovadores. 
 
@@ -61,8 +51,6 @@ Para exemplificar, considere o “trabalho de ouvir uma música na rua”. É um
 Não é que todos os passos precisam estar lá exatamente. De fato é o contrário, é que fundamentalmente o que fazemos - de forma estável no sentido de recorrente - essencialmente cumpre um ciclo. 
 
 Um exemplo didático neste sentido é o produto iPod da Apple, que de fato reinventou a forma de ouvir música ao oferecer recursos que atendem a vários pontos do mapa, permitindo ao usuário definir qual música ouvir (ao buscar), identificar por exemplo comprando, confirmar na tela antes de tocar, executar e monitorar, etc. Já se voltarmos um pouco mais no tempo, entenderemos que o famoso toca-fitas portátil da Sony, o Walkman, foi uma incrível inovação simplesmente por nos permitir, depois de identificar a fita, ouvi-la, na rua, com o toca fitas no bolso. 
-
-### O problema, complicação 
 
 Se pensarmos em um estabelecimento de alimentação, podemos ver como as soluções se encaixam - como fogão, geladeira, panelas, sistemas de cobrança, entregas, utensílios, etc - e que estão lá por conta de certos trabalhos.
 
