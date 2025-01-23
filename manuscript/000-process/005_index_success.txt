@@ -1,3 +1,7 @@
+## General 
+
+* Fazejamento 90% v0.3, 
+
 ## Done 
 
 * [ done , anchored] @todo - p1 - In “Comunicação, Trabalho” - Add footnote [foonote_eric_user_innovation] about UI Eric von Hippel. @refid-20250122-b0bcdb7b-1df2-4060-a109-ce5c51e6926a
