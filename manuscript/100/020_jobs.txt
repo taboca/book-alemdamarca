@@ -16,13 +16,22 @@
 
 # O trabalho 
 
-Se o ser humano trabalha - criando soluções - para alterar as "leis de ferro" do ambiente, agora com suas soluções redefinindo o próprio ambiente - por conta do manuseio dessas ferramentas -  nos leva reconhecer, no sentido de desconfortável, que a adoção no meio social nos condiciona, no sentido que se foi empregada é porque socialmente nos traz conforto, nos diz sobre como o trabalho deve ser feito. Ou seja, o exercício do trabalho comunica, não exatamente clama por reavaliação do trabalho. Esse é o dilema do trabalhador, ou o dilema da inovação, pois precisa encarar olhar em perspectiva e não pelas perspectivas criadas pelo próprio ambiente.
+Pensar que tecnologia é trabalho, logicamente nos leva para enfrentar os lados dessa moeda. Por um lado, sobre essa nossa capacidade de criar/modificar o ambiente. Mas a partir disso, e por conta do manuseio das tecnologias que exerce a disseminação, que adotamos "por tabela" uma orientação por resultados que prejudica a nossa em ver o ambiente como flexível (diferente do ambiente de leis de ferro).
 
-Considere a situação de uma família que recentemente mudaram-se para uma região onde a população é predominantemente de estudantes. Eles decidem fazer uma busca online para decidir onde jantar. Pela ordem de resultados, decidira ir em um dos primeiros resultados, um estabelecimento 5 estrelas  Chegando lá, no entanto, ficam decepcionados; porque imediatamente perceberam que o ambiente não era apropriado para um filho de 5 anos e nem mesmo para seus três primos com idades respectivas de 7, 11 e 13 anos. Eles ficaram decepcionados não só porque o ambiente não é o que queriam, mas por conta que acreditaram que naquela "realidade". Quando a mãe reclamou, o primo mais velho até falou 'Então, você não leu os comentários'. O fato que essa cena não soa tão absurda - tipo, como não sabíamos disso? - é tanto evidência sobre o meio que define simultaneamente as lentes, a forma de ver, as instruções, a forma de fazer, e impacto, que no caso apresentado envolve desgaste, no sentido de frustração ou trabalho desnecessário.
+Considere a situação de uma família que recentemente mudaram-se para uma região onde a população é predominantemente de estudantes. Eles decidem fazer uma busca online para decidir onde jantar. Pela ordem de resultados, decidira ir em um dos primeiros resultados, um estabelecimento 5 estrelas  Chegando lá, no entanto, ficam decepcionados; porque imediatamente perceberam que o ambiente não era apropriado para um filho de 5 anos e nem mesmo para seus três primos com idades respectivas de 7, 11 e 13 anos. Eles ficaram decepcionados não só porque o ambiente não é o que queriam, mas por conta que acreditaram que naquela "realidade". Quando a mãe reclamou, o primo mais velho até falou 'Então, você não leu os comentários'.
 
-A situação acima também nos leva a refletir sobre pressões, por exemplo, o tempo e as condições que nos levam a escolher as ferramentas. De forma análoga, se nós entrarmos dentro de um estabelecimento de alimentação, por exemplo, um restaurante, e olhar para a dinâmica de trabalho, entenderemos que muita coisa no ambiente está lá, adotada por conta de um arranjo que é intencionado para responder essas pressões. E, consequentemente, no momento em que materializamos qualquer estabelecimento, nós já temos uma pressão que nos condiciona a exercer o trabalho sem julgar o ambiente do trabalho. Além disso, ainda temos os incentivos que nos orientam pela perspectiva da performance e que, em muitas situações, é bem comum que nos punem por pensar fora da caixa.
+Esta cena, que nem soa absurda, serve para nos lembrar que estamos olhando para o ambiente com lentes criadas pelo próprio ambiente, que nos conduzem sobre o que fazer e conviver com as consequências. Mmesmo com grandes frustrações, continuamos lidando com as consequências, nos adaptando; e muitas vezes nos culpando, por exemplo quando brincamos dizendo que "o problema está entre o monitor e a cadeira."
 
-Ninguém está dizendo que precisamos pensar dentro e fora da caixa a todo momento. É lógico, precisamos ser práticos. Mas também não podemos nos distanciar da lógica entre a inovação e o trabalho. Em outras palavras, carregamos uma grande responsabilidade, mesmo quando só sendo usuários que adotam as ferramentas e práticas do meio. 
+
+
+
+
+
+<!-- Complication --> 
+
+E o fato que lidamos com tudo isso desta forma - até fazendo piadas - exigindo uma atitude passiva (agora promovida como construtiva) é mais uma evidência sobre o problema. Guiados por uma esteira em um ambiente que não para de mudar, ficamos ocupados, conversando, pensando, refletindo e nos adaptando, buscando fazer o melhor. Ocupados nos vemos como empoderados, "Ah, estou colaborando". Mas empoderados seguidores, ou seguidores profissionais. Botamos a mão na massa, manuseando e disseminando, sem perceber aquelas lentes, e muito menos que poderíamos deixar elas de lado. 
+
+Agora, bem mais ocupados como usuários passivos, caímos também na pegadinha de imaginar que inovar - no sentido de mudar o que temos - deve dar ainda mais trabalho. A verdade é que esquecemos que grandes inovações também surgem a partir do movimento que simplica, que remove coisas. Mas é verdade, o que dá trabalho é convencer esse ambiente que não quer escutar essa possibilidade, que prefere comprar (à granel) novas tecnologias, que só aceita modificar como seguidores. 
 
 
 
@@ -35,6 +44,7 @@ Ninguém está dizendo que precisamos pensar dentro e fora da caixa a todo momen
 @todo 
 * [Done , anchored] - @todo - p1 - In "Part 1, o trabalho" - Add the text about the milkshake and jobs to be done, here. ref doc https://docs.google.com/document/d/1U3d3tc2_CBt9BNPb-unYrqxRThFSIDYsh8cPHkqF3fs/edit?tab=t.0, @refid-20241217-a0fe9b22-a99a-43c1-9326-04f0d61a6358
 --> 
+
 
 Para nos ajudar com essa reflexão sobre como soluções inovadoras tem origem no trabalho a ser feito, vamos considerar a pesquisa do renomado professor de gestão Clayton Christensen, que criou o conceito conhecido como Jobs to be Done. Para entendermos o diferencial dessa abordagem, Clayton apresenta uma narrativa de uma empresa interessada em vender mais milkshakes. Nessa situação, o pensamento tradicional considera, em primeiro lugar, uma definição de um mercado, por exemplo "vamos considerar famílias com crianças". Desta forma, o esforço parte de um princípio que envolve segmentar o público, por exemplo utilizando-se de atributos demográficos - como idade, estado civil, condições financeiras, etc - depois partindo para pensar sobre as ideias para criar valor.
 
@@ -77,4 +87,7 @@ Esse fenômeno reconhece que a inovação está intrinsecamente ligada à experi
 Considerando esse fenômeno, lhe convido para ver a cena deste filme, que antecipa a inovação que conhecemos: Um belo dia, o Maurício colocou uma maçã na máquina de lavar e ligou a função pré-lavagem por cinco minutos. E ele pensou, "nossa, sou um gênio, não é mesmo?" E, em um universo paralelo não distante do nosso, ele saiu - doidão - gritando de alegria, correndo para a cozinha onde estava o chefe. E molhado com a maçã, contou tudo para seu chefe. Mas na sequência ele foi surpreendido com aquilo que já vimos nos *reality shows* da vida - aquele curto e grosso grito, na frente de todos, que diz "Eu só pedi para você lavar os elementos! Nem isso você sabe fazer? Você está demitido. A sua carreira acabou hoje".
 
 Em grande parte, o nosso universo de trabalho é assim: infelizmente, é normal, ou frenético, ou urgente. Caímos, de paraquedas, mas para fazer o que tem que ser feito, como tem que ser feito. Pressionados, não podemos refletir sobre o que fazemos. Não temos tempo para aquilo, porque não temos a cultura para reavaliar isso. Consequentemente, para nossa infelicidade, aceitamos que aquilo é feito pelo externo, pelas ferramentas, pelas plataformas, pelas tecnologias ou métodos que nos ditam tudo sobre o que tem que ser feito, como tem que ser feito, quando tem que ser feito, e o por quê fazer. Infelizmente, vamos alimentando tudo isso. É sempre ela que pode mudar. E vamos nos conduzindo, frustrados, aceitando esse jeito mesmo sabendo que desse jeito da muito trabalho, e mesmo que seja o jeito que nos frustra muitas vezes, o jeito que também nos humilha.
+
+
+
 
