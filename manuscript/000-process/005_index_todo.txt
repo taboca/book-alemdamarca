@@ -1,5 +1,9 @@
+## Todo other 
 
-## Todo 
+* [ ] Videos for reviews, done. 
+* [ ] Site AlemDaMarca.com.br
+
+## Todo book
 
 
 
@@ -21,12 +25,11 @@
 
 * [ ] @todo - p1 - In "Chamando a atenção" - Check the insight commnet - when the youngsters control technology ...like leading evangelists and docs and UI, and you don't know what goes on, like clichês, they follow. @refid-20250115-b9799716-e570-4886-a0ce-05632b32e0a3
 * [ ] @todo - p1 - In Chamar a atenção - Consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
-* [ ] @todo - p1 - In Chamar a atenção - check “lanche na piscina de cheddar”
-* [ ] @todo - p1 - In Chamar a atenção - check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
-
 
 
 @@ general 
+
+* Corrêa da Vida: Avaliar a necessidade de manter ou remover a referência "Corrêa da Vida" em seções onde o conceito é mencionado repetidamente. ([1/22, 19:28])
 
 * [ ] @todo - p1 - general - Check e-mail entitled "Book - além da marca - noticing the communication" Whicih could be helpful to the first part of the book where it offers a way to think about how we "get going" with life or how we fall out of a parashoot situation. This section offers a context to an essay that touches in ideas from Walter Fisher (Narrative Paradigm), Peter Drucker, and others. 
 
@@ -71,8 +74,9 @@
 
 
 
+@@ Comunicação
 
-
+* Capítulo 'TRABALHO': Revisar o uso repetitivo da palavra "DECIDIR" nas primeiras frases para evitar redundância. ([1/23, 22:23])
 
 * [ , ] @todo - p1 - In "Part 1, communications - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB
 
@@ -110,7 +114,9 @@
 
 
 
+@@ O Segredo da Torta 
 
+* [ , ] @todo - p1 - In "O segredo da torta" - Checar sobre apontar o caso da Gabi Silva, que sua assinatura está no logo. Em outras palavras, as pessoas assinam embaixo, se colocam na reta, ou dedicam suas obras." @refid-20250124-d72d4723-ad27-4158-991e-aad57a0aaaa1
 
 
 * [ , ] @todo - p1 - In "O segredo da torta " - @todo-editing-reading - #collaboration - Consider to bring up the case of Gabi Silva to the book, when the point is the work of artists and where they sign. Send some of the texts to Gabi Silva, of Espresso Café @refid-20241230-00d06bd0-a7a5-4b21-8c8e-85741a01e9a8
@@ -162,7 +168,21 @@
 
 
 
+@@ Fazejamento 
 
+* Sociedade decadente: Incluir uma nota de rodapé conectando a ideia de Maslow sobre camadas de segurança que permitem avanços, em contraste com as limitações de uma sociedade em declínio. ([1/22,
+
+* Reduzir palavreado: Ajustar o uso excessivo de "contexto" para simplificar a comunicação e evitar redundâncias. ([1/22, 18:57])
+
+* Exemplos concretos: Ao falar do motorista que faz viradas de 90 graus, usar a analogia de "tirar carta por telefone" ou "destravar fases em jogos de computador" para criar impacto. ([1/22, 18:59])
+
+* Referências criativas: Inserir a expressão "quando a lava bate na bunda" como alternativa a "quando a água bate na bunda", conectando a momentos de urgência. ([1/22, 19:03])
+
+* O cliente como fornecedor: Introduzir exemplos como "de manhã motorista Uber, de tarde passageiro", mostrando papéis intercambiáveis na sociedade. ([1/22, 19:16])
+
+* Modelo de eixos: Reduzir de três para dois eixos (X, Y), focando na metáfora de um instrumento poderoso antes de introduzir a "voz sedutora" como o terceiro elemento. ([1/22, 19:24])
+
+* Origem das ideias: Abreviar a discussão sobre "de onde vêm as ideias", conectando ao papel da necessidade humana e o momento certo como elementos-chave do fornecedor. ([1/22, 19:27])
 
 
 * [ , anchored] @todo - p1  - In Fazejamento , consider to bring back Maslow, @refid-20241226-c906d574-6475-4930-900c-6980cf7def8d

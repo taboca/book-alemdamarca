@@ -16,10 +16,14 @@
 
 * [x] Abaixo, o ponto da capa - "Artigo - além da marca - narrativas cliches tendencia visceral, de onde vem o visceral 
 
+* [ ] @todo - p1 - In Chamar a atenção, consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
+
+@done 
+
 * @todo - p1 - In Chamando a atenção check “lanche na piscina de cheddar”
 * @todo - p1 - In Chamando a atenção check “o pote da felicidade” (bolo no copo com um pudim colado em cima)
 * @todo - p1 - In Chamando a atenção check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
-* [ ] @todo - p1 - In Chamar a atenção, consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
+
 --> 
 
 

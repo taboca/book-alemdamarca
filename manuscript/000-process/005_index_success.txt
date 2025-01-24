@@ -1,8 +1,13 @@
 ## General 
 
 * Fazejamento 90% v0.3, 
+* Tecnologia 90% v0.4
+* Trabalho 75% v0.8
 
 ## Done 
+
+* [Done] @todo - p1 - In Chamar a atenção - check “lanche na piscina de cheddar”
+* [Done] @todo - p1 - In Chamar a atenção - check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
 
 * [ done , anchored] @todo - p1 - In “Comunicação, Trabalho” - Add footnote [foonote_eric_user_innovation] about UI Eric von Hippel. @refid-20250122-b0bcdb7b-1df2-4060-a109-ce5c51e6926a
 
