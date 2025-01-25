@@ -11,29 +11,35 @@
 * v0.5
 * v0.6 
 * v0.7 
+* v0.8 
+* v0.9 
 
 --> 
 
 # O trabalho 
 
-Pensar que tecnologia é trabalho, logicamente nos leva para enfrentar os lados dessa moeda. Por um lado, sobre essa nossa capacidade de criar/modificar o ambiente. Mas a partir disso, e por conta do manuseio das tecnologias que exerce a disseminação, que adotamos "por tabela" uma orientação por resultados que prejudica a nossa em ver o ambiente como flexível (diferente do ambiente de leis de ferro).
+É lógico: se a tecnologia é essencialmente trabalho, não podemos deixar de celebrar o lado positivo; quando a empacotamos, ela dos dá "meio caminho andado" para fazer aquele certo trabalho. Mas o preço que pagamos - também sabemos porque está embutido - é que ela nos diz o que fazer (e o como, quando e por quê). Então, se o manuseio significa disseminação, o fato é que ela comunica. Mas o desafio dessa "materialização" hoje também ocorre por conta das redes que nos conectam com muito mais soluções e suas narrativas. 
 
-Considere a situação de uma família que recentemente mudaram-se para uma região onde a população é predominantemente de estudantes. Eles decidem fazer uma busca online para decidir onde jantar. Pela ordem de resultados, decidira ir em um dos primeiros resultados, um estabelecimento 5 estrelas  Chegando lá, no entanto, ficam decepcionados; porque imediatamente perceberam que o ambiente não era apropriado para um filho de 5 anos e nem mesmo para seus três primos com idades respectivas de 7, 11 e 13 anos. Eles ficaram decepcionados não só porque o ambiente não é o que queriam, mas por conta que acreditaram que naquela "realidade". Quando a mãe reclamou, o primo mais velho até falou 'Então, você não leu os comentários'.
-
-Esta cena, que nem soa absurda, serve para nos lembrar que estamos olhando para o ambiente com lentes criadas pelo próprio ambiente, que nos conduzem sobre o que fazer e conviver com as consequências. Mmesmo com grandes frustrações, continuamos lidando com as consequências, nos adaptando; e muitas vezes nos culpando, por exemplo quando brincamos dizendo que "o problema está entre o monitor e a cadeira."
+Considere a situação de uma família de três (mãe, pai e uma criança de cinco anos. Eles voltaram, depois de 15 anos longe, para a cidade natal onde tudo começou. Agora, tudo é diferente. Principalmente por conta de duas universidades públicas que cresceram. Para eles, agora, a cidade é predominantemente de estudantes. Para o momento do reencontro, eles decidiram sair para jantar. Assim o pequeno e brilhante Lorenzo poderá conhecer seus primos que tem idades respectivas de sete, onze e treze anos. O pai tem pressa e por não saber muita coisa decidiu fazer uma busca online.  E rapidamente encontrou um estabelecimento, digamos assim, cinco estrelas. Mas chegando lá, ficaram decepcionados com o local, que não pareceu ser apropriado para as crianças. Mas eles estão decepcionados, de verdade, porque por um breve momento acharam que estavam indo para um bom local. É como se tivessem sido enganados. Ou, que seja, levemente enganados. Quando a mãe expressou um sinal de frustração com o marido e a cidade, o primo de onze falou, "Então, tia, você não leu os comentários?"
 
 
 
 
 
 
-<!-- Complication --> 
-
-E o fato que lidamos com tudo isso desta forma - até fazendo piadas - exigindo uma atitude passiva (agora promovida como construtiva) é mais uma evidência sobre o problema. Guiados por uma esteira em um ambiente que não para de mudar, ficamos ocupados, conversando, pensando, refletindo e nos adaptando, buscando fazer o melhor. Ocupados nos vemos como empoderados, "Ah, estou colaborando". Mas empoderados seguidores, ou seguidores profissionais. Botamos a mão na massa, manuseando e disseminando, sem perceber aquelas lentes, e muito menos que poderíamos deixar elas de lado. 
-
-Agora, bem ocupados, comparamos essa posição de usuários passivos (que nos custa tanto) com o que seria o trabalho de mudar esse ambiente. "Deve dar bem mais trabalho". A verdade é que esquecemos que a inovação está ligada a criatividade, a iniciativa que quer simplificar, como remover camadas. Mas é verdade, que no fundo no fundo o que dá trabalho mesmo é convencer o nosso entorno que não quer escutar sobre isso; e que prefere só modificar o trabalho como sequidores. 
 
 
+Esta cena, que nem soa tão absurda, serve para nos lembrar sobre o ambiente que vemos com as lentes criadas pelo próprio ambiente. Mesmo quando frustrados, aceitamos as consequências, nos ajustamos. Socialmente adaptados. Nessas horas dizemos, em tom de brincadeira autodepreciativa, dizemos também coisas como "Então, o problema está entre o monitor e a cadeira". Mas foram-se os dias que usávamos as tecnologias sentados, infelizmente. Em outras palavras, é na proporção que nos ocupamos com este ambiente (que dissemina o que fazer) que nos distanciamos daquela ideia que que diz que podemos decidir o que fazer. Então, nos distanciamos sobre perceber o nosso movimento nesse ambiente. 
+
+Existem outras razões que também nos distanciam dessa perspectiva. Por exemplo, uma ideia que diz que "inovar dá trabalho". E tem lógica, não é mesmo? Porque se como usuários, passivos, temos já esse trabalhão todo com isso tudo, então é bem capaz que inovar dá mais trabalho ainda. Talvez nosso erro em pensar dessa forma é também consequência desse mesmo ambiente confuso. Só para nos lembrar, esquecemos que a inovação também tem origem na simplificação, na descontrução, na remoção das coisas, no menos é mais, na negação sobre o fazer ditado aos termos do ambiente. 
+
+
+
+
+
+
+
+Precisamos resgatar aquela ideia: nos aproximar do pensamento da inovação. Não porque precisamos nos envolver criando como criar por criar. Mas porque nos ajuda com o pensamento, mais flexível, que diz que as coisas à nossa frente são só criações do trabalho; desta forma, sujeitas ao nosso julgamento consciente. Neste sentido, vamos considerar algumas ideias, estruturadas, sobre como soluções inovadores são criadas a partir do trabalho e como nós, usuários, estamos (e devemos estar) bem no meio desse processo. 
 
 
 
@@ -45,7 +51,7 @@ Agora, bem ocupados, comparamos essa posição de usuários passivos (que nos cu
 --> 
 
 
-Para nos ajudar com essa reflexão sobre como soluções inovadoras tem origem no trabalho a ser feito, vamos considerar a pesquisa do renomado professor de gestão Clayton Christensen, que criou o conceito conhecido como Jobs to be Done. Para entendermos o diferencial dessa abordagem, Clayton apresenta uma narrativa de uma empresa interessada em vender mais milkshakes. Nessa situação, o pensamento tradicional considera, em primeiro lugar, uma definição de um mercado, por exemplo "vamos considerar famílias com crianças". Desta forma, o esforço parte de um princípio que envolve segmentar o público, por exemplo utilizando-se de atributos demográficos - como idade, estado civil, condições financeiras, etc - depois partindo para pensar sobre as ideias para criar valor.
+Vamos começar com o conceito conhecido como *Jobs to be Done*, criado pelo renomado professor de gestão, Clayton Christensen. Para entendermos o diferencial dessa abordagem, Clayton apresenta uma narrativa de uma empresa interessada em vender mais milkshakes. Nessa situação, o pensamento tradicional considera, em primeiro lugar, uma definição de um mercado, por exemplo "vamos considerar famílias com crianças". Desta forma, o esforço parte de um princípio que envolve segmentar o público, por exemplo utilizando-se de atributos demográficos - como idade, estado civil, condições financeiras, etc - depois partindo para pensar sobre as ideias para criar valor.
 
 A abordagem de Jobs To Be Done, por outro lado, vê um problema com essa lógica. Não é que não existem oportunidades para inovação que se aplicam a grupos de pessoas definidos por esses atributos (essencialmente o ambiente do mercado). O problema está no fato que - em alinhamento com o que estamos conversamos - a inovação tem origem no trabalho. 
 
