@@ -1,11 +1,13 @@
+
 @meta-expressions
 
 @expression "brasileiro precisa ser estudado" 
 
-
 @meta-references 
 
 @note-refai
+
+@note-refai #walkman @refid-20250126-7a34d57c-448b-48bc-8d29-5ecb0a2a2dab - https://chatgpt.com/share/679679a0-8d14-8011-acdd-87fbd534f67c
 
 @note-refai @refid-20250124-e86da185-899c-49ec-8063-11490fb440e2 Walkman https://chatgpt.com/c/6793faec-1f38-8011-9e53-37afa32fd68a 
 
@@ -26,3 +28,4 @@
 * @note-refai @refid-20250109-786a7d90-dab8-4073-97de-1b1ef80a9798 @note #refai - Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/678015e6-adb8-8011-ba17-3a25e32f45d4 @file:9028078/010_communications.txt 
 
 @note-refai @refid-20250107-0412cbec-43e7-4a50-ab38-ae7642710436 * @note #refai - Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/677d729a-7b08-8011-b0c5-c9bae25ca57f @file:commit:9028078/010_communications.txt 
+
