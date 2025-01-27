@@ -7,6 +7,12 @@
 
 @note-refai
 
+@note-refai @refid-20250127-91971a7c-056c-404a-8af5-684e83c0f51b https://chatgpt.com/share/6797bee3-0554-8011-ae3c-50f93bd79191
+
+@note-refai @footnote:footenote_netscape #netscape @refid-20250127-d0fc85f9-31fb-48e6-ad62-13d6ceaaa357 https://chatgpt.com/share/6797bae2-6628-8011-8ee8-9ffc9f737a3e
+
+@note-refai @footnote:footnote_danger_hiptop #dangerhiptop #android @refid-20250127-4b5da2dd-81be-4104-b6e8-2005b2637e50 https://chatgpt.com/share/6797b934-e924-8011-8aba-dfafb3eab1be
+
 @note-refai footenote:footnote_smartphone_social_plus - #seringadigital #focoroubado #maquinacaos #tecnologia #comportamento @refid-20250127-bb37ef67-4dab-4586-b218-788ff8849b38 - https://chatgpt.com/share/6797b4a2-f0d8-8011-93b9-25f767f6d450
 
 @note-refai #walkman @refid-20250126-7a34d57c-448b-48bc-8d29-5ecb0a2a2dab - https://chatgpt.com/share/679679a0-8d14-8011-acdd-87fbd534f67c
