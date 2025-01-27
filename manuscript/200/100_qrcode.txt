@@ -18,7 +18,13 @@
 * a - Case of QRcode. 
 --> 
 
-Eu vim do mundo da tecnologia. Ah, aqueles dias de Califórnia, quando passava pela avenida Middlefield em Mountain View, bem no coração do Vale do Silício. Rumo a Netscape, eu pedalava enquanto lia um artigo da Web na telinha do Danger Device. Isso por volta de 2002, antes das redes sociais, antes dos Smartphones, antes esteira infinita de micro vídeos, bem antes de livros como Foco Roubado, Nação Dopamina, Máquina do Caos e milhares de outros que se tivéssemos tempo de ler nos diriam sobre os riscos da seringa digital [^footnote_smartphone_social_plus].
+Eu vim do mundo da tecnologia. Ah, aqueles dias de Califórnia, quando passava pela avenida Middlefield em Mountain View, bem no coração do Vale do Silício. Rumo a Netscape, eu pedalava enquanto lia um artigo da Web na telinha do Danger Device. Isso por volta de 2002, antes das redes sociais, antes dos Smartphones, antes esteira infinita de micro vídeos, bem antes de livros como Foco Roubado, Nação Dopamina, Máquina do Caos e outros que - se tivéssemos tempo de ler - nos ajudariam a entender os sobre os riscos [^footnote_smartphone_social_plus] do que poderia ser considerado "a seringa digital".
+
+<!--
+@note-refai @refid-20250127-bb37ef67-4dab-4586-b218-788ff8849b38 - https://chatgpt.com/share/6797b4a2-f0d8-8011-93b9-25f767f6d450
+-->
+
+[^footnote_smartphone_social_plus]: A era descrita antecede a ascensão dos smartphones e das redes sociais como conhecemos hoje. Livros como *Foco Roubado* (Johann Hari), *Nação Dopamina* (Anna Lembke), e *Máquina do Caos* (Max Fisher) exploram os impactos psicológicos e sociais da tecnologia moderna, alertando para os riscos da dependência digital e das consequências de uma cultura de hiperconectividade.
 
 <!--
 @todo  
