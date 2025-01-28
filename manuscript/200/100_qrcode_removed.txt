@@ -1,0 +1,62 @@
+
+@abstract? 
+
+Agora falando da experiência do QRcode, uma das frustrações de uma pessoa que é um desenvolvedor formado em torno do ano 2000, é que ficou 20 anos tentando colocar tecnologia, sendo que normalmente as pessoas não querem tecnologia. Sempre foi assim, foi sempre muito difícil convencer, para isso eu precisei usar de arte ou de truques, e às vezes baratear demais, às vezes entregar de graça, às vezes até trabalhar a mais, para que outros pudessem ser convencidos a utilizar tecnologia. Em muitos dos casos realmente não deu certo, é como se o mundo tivesse certo, mas uma das coisas me fascina, e hoje eu considero um paradoxo, principalmente depois do Covid parece que selou, mas já estava acontecendo, veio bem antes, já estava acontecendo um movimento para talvez depois dos smartphones, onde a tecnologia passou a ser parte da vida e as pessoas passaram a aceitar muito da tecnologia como elas são. Uma delas que eu fiquei fascinado, e novamente, a pandemia, o Covid selou ou lacrou, foi a inserção do cardápio de QR Code, tem experiências para contar.
+
+@todo 
+
+* [ , anchored] @todo @todo-footnote - p1 - In “Part 2, QRCode” - #footnote - Add a footnote about smartphone and social networks reducing our focus capacity and also influencing habits @refid-20241220-8656a557-5b56-44b8-8842-355782aa2a9d
+
+@outline
+
+* s - Technology, yes. World, no. Lessons? Value. 
+* c - But technology enters.  
+* a - Case of QRcode. 
+--> 
+
+Quando maravilhados com a tecnologia, ou de fato qualquer coisa, podemos ir longe. Foi apaixonado pela web que acabei me levando para o Vale. Então é isso: eu vim do mundo da tecnologia. Saudades daqueles dias em Mountain View, Califórnia, bem no coração do Vale do Silício. Pedalando, rumo à Netscape [^footenote_netscape], com os pés, uma mão no guidão enquanto a outra segurava a telinha do *Danger Hiptop* [^footnote_danger_hiptop]. Isso era em torno de 2002, antes das redes sociais, antes dos Smartphones, bem antes de consumo de vídeos na esteira infinita micro vídeos e de livros como Foco Roubado, Nação Dopamina, Máquina do Caos que viriam para nos ajudar a entender os sobre os riscos [^footnote_smartphone_social_plus] disso tudo e do que alguns se referem como "a seringa digital".
+
+<!--
+@note-refai @footnote:footenote_netscape #netscape @refid-20250127-d0fc85f9-31fb-48e6-ad62-13d6ceaaa357 https://chatgpt.com/share/6797bae2-6628-8011-8ee8-9ffc9f737a3e
+-->
+
+[^footenote_netscape]: A Netscape foi pioneira no desenvolvimento dos navegadores da web, responsável pelo icônico Netscape Navigator, lançado em 1994. O navegador Netscape foi essencial para popularizar o uso da internet. Apesar de seu declínio após a "guerra dos navegadores" com a Microsoft, sua tecnologia e legado continuam vivos. Considere que o código do Netscape deu origem ao navegador Mozilla Firefox, que é amplamente utilizado hoje. Ou que um dos cofundadores da Netscape é o renomado Marc Andreessen, fundador da A16Z, uma das empresas de capital de risco do Vale do Silício mais icônicas que tem investido em empresas como Facebook, Airbnb, Slack, Stripe, e muito mais. 
+
+<!--
+@note-refai @footnote:footnote_danger_hiptop #dangerhiptop #android @refid-20250127-4b5da2dd-81be-4104-b6e8-2005b2637e50 https://chatgpt.com/share/6797b934-e924-8011-8aba-dfafb3eab1be
+-->
+
+[^footnote_danger_hiptop]: O Danger Hiptop (Sidekick) foi criado por Andy Rubin, cofundador da Danger Inc. Posteriormente, Rubin fundou a Android Inc., uma empresa dedicada ao desenvolvimento de um sistema operacional para dispositivos móveis, que foi adquirida pela Google em 2005.
+
+<!--
+@todo  
+* [ , anchored] @todo @todo-footnote - p1 - In “Part 2, QRCode” - #footnote - Add a footnote about smartphone and social networks reducing our focus capacity and also influencing habits @refid-20241220-8656a557-5b56-44b8-8842-355782aa2a9d
+-->  
+
+<!--
+@note-refai @refid-20250127-bb37ef67-4dab-4586-b218-788ff8849b38 - https://chatgpt.com/share/6797b4a2-f0d8-8011-93b9-25f767f6d450
+-->
+
+[^footnote_smartphone_social_plus]: A era descrita antecede a ascensão dos smartphones e das redes sociais como conhecemos hoje. Livros como *Foco Roubado* (Johann Hari), *Nação Dopamina* (Anna Lembke), e *Máquina do Caos* (Max Fisher) exploram os impactos psicológicos e sociais da tecnologia moderna, alertando para os riscos da dependência digital e das consequências de uma cultura de hiperconectividade.
+
+E mais tarde, da mesma forma e apaixonado, voltei ao Brasil e mergulhei no empreendedorismo. Sobre esses episódios de grandes lutas para convencer o mundo ao longo de duas décadas, tirei duas lições: uma sobre potencial e outra sobre valor.
+
+Sobre potencial, de volta ao Brasil como disse, mergulhei no rumo empreendedor. Com aquela energia "pós-vale” partí para criar uma solução. E deu certo, de certa forma. Mas não ao ponto de ser um negócio sustentável. Quem via de fora sabia que eu trabalhava muito, tipo com "olhos de tigre". Criei um canal para falar dos casos de sucesso e outro para conversar com desenvolvedores. Fiz parcerias com universidades lançando os primeiros "produtos". Fiz um concurso cultural, sorteando um pendrive. Ajudei estudantes de mestrado com trabalhos científicos ém áreas relacionadas. Fui coautor de publicações científicas, em parceria com professores de universidades renomadas. E não é só isso! pois "a solução" tinha também três versões: Uma para universidades (ou parques tecnológicos), outra para departamentos de comunicação de empresas, e uma terceira versão, mais leve, para cafés, tipo padarias, bares ou restaurantes. Até pensei em entrar com um pedido de patente nos Estados Unidos. Por fora, ocupado. Para quem olhava por fora, eu estava bem ocupado, fazendo muita coisa, com aqueles olhos de tigre como diz a música do *Survivor* [^footenote_eye_of_the_tiger]. Com essa energia eu fiz uns 7 sites, uns 7 cartões de negócio e 7 vezes muitas outras coisas. Mas olhando para trás, para o montante de coisas deixado, concluo que, quando queremos e quando acreditamos e alimentamos nossa imaginação a serviço da fé, criamos montanhas. 
+
+<!--
+@note-refai @refid-20250127-91971a7c-056c-404a-8af5-684e83c0f51b https://chatgpt.com/share/6797bee3-0554-8011-ae3c-50f93bd79191
+-->
+
+[^footenote_eye_of_the_tiger]: *Eye of the Tiger* é um clássico da banda Survivor, lançado em 1982 como tema do filme *Rocky III*. A música simboliza determinação, foco e superação, com um refrão que inspira a "energia de olhos de tigre", referida no texto. Confira a versão oficial no YouTube: [Survivor - Eye of the Tiger](https://www.youtube.com/watch?v=btPJPFnesV4).
+
+Já a lição sobre valor, que aprendi a duras penas, começa com a ideia que diz que a tecnologia não será aceita. Que o padrão é o mundo te dar um NÃO. Não, antes do sim. Não antes, e talvez um sim, depois. Foi triste, sim. Mas dessa verdade tirei lições. Da análise pós-morte bem intencionada a nos reciclar, uma delas dizia que aquilo era uma variação romântica do tal fazejamento. Sim, carrega o potencial que gera um montão de coisas. Mas é potencialmente devastador pois pode gerar um monte de _ _ _ _ _  (preencher). Também tirei a ideia sobre uma liderança arbitrária, ou falsa liderança, por conta desse movimento que falhava em analisar o que funciona vs. o que não funciona, que falhava em priorizar atividades estratégicas como por exemplo saber perder batalhas (para ganhar a batalha final). Do lado das soluções, sobre produto e tecnologia, tirei um olhar menos tigre mais humano que me ajudou a ver o propósito da tecnologia, no contexto do trabalho, para as pessoas. Tudo isso foi acontecendo, lentamente, com as reflexões ao longo do tempo.
+
+
+
+
+
+
+
+
+
+
