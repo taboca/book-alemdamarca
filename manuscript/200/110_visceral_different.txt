@@ -24,13 +24,11 @@
 * @todo - p1 - In Chamando a atenção check “o pote da felicidade” (bolo no copo com um pudim colado em cima)
 * @todo - p1 - In Chamando a atenção check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
 
---> 
+@version 
 
+* v0.1 - https://docs.google.com/document/d/1IBrMCipiDK2A9Sa9U6Tkw999e9cdQsmUCg9VwLkK8W4/edit?tab=t.0 
 
-<!--
-v0.1 - https://docs.google.com/document/d/1IBrMCipiDK2A9Sa9U6Tkw999e9cdQsmUCg9VwLkK8W4/edit?tab=t.0 
-
-v0.2 next 
+* v0.3  
 
 --> 
 
@@ -101,17 +99,21 @@ E um tanto sabemos sobre isso, já que estamos bem do lado ou familiarizados com
 
 Num belo Sábado, eu seguia particularmente não faminto a caminho da padaria Lyon em Ribeirão Preto, sendo meu objetivo buscar pão para minha sogra. No geral, não sou especialmente atraído por doces. Mas, naquele dia fiquei curioso ao me deparar com um tipo diferente de sobremesa que se destacou no meio dos bolos e sobremesas, normais. 
 
-Imagine seus olhos escaneando, da direita para a esquerda, como um raio-x. Vai passando, passando, notam um tipo particular de item, e continua a passar, até que o escaner volta para aquele item, e então as pupilas se dilatam: Item não identificado, alerta. Era uma espécie de cupcake, disposto em um copo tipo plástico transparente, uma espécie de copo padrão "tipo açaí", tamanho médio (que seria em 2024 em torno de 500ml). Então a segunda análise no modo raio-x foi agora de baixo para cima. Por conta da transparência, fui notando as várias camadas, andar por andar, seguindo para o andar do topo. Chegando no topo, voltando ao copo, notei que era aquele tipo de copo que traz um andar extra, uma espécie de domus, uma semi-esfera transparente que normalmente teria granola se a parte debaixo fosse toda cheia de iogurte com frutas. Porém, encontrei o que me surpreendeu foi encontrar outra coisa nessa cobertura. Era um pudim de leite condensado. Sim, aquele pudim padrão Brasileiro, amados por muitos. Neste momento eu travei. Não seria possível explicar meu sentimento e isso me faz ter orgulho do Brasileiro que tem consciencia de seus atos minimamente ao ponto de ter cunhado a frase que diz que "o brasileiro precisa ser estudado."
+Imagine seus olhos escaneando, da direita para a esquerda, como um raio-x. Vai passando, passando, notam um tipo particular de item, e continua a passar, até que o escaner volta para aquele item, e então as pupilas se dilatam: Item não identificado, alerta. Era uma espécie de cupcake, disposto em um copo tipo plástico transparente, uma espécie de copo padrão "tipo açaí", tamanho médio (que seria em 2024 em torno de 500ml). 
 
-Se você pode vê problema nisso, peço que pule este capítulo. Não porque você está errado ou eu esteja certo. Mas porque você deve amar doces ao ponto que não está apto para uma análise objetiva. O que temos na cena é: Alguém foi lá e instalou uma sobremesa em cima de outra sobremesa. E isso não seria não grave, sabemos. Hoje tems confetes até em cima de pizza doce não é mesmo? Mas o problema aqui, de lógica, é que aquela sobremesa acima é uma especial que se sustenta sozinha no mundo. Ela sempre existiu assim. 
+A segunda parte da análise raio-x foi no eixo y, de baixo para cima. Por conta do copo que era transparente, pude acompanhar as camadas do cupcake, subindo andar por andar, até o topo. Chegando lá, encontrei uma espécie de domus, ou uma semiesfera transparente, daquelas que normalmente teria granola caso a parte de baixo fosse de iogurte com frutas.
 
-Aparentemente, de alguma forma, alguém pensou que colocar o pudim em cima do cupcake agregaria valor. Mas eu não estava ali para lidar com aquele pote, como consumidor. Como estava intrigado, perguntei à atendente o que era aquilo. Foi então que ela revelou o nome como "O Pote da Felicidade". Naquele momento, eu pude sentir o encanto que o pote - e seu título - poderia exercer sobre a vida de um mortal que ama doces. Para mim, era uma curiosidade estranha. Então, tive tempo para imaginar se o pote fosse animado, tentando se vender. Ei, amigo, eu sou o pote da felicidade. Estou aqui para encantar você, para alegrar o seu dia. Após aquele momento, saí nervosamente, chutando o ar. Alguns pombos por perto voaram para longe.
+O que fazia esta "sobremesa" especialmente peculiar era que neste compartimento havia um pudim de leite condensado. Sim, aquele saudoso pudim de leite condensado Brasileiro, amados por muitos. Foi quando meu sistema operacional travou, incapaz de categorizar o item. Nessas horas, tenho orgulho do Brasileiro que com consciencia sobre seu potencial cunhou e disseminou aquela frase que diz que "o brasileiro precisa ser estudado."
 
-Mais tarde, quando tudo se acalmou, lembrei-me da situação imaginária: se potes pudessem falar. Uma triste constatação me veio: aqueles potes já estavam falando. Foram-se os dias de caça. Foram-se os dias de plantar. E foram-se os dias de comprar ingredientes para fazer. O que temos, agora, são soluções, na hora certa, nas vitrines, prateleiras ou gôndolas da vida. Nosso problema começa no momento que saímos de casa, bem intencionados, já estamos procurando a solução, agora a granel. 
+Se você pode vê problema nisso, peço que pule este capítulo. Não porque você está errado e eu esteja certo. Mas porque você deve amar doces ao ponto que não está apto para uma análise objetiva. O que temos nesta cena é simples assim: que alguém foi lá e instalou uma sobremesa em cima de outra sobremesa. E isso não seria tão grave, é lógico, até porque hoje temos confetes em cima de pizza de chocolate, leite condensado em cima de pizza de banana, e por aí vai. Mas o problema neste caso, de lógica, é que encaixaram duas sobremesas que se sustentam sozinhas, com destaque para o pudim de leite condensado que por sinal se sustenta muito bem sem nada ao lado. Esse pudim sempre existiu assim. 
 
-### Na banheira de cheddar 
+Esse arranjo me fez pensar que uma lógica aceitável seria o desafio de tentar achar coisas no estoque que caberiam naquele copo especial. Bom, eu tô vendo aqui, que a rosquinha e o pudim cabem lá. E em baixo, tem que ser o cupcake mesmo. O filãozinho não vai ficar bonito. Mas enfim, e como não estava lá na posição de consumidor mas ainda intrigado, perguntei à atendente em câmera lenta "o que é isso?" movendo o braço e apontando com o dedo para o item da vitrine refrigerada. Nessa hora, e para minha surpresa, descobri que a explicação tinha título. Era o Pote da Felicidade. Naquele momento, eu senti o poder do pote - que com seu título - sobre a vida de um mortal amante dos doces. Então eu saí de lá chutando o ar, enquanto alguns pombos da calçada se assustaram e se perguntaram "o que é aquilo?"
 
-Mas é lógico, não foi o Brasileiro que inventou a tal da ideia de chamar a atenção. O mundo do cinema tem algo a nos dizer sobre isso. Quando o renomado professor de roteiro de cinema, Robert McKee, foi entrevistado sobre os maiores erros do jovem roteirista, ele apontou a questão dos clichês como um dos maiores erros: 
+Mais tarde, quando tudo se acalmou, lembrei-me da situação imaginária: se potes pudessem falar, tipo "oiê amiguinho, eu sou o Pote da Felicidade!! Estou aqui para para alegrar o seu dia!". E uma triste constatação me veio: que aqueles potes estavam falando. Foram-se os dias dos pombos correios e os dias de caça. Foram-se os dias de plantar. E foram-se também os dias que fazíamos coisas sem dar nomes ou com nomes descritivos como "pudim de leite condensado". O que temos, hoje, nas vitrines e prateleiras e gôndolas da vida, são experiências guiadas por narrativas. 
+
+### A banheira de cheddar 
+
+Mas é lógico: não foi o Brasileiro que inventou essa ideia de chamar a atenção. O mundo do cinema tem algo a nos dizer sobre isso. Quando o renomado professor de roteiro de cinema, Robert McKee, foi entrevistado sobre os maiores erros do jovem roteirista, ele apontou a questão dos clichês como um dos maiores erros: 
 
 <!--
 @note-refai @refid-20250116-a7217570-7207-42e1-8ab3-9611aacb25ba https://chatgpt.com/share/67897e37-0278-8011-bcb0-fc68ab852223
