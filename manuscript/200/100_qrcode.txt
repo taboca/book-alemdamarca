@@ -2,66 +2,37 @@
 
 <!--
 
-* @this v0.7
+* @this v0.9
 * @doc v0.5 https://docs.google.com/document/d/1uwOOfeNoeFWCI1g12LNfkbTK7ZGZ4hbczvPKOrMtE_o/edit?tab=t.0
 
-@abstract? Agora falando da experiência do QRcode, uma das frustrações de uma pessoa que é um desenvolvedor formado em torno do ano 2000, é que ficou 20 anos tentando colocar tecnologia, sendo que normalmente as pessoas não querem tecnologia. Sempre foi assim, foi sempre muito difícil convencer, para isso eu precisei usar de arte ou de truques, e às vezes baratear demais, às vezes entregar de graça, às vezes até trabalhar a mais, para que outros pudessem ser convencidos a utilizar tecnologia. Em muitos dos casos realmente não deu certo, é como se o mundo tivesse certo, mas uma das coisas me fascina, e hoje eu considero um paradoxo, principalmente depois do Covid parece que selou, mas já estava acontecendo, veio bem antes, já estava acontecendo um movimento para talvez depois dos smartphones, onde a tecnologia passou a ser parte da vida e as pessoas passaram a aceitar muito da tecnologia como elas são. Uma delas que eu fiquei fascinado, e novamente, a pandemia, o Covid selou ou lacrou, foi a inserção do cardápio de QR Code, tem experiências para contar.
-
-@todo 
-
-* [ , anchored] @todo @todo-footnote - p1 - In “Part 2, QRCode” - #footnote - Add a footnote about smartphone and social networks reducing our focus capacity and also influencing habits @refid-20241220-8656a557-5b56-44b8-8842-355782aa2a9d
-
-@outline
-
-* s - Technology, yes. World, no. Lessons? Value. 
-* c - But technology enters.  
-* a - Case of QRcode. 
---> 
-
-Quando maravilhados com a tecnologia, ou de fato qualquer coisa, podemos ir longe. Foi apaixonado pela web que acabei me levando para o Vale. Então é isso: eu vim do mundo da tecnologia. Saudades daqueles dias em Mountain View, Califórnia, bem no coração do Vale do Silício. Pedalando, rumo à Netscape [^footenote_netscape], com os pés, uma mão no guidão enquanto a outra segurava a telinha do *Danger Hiptop* [^footnote_danger_hiptop]. Isso era em torno de 2002, antes das redes sociais, antes dos Smartphones, bem antes de consumo de vídeos na esteira infinita micro vídeos e de livros como Foco Roubado, Nação Dopamina, Máquina do Caos que viriam para nos ajudar a entender os sobre os riscos [^footnote_smartphone_social_plus] disso tudo e do que alguns se referem como "a seringa digital".
-
-<!--
-@note-refai @footnote:footenote_netscape #netscape @refid-20250127-d0fc85f9-31fb-48e6-ad62-13d6ceaaa357 https://chatgpt.com/share/6797bae2-6628-8011-8ee8-9ffc9f737a3e
 -->
 
-[^footenote_netscape]: A Netscape foi pioneira no desenvolvimento dos navegadores da web, responsável pelo icônico Netscape Navigator, lançado em 1994. O navegador Netscape foi essencial para popularizar o uso da internet. Apesar de seu declínio após a "guerra dos navegadores" com a Microsoft, sua tecnologia e legado continuam vivos. Considere que o código do Netscape deu origem ao navegador Mozilla Firefox, que é amplamente utilizado hoje. Ou que um dos cofundadores da Netscape é o renomado Marc Andreessen, fundador da A16Z, uma das empresas de capital de risco do Vale do Silício mais icônicas que tem investido em empresas como Facebook, Airbnb, Slack, Stripe, e muito mais. 
+<!-- leading to situation --> 
 
-<!--
-@note-refai @footnote:footnote_danger_hiptop #dangerhiptop #android @refid-20250127-4b5da2dd-81be-4104-b6e8-2005b2637e50 https://chatgpt.com/share/6797b934-e924-8011-8aba-dfafb3eab1be
--->
+Imagine um universo paralelo onde as pessoas não andam olhando para smartphones de última geração. Neste planeta diferente, uma cafeteria decidiu que o menu seria acessível somente por meio do QR Code. Na mesa, adesivaram um QR Code com instruções: 
 
-[^footnote_danger_hiptop]: O Danger Hiptop (Sidekick) foi criado por Andy Rubin, cofundador da Danger Inc. Posteriormente, Rubin fundou a Android Inc., uma empresa dedicada ao desenvolvimento de um sistema operacional para dispositivos móveis, que foi adquirida pela Google em 2005.
+> *"Este é o nosso cardápio QR Code. Basta ir na loja ao lado, comprar um smartphone de última geração. Certifique-se que esse smartphone tem câmera e é compatível com a loja de aplicativos X. Volte aqui, conecte-se a nossa rede WIFI, visite a loja de aplicativos online, instale o nosso aplicativo para decodificar as fotos da câmera, aponte a cãmera para essa imagem, aguarde o botão que irá aparecer, selecione-o. Parabéns, você está diante do menu!"* 
 
-<!--
-@todo  
-* [ , anchored] @todo @todo-footnote - p1 - In “Part 2, QRCode” - #footnote - Add a footnote about smartphone and social networks reducing our focus capacity and also influencing habits @refid-20241220-8656a557-5b56-44b8-8842-355782aa2a9d
--->  
+<!-- situation agreement --> 
 
-<!--
-@note-refai @refid-20250127-bb37ef67-4dab-4586-b218-788ff8849b38 - https://chatgpt.com/share/6797b4a2-f0d8-8011-93b9-25f767f6d450
--->
+Sabemos que para quem só queria um pingado básico, isso é muita coisa para fazer. Aprendi um pouco sobre isso também, às duras penas, como empreendedor apaixonado por tecnologias que tentou, por décadas, empurrar tecnologias para o mundo -  barateando, enfeitando, romantizando, decorando, etc. Que a tecnologia não será aceita. Que o mundo irá dizer NÃO. Concluí que precisava dar mais valor para propósito, antes de pensar na tecnologia. 
 
-[^footnote_smartphone_social_plus]: A era descrita antecede a ascensão dos smartphones e das redes sociais como conhecemos hoje. Livros como *Foco Roubado* (Johann Hari), *Nação Dopamina* (Anna Lembke), e *Máquina do Caos* (Max Fisher) exploram os impactos psicológicos e sociais da tecnologia moderna, alertando para os riscos da dependência digital e das consequências de uma cultura de hiperconectividade.
+<!-- complication anticipation --> 
 
-E mais tarde, da mesma forma e apaixonado, voltei ao Brasil e mergulhei no empreendedorismo. Sobre esses episódios de grandes lutas para convencer o mundo ao longo de duas décadas, tirei duas lições: uma sobre potencial e outra sobre valor.
+Mas também sabemos que as coisas, de certa forma, ficaram um tanto mais simples. Que hoje, basta sacar o smartphone, apontar a câmera, dar uma dedada no primeiro botão que aparece e voilá - o menu. 
 
-Sobre potencial, de volta ao Brasil como disse, mergulhei no rumo empreendedor. Com aquela energia "pós-vale” partí para criar uma solução. E deu certo, de certa forma. Mas não ao ponto de ser um negócio sustentável. Quem via de fora sabia que eu trabalhava muito, tipo com "olhos de tigre". Criei um canal para falar dos casos de sucesso e outro para conversar com desenvolvedores. Fiz parcerias com universidades lançando os primeiros "produtos". Fiz um concurso cultural, sorteando um pendrive. Ajudei estudantes de mestrado com trabalhos científicos ém áreas relacionadas. Fui coautor de publicações científicas, em parceria com professores de universidades renomadas. E não é só isso! pois "a solução" tinha também três versões: Uma para universidades (ou parques tecnológicos), outra para departamentos de comunicação de empresas, e uma terceira versão, mais leve, para cafés, tipo padarias, bares ou restaurantes. Até pensei em entrar com um pedido de patente nos Estados Unidos. Por fora, ocupado. Realmente, fazendo muita coisa. Sendo justo, guiado por aquela paixão e energia. Tipo, "olhos de tigre" no rumo da música do *Survivor* [^footenote_eye_of_the_tiger]. Foi uma a energia que me fez fazer 7 sites, 7 cartões de negócio, 7 vezes muitas outras coisas. Olhando para trás, para o montante de coisas deixado, concluo que quando queremos - quando acreditamos e alimentamos nossa imaginação com fé - criamos montanhas. 
+Porém, algo me surpreendeu depois de passar por isso tudo e ver tantas pessoas (e estabelecimentos) adotando tecnologias, com muita fome. Fui percebendo esse avanço, devagarinho, ligada a disseminação do smartphone e das redes sociais e, é lógico, por conta de todo nosso ambiente de tecnologias conectadas na rede. De certa forma é um paradoxo. Por um lado, somos ativos em rejeitar tudo que é novo. Mas ao mesmo tempo passivos, aceitando essa mantinha tecnológica e social, mesmo que ela nos sufoque. 
 
-<!--
-@note-refai @refid-20250127-91971a7c-056c-404a-8af5-684e83c0f51b https://chatgpt.com/share/6797bee3-0554-8011-ae3c-50f93bd79191
--->
+Um dia, passando por uma famosa avenida de Ribeirão Preto, notei um *outdoor* brancom que tinha, ao centro, um grande QRCode, e do lado uma frase que dizia "tá curioso?" Então é isso: o QR Code ficou popular. Em outro momento, eu tive uma conversa uma empresa de anúncios em *outdoor* justamente para aprender sobre o que (e o que não) fazer. Quando comentei sobre aquele caso, aprendi que era o exemplo do que não se fazer. Que bom, que os motoristas, dirigindo, não estavam curiosos para tirar fotos de QR Codes arbitrários. Ou talvez eles só estejam acompanhando as redes sociais?
 
-[^footenote_eye_of_the_tiger]: *Eye of the Tiger* é um clássico da banda Survivor, lançado em 1982 como tema do filme *Rocky III*. A música simboliza determinação, foco e superação, com um refrão que inspira a "energia de olhos de tigre", referida no texto. Confira a versão oficial no YouTube: [Survivor - Eye of the Tiger](https://www.youtube.com/watch?v=btPJPFnesV4).
+<!-- gka -->
 
-Já a lição sobre valor, que aprendi a duras penas, começa com a ideia que diz que a tecnologia não será aceita. Que o padrão é o mundo te dar um NÃO. Não, antes do sim. Não antes, e talvez um sim, depois. Foi triste, sim. Mas dessa verdade tirei lições. Da análise pós-morte bem intencionada a nos reciclar, uma delas dizia que aquilo era uma variação romântica do tal fazejamento. Sim, carrega o potencial que gera um montão de coisas. Mas é potencialmente devastador pois pode gerar um monte de _ _ _ _ _  (preencher). Também tirei a ideia sobre uma liderança arbitrária, ou falsa liderança, por conta desse movimento que falhava em analisar o que funciona vs. o que não funciona, que falhava em priorizar atividades estratégicas como por exemplo saber perder batalhas (para ganhar a batalha final). Do lado das soluções, sobre produto e tecnologia, tirei um olhar menos tigre mais humano que me ajudou a ver o propósito da tecnologia, no contexto do trabalho, para as pessoas. Tudo isso foi acontecendo, lentamente, com as reflexões ao longo do tempo.
+Contribuindo com a reflexão sobre este paradoxo, trago as próximas seções que consideram como a tecnologia do QR Code, especialmente no Brasil, avançou dentro dos estabelecimentos de alimentação. E sim, em parte impulsionada pela pandemia. Mas é lógico, nada disso é culpa do QR Code. E é por isso que precisamos fazer duas paradas. A primeira, voltando um pouco no tempo, para celebrarmos a beleza dessa invenção. E enfim, de volta para presente, experienciarmos como estabelecimentos abraçaram isso - principalmente durante a pandemia - de forma descontrolada. 
 
-### O paradoxo 
 
-Porém, algo me surpreendeu depois de passar por isso tudo e ao ver o mundo continuar. Talvez essa surpresa não é nada mais do que olhar o mundo por outro ângulo. Mas eu percebendo esse avanço, bem devagarinho, da tecnologia. Talvez esse fenômeno tenha surgido depois do Smartphone, ou depois das redes sociais, ou depois de tudo isso misturado. Contribuindo com a reflexão sobre este paradoxo, trago essa narrativa sobre como a tecnologia do QR Code, especialmente no Brasil, avançou e de certa forma se acomodou dentro dos estabelecimentos de alimentação - provavelmente impulsionada pela pandemia. 
+### O QR Code não tem culpa 
 
-Mas adianto que nada disso é sobre o QRcode. Se o paradoxo fosse traduzido como um fenômeno, poderia ser sobre o mundo que foi abraçando a tecnologia que passou a fazer parte da vida da gente. Talvez as pessoas passaram a aceitar a tecnologia como parte da realidade. Meio que da mesma forma que refrigerante aparece no almoço. Não sei. Em parte, deve ser a resposta. Tipo, tem que ser, não é mesmo? Diz que as pessoas caem de paraquedas em um ambiente - e simplesmente lidam com a realidade na frente delas, não diferente do que conversamos em Fazejamento. Tipo, resultado da situação quando a criança logo cedo encontra um celular daqueles mais espertinhos - e se encanta, ou se derrete com aquilo tudo - enquanto seus pais, não pacientes e até sem condições para tal, respiram por um breve momento.
-
-Antes de seguirmos, é uma questão de honra celebrarmos a genialidade sobre o QRCode; uma celebração que diz que a tecnologia não tem culpa. Vamos começar com o básico, que mais ou menos sabemos, que qualquer um pode facilmente acessar um QR Code. Mas também, como sabemos, que esse um precisa estar aparelhado com um smartphone, moderno, que carrega o sistema IOS, da Apple, ou o Android, da Google. E, é lógico, conectado à internet. Daí sim, podemos confiar que ela ou ele poderá "ver" o que está atrás do QR Code, não importando se o QR Code está no bolso de trás de um jeans, no outdoor ou na lateral do prédio. Basta apontar a câmera e voilá - a mágica acontece - não importando o ângulo nem o tamanho da imagem. 
+Sobre o que sabemos é que praticamente qualquer um pode acessar o QR Code. É lógico, que esse um precisa estar aparelhado com um smartphone, moderno, que carrega o sistema IOS da Apple, ou o Android da Google. E, é lógico, conectado à internet. Daí sim, podemos confiar que ela ou ele poderá "ver" o que está atrás do QR Code, não importando se o QR Code está no bolso de trás de um jeans, no outdoor ou na lateral do prédio. Basta apontar a câmera e voilá - a mágica acontece - não importando o ângulo nem o tamanho da imagem. 
 
 A invenção foi liderada por Masahiro Hara, da empresa *Denso Wave*, que buscava uma solução para que pudesse codificar mais informações a partir de um código visual (WIKIPEDIA, 2024). A especulação é que Masahiro encontrou a alternativa em 1994 enquanto jogava o jogo de tabuleiro Go (PAUL, 2024). Antes do QRcode, o que conhecíamos era o tradicional código de barras - aqueles que encontramos nas embalagens de vários produtos. Esse traz uma sequência de barras verticais, dispostas lado a lado com larguras diferentes. Apesar que a imagem tem duas dimensões, a informação está codificada na forma linear. É por isso que que a informação pode ser decodificada por um leitor laser que, digamos assim, faz um corte de lado a lado. O QR Code, por outro lado, traz um laioute que aproveita as duas dimensões - que pode ser lido tanto pela vertical como na horizontal. Como resultado, pode codificar uma quantidade maior de informação (mais de 4000 caracteres). O título expandido, *Quick Response Code*, remete a outra característica, sobre o tempo de leitura que é cerca de dez vezes mais rápido que o padrão anterior. 
 
@@ -82,15 +53,20 @@ TUMBLR. Pictures of People Scanning QRCodes. Disponível em: https://www.tumblr.
 
 E o tempo passou. Até que, de uma hora para outra, ou meio que "do nada", algo mudou. De repente o QRcode começou a funcionar, no automático. Isso porque em 2017, a Apple decidiu "empacotar" a função mágica no aplicativo da câmera do iPhone. Esse movimento foi acompanhado pela Google que fez o mesmo o aplicativo da câmera do Android. Então, um belo Sábado de manhã, alguém apontou a câmera do celular para um QR Code e - voilá - viu algo mais, a chance de visitar uma página da Web. 
 
-Imagine uma realidade paralela, onde poucas pessoas tivessem condições de ter um smartphone de última geração e, mesmo assim, o estabelecimento decidiu colocar o menu acessível somente por meio do QR Code. Abaixo da imagem tem um texto que diz: 
 
-> *"Este é o nosso cardápio QR Code. Basta ir na loja ao lado, comprar um smartphone de última geração. Certifique-se que esse smartphone tem câmera e é compatível com a loja de aplicativos X. Volte aqui, conecte-se a nossa rede WIFI, vá até a loja de aplicativos, baixe o nosso aplicativo especial para decodificar as fotos da câmera. Aponte a cãmera para essa imagem, aguarde o botão que irá aparecer. Parabéns! você está diante do menu!"* 
 
-Então, você lá poderia seguir tudo, encontrar o que quer, e falar "Me vê um pingado." É desnecessário dizer que em uma realidade de tantas camadas é bem provável que o o nome do produto não seria "pingado." Enfim, e por conta que mudou tudo, não precisamos fazer isso. Então, tudo ficou mais simples já que basta sacar o smartphone, apontar a câmera, apertar rapidão no primeiro botão que aparece na tela e - voilá - tocar no que aparece na tela.
 
-Antes de avançarmos me permita uma breve pausa para celebrarmos como o mundo passou a abraçar o QR Code depois disso: Um dia, passando por uma famosa avenida de Ribeirão Preto, me deparei com um outdoor que trazia, basicamente, um QRCode. Quase que só isso, bem no meio, e uma frase, abaixo, que dizia "tá curioso?" Então é isso: o QRcode ficou popular. 
 
-É isso: O QR Code ficou popular. O que nos leva a conversar sobre aquelas situações quando abraçamos, meio que "do nada", as coisas. Quando nos envolvemos no automático, tipo pedir refrigerante na sequência logo que o garçon pergunta o que vai baber. Ou fumar, ou entrar na fila e depois perguntar sobre o que se trata. Um dia, conversando com um profissional de uma empresa de outdoor sobre o que fazer (e não fazer), eu trouxe aquele caso do outdoor. Ele conhecia bem o caso, e, para a nossa felicidade era um caso de uso sobre o que não fazer. Que bom, que os motoristas, dirigindo, não estavam curiosos para tirar fotos de QR Codes arbitrários.
+
+
+
+Com essa celebração feita, podemos nos voltar esse ponto no tempo e experienciar três histórias que nos dizem um pouco sobre como o QR Code avançou em muitos estabelecimentos pelo Brasil. Eu diria que os "ingredientes" estavam se juntando - o smartphone, as redes, as integrações dos sistemas - no que seria uma espécie de um cozimento lento. E que, durante a pandemia, colocamos tudo isso na pressão. 
+
+
+
+
+
+
 
 <!--
 @todo 
@@ -101,7 +77,7 @@ Antes de avançarmos me permita uma breve pausa para celebrarmos como o mundo pa
 
 Márcio, vamos pegar uma pizza? No minuto que minha mãe falou eu já estava indo no rumo da chave do carro. Era cedo para pizza, tipo início da noite, tipo umas 6 da tarde. Pá, pum!, tem dia que que o movimento não pede explicações. Ainda me intriga essa situação, quando a gente quer que quer ir buscar a pizza. Às vezes é porque a entrega é cara, ou é porque é mais rápido pegar, ou talvez seja porque a gente volta cuidando da pizza, no colo, como quem as pessoas voltavam no passado cuidando do baguete quentinho no caminho.
 
-Entre o sair da garagem e puxar o freio de mão foram poucos quarteirões. Chegamos na Pizzaria La Bella Volta, nome fictício, instalada em um canto da área de um posto de gasolina. Já conhecíamos a pizzaria pelo online, porém era a primeira vez no local. De longe, parecia um *drive through*. Era uma casinha mais ou menos do tamnho de um container. Mas era de estacionar, sair do carro, entrar, pedir, e levar. Ou, em inglês seria um tipo de “*drive, park, walk-in, and take-out, through*”*. Porque era cedo, não tinha ninguém lá. Sobre o ambiente, era pequeno e bonito. Por fora, encapada com azulejos avermelhados que tinham visual de tijolo à vista. A iluminação de leds projetava um estilo retrô, como as lâmpadas incandecentes do Thomas Edison um dia tentaram simular o estilo de iluminação romântica dos lampeões projetando tons de amarelo nas paredes. Combinando com tudo isso, haviam algumas arandelas vintage, em preto-fosco. E haviam outros ornamentos que acompanhavam todo o estilo. Já do lado de dentro, era pequeno, tipo para coisa rápida. Do lado esquerdo, tinha um banco de madeira para três pessoas, robusto e rústico, porém moderno por conta do verniz fosco. Na frente desse banco, estava o balcão com dois "pontos" para fazer os pedidos. Em cada um, uma atendente atrás da tela. Resumindo, do lado de cá só nós dois e do lado de lá só elas. Nada mais acontecendo, estávamos animados porque éramos os primeiros.
+Entre o sair da garagem e puxar o freio de mão foram poucos quarteirões. Chegamos na Pizzaria La Bella Volta, nome fictício, instalada em um canto da área de um posto de gasolina. Já conhecíamos a pizzaria pelo online, porém era a primeira vez no local. De longe, parecia um *drive through*. Era uma casinha mais ou menos do tamnho de um container. Mas era de estacionar, sair do carro, entrar, pedir, e levar. Ou, em inglês seria um tipo de “*drive, park, walk-in, and take-out, through*”*. Porque era cedo, não tinha ninguém lá. Sobre o ambiente, era pequeno e bonito. Por fora, encapada com azulejos avermelhados que tinham visual de tijolo à vista. A iluminação de leds projetava um estilo retrô, como as lâmpadas incandecentes do Thomas Edison um dia tentaram simular o estilo de iluminação romântica dos lampeões projetando tons de amarelo nas paredes. Do lado de fora haviam também arandelas, estilo vintage, em preto fosco, que combinavam com o visual e os ornamentos. Do lado de dentro, era bem pequeno, tipo para coisa rápida. Do lado esquerdo, tinha um banco de madeira para três pessoas, robusto e rústico, porém moderno por conta do verniz fosco. Na frente desse banco, estava o balcão com dois "pontos" para fazer os pedidos. Em cada um, uma atendente atrás da tela. Resumindo, do lado de cá só nós dois e do lado de lá só elas. Nada mais acontecendo, estávamos animados porque éramos os primeiros.
 
 Logo que entramos, minha mãe foi sacando o cartão da bolsa enquanto eu pedi o cardápio. Em resposta, uma das atendentes disse "senhora, você precisa pedir por lá", enquanto apontava para o pôster na parede que tinha o QR Code. Não lembro se soltei uma interjeição, mas lembro que uma delas disse que se tivéssemos problema ela ajudaria. Às vezes, nessas horas, dá uma baita vontade de pedir ajuda mesmo antes de precisar. Tipo, "ok, vamos lá, me ajuda, vai". Mas na vida real, as coisas não são bem assim. Talvez porque ela disse que era fácil a gente ficou meio sem graça. 
 
@@ -116,7 +92,7 @@ Eu lembrei do meu pai, meio italiano e meio sírio-libanês. Ele teria interromp
 * doc v0.1  https://docs.google.com/document/d/1IfdZmCqppNu04nya9oncTtNt_Y1TBVGKQRdof0v5SYA/edit?tab=t.0
 -->
 
-### Sushi Peixinho Ocidental 
+### Sushi Ocidental 
 
 Era início da noite. Minha prima veio visitar minha mãe. Alguém teve a ideia de sair para algo mais leve, tipo tomar uma cervejinha. Partimos para pegar minha esposa e na sequência para o bar. Escolhemos um sushizinho elegante e de certa forma romântico. Nada exagerado ou muito formal, tipo 50% buteco com 50% sushi. 
 
@@ -149,13 +125,30 @@ Enquanto apreciava o requitado café, notei que haviam poucas pessoas no local, 
 
 Neste momento, decidi quebrar o protocolo. Não estou me referindo ao protocolo das interjeições como comentários, pitacos, observações, etc, que saem às vezes enquanto o pessoal tenta trabalhar. Estou me referindo ao protocolo que me impede de abrir uma conversa mais séria - aquelas que tem um potencial de transformar um cliente em um cliente chato. 
 
-Enfim, já que estava lá, sozinho, e já quebrado o protocolo do relaxar agora preocupado com o faturamento, avancei. Chamei o rapaz, pelo físico, por conta que chamar pelo QR code implicaria pedir um outro café. Ele veio à mesa. Pode ser que eu tenha causado uma frustração por conta que tudo era para ser feito pelo QR code, exceto receber o pagamento ou reclamações. 
+Enfim, já que estava lá, sozinho, e já que tinha quebrado o protocolo "relaxar" agora pensando sobre a experiência ligada ao faturamento, eu avancei. Chamei o rapaz, pelo físico, por conta que chamar pelo QR code implicaria pedir um outro café. Ele veio à mesa. Pode ser que eu tenha causado uma frustração por conta que tudo era para ser feito pelo QR code, exceto receber o pagamento ou reclamações. 
 
-Então eu perguntei "Você não acha, que este tipo de experiência do QR Code, para algumas pessoas, não poderia criar um impeditivo para os pedido?" Como quem sugere até casos onde as pessoas simplesmente vão embora. O tom era de “com isso vocês perdem clientes”. Já a resposta foi simples e rápida, com um tom de quem já sabia o que dizer: O que os olhos não veem, o coração não sente. Normalmente, uma vez que eu quebro o protocolo e logo que recebo uma resposta, eu estou pronto para dar sequência, trazendo novos pontos, dizeres, pensamentos, interjeições, boquejadas, etc. Mas nesse dia eu não consegui falar nada. Meu consciente travou, ou decidiu então relaxar, à moda como quem joga a toalha. 
+Então eu perguntei "Você não acha que este tipo de experiência poderia influenciar o consumo de algumas pessoas?" como quem está sugerindo que algumas pessoas simplesmente fossem embora, tipo como quem diz "vocês estão perdendo clientes”. Já a resposta que recebi, na lata, foi "o que os olhos não veem, o coração não sente". Normalmente, nessas horas, eu retruco, jogando interjeições, dizeres, boquejadas, e mais. Mas nesse dia, nada saiu. Eu travei, ou relaxei. Ou joguei a toalha. 
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 @todo 
 * [Done , altered, anchored] - @todo - p1 - In "Part 2, QRCode" - Now: Just concluded with a note on speed, acceleration, hearts. Was:Consider to conclude with the acknowledgement of the force, of management, driven by market forces naturally, which pressures the young - acting as a sort of glue (filling the gap, or a tertius gaudens)  to make it work, the technology which doesn't, naturally. @refid-20241217-6a225964-6890-4c20-b6c0-fa1ef4c39db3
 --> 
 
-Com essa última história, concluo, mas só com a intenção de abrir a reflexão, considerando que a colocação daquele profissional é ponto um ótimo ponto de partida. O que os olhos não veem o coração não sente é a deixa. Porque de fato, sem quebrar o olhar, sem quebrar o protocolo, não podemos perceber. De fato, ele estava reconhecendo a dor. Talvez ele estivesse também insatisfeito. Talvez já tenha observado aquilo. Pode até ser que ele já havia tocado no assunto com a gestão. Pode até ser que a própria gestão não valorizou sua sugestão. Pode até ser que ele ouviu aquela mesma frase da própria gestão. Ainda, pode até ser que ele foi repreendido porque um dia conversou com “uma mesa” ao contrário de “só” entregar os pedidos. São tantas possibilidades. Mas todas elas envolvem a ideia de que o que nós estamos vendo, o ambiente que criamos, define nosso campo de visão. Nossas métricas definem nossas possibilidades. Que o nosso ambiente tem o poder de limitar. Talvez, se nossos corações estivessem menos acelerados, poderíamos ver, poderíamos quebrar nossos protocolos. O que temos, no meio de gigantes investimentos - como em muitas cafeterias pequenas ou gigantes simples ou exageradamente requintadas - são ambientes que colocam a tecnologia antes e valor depois, que com isso definem quem entra e quem não entra e o que fica e os valores que se perdem sem percebermos. Estamos escolhendo tecnologias com base na ansiedade, orientados por resultados de performance e com isso criando ambientes que não só atrapalham a performance mas mais do que isso atrapalham a capacidade dos colegas de trabalho quebrarem aquele protocolo mecanizado, de serem mais humanos e criativos. 
+
+
+
+Essa história, especialmente o que ele disse, é um ponto de partida para a nossa reflexão. O que os olhos não veem o coração não sente, é a deixa. No fundo, no fundo, tem verdade lá. Uma que diz que se não mudarmos a forma que estamos vendo as coisas, não teremos como perceber. Talvez ele estivesse também insatisfeito. Ou cansado, ou frustrado, por estar naquela posição, como um mero entregador que obecede aos processos. Talvez já tinha passado por tudo aquilo. Pode até ser que ele trouxe aquele assunto com a gestão e foi ignorado. Ou ainda, repreendido, tipo repreendido porque um dia tentou ajudou um cliente (ao contrário de só entregar os pedidos). Se ele entende do problema mais profundo, ou se é parte do problema, não importa tanto.
+
+Em outras palavras, é o ambiente. É a cultura do trabalho que emprega as tecnologias dessa forma e com isso define seu campo de visão. Ansiosos por resultados imediatos e obcedados por performance, corremos com as tecnologias e processos. No final do dia, atrapalhamos nosso crescimento, dessa forma, menos humanos e menos criativos. Se nossos corações estivessem menos acelerados, talvez poderíamos perceber, talvez até quebrar esses protocolos. Tudo isso é triste, porque continuamos fazendo investimentos gigantescos, como aquela cafería exageradamente requintada, mas que essencialmente colocam a tecnologia antes e o valor depois. Assim definem quem entra e quem não entra, o que se vê e o que não se vê. Consequentemente, o que sentimos, agora, é resultado dessa visão míope. 
+
