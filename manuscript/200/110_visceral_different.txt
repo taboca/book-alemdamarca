@@ -1,172 +1,170 @@
-# Chamar a atenção 
+    # Chamar a atenção 
 
-<!--
+    <!--
 
-@expression "brasileiro precisa ser estudado" 
+    @expression "brasileiro precisa ser estudado" 
 
-@tags 
+    @tags 
 
-* #visceral 
+    * #visceral 
 
-@todo 
+    @todo 
 
-* [ , anchored ] @todo - p1 - In "Chamar a atenção" Review, the leading paragraphs, ABC vs. BAB [(1) Book - adm - Revisão de "Chamar a atenção" Sobre começar com um caso, depois contexto. Ou contexto. - YouTube](https://www.youtube.com/shorts/ICB6xLx9VF8) @refid-20250117-8dace7fb-f918-4e55-b1e5-62afa300096a
+    * [ , anchored ] @todo - p1 - In "Chamar a atenção" Review, the leading paragraphs, ABC vs. BAB [(1) Book - adm - Revisão de "Chamar a atenção" Sobre começar com um caso, depois contexto. Ou contexto. - YouTube](https://www.youtube.com/shorts/ICB6xLx9VF8) @refid-20250117-8dace7fb-f918-4e55-b1e5-62afa300096a
 
-* [ , anchored ] @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
+    * [ , anchored ] @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
 
-* [x] Abaixo, o ponto da capa - "Artigo - além da marca - narrativas cliches tendencia visceral, de onde vem o visceral 
+    * [x] Abaixo, o ponto da capa - "Artigo - além da marca - narrativas cliches tendencia visceral, de onde vem o visceral 
 
-* [ ] @todo - p1 - In Chamar a atenção, consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
+    * [ ] @todo - p1 - In Chamar a atenção, consider wording "gôndolas" and ref intitulado “A arte de chamar a atenção” irá celebra um fenômeno peculiar que destaca como o visceral atacou as gôndolas e menus para tentar chamar a atenção. 
 
-@done 
+    @done 
 
-* @todo - p1 - In Chamando a atenção check “lanche na piscina de cheddar”
-* @todo - p1 - In Chamando a atenção check “o pote da felicidade” (bolo no copo com um pudim colado em cima)
-* @todo - p1 - In Chamando a atenção check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
+    * @todo - p1 - In Chamando a atenção check “lanche na piscina de cheddar”
+    * @todo - p1 - In Chamando a atenção check “o pote da felicidade” (bolo no copo com um pudim colado em cima)
+    * @todo - p1 - In Chamando a atenção check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
 
-@version 
+    @version 
 
-* v0.1 - https://docs.google.com/document/d/1IBrMCipiDK2A9Sa9U6Tkw999e9cdQsmUCg9VwLkK8W4/edit?tab=t.0 
+    * v0.1 - https://docs.google.com/document/d/1IBrMCipiDK2A9Sa9U6Tkw999e9cdQsmUCg9VwLkK8W4/edit?tab=t.0 
 
-* v0.3  
+    * v0.3  
 
---> 
+    --> 
 
 
-Hoje, a lojinha de hot dog da esquina pode comprar qualquer solução, para qualquer necessidade, "à granel". Foram-se os dias que comprávamos ingredientes e lidávamos com todo o resto por nossa conta. Agora, eles podem "sair para comprar" até as narrativas sobre o que falar para seus clientes. E assim a operação corre pelo hipermercado de soluções na mesma proporção que esquece o propósito e se desconecta de valores.
+    Hoje, a lojinha de hot dog da esquina pode comprar qualquer solução, para qualquer necessidade, "à granel". Foram-se os dias que comprávamos ingredientes e lidávamos com todo o resto por nossa conta. Agora, eles podem "sair para comprar" até as narrativas sobre o que falar para seus clientes. E assim a operação corre pelo hipermercado de soluções na mesma proporção que esquece o propósito e se desconecta de valores.
 
-Recentemente pedi um lanche pelo aplicativo. O pacote era uma caixa de papel retangular, como aquelas barras de ouro moldadas na forma de um prisma trapezoidal. Fiquei feliz que o lanche não era pequeno e acompanhava toda a extensão da embalagem. Ao abrir, me deparei com uma frase que ponta a ponta dizia "Não basta ser diferente, tem que ser surpreendente!". Eu falei, nossa. Deve ser bom.  
+    Recentemente pedi um lanche pelo aplicativo. O pacote era uma caixa de papel retangular, como aquelas barras de ouro moldadas na forma de um prisma trapezoidal. Fiquei feliz que o lanche não era pequeno e acompanhava toda a extensão da embalagem. Ao abrir, me deparei com uma frase que ponta a ponta dizia "Não basta ser diferente, tem que ser surpreendente!". Eu falei, nossa. Deve ser bom.  
 
-Com fome, avancei. Mas quando terminei, digerindo sobre o lanche, a embalagem e a frase, conclui que o que me mais me surpreendeu foi mesmo a frase. E aquilo me fez pensar sobre o desafio da agência - ou que seja do sobrinho responsável pelo departamento de marketing. Porque não é fácil também para eles, porque é bem capaz que já gastaram a frase “Não basta ser igual, tem que ser diferente!” no lote anterior. Então e se fosse eu, agora, na frente do próximo pedido de 1000 embalagens? Não deu outra, pedi para a IA me ajudar com isso: 
+    Com fome, avancei. Mas quando terminei, digerindo sobre o lanche, a embalagem e a frase, conclui que o que me mais me surpreendeu foi mesmo a frase. E aquilo me fez pensar sobre o desafio da agência - ou que seja do sobrinho responsável pelo departamento de marketing. Porque não é fácil também para eles, porque é bem capaz que já gastaram a frase “Não basta ser igual, tem que ser diferente!” no lote anterior. Então e se fosse eu, agora, na frente do próximo pedido de 1000 embalagens? Não deu outra, pedi para a IA me ajudar com isso: 
 
-<!--
-@note-refai @refid-20250117-289a7559-02c0-4a16-90c1-14348c655230
--->
+    <!--
+    @note-refai @refid-20250117-289a7559-02c0-4a16-90c1-14348c655230
+    -->
 
-> *Monsieur gepetee, você poderia me ajudar a criar frases do tipo 'não basta ser diferente, tem que ser surpreendente!' mas quero crie essas frases de forma encadeada, aprofundando na lógica ok? Assinado, Marcio, chefe do departamento de criativos do Rotten Corner Dog.
+    > *Monsieur gepetee, você poderia me ajudar a criar frases do tipo 'não basta ser diferente, tem que ser surpreendente!' mas quero crie essas frases de forma encadeada, aprofundando na lógica ok? Assinado, Marcio, chefe do departamento de criativos do Rotten Corner Dog.
 
-E, é claro, a IA é sempre otimista não me deixou na mão com os criativos além de me dar explicações sobre a lógica utilizada:  
+    E, é claro, a IA é sempre otimista não me deixou na mão com os criativos além de me dar explicações sobre a lógica utilizada:  
 
-> "Não basta ser diferente, tem que ser único.
-> (Ser único é um nível acima de ser apenas diferente.)
-> Não basta ser único, tem que ser autêntico.
-> (A autenticidade agrega profundidade à singularidade.)
-> Não basta ser autêntico, tem que ser relevante.
-> (Ser relevante significa que sua autenticidade importa para os outros.)
-> Não basta ser relevante, tem que ser inovador.
-> (A inovação se destaca dentro da relevância.)
-> Não basta ser inovador, tem que ser surpreendente.
-> (A surpresa captura a atenção de maneira especial.)
-> Não basta ser surpreendente, tem que ser memorável.
-> (A memória é o efeito duradouro da surpresa.)
-> Não basta ser memorável, tem que ser transformador.
-> (A transformação deixa impacto e muda algo.)
-> Não basta ser transformador, tem que ser visionário.
-> (Ser visionário é guiar a transformação para o futuro.)
-> Não basta ser visionário, tem que ser inspirador.
-> (A inspiração mobiliza outras pessoas a seguirem sua visão.)
-> Não basta ser inspirador, tem que ser eterno.
-> (A eternidade é o impacto duradouro que ultrapassa o tempo.)
+    > "Não basta ser diferente, tem que ser único.
+    > (Ser único é um nível acima de ser apenas diferente.)
+    > Não basta ser único, tem que ser autêntico.
+    > (A autenticidade agrega profundidade à singularidade.)
+    > Não basta ser autêntico, tem que ser relevante.
+    > (Ser relevante significa que sua autenticidade importa para os outros.)
+    > Não basta ser relevante, tem que ser inovador.
+    > (A inovação se destaca dentro da relevância.)
+    > Não basta ser inovador, tem que ser surpreendente.
+    > (A surpresa captura a atenção de maneira especial.)
+    > Não basta ser surpreendente, tem que ser memorável.
+    > (A memória é o efeito duradouro da surpresa.)
+    > Não basta ser memorável, tem que ser transformador.
+    > (A transformação deixa impacto e muda algo.)
+    > Não basta ser transformador, tem que ser visionário.
+    > (Ser visionário é guiar a transformação para o futuro.)
+    > Não basta ser visionário, tem que ser inspirador.
+    > (A inspiração mobiliza outras pessoas a seguirem sua visão.)
+    > Não basta ser inspirador, tem que ser eterno.
+    > (A eternidade é o impacto duradouro que ultrapassa o tempo.)
 
-<!--
-@todo 
-* [ , anchored ] @todo - p1 - In "Chamar a atenção" Review, the leading paragraphs, ABC vs. BAB [(1) Book - adm - Revisão de "Chamar a atenção" Sobre começar com um caso, depois contexto. Ou contexto. - YouTube](https://www.youtube.com/shorts/ICB6xLx9VF8) @refid-20250117-8dace7fb-f918-4e55-b1e5-62afa300096a
--->
+    <!--
+    @todo 
+    * [ , anchored ] @todo - p1 - In "Chamar a atenção" Review, the leading paragraphs, ABC vs. BAB [(1) Book - adm - Revisão de "Chamar a atenção" Sobre começar com um caso, depois contexto. Ou contexto. - YouTube](https://www.youtube.com/shorts/ICB6xLx9VF8) @refid-20250117-8dace7fb-f918-4e55-b1e5-62afa300096a
+    -->
 
-Mas voltando um pouco - deixando de lado essa empolgação - eu estava mesmo era frustrado porque aquela frase me fazia lembrar do “Pense diferente” dos dias de ouro da Apple. E  sobre algumas das coisas valiosas que o Steve Jobs disse quando ele havia voltado para, digamos assim, recuperar a Apple. Antes de lançar a famosa campanha *Think Different*, ele fez questão de falar sobre valores: 
+    Mas voltando um pouco - deixando de lado essa empolgação - eu estava mesmo era frustrado porque aquela frase me fazia lembrar do “Pense diferente” dos dias de ouro da Apple. E  sobre algumas das coisas valiosas que o Steve Jobs disse quando ele havia voltado para, digamos assim, recuperar a Apple. Antes de lançar a famosa campanha *Think Different*, ele fez questão de falar sobre valores: 
 
-<!--
-@note-refai @refid-20250116-620a0879-d22a-4f57-b590-f1589ecaccba - https://chatgpt.com/share/67897620-02c4-8011-9ff5-a88e09f6c64c
--->
+    <!--
+    @note-refai @refid-20250116-620a0879-d22a-4f57-b590-f1589ecaccba - https://chatgpt.com/share/67897620-02c4-8011-9ff5-a88e09f6c64c
+    -->
 
-> *"Para mim, marketing é sobre valores. Este é um mundo muito complicado; é um mundo muito barulhento, e não vamos ter muitas chances de fazer as pessoas se lembrarem muito sobre nós. Nenhuma empresa terá. Então, precisamos ser realmente claros sobre o que queremos que elas saibam sobre nós."* (JOBS, 1997, tradução nossa)
+    > *"Para mim, marketing é sobre valores. Este é um mundo muito complicado; é um mundo muito barulhento, e não vamos ter muitas chances de fazer as pessoas se lembrarem muito sobre nós. Nenhuma empresa terá. Então, precisamos ser realmente claros sobre o que queremos que elas saibam sobre nós."* (JOBS, 1997, tradução nossa)
 
-<!--
-@references
-* reference - JOBS, Steve. Get much simpler, be really clear - Sept. 23, 1997. YouTube, 1 jun. 2012. Disponível em: https://www.youtube.com/watch?v=jMSa9sSZpF8. Acesso em: 16 jan. 2025.
--->
+    <!--
+    @references
+    * reference - JOBS, Steve. Get much simpler, be really clear - Sept. 23, 1997. YouTube, 1 jun. 2012. Disponível em: https://www.youtube.com/watch?v=jMSa9sSZpF8. Acesso em: 16 jan. 2025.
+    -->
 
-O legado que ele deixou sobre ser diferente - ou pensar diferente - é justamente sobre o diferente simples que cria experiências memoráveis, sobre o trabalho verdadeiro que vem antes e que faz as coisas serem lembradas. Agora eu estava na frente daquele "diferente" se fazendo de surpreendente tentando ser diferente. O diferente do Steve não só foi ignorado mas também atropelado. Atropelado pelo movimento ansioso que Steve Jobs não queria, que só faz barulho. 
+    O legado que ele deixou sobre ser diferente - ou pensar diferente - é justamente sobre o diferente simples que cria experiências memoráveis, sobre o trabalho verdadeiro que vem antes e que faz as coisas serem lembradas. Agora eu estava na frente daquele "diferente" se fazendo de surpreendente tentando ser diferente. O diferente do Steve não só foi ignorado mas também atropelado. Atropelado pelo movimento ansioso que Steve Jobs não queria, que só faz barulho. 
 
-E um tanto sabemos sobre isso, já que estamos bem do lado ou familiarizados como aquela ideia que diz que temos que “chamar a atenção". Neste sentido, seguem três cenas para nossa observação e posterior reflexão. 
+    E um tanto sabemos sobre isso, já que estamos bem do lado ou familiarizados como aquela ideia que diz que temos que “chamar a atenção". Neste sentido, seguem três cenas para nossa observação e posterior reflexão. 
 
-### Pote da felicidade 
+    ### Pote da felicidade 
 
-<!-- 
-* ref - Original, referido abaixo como v2.1, https://docs.google.com/document/d/1YU-e9NkbqOcSl5c83UdC_QUrVt0d8Ofj0GnnVwRzRn4/edit?tab=t.0
-* Nota, original, v2.1 - final, exercício reflexivo está na versão portugues, Verificar, abaixo, inserir complicação. 
--->
+    <!-- 
+    * ref - Original, referido abaixo como v2.1, https://docs.google.com/document/d/1YU-e9NkbqOcSl5c83UdC_QUrVt0d8Ofj0GnnVwRzRn4/edit?tab=t.0
+    * Nota, original, v2.1 - final, exercício reflexivo está na versão portugues, Verificar, abaixo, inserir complicação. 
+    -->
 
-Num belo Sábado, eu seguia particularmente não faminto a caminho da padaria Lyon em Ribeirão Preto, sendo meu objetivo buscar pão para minha sogra. No geral, não sou especialmente atraído por doces. Mas, naquele dia fiquei curioso ao me deparar com um tipo diferente de sobremesa que se destacou no meio dos bolos e sobremesas, normais. 
+    Num belo Sábado, eu seguia particularmente não faminto a caminho da padaria Lyon em Ribeirão Preto, sendo meu objetivo buscar pão para minha sogra. No geral, não sou especialmente atraído por doces. Mas, naquele dia fiquei curioso ao me deparar com um tipo diferente de sobremesa que se destacou no meio dos bolos e sobremesas, normais. 
 
-Imagine seus olhos escaneando, da direita para a esquerda, como um raio-x. Vai passando, passando, notam um tipo particular de item, e continua a passar, até que o escaner volta para aquele item, e então as pupilas se dilatam: Item não identificado, alerta. Era uma espécie de cupcake, disposto em um copo tipo plástico transparente, uma espécie de copo padrão "tipo açaí", tamanho médio (que seria em 2024 em torno de 500ml). 
+    Imagine seus olhos escaneando, da direita para a esquerda, como um raio-x. Vai passando, passando, notam um tipo particular de item, e continua a passar, até que o escaner volta para aquele item, e então as pupilas se dilatam: Item não identificado, alerta. Era uma espécie de cupcake, disposto em um copo tipo plástico transparente, uma espécie de copo padrão "tipo açaí", tamanho médio (que seria em 2024 em torno de 500ml). 
 
-A segunda parte da análise raio-x foi no eixo y, de baixo para cima. Por conta do copo que era transparente, pude acompanhar as camadas do cupcake, subindo andar por andar, até o topo. Chegando lá, encontrei uma espécie de domus, ou uma semiesfera transparente, daquelas que normalmente teria granola caso a parte de baixo fosse de iogurte com frutas.
+    A segunda parte da análise raio-x foi no eixo y, de baixo para cima. Por conta do copo que era transparente, pude acompanhar as camadas do cupcake, subindo andar por andar, até o topo. Chegando lá, encontrei uma espécie de domus, ou uma semiesfera transparente, daquelas que normalmente teria granola caso a parte de baixo fosse de iogurte com frutas.
 
-O que fazia esta "sobremesa" especialmente peculiar era que neste compartimento havia um pudim de leite condensado. Sim, aquele saudoso pudim de leite condensado Brasileiro, amados por muitos. Foi quando meu sistema operacional travou, incapaz de categorizar o item. Nessas horas, tenho orgulho do Brasileiro que com consciencia sobre seu potencial cunhou e disseminou aquela frase que diz que "o brasileiro precisa ser estudado."
+    O que fazia esta "sobremesa" especialmente peculiar era que neste compartimento havia um pudim de leite condensado. Sim, aquele saudoso pudim de leite condensado Brasileiro, amados por muitos. Foi quando meu sistema operacional travou, incapaz de categorizar o item. Nessas horas, tenho orgulho do Brasileiro que com consciencia sobre seu potencial cunhou e disseminou aquela frase que diz que "o brasileiro precisa ser estudado."
 
-Se você pode vê problema nisso, peço que pule este capítulo. Não porque você está errado e eu esteja certo. Mas porque você deve amar doces ao ponto que não está apto para uma análise objetiva. O que temos nesta cena é simples assim: que alguém foi lá e instalou uma sobremesa em cima de outra sobremesa. E isso não seria tão grave, é lógico, até porque hoje temos confetes em cima de pizza de chocolate, leite condensado em cima de pizza de banana, e por aí vai. Mas o problema neste caso, de lógica, é que encaixaram duas sobremesas que se sustentam sozinhas, com destaque para o pudim de leite condensado que por sinal se sustenta muito bem sem nada ao lado. Esse pudim sempre existiu assim. 
+    Se você pode vê problema nisso, peço que pule este capítulo. Não porque você está errado e eu esteja certo. Mas porque você deve amar doces ao ponto que não está apto para uma análise objetiva. O que temos nesta cena é simples assim: que alguém foi lá e instalou uma sobremesa em cima de outra sobremesa. E isso não seria tão grave, é lógico, até porque hoje temos confetes em cima de pizza de chocolate, leite condensado em cima de pizza de banana, e por aí vai. Mas o problema neste caso, de lógica, é que encaixaram duas sobremesas que se sustentam sozinhas, com destaque para o pudim de leite condensado que por sinal se sustenta muito bem sem nada ao lado. Esse pudim sempre existiu assim. 
 
-Esse arranjo me fez pensar que uma lógica aceitável seria o desafio de tentar achar coisas no estoque que caberiam naquele copo especial. Bom, eu tô vendo aqui, que a rosquinha e o pudim cabem lá. E em baixo, tem que ser o cupcake mesmo. O filãozinho não vai ficar bonito. Mas enfim, e como não estava lá na posição de consumidor mas ainda intrigado, perguntei à atendente em câmera lenta "o que é isso?" movendo o braço e apontando com o dedo para o item da vitrine refrigerada. Nessa hora, e para minha surpresa, descobri que a explicação tinha título. Era o Pote da Felicidade. Naquele momento, eu senti o poder do pote - que com seu título - sobre a vida de um mortal amante dos doces. Então eu saí de lá chutando o ar, enquanto alguns pombos da calçada se assustaram e se perguntaram "o que é aquilo?"
+    Esse arranjo me fez pensar que uma lógica aceitável seria o desafio de tentar achar coisas no estoque que caberiam naquele copo especial. Bom, eu tô vendo aqui, que a rosquinha e o pudim cabem lá. E em baixo, tem que ser o cupcake mesmo. O filãozinho não vai ficar bonito. Mas enfim, e como não estava lá na posição de consumidor mas ainda intrigado, perguntei à atendente em câmera lenta "o que é isso?" movendo o braço e apontando com o dedo para o item da vitrine refrigerada. Nessa hora, e para minha surpresa, descobri que a explicação tinha título. Era o Pote da Felicidade. Naquele momento, eu senti o poder do pote - que com seu título - sobre a vida de um mortal amante dos doces. Então eu saí de lá chutando o ar, enquanto alguns pombos da calçada se assustaram e se perguntaram "o que é aquilo?"
 
-Mais tarde, quando tudo se acalmou, lembrei-me da situação imaginária: se potes pudessem falar, tipo "oiê amiguinho, eu sou o Pote da Felicidade!! Estou aqui para para alegrar o seu dia!". E uma triste constatação me veio: que aqueles potes estavam falando. Foram-se os dias dos pombos correios e os dias de caça. Foram-se os dias de plantar. E foram-se também os dias que fazíamos coisas sem dar nomes ou com nomes descritivos como "pudim de leite condensado". O que temos, hoje, nas vitrines e prateleiras e gôndolas da vida, são experiências guiadas por narrativas. 
+    Mais tarde, quando tudo se acalmou, lembrei-me da situação imaginária: se potes pudessem falar, tipo "oiê amiguinho, eu sou o Pote da Felicidade!! Estou aqui para para alegrar o seu dia!". E uma triste constatação me veio: que aqueles potes estavam falando. Foram-se os dias dos pombos correios e os dias de caça. Foram-se os dias de plantar. E foram-se também os dias que fazíamos coisas sem dar nomes ou com nomes descritivos como "pudim de leite condensado". O que temos, hoje, nas vitrines e prateleiras e gôndolas da vida, são experiências guiadas por narrativas. 
 
-### A banheira de cheddar 
+    ### A banheira de cheddar 
 
-Mas é lógico: não foi o Brasileiro que inventou essa ideia de chamar a atenção. O mundo do cinema tem algo a nos dizer sobre isso. Quando o renomado professor de roteiro de cinema, Robert McKee, foi entrevistado sobre os maiores erros do jovem roteirista, ele apontou a questão dos clichês como um dos maiores erros: 
+    Mas é lógico: não foi o Brasileiro que inventou essa ideia de chamar a atenção. O mundo do cinema tem algo a nos dizer sobre isso. Quando o renomado professor de roteiro de cinema, Robert McKee, foi entrevistado sobre os maiores erros do jovem roteirista, ele apontou a questão dos clichês como um dos maiores erros: 
 
-<!--
-@note-refai @refid-20250116-a7217570-7207-42e1-8ab3-9611aacb25ba https://chatgpt.com/share/67897e37-0278-8011-bcb0-fc68ab852223
---> 
+    <!--
+    @note-refai @refid-20250116-a7217570-7207-42e1-8ab3-9611aacb25ba https://chatgpt.com/share/67897e37-0278-8011-bcb0-fc68ab852223
+    --> 
 
-> *"Eles querem ser originais, mas, ao mesmo tempo, querem ter certeza de que vai funcionar. Então, eles reciclam as coisas que todo mundo sempre fez e tentam reciclá-las com uma diferença, o que é absolutamente necessário. Eu entendo, você não vai reinventar a roda; precisa girá-la de uma maneira diferente. Mas aí eles ficam muito... sabe, uma vez que vendem a alma, é difícil recuperá-la."*  (McKee, 2021, min. 10:02).
+    > *"Eles querem ser originais, mas, ao mesmo tempo, querem ter certeza de que vai funcionar. Então, eles reciclam as coisas que todo mundo sempre fez e tentam reciclá-las com uma diferença, o que é absolutamente necessário. Eu entendo, você não vai reinventar a roda; precisa girá-la de uma maneira diferente. Mas aí eles ficam muito... sabe, uma vez que vendem a alma, é difícil recuperá-la."*  (McKee, 2021, min. 10:02).
 
 
-<!--
-@references
-* reference - MCKEE, Robert. The Art of Story, Dialogue and Character with Robert McKee (Free Masterclass). Indie Film Hustle Podcast, 2021. Disponível em: https://youtu.be/ITSu9IbCr9Q?si=Hlor67yz8ssVGeVX. Acesso em: 16 jan. 2025.
--->
+    <!--
+    @references
+    * reference - MCKEE, Robert. The Art of Story, Dialogue and Character with Robert McKee (Free Masterclass). Indie Film Hustle Podcast, 2021. Disponível em: https://youtu.be/ITSu9IbCr9Q?si=Hlor67yz8ssVGeVX. Acesso em: 16 jan. 2025.
+    -->
 
-Pensando sobre isso, lembrei sobre a situação quando criticamos o cinema americano dizendo que “este é um típico filme americano.” Se é triste para nós mais ainda é para este professor que sabe que atrás dessa névoa de criações que reinventam o original - agora surpreendente - estão as criações de um verdadeiro cinema americano, ou verdadeiro cinema. 
+    Pensando sobre isso, lembrei sobre a situação quando criticamos o cinema americano dizendo que “este é um típico filme americano.” Se é triste para nós mais ainda é para este professor que sabe que atrás dessa névoa de criações que reinventam o original - agora surpreendente - estão as criações de um verdadeiro cinema americano, ou verdadeiro cinema. 
 
-De forma análoga, seguimos no modo clichês, criando narrativas para o site, o flyer, a embalagen, a sacola, o título, as descrições e toda a experiência gastronômica. Nunca copiamos, é lógico. Remixamos talvez, ou vamos enfeitando o pavão. Mas assim como os roteiristas de primeira viagem, vendemos nossas almas para o o mundo dos clichês. Não só caímos de paraquedas nessa onda mas aceitamos, inclusive com orgulho, que o modo “chamar a atenção” é a regra do mercado, assumindo que é a realidade que a audiência quer. 
+    De forma análoga, seguimos no modo clichês, criando narrativas para o site, o flyer, a embalagen, a sacola, o título, as descrições e toda a experiência gastronômica. Nunca copiamos, é lógico. Remixamos talvez, ou vamos enfeitando o pavão. Mas assim como os roteiristas de primeira viagem, vendemos nossas almas para o modo clichê. Não só caímos de paraquedas nessa onda mas aceitamos, inclusive com orgulho, que o modo “chamar a atenção” é a regra do mercado, assumindo que é a realidade que a audiência quer. 
 
-<!--
-@todo 
-* [ Done , anchored ] @todo-index @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
---->
+    <!--
+    @todo 
+    * [ Done , anchored ] @todo-index @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
+    --->
 
+    Essa névoa é um problema porque se a gente nasce na névoa, e só vê névoa, não existe névoa. Talvez por isso criticamos o cinema americano como sendo "cinema americano". E é por isso que quando esbarramos em um filme muito bom americano pensamos que é um positivo-falso, uma espécie de patinho bonito errado e sozinho. 
 
-Essa questão da névoa é um problema porque só podemos ver como névoa quando sabemos o que está atrás. A realidade é que se você nasceu na névoa, ela não existe. Talvez por isso criticamos o cinema americano como "o cinema americano", mesmo que, do nada, um ou outro filme nos surpreenda com o modelo clássico. Nessa hora, a gente pensa que é um positivo-falso - um patinho feio ou uma bola dentro, depois de tantas tacadas. É triste não poder atrás da névoa. 
+    <!--
+    @expression "brasileiro precisa ser estudado" 
+    --> 
 
-<!--
-@expression "brasileiro precisa ser estudado" 
---> 
+    No mundo dos lanches, eu caí de paraquedas bem no meio dessa névoa. Ou melhor, dentro da piscina de cheddar. Eu só estava procurando por um lanche, pelo aplicativo eFominha. Sempre que começo esse trabalho de escavação, começo procurando aquele lanche em extinção, o tradicional carne e queijo. É difícil achar porque quando acho ele está bem escondido. Então é raro e o raro é caro. O que achamos, à vista, são aquelas coisas que brilham, ou as que piscam e que gritam, e que nos surpreendem com suas fotos, títulos e descrições. E de repente, bem no meio daquelas fotos destaque, me deparo com "Lanche na Piscina de Cheddar". 
 
-No mundo dos lanches, eu caí nessa pegadinha, de paraquedas na névoa. Ou melhor, na piscina de cheddar. Estava navegando no aplicativo "eFominha" quando, um belo dia, procurava por lanches. Aliás, sempre que estou navegando procuro um lanche tradicional que está em extinção, o famoso carne e queijo. Quando encontro, está escondido e é caro. Então, a vista, posso só ver coisas que brilham, ou piscam, ou gritam, ou me surpreendem, pelas fotos ou títulos ou descrições. De repente, encontro logo nas fotos em destaque um lanche atolado no que era dito como sendo uma piscina de cheddar. Não sei se você já viu. Fio inocente porque achei que estava diante de uma criação, um tipo de "achadinho bizarro". Mas não, era só mais um exemplo que confirma que o brasileiro precisa ser estudado. 
+    Era um lanche? Sim. Ou quase sim. Digo isso porque lanches não ficam de lado, tipo roda de caminhão. Mas esse ficava, porque estava 50% atolado naquela naquele líquido viscoso e alaranjado. A verdade é que fui inocente, no início, achando que era algo original, tipo um "achadinho bizarro". Mas quem procura acha, não é mesmo? Então era mais do mesmo - era só aquele mesmo fenômeno dos clichês, agora na forma de lanche. Só mais um exemplo que confirma que o brasileiro precisa ser estudado. 
 
-Então era isso. Era um lanche, sim. Tipo um lanche que normalmente não ficaria de lado. Mas agora sim, porque estava 50% atolado na piscina do líquido viscoso e alaranjado, referido como cheddar. Demorei para entender que eles estavam por toda parte. Quem procura acha, não é mesmo? É a regra da Web agora nos aplicativos. Era a categoria "lanche na piscina de cheddar." Se você for procurar, é por sua conta e risco. Pode pode ser que o buscador queira validar se você tem mais de 18 anos. Tanto no quesito visual como nas narrativas, já aviso, cenas fortes. Tem de tudo. Tem lanche atolado no liquido viscoso transbordando, tipo cena em movimento congelada e entregue quentinha. Tem "polvilhado" de bacon triturado boiando ao redor do lanche. Quanto aos materiais e formas da piscina, tem de tudo também. Piscina de plástico, piscina de papel, piscina de isopor e, na linha gourmet, achei até piscina de alumínio estilo "da roça". Só não vi ainda de barro. Achei também uma piscina na forma de coração. É isso, as piscinas, ou banheiras, ficaram criativas. E as narrativas, ousadas, já que dizem coisas como "mergulhar tudo que tem direito", atolar, enfiar, chuchar. Lendo um pouco pensei que aquilo deveria ser proibido. Opa, é isso! Agora é marketing. Vamos vender o proibido não é mesmo?
+    Enfim, é uma categoria: lanche na piscina de cheddar. Se você for procurar na web, é por sua conta e risco. E pode ser que o buscador queira validar se você tem mais de 18 anos. Eu avisei, são cenas fortes. E tem de tudo. Tem lanche atolado com o "cheddar" transbordando, tem "polvilhado" de bacon triturado boiando na piscina. Quanto aos materiais que suportam a piscina, tem de plástico, de papel, de isopor e, na linha gourmet, até de alumínio estilo "da roça". E tem ofurô redondo, quadrado e até de coração. É isso, piscinas, banheiras, e criativas. E as narrativas, ousadas, dizem coisas como "mergulhar tudo que tem direito", atolar, enfiar e chuchar. Quando lí, achei que deveria ser proibido. Então lembrei "Opa, é isso!", agora isso é marketing, não é mesmo? Vender o proibidão. 
 
-Enfim, sei que demorei para perceber que havia uma criação referência. Demorei porque não acreditava que era realmente um clichê perecível comestível. Mas a ideia tinha sido impulsionada. Digamos assim, que uma grande franquia tinha feito o unboxing da categoria. Em defesa do original, era só um inofensivo lanchinho da franquia. Um atoladinho em uma piscininha de 100ml de cheddar. Uma chuchadinha aqui, não seria mataria ninguém. Mas é isso. Unboxing feito, como o caso do cinema americano, alguém viu que "podemos fazer o mesmo, não é mesmo? Não é difícil". Bom, mas se fizermos irá ficar igual ao deles. Nada disso, podemos fazer a versão grande. Mas veja bem, cheddar é caro. Nada disso, a mistura é um molho "de cheddar" entende? Ah tá, bora lá então. Podemos jogar bacon na piscina? Ou batata palha. Que tal bacon com batata palha? Nossa vai bombar. Liga para o a Sra. Pandora e vê se podemos já cadastrar o lanche na plataforma. 
+    Sei que demorei para perceber o que poderia ser a a criação referência, o original. Demorei porque não acreditava que estava diante de um clichê perecível comestível. Mas a verdade é que a ideia tinha sido impulsionada, digamos assim, por uma grande franquia. Então ela fez o *unboxing* da categoria. Em defesa desse original, se você for ver, é só um inofensivo lanchinho. Tipo, um atoladinho em uma piscininha de 100ml de cheddar. Uma chuchadinha aqui, não seria mataria ninguém. Mas uma vez o unboxing feito, como o caso do cinema americano, agora um roteirista de lanches descobriu que poderia fazer o mesmo. Ou melhor, um mesmo bem diferente: 
 
-Enquanto essa cena passa, infelizmente e essencialmente, é a nossa energia que está em jogo. Ficamos bem posicionados, mais uma vez, no meio desse oceano viscoso avermelhado, na briga do mercado, mais um no meio dos milhares de outros estabelecimentos que também lutam para serem surpreendentes e ignoram que poderiam surfar no mundo mais simples, talvez o que um dia foi a versão original do diferente. 
+    > "*Bom, mas se fizermos irá ficar igual ao deles! Nada disso, porque podemos fazer bem maior. Mas colega, veja bem, esse tal do cheddar é caro. Quê isso, você acha que é cheddar? Vamo usar a mistura molho "de cheddar" rapaz. Ah tá, bora lá então! E podemos jogar bacon na piscina? Ou batata palha? Interessante, mas que tal bacon com batata palha? Nossa, vai bombar! Liga para a dona Pandora e vê com ela se já podemos adastrar o lanche na plataforma.*" 
 
-### Trio elétrico 
+    Enquanto essa cena passa, infelizmente, é a nossa energia que está em jogo. Assim nos jogamos, junto com todos os outros, no mesmo deste oceano viscoso e avermelhado, mais um no meio dos milhares de outros estabelecimentos que também lutam para serem surpreendentes. 
 
-Mais uma narrativa neste sentido seria fúti, dado que estamos inundados com essas experiências para todos os lados. Mas coloco aqui essa última reflexão para justamente considerarmos que, inclusive, sobre a possibilidade de que o surpreendente ou bizarro está lá por razões que você não poderia imaginar. Por exemplo, para chamar atenção, por exemplo, para você de forma surpreendente fugir de um item, tipo acabar comprando outro. Tudo pode acontecer. Neste caso, considere uma experiência quando eu e minha esposa decidimos jantar num restaurante, título fictício, *Outlaws*. O restaurante segue um modelo, digamos assim, que eu não gostaria de dizer com o americano, mas é o que pode ser visto com o americano no Brasil, aqueles que trazem um ritual de atendimento inicial, com direito a visita guiada até a mesa com explicações detalhadas de boas vindas. 
+    ### Trio elétrico 
 
-Ele perguntou se era a primeira vez. Falamos que não. Então o garçom falou que queria nos contar sobre o trio elétrico - apontando para o display em papel couchê 300g, acabamento verniz fosco, longo com base triangular e fotos profissionais. Ele começou falando que, de fato, o trio elétrico não é um trio, no sentido de "combo" com três opções. Disse que eram três sugestões. Essa foi boa porque, realmente, a primeira coisa que iria pensar é que se é trio é porque as três coisas vem juntas. Com isso resolvido, ele continuou. 
+    Mais uma narrativa neste sentido seria fútil, dado que estamos inundados com essas experiências para todos os lados. Mas coloco aqui essa última reflexão para justamente considerarmos que, inclusive, sobre a possibilidade de que o surpreendente ou bizarro está lá por razões que você não poderia imaginar. Por exemplo, para chamar atenção, por exemplo, para você de forma surpreendente fugir de um item, tipo acabar comprando outro. Tudo pode acontecer. Neste caso, considere uma experiência quando eu e minha esposa decidimos jantar num restaurante, título fictício, *Outlaws*. O restaurante segue um modelo, digamos assim, que eu não gostaria de dizer com o americano, mas é o que pode ser visto com o americano no Brasil, aqueles que trazem um ritual de atendimento inicial, com direito a visita guiada até a mesa com explicações detalhadas de boas vindas. 
 
-Disse também que não era exatamente uma promoção. Eu achei um pouco diferente a explicação mas aceitei. Entendo que seria se dissessem algo como "essa é nossa campanha do trio" o cliente diria "ah, é? desconto de quanto?" Então faz sentido dizer "Olha isso não é um trio nem uma promoção, vou te explicar". Enfim, ele explicou que o item um era a popular costela, mas com a cobertura do "queijo X", na sequência tínhamos a tradicional cebola, agora coberta com "molho Y" e finalmente a saudosa sobremesa Petit Gateau coberta por chocolate Z. X, Y, Z sendo produtos de marcas conhecidas. Na sequência eu perguntei "onde está o cardápio?" e ele apontou para o QR Code. Acredito que fomos felizes pela paciência de abrir o cardápio. O que encontramos, depois de uma breve pesquisa, é que as três opções do trio elétrico estavam no cardápio tanto na versão eletrificada como também na versão popular, tradicional e saudosa sem as dimensões extras. 
+    Ele perguntou se era a primeira vez. Falamos que não. Então o garçom falou que queria nos contar sobre o trio elétrico - apontando para o display em papel couchê 300g, acabamento verniz fosco, longo com base triangular e fotos profissionais. Ele começou falando que, de fato, o trio elétrico não é um trio, no sentido de "combo" com três opções. Disse que eram três sugestões. Essa foi boa porque, realmente, a primeira coisa que iria pensar é que se é trio é porque as três coisas vem juntas. Com isso resolvido, ele continuou. 
 
-O que realmente me surpreendeu, ou me deixou confuso sobre como o mundo mudou, foi que meu entendimento anterior em relação ao passado me dizia que essas franquias, tipo franquias "top" com gestão no exterior, raramente alterariam suas receitas porque o fornecedor deu uma dica tipo "manda o nosso cheddar em cima da cebola que vai vender bastante". Naquela hora caiu a fica que as marcas realmente ficaram fortes. Como assim? Mudar essa receita? Outro ponto que considerei como sendo peculiar (por falta de uma palavra) foi a possibilidade onde aquelas adições terem piorado a receita. Confesso que fiquei desconcertado com essa ideia que dizia, nossa, a costela ficou pior, a cebola ficou pior, e o petit gateau ficou pior. Tem que ser eu o problema. Esse pessoal jamais faria isso. Essas marcas jamais fariam isso. Veja a qualidade desse encarte. Estou errado, vamos lá. 
+    Disse também que não era exatamente uma promoção. Eu achei um pouco diferente a explicação mas aceitei. Entendo que seria se dissessem algo como "essa é nossa campanha do trio" o cliente diria "ah, é? desconto de quanto?" Então faz sentido dizer "Olha isso não é um trio nem uma promoção, vou te explicar". Enfim, ele explicou que o item um era a popular costela, mas com a cobertura do "queijo X", na sequência tínhamos a tradicional cebola, agora coberta com "molho Y" e finalmente a saudosa sobremesa Petit Gateau coberta por chocolate Z. X, Y, Z sendo produtos de marcas conhecidas. Na sequência eu perguntei "onde está o cardápio?" e ele apontou para o QR Code. Acredito que fomos felizes pela paciência de abrir o cardápio. O que encontramos, depois de uma breve pesquisa, é que as três opções do trio elétrico estavam no cardápio tanto na versão eletrificada como também na versão popular, tradicional e saudosa sem as dimensões extras. 
 
-Outra leve surpresa, que foi de encontro com a honestidade do garçon que disse que não era promoção, foi que encontramos os três itens originais com preço bem mais em conta. Então é como se, de certa forma, encontramos um achadinho. Como queríamos a costela, pensamos algo assim "Nossa, por que pedir a versão com este 'queijo' em cima se a versão original, que é razoavelmente boa, é bem mais barata". 
+    O que realmente me surpreendeu, ou me deixou confuso sobre como o mundo mudou, foi que meu entendimento anterior em relação ao passado me dizia que essas franquias, tipo franquias "top" com gestão no exterior, raramente alterariam suas receitas porque o fornecedor deu uma dica tipo "manda o nosso cheddar em cima da cebola que vai vender bastante". Naquela hora caiu a fica que as marcas realmente ficaram fortes. Como assim? Mudar essa receita? Outro ponto que considerei como sendo peculiar (por falta de uma palavra) foi a possibilidade onde aquelas adições terem piorado a receita. Confesso que fiquei desconcertado com essa ideia que dizia, nossa, a costela ficou pior, a cebola ficou pior, e o petit gateau ficou pior. Tem que ser eu o problema. Esse pessoal jamais faria isso. Essas marcas jamais fariam isso. Veja a qualidade desse encarte. Estou errado, vamos lá. 
 
-Eu gostaria de concluir que não cheguei a conclusão nenhuma. Porque não é mais possível entender qual era a intenção. Não era uma promoção? Sim. Não era trio? Sim. Tudo foi honesto? Sim. Crianças iriam chorar pelo Petit Gateau com o chocolate Z. Alguns pediriam os três items, no modo combo, achando que é combo? Sim. Alguns encontrariam que a versão original é mais barata? Sim. Sobre o que sei é que fiquei parte confuso na minha tese, original, que diz que o petit gâteau se sustenta sozinho, só com o bolinho e o sorvete e sem o chocolate fincado; ou que a costela barbecue não precisaria da camada daquele queijo, nem a cebola precisaria do derramado daquele "cheddar".
+    Outra leve surpresa, que foi de encontro com a honestidade do garçon que disse que não era promoção, foi que encontramos os três itens originais com preço bem mais em conta. Então é como se, de certa forma, encontramos um achadinho. Como queríamos a costela, pensamos algo assim "Nossa, por que pedir a versão com este 'queijo' em cima se a versão original, que é razoavelmente boa, é bem mais barata". 
 
-
-
-
-
+    Eu gostaria de concluir que não cheguei a conclusão nenhuma. Porque não é mais possível entender qual era a intenção. Não era uma promoção? Sim. Não era trio? Sim. Tudo foi honesto? Sim. Crianças iriam chorar pelo Petit Gateau com o chocolate Z, sim. Alguns pediriam os três items, no modo combo, achando que é combo? Sim. Alguns encontrariam aquela versão original mais barata? Sim. Mas uma coisa que foi diferente nisso tudo foi realmente a questão era uma franquia, digamos, assim, global, presente em mais de 20 países. Esse é o caso daquele tipo de organização que, no passado, não aceitava fácil essas combinações e adaptações no cardápio. 
 
