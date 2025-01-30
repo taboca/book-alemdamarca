@@ -1,10 +1,10 @@
-# Acelerados 
+# Soluções aceleradoras 
 
 <!--
 
 @version 
 
-* This v0.3.2 - beyond the v0.3
+* This v0.4
 
 * v0.3 Pt-br https://docs.google.com/document/d/13whk7qT6P1fYwsIYRhwzx3YCLtg9_kgwt4qkPNUxZgk/edit?tab=t.0
 * Now v0.2 - https://docs.google.com/document/d/1261uQfR-0tcGaAyofqFCMDjE2y9Li-OlzCsT3h815_w/edit?tab=t.0
@@ -31,8 +31,6 @@
 * [ Done ] @todo - p1 - In "Acelerados" - Translate to pt-br. @refid-20241212-134c3a7c-4cf0-485b-8299-327d8f665be6
 
 -->
-
-### Soluções aceleradoras  
 
 Eu chamava aquilo de massajão. Mas a verdade é que levei uma década para descobrir que não era queijo de verdade.Quando descobri, dei aquele "aha! você não é queijo rapah!". Mais tarde fiquei decepcionado, quando ele me disse "Veja bem, rapah, nem queijo eu quero ser. Eu sou uma solução semi-láctea, seu trouxa!"
 
