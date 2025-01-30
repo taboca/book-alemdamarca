@@ -156,14 +156,9 @@
 
 
 
+@@ Soluções aceleradas
 
-
-
-* [ ] @todo - p1 - In Acelerados - Motoboys - "De qualquer forma chega também deformada porém por conta de uma entrega acelerada, das empinadas e da frequência de ressonância do escapamento sem miolo. Mas por quê reclamar? Nossas pizzas baratinhas, essas entre 10 a 15 dólares, são sobreviventes de um romance trágico escrito pelas ruas - vidas aceleradas.  Temos que manter nossa postura, nossa felicidade, até porque para cada pizza que chega eu sei que um jovem motoqueiro - futuro do Brasil - naquele dia não morreu. Sou feliz por saber que se a pizza não vem cortada é porque o chef pizzaiolo tá preocupado com a gente, com aquela rápida." 
-
-* [ ] @todo - p1 - In "Acelerados" - Check the Calendar "ok - adm - mozanna ep3 Thursday, December 5⋅3:00 – 4:00pm; for todo items. 
-
-* [ ] @todo - p1 - In "Acelerados" - Ainda, iremos ler, bem devagar, cada trecho da página de de um tipo de “queijo” que está adequado na regulação como um produto lácteo e onde uma das suas características principais é que não gera poços de gordura, ou seja, gera pizzas “perfeitas”, diferente daquelas pizzas imperfeitas que são feitas (como na Itália) com aqueles queijos mais caros e gordurosos.
+* [ ] @todo - p1 - In "Soluções aceleradas" - Consider to talk about marcios idea of the extremes of capitalist system, that it expands on both ends - the low end and the high end. @refid-20250129-3634b19b-ac93-4ed4-93e6-aee58e8caa15
 
 * [ ] @todo - p1 - In "Acelerados" - Check if the language can actually recognize the richness of the capitalist machine - Ref "riqueza do sistema maquina capitalista" which talks about the cheese that was bought by Christian; at the same time the experience with the Mozanna. "
 
@@ -244,7 +239,9 @@
 
 
 
+@ 5 estrelas 
 
+* [ ] @todo - p1 - In Acelerados - Motoboys - Consider narrative "De qualquer forma chega também deformada porém por conta de uma entrega acelerada, das empinadas e da frequência de ressonância do escapamento sem miolo. Mas por quê reclamar? Nossas pizzas baratinhas, essas entre 10 a 15 dólares, são sobreviventes de um romance trágico escrito pelas ruas - vidas aceleradas.  Temos que manter nossa postura, nossa felicidade, até porque para cada pizza que chega eu sei que um jovem motoqueiro - futuro do Brasil - naquele dia não morreu. Sou feliz por saber que se a pizza não vem cortada é porque o chef pizzaiolo tá preocupado com a gente, com aquela rápida." @refid-20250129-fcf4af15-8307-4b5c-a1d1-78221bb3069b
 
 * [ ] @todo - p1 - In "5 estrelas para mais rápido", Consider the case where Marcio had to pick up his food order, downstairs, and where he was for the first time, evaluated  - for pickiing up his food. @refid-20241222-5f25eae2-2958-4298-ac75-b865138375a5
 

@@ -7,6 +7,8 @@
 
 @note-refai
 
+@note-refai @footnote:footnote_oceano_vermelho @refid-20250130-432c1e4e-1a1a-4598-9282-82669acbd4fa https://chatgpt.com/share/679baf1c-e47c-8011-b113-9a044469880d 
+
 @note-refai @refid-20250127-91971a7c-056c-404a-8af5-684e83c0f51b https://chatgpt.com/share/6797bee3-0554-8011-ae3c-50f93bd79191
 
 @note-refai @footnote:footenote_netscape #netscape @refid-20250127-d0fc85f9-31fb-48e6-ad62-13d6ceaaa357 https://chatgpt.com/share/6797bae2-6628-8011-8ee8-9ffc9f737a3e

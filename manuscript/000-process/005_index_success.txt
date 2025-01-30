@@ -6,6 +6,10 @@
 
 ## Done 
 
+* [ Done ] @todo - p1 - In "Acelerados" - Ainda, iremos ler, bem devagar, cada trecho da página de de um tipo de “queijo” que está adequado na regulação como um produto lácteo e onde uma das suas características principais é que não gera poços de gordura, ou seja, gera pizzas “perfeitas”, diferente daquelas pizzas imperfeitas que são feitas (como na Itália) com aqueles queijos mais caros e gordurosos.
+
+* [ Done ] @todo - p1 - In "Acelerados" - Check the Calendar "ok - adm - mozanna ep3 Thursday, December 5⋅3:00 – 4:00pm; for todo items. 
+
 * [Done] @todo - p1 - In Chamar a atenção - check “lanche na piscina de cheddar”
 * [Done] @todo - p1 - In Chamar a atenção - check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
 
