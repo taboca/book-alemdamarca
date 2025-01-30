@@ -12,8 +12,6 @@
 
 @todo 
 
-* [ ] @todo - p1 - In "Soluções aceleradas" - Consider to talk about marcios idea of the extremes of capitalist system, that it expands on both ends - the low end and the high end. @refid-20250129-3634b19b-ac93-4ed4-93e6-aee58e8caa15
-
 * [ ] @todo - p1 - In "Acelerados" - Check if the language can actually recognize the richness of the capitalist machine - Ref "riqueza do sistema maquina capitalista" which talks about the cheese that was bought by Christian; at the same time the experience with the Mozanna. "
 
 * [ ] @todo - p1 - In "Acelerados" - Write a draft to the "And creative" and bring the case of the power of brands, and how even top franchises are moving along, with the idea of the "visceral". 
@@ -21,6 +19,8 @@
 * [ , further ] @todo @todo-footnote - p1 - In "Acelerados" - Add the footnote, footnote_oceano_vermelho. @refid-20241212-b2a4b3b0-bc43-4f48-8b82-fb47c50ccf1a
 
 @ done 
+
+* [ Done, 30/01/2025] @todo - p1 - In "Soluções aceleradas" - Consider to talk about marcios idea of the extremes of capitalist system, that it expands on both ends - the low end and the high end. @refid-20250129-3634b19b-ac93-4ed4-93e6-aee58e8caa15
 
 * [ Done ] @todo - p1 - In "Acelerados" - Ainda, iremos ler, bem devagar, cada trecho da página de de um tipo de “queijo” que está adequado na regulação como um produto lácteo e onde uma das suas características principais é que não gera poços de gordura, ou seja, gera pizzas “perfeitas”, diferente daquelas pizzas imperfeitas que são feitas (como na Itália) com aqueles queijos mais caros e gordurosos.
 
