@@ -14,11 +14,11 @@
 
 * [ ] @todo - p1 - In "Acelerados" - Check if the language can actually recognize the richness of the capitalist machine - Ref "riqueza do sistema maquina capitalista" which talks about the cheese that was bought by Christian; at the same time the experience with the Mozanna. "
 
-* [ ] @todo - p1 - In "Acelerados" - Write a draft to the "And creative" and bring the case of the power of brands, and how even top franchises are moving along, with the idea of the "visceral". 
-
-* [ , further ] @todo @todo-footnote - p1 - In "Acelerados" - Add the footnote, footnote_oceano_vermelho. @refid-20241212-b2a4b3b0-bc43-4f48-8b82-fb47c50ccf1a
+* [ Done , further ] @todo @todo-footnote - p1 - In "Acelerados" - Add the footnote, footnote_oceano_vermelho. @refid-20241212-b2a4b3b0-bc43-4f48-8b82-fb47c50ccf1a
 
 @ done 
+
+* [ Done, moved into chamar a atenção ] @todo - p1 - In "Acelerados" - Write a draft to the "And creative" and bring the case of the power of brands, and how even top franchises are moving along, with the idea of the "visceral". 
 
 * [ Done, 30/01/2025] @todo - p1 - In "Soluções aceleradas" - Consider to talk about marcios idea of the extremes of capitalist system, that it expands on both ends - the low end and the high end. @refid-20250129-3634b19b-ac93-4ed4-93e6-aee58e8caa15
 
@@ -32,9 +32,9 @@
 
 -->
 
-Eu chamava aquilo de massajão. Mas a verdade é que levei uma década para descobrir que não era queijo de verdade.Quando descobri, dei aquele "aha! você não é queijo rapah!". Mais tarde fiquei decepcionado, quando ele me disse "Veja bem, rapah, nem queijo eu quero ser. Eu sou uma solução semi-láctea, seu trouxa!"
+Eu chamava aquilo de massajão. Mas a verdade é que levei uma década para descobrir que não era queijo de verdade. Quando descobri, dei aquele "aha! você não é queijo rapah!". Mais tarde fiquei decepcionado, quando ele me disse "Veja bem, rapah, nem queijo eu quero ser. Eu sou uma solução semi-láctea, seu trouxa!"
 
-Eu diria que ela começou, literalmente, comendo pelas beiradas. Porque um dia entrou na famosa, e saudosa, que passou também a ser medonha, borda recheada. Chegou pelas margens e foi conquistando, pizza adentro e além, deixando sua faixa branca em todo nosso território. Na terra dos salgadinhos, começou pincelando o enroladinho de presunto e queijo. E foi empurrando o queijo para fora. Conquistou o interior das esfirras, do “pão de batata” e da bola de frango recheada. E chegou até no quibe. Olhando de longe - se o Brasil fosse uma grande coxinha - seria então uma coxinha recheada de frango desfiado com massajão, com bastante massa de trigo e aquela bela gordurinha. Ele educou nossas tribos, reescrevendo grande parte da nossa história gastronômica das ruas. 
+Eu diria que ela começou, literalmente, comendo pelas beiradas. Porque um dia entrou na famosa, e saudosa, que passou também a ser medonha, borda recheada. Chegou pelas margens e foi conquistando, pizza adentro e além, deixando sua faixa branca em todo nosso território. Na terra dos salgadinhos, começou pincelando o enroladinho de presunto e queijo. E foi empurrando o queijo para fora. Conquistou o interior das esfirras, do “pão de batata” e da bola de frango recheada. E chegou até no quibe. Olhando de longe - se o Brasil fosse uma grande coxinha - seria então uma coxinha recheada de frango desfiado com massajão, com bastante massa de trigo e aquela bela gordurinha. Ela educou nossas tribos, reescrevendo grande parte da nossa história gastronômica das ruas. 
 
 Em minha defesa, ela foi evoluindo no tempo. Era massajão sim, produto da nossa criatividade que precisava sobreviver, nas ruas, e misturou requeijão com farinha de trigo. Mas tornou-se oficial, impulsionada por nossa criatividade industrial preocupada com as massas. Esse é o preço que pagamos, no meio do nosso capitalismo virtuoso e vicioso, que amo e odeio, que de um lado bem pertinho em Minas Gerais faz queijos artesanais feitos com aquele jeitinho mineiro ganhando prêmios pela Europa; e do outro bem aqui no nosso colo, a tal solução semi-láctea. 
 
@@ -95,19 +95,21 @@ Ela exemplifica com o caso do chantilly, que tornou-se um creme "tipo" chantilly
 * @reference - UOL. Parece queijo, tem gosto de queijo e é vendido como queijo, mas não é queijo. VivaBem, 21 set. 2023. Disponível em: https://www.uol.com.br/vivabem/noticias/redacao/2023/09/21/parece-queijo-tem-gosto-de-queijo-e-vendido-como-queijo-mas-nao-e-queijo.htm. Acesso em: 3 dez. 2024.
 --> 
 
-Sobre julgar para onde estamos indo, se uma visão otimista existe, eu quero acreditar que nosso processo criativo é capaz de criar soluções inovadoras que sejam saudáveis, econômicas, e melhores - um dia. Espero que possamos sobreviver para olhar para trás e ver que estávamos aprendendo.  
-
-
+Sobre julgar para onde estamos indo, forçando uma visão otimista, gostaria de acreditar que nossa capacidade criativa é capaz de inovar com coisas saudáveis, econômicas, e melhores. Ou, caso sobrevivermos, pudéssemos olhar para trás e dizer que estávamos aprendendo, engatinhando e nos machucando um pouco.  
 
 <!--
 @section: narrativas
 -->
 
-Mas enquanto isso, neste momento, chamo nossa atenção para essas narrativas projetadas pelas próprias soluções e suas experiências comunicativas. Isso para nos lembrar que essas soluções, para toda necessidade, aparecem na hora certa. E que quanto mais ouvimos as narrativas do ambiente mais nos orientamos por elas e menos pela possibilidade de encontrar soluções em outro espaço. Em outras palavras, nos tornamos confortáveis nessa luta, utilizando as mesmas soluções (ferramentas) e obcecados pela mesma forma de ver tudo, neste mar vermelho [^footnote_oceano_vermelho] manchado pelas batalhas do todos que fazem mais do mesmo. 
+Mas enquanto isso, devemos voltar a nossa atenção para essas narrativas projetadas pelas próprias soluções e suas experiências comunicativas. Temos que nos lembrar que a nossa frente teremos soluções, para toda necessidade e cada vez mais aparecendo bem na hora certa. E que na proporção que ouvimos as narrativas do ambiente nos orientamos desta forma e desta forma fora reduzindo nossa atenção e criatividade para encontrar soluções em outros espaços. Em outras palavras, nos orientamos assim, mergulhados nessa batalha e aceitando as ferramentas da mão que se estende, vendo tudo pelo visor que foi nos dado; essencialmente ocupados nesse mar vermelho [^footnote_oceano_vermelho] manchado pelas incessantes batalhas da competição que faz essencialmente mais do mesmo. 
+
+<!--
+* [ , anchored] @todo - p1 - In "Soluções aceleradas" - Consider to bring that story of the two owners of a pizza place. When they decided to save costs, then they enter the competition of volume and find themselves not saving costs. @refid-20250130-2834104f-afc7-4b5e-bc37-5c09c6955f99
+-->
 
 <!--
 @todo 
-* [ , further ] @todo @todo-footnote - p1 - In "Acelerados" - Add the footnote, footnote_oceano_vermelho. @refid-20241212-b2a4b3b0-bc43-4f48-8b82-fb47c50ccf1a
+* [ Done, , further ] @todo @todo-footnote - p1 - In "Acelerados" - Add the footnote, footnote_oceano_vermelho. @refid-20241212-b2a4b3b0-bc43-4f48-8b82-fb47c50ccf1a
 --> 
 
 <!-- 

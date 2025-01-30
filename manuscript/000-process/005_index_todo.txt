@@ -158,9 +158,9 @@
 
 @@ Soluções aceleradas
 
-* [ ] @todo - p1 - In "Acelerados" - Check if the language can actually recognize the richness of the capitalist machine - Ref "riqueza do sistema maquina capitalista" which talks about the cheese that was bought by Christian; at the same time the experience with the Mozanna. "
+* [ , anchored] @todo - p1 - In "Soluções aceleradas" - Consider to bring that story of the two owners of a pizza place. When they decided to save costs, then they enter the competition of volume and find themselves not saving costs. @refid-20250130-2834104f-afc7-4b5e-bc37-5c09c6955f99
 
-* [ ] @todo - p1 - In "Acelerados" - Write a draft to the "And creative" and bring the case of the power of brands, and how even top franchises are moving along, with the idea of the "visceral". 
+* [ ] @todo - p1 - In "Acelerados" - Check if the language can actually recognize the richness of the capitalist machine - Ref "riqueza do sistema maquina capitalista" which talks about the cheese that was bought by Christian; at the same time the experience with the Mozanna. "
 
 
 
