@@ -7,6 +7,8 @@
 
 @note-refai
 
+@note-refai #translation-pt-br @refid-20250131-fc5ff41b-2e73-4312-8b70-d84eec19354a
+
 @note-refai @footnote:footnote_oceano_vermelho @refid-20250130-432c1e4e-1a1a-4598-9282-82669acbd4fa https://chatgpt.com/share/679baf1c-e47c-8011-b113-9a044469880d 
 
 @note-refai @refid-20250127-91971a7c-056c-404a-8af5-684e83c0f51b https://chatgpt.com/share/6797bee3-0554-8011-ae3c-50f93bd79191

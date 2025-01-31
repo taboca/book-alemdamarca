@@ -8,6 +8,14 @@
 * Subtítulo - Construindo sua marca com valores
 * Subtítulo - A Marca do Seu Estabelecimento Alimentício Começa com Valores
 
+## Structure for communication with publishers
+
+* doc on references 
+* doc on influences 
+* docs on testing systems (narrations)
+* business justification 
+* synopsis 
+* prototype for cover 
 
 ## Descrição geral curta 
 

@@ -15,7 +15,7 @@
 
 * old - https://docs.google.com/document/d/1AB27TfKbKBcgOsIkzmq_w2lBngTLRKrOIVrlq7_mnWM/edit?tab=t.0
 
-* v0.2
+* v0.3
 
 -->
 
