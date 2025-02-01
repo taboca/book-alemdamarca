@@ -120,9 +120,6 @@
 
 @@ O Segredo da Torta 
 
-
-* [ , ] @todo - p1 - In "O segredo da torta" - Check references and science about the tomato from the Rafael Tonon's book - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBnhwfVWkntBbgxqqDzMGGxPwqnLQ 
-
 * [ , ] @todo - p1 - In "O segredo da torta" - Checar sobre apontar o caso da Gabi Silva, que sua assinatura está no logo. Em outras palavras, as pessoas assinam embaixo, se colocam na reta, ou dedicam suas obras." @refid-20250124-d72d4723-ad27-4158-991e-aad57a0aaaa1
 
 
