@@ -6,6 +6,8 @@
 
 ## Done 
 
+* [ Done , ] @todo - p1 - In "O segredo da torta" - Consider to mention the phrase from FZ, "a torta está no congelador", which my friend FZ wrote in 2010, ref https://mail.google.com/mail/u/0/#search/torta+holandesa/FMfcgxRsSKVtNPTmqbBgrwKLgLkscDnK before a soccer game Brazil vs. Holanda. @refid-20250203-d6cd6ecb-ec4e-469c-aa2b-3ecc440a01e5
+
 * [ Done ,  removed ] @todo - p1 - In "O segredo da torta" - Check references and science about the tomato from the Rafael Tonon's book - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBnhwfVWkntBbgxqqDzMGGxPwqnLQ 
 
 * [ Done, moved into Chamar a Atenção ] @todo - p1 - In "Acelerados" - Write a draft to the "And creative" and bring the case of the power of brands, and how even top franchises are moving along, with the idea of the "visceral". 

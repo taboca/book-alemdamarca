@@ -1,8 +1,12 @@
 # O segredo da torta  
 
 <!--
-* Entrevista com SL [feat. SL]
+* Virst article 
 https://docs.google.com/document/d/1Yk5nhsR_9CLrWOItjiNJ7fIMF-XYaWYkYX2PVkUzsCs/edit?tab=t.0
+
+@version
+
+* 0.6
 
 @todo 
 
@@ -14,23 +18,32 @@ https://docs.google.com/document/d/1Yk5nhsR_9CLrWOItjiNJ7fIMF-XYaWYkYX2PVkUzsCs/
 
 * [ Done , removed ] @todo - p1 - In "O segredo da torta" - Check references and science about the tomato from the Rafael Tonon's book - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBnhwfVWkntBbgxqqDzMGGxPwqnLQ 
 
+* [ Done , ] @todo - p1 - In "O segredo da torta" - Consider to mention the phrase from FZ, "a torta está no congelador", which my friend FZ wrote in 2010, ref https://mail.google.com/mail/u/0/#search/torta+holandesa/FMfcgxRsSKVtNPTmqbBgrwKLgLkscDnK before a soccer game Brazil vs. Holanda. @refid-20250203-d6cd6ecb-ec4e-469c-aa2b-3ecc440a01e5
+
 -->
 
+<!--
+@section - leading b - moved to @refid-20250203-1bba26cc-5f17-425a-b79e-e69d6d7ac91f
+@section - leading a: 
+-->
 
+Em 4 de Novembro de 2024, cheguei em Salamanca, no noroeste da Espanha, para passar 30 dias. Eu sabia que a viagem iria me ajudar a avançar essa parte deste livro - sobre resgate de valores. Minha primeira conquista dessa viagem foi ter escrito, no dia 7, para a Silvia Leite, a criadora da popular torta holandesa:
 
-Eu não sei você, mas a muito tempo atrás eu fiquei decepcionado quando lí que a torta holandesa não tinha nada de holandesa. Meu lado e crítico logo veio à tona e tentou lacrar, criando várias teorias para explicar o sucesso, como "Ah, deve ser o nome, estrangeiro, que emplacou a ideia", como quem tenta arrematar o segredo. Mas a verdade é que uma grande dúvida ficou para trás. Em 2024, quando entrei na nessa parte do livro que fala sobre resgate de valores, eu lembrei da torta holandesa. Talvez foi porque estava na Europa. Ou porque sabioa que algo tinha ficado para trás. Ou segui uma nova intuição. Decidi fazer uma busca e ver se eu podia entrar em contato. E encontrei, não só a Silvia Leite com surpresas sobre a história por trás da torta holandesa, uma lição sobre como valor cria inovação. Tudo começou com a grande a receptividade dela. 
+> "Oi Silvia, tudo bem? Sou Marcio Galli, autor de um livro em andamento intitulado Além da Marca - que fala sobre a importância de resgate de valores em um mundo que ficou mais acelerado - no contexto da área alimentícia. Você toparia uma conversa tipo entrevista comigo? Algo suave, online, onde eu gostaria de conhecer um pouco sobre a criação da Torta Holandesa. Mas meu olhar, em alinhamento com o livro, se volta a conhecer um pouco sobre os seus ideais, sobre aquelas coisas que fizeram e fazem você avançar sua relação com a arte da criação nessa area." 
 
-E a cada momento de conversa, eu confirmava que todas as minhas primeiras impressões eram irrelevantes. Logo de cara, quando ela me perguntou sobre como encontrei ela e porque que entrei em contato, minhas informações eram fragmentadas. Mas desta vez minha intuição estava no caminho certo, em primeiro lugar aberto a ouvir e aprender com ela, e também menos acelerado. 
+E nossa conversa começou assim, ela de Campinas e eu de Salamanca. Primeiro conversamos sobre escrita, depois que ela disse que havia feito uma viagem de cruzeiro, sozinha, com o objetivo de escrever. E partimos nesse rumo, com uma conversa mais aberta e uma oportunidade de conhecer um pouco sobre aquilo que guia a Silvia Leite. Convido você para este momento de reflexão que antecede (e transcende) a criação da torta holandesa, mais uma de tantas histórias que ela carrega e que nos lembra que inovação (e sucesso) é produto de um movimento guiado por valores.
 
-Nossa conversa fluiu rápido e durou mais de uma hora. Uma coisa se conectou com a outra, descobrí que a Silvia trabalhou no lançamento de um livro, e caminhos interessantes foram se abrindo. E assim quase não deu tempo de falar sobre a Torta Holandesa. Por outro lado, fiquei feliz porque no final tudo que falamos antes de fato explica bem muita coisa sobre o que está atrás processo de criação dela, e coisas valiosas sobre inovação para nós. Em outras palavras, sou agradecido por não ter acelerado, com perguntas como um questionário, ou lendo artigos na diagonal de forma acelerado. Com essa conversa, mais qualitativa e menos mecanizada, pude sentir um pouco sobre a Silvia e sobre como seus valores estão ligados a seu trabalho e suas criações. 
+Foi especial ver como ela é agradecida pela vida - como ela vê na vida a oportunidade de transformar, de criar coisas para os espaços, como receitas ou experiências, se orientando por sua paixão de servir com excelência e por ideais e princípios, como ouvir, observar e ajudar as pessoas. 
 
-Foi especial perceber que ela é agradecida pela vida e que isso a leva para criar oportunidades que transformam os espaços; orientada por uma paixão de servir com excelência e por valores que começam com perceber, no sentido de ouvir e observar. 
+<!--
+@section - a torta 
+-->
 
 A Torta Holandesa é um tipo de torta doce gelada, ou um bolo gelado, popularmente encontrada no Brasil em locais como cafés, padarias, nos menus das sobremesas em muitos restaurantes, supermercados, etc. Entendo que essa descrição é uma descrição limitada. Porém, a intenção não é especificar a obra mas de fato nos convidar para refletir sobre a criação “do produto” e especialmente sobre como produtos inovadores carregam elementos essenciais, como valores. 
 
 Ouvir a Silvia falar da intenção deliberada de criar uma solução para para restaurantes me levou de cara a olhar sua criação tanto pelo ponto de vista do mercado como também da necessidade do usuário. Foi no momento que ela comentou que era um produto para restaurantes, e para o momento sobremesa, me veio na mente imediatamente o “momento cheesecake” que havia percebido em certos tipos de restaurantes na Califórnia - como que de certa forma o cheesecake era mais ou menos uma sobremesa esperada em certos locais. Quando a Silvia refletiu sobre essa comparação, ela disse “Sim, pelo aspecto social”. 
 
-Essa perspectiva, olhando para a função social e considerando a popularidade da torta, lembrei do conceito de Design de Categoria (*Category Design*), amplamente discutido no livro *Play Bigger* (2020). Segundo os autores, o design de categoria explica como muitas inovações entram na socidade, como são lembradas e justamente parte do daquele aspecto social. Em outras palavras, este processo leva à criação de experiências (por meio de produtos ou serviços) que de fato são unicamente reconhecidas - como categoria especiais. Os exemplos estão por toda parte, em tecnologia, comida, música, e mais. Considere como o Uber definiu uma categoria nova, criando um mercado e dominando-o, e lógicamente alterando muita coisa do mundo, digamos assim, antes do Uber. No mundo dos cafés, a experiência Nespresso definiu uma categoria assim como criou uma referência permitindo que milhares de outros produtos tentassem competir neste mercado. Sobre esse processo, vamos verificar alguns dos fatores que explicam como esses produtos e serviços entram nas nossas vidas:
+Essa perspectiva, olhando para a função social e considerando a popularidade da torta, me fez lembrar do conceito de Design de Categoria (*Category Design*), amplamente discutido no livro *Play Bigger* (2020). Segundo os autores, o design de categoria explica como inovações são lembradas justamente no contexto social. Em outras palavras, este processo leva à criação de experiências (por meio de produtos ou serviços) que de fato são unicamente reconhecidas - como categoria especiais. Os exemplos estão por toda parte, em tecnologia, comida, música, e mais. Considere como o Uber definiu uma categoria nova, criando um mercado e dominando-o, e lógicamente alterando muita coisa do mundo, digamos assim, antes do Uber. No mundo dos cafés, a experiência Nespresso definiu uma categoria assim como criou uma referência permitindo que milhares de outros produtos tentassem competir neste mercado. Neste sentido, podemos considerar alguns fatores que contribuem para que essas ideias entrem nas nossas vidas:
 
 <!--
 @references
@@ -50,7 +63,7 @@ Vamos começar pelo conceito de Ponto de Vista. O ponto de vista não é a propo
 * @reference - MANEY, Kevin. Category Point of View (POV) – The Superheroes Guide. Category Design Advisors, 2023. Disponível em: https://www.categorydesignadvisors.com/category-point-of-view-pov-the-superheroes-guide/. Acesso em: 31 jan. 2025.
 -->
 
-Uma forma de construir esse ponto de vista é pensar sobre o de/para: de onde viemos, para onde estamos indo. Ou, como o mundo irá mudar. É aqui que o processo fica estratégico, porque precisamos entender profundamente sobre o mundo, e como ele está mudando. E só a partir disso nos envolvemos no processo de análise que leva em consideração se é possível criar uma solução que ajude com essa transformação.
+Uma forma de construir o ponto de vista é pensar sobre o de/para: de onde viemos, para onde estamos indo. Em outras palavras, seria perguntar "como o mundo irá mudar depois dessa ideia?" É aqui que o processo fica estratégico, porque precisamos entender profundamente sobre o mundo, e como ele está mudando. E só a partir disso nos envolvemos no processo de análise que leva em consideração se é possível criar uma solução que ajude com essa transformação.
 
 Então, vamos fazer uma engenharia reversa. Lembrei que a Sílvia me disse que, no início, a torta foi criada para restaurantes na região de Campinas. Então, imaginei o mundo antes da torta. Lembrei que, antigamente, as sobremesas eram coisas como taça de sorvete ou creme de papaya. Seria possível evolucionar aquele velho menu com uma sobremesa especial, mas que fosse pré-preparada?
 
@@ -90,13 +103,9 @@ A partir disso, Brian avança o paradigma sugerindo que "seis estrelas é quando
 
 Aquele acolhimento que ela faz, ultrapassando a receita básica sobre como tratar as pessoas no estabelecimento, é essencialmente redefinir o paradigma 5 estrelas. E ela carrega isso como um princípio, que é forte e que a guia. Chamem-os de fãns da Silvia Leite, ou fãns da Torta Holandesa. Como quiser.  
 
-Seguindo essa lógica, se a torna faz fãns, é porque ela faz mais do que matar a vontade por uma sobremesa à moda 5 estrelas. Isso explica a posição conquistada no contexto social. Pense sobre as pessoas que consequiram esticar um pouco mais no café ou no restaurante, depois que viram a torta no menu. Sobre outras que queriam fazer uma sobremesa especial para receber os amigos em casa e encontraram na torna a união entre o útil e o agradável. Outras conseguiram achar, bem alí na vitrine da cafeteria, uma doce fatia de tempo a mais antes de voltar para a correria do trabalho. E não podemos esquecer da infinidade de tortas que seguraram as velinhas em parabéns e celebrações especiais de milhões.    
+Seguindo essa lógica, se a torta faz fãns é porque faz mais do que matar a vontade por uma sobremesa "5 estrelas". Isso nos leva de volta para o aspecto social. Pense sobre as pessoas que esticaram um pouquinho a mais aquele momento restaurante depois que a acharam no menu. Sobre as que contaram com ela para receber os amigos em casa e proporcionar um momento agradável. Outras conseguiram achar, bem alí na vitrine da cafeteria, uma doce fatia de tempo a mais para elas, antes de voltar para a correria do trabalho. E não podemos esquecer da infinidade de tortas que seguraram as velinhas em parabéns e celebrações especiais de milhões.    
 
-Quando essas experiências estão bem dentro da vida das pessoas, podemos também nos confundir, assim como grandes artistas às vezes se assustam com seus fãns. Quando a Silva tira um tempinho para visitar as narrativas nas redes sociais, ela às vezes se pergunta "Quem são eles? de onde vieram?" Mas lá no fundo, na essência, ela sabe da verdade: que essas tantas histórias deixadas é a prova que a Torta Holandesa estava lá, acolhendo, na alegria e na tristeza, na saúde e na doença, até que a morte nos separe.
-
-
-
-
+Quando essas experiências estão dentro das nossas vidas, podemos nos confundir assim como os grandes artistas às vezes se assustam com seus fãns. Quando a Silva tira um tempinho para visitar as redes sociais, às vezes ela pergunta "Quem são eles? de onde vieram?" Mas lá no fundo, na essência, ela sabe que essas histórias são provas que a torta holandesa estava lá, de uma forma ou outra, na alegria e na tristeza, na saúde e na doença, até que a morte nos separe. Quando revisei este capítulo, decidi procurar no meu e-mail por "torta holandesa". Eu encontrei uma mensagem de 2010 onde meu amigo FZ disse "A torta holandesa ja está no congelador :)" momentos antes do que seria o jogo Brasil vs. Holanda. 
 
 <!-- dedication -->
 
