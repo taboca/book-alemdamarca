@@ -4,7 +4,7 @@
 
 @this 
 
-* v0.1 
+* v0.3 
 * doc pt-br v0.2 ? https://docs.google.com/document/d/1lT6lMfsKG3dq2jXL2HuTSZgy-dRrC3GsaOjWvN2I2t8/edit?tab=t.0 
 
 @tags 
@@ -15,9 +15,11 @@
 
 @todo 
 
+* [ , ] @todo - p1 - "Esse é diferente - Consider cuca, https://www.youtube.com/watch?v=2oyiwU2qZZM @refid-20250204-c27ce974-2b23-43ea-ba83-1310246c37e0
+
 * [ ] @todo - p1 - In "Esse é diferente" Check if we have honored the e-mail entitled "Livro - além da marca - cultura e tradição o lado bom" which may offer insights about the special things from the things special from the past, and how we may actually misunderstand things, and how we may sometimes fall into the situation of missing the point about the past. @refid-20250115-a83c7ff8-d3a1-4c0e-8069-735a7de99bb3
 
-* [ , anchored ] @todo - p1 - In "Esse é diferente" - Consider to expand the story of the instant ramen. @refid-20241228-222b2af7-3492-419f-a4d0-c5d947a48b11
+* [ , anchored ] @todo - p1 - In "Esse é diferente" - Consider to expand the story of the instant lámen. @refid-20241228-222b2af7-3492-419f-a4d0-c5d947a48b11
 
 * [ , anchored] @todo - p1 - In "Esse é diferente " - Try to simplify as short as - lacking values? @refid-20241228-522a5c5c-8bb5-4087-9d60-0de7e1a3b196
 
@@ -42,33 +44,47 @@
 
 --> 
 
-Pratos como falafel, acarajé brasileiro e lamen podem ser considerados experiências que carregam identidades fortes. Você bate o olho e sabe o que é. Ou coloca na boca, de olhos fechados, e imediatamente é transportado para aquele mundo. No início, pensava que o tradicional era cristalizado no tempo. Que se fosse alterado deixaria de ser tradicional. Por conta disso, imaginei que o ambiente, que muda tão rápido, iria naturalmente forçar a extinção de tudo que é tradicional - qque não haveria espaço para evolução e que se houvesse seria uma forma disfarçada da extinção.
+O falafel, o acarajé e o lámen são experiências gastronômicas tradicionais. Você bate o olho e sabe o que é. Ou coloca na boca, de olhos fechados, e é transportado para aquele mundo. Sobre essas experiências, cheguei a pensar que se o tradicional quisesse sobreviver, precisaria ser estático. Porque não aguentaria a nossa órbita acelerada e sairia pela tangente, rumo a extinção. 
 
-Quando me permiti navegar por experiências tradicionais, algo começou a chamar minha atenção. Sobre o falafel, um dia me perguntei "Como pode cada falafel ser tão diferente ao mesmo tempo ser um falafel?" O mesmo aconteceu com o acarajé. Podemos dizer que cada acarajé é único. Ou que você deveria ouvir isso de quem fez se quiser um acarajé tradicional. Por esse olhar, o universo da tradição é um universo em expansão. Enquanto alguém diz "fazemos a nossa cuca assim, é tradição de família", o universo das cucas se expande. 
+Mas conforme me permiti vivenciar mais experiências tradicionais - de falafel em falafel, lámen em lámen e aracarajé em acarajé por exemplo - encontrei a visão que muitos apaixonados por essas experiências já sabem. Sobre o falafel, um dia me perguntei "Como pode esse falafel ser tão diferente ao mesmo tempo ser tão tradicional?" Passando por acarajés, um dia saiu "Nossa, esse acarajé é único!". Por esse olhar, o universo da tradição é um universo em expansão. Então quando ela diz "fazemos a nossa cuca assim, é tradição da família", você sabe que está na frente de uma exploradora que sabem das tradições mas também reconhece que o universo das cucas está, e precisa estar, em expansão. Então, este é o teste: se o acarajé não for diferente, não é autêntico. 
 
-Então este é o teste: Se o acarajé não for diferente, não é autêntico. Isso nos leva a considerar um problema para a operação - que diz que não podemos nem copiar nem avançar de forma arbitrária - dois lados de uma moeda acelerada lançada no asfalto quente de uma vida que se sim é suada mas que acomoda mais do mesmo nos enquadrando no universo dos *commodities*. Sobre copiar, igual nos filmes: Vamos nos enchendo de histórias iguais, contadas da mesma forma, moldadas por clichês, guiadas por um movimento ansioso que faz de tudo para criar novas experiências mas que não gera histórias e experiências memoráveis - aquelas que valem a pena contar, como as histórias de família que um dia eram contadas. Sobre o arbitrário, ou sobre o recheio, desesperados pelo diferente que não mais nos basta porque ficou igual, buscamos o surpreendente. Negamos o roteiro clássico, gritamos que estamos fazendo o novo, ou alternativo, mas essencialmente imprimimos notas sem valor, criando realidades alternativas, temporárias, apelativas e essencialmente arbitrárias. A tradicional coxinha da Tia Rita, essa semana com mais 3 sabores, além dos 40 sabores que você conhece.  
+Isso nos leva de volta para aquela complicação, agora maior. Que não estamos diante do problema de salvar experiências tradicionais, ou estáticas, da extinção; mas sim diante perdendo a oportunidade de avançar essas experiências. E enquanto isso, nossa energia e criatividade não para. Lá na operação, na tradicional coxinha da Tia Rita, essa semana temos mais três sabores, além dos 40 sabores que você já conhece.  
 
-Vamos refletir sobre esse tema, sobre sistemas que nos expandem e sobre sistemas que nos confundem. Esse assunto é bem relevante porque nossa propensão envolve navegar por qualquer que seja o espaço com uma propulsão criativa. Em outras palavras, estamos naturalmente fomintos para contribuir, somar, ajudar, colaborar. Fazemos isso, desde cedo até a hora de dormir, usando 100% do nosso cérebro, e da nossa imaginação, nessas horas, queira ou não queira. Mas quando desprovidos de princípios, quando não nos permitimos tempo para uma leitura mais calma sobre o que está a nossa frente, corremos o risco de - sem querer - sermos levados, guiados, por forças e pressões que nos levam a confusão. A ainda, de nos acostumar com essa chuva de meteoros como sendo normal. O resultado, fruto dessa dedicação e trabalho, é que nos levamos para patinar, criamos experiências que não se tornam únicas e não são reconhecidas pelas pessoas. Mas mais do que isso, carregamos algo sobre as falhas acumuladas - algo que nos custará no dia que precisarmos de mudar. 
+
+
+
+
+
+<!-- GKA -->
+
+Vamos refletir sobre esse tema, sobre os sistemas que nos expandem e sobre sistemas que nos confundem. Esse assunto é bem relevante porque nossa propensão envolve navegar por qualquer que seja o espaço com uma propulsão criativa. Em outras palavras, estamos naturalmente fomintos para contribuir, somar, ajudar, colaborar. Fazemos isso, desde cedo até a hora de dormir, usando 100% do nosso cérebro, 100% da nossa imaginação, 100% mãos na massa, queira ou não queira. E na medida que ignoramos esses mundos, sem tempo para viver essas experiências de maneira mais calma, proporcionalmente entregamos 100% dessa energia no mesmo movimento, levados, guiados, por forças que não expandem nem revolucionam, que não marcam, e que criam só experiências passageiras. Mas mais do que isso, que nesse esforço arbitrário de tentativas e erros, acumulamos as falhas que mudam a gente. 
+
+
+
+
+
+
+
+
 
 ### Sistemas solares 
 
 <!--
 @todo 
-* [ , anchored ] @todo - p1 - In "Esse é diferente" - Consider to expand the story of the instant ramen. @refid-20241228-222b2af7-3492-419f-a4d0-c5d947a48b11
+* [ , anchored ] @todo - p1 - In "Esse é diferente" - Consider to expand the story of the instant lámen. @refid-20241228-222b2af7-3492-419f-a4d0-c5d947a48b11
 -->
 
 
-Qual será o segredo do macarrão instantâneo? Ah! Deve ser aquele tempero endiabrado! Ou o glutamato monossódico ajustado na dose perfeita que encanta meus neurônios. Ou talvez o macarrão, que é tão instantâneo que pode ser comido a frio. Minha esposa disse que deve ser o umami. Em algum momento achei que muitas pessoas adoram o macarrão instantâneo por conta que seria o caminho mais curto - acessível em qualquer lugar do mundo - da verdadeira experiência de um lamen japonês, aquele lamen caseiro. Mas isso não é verdade porque existem milhares de pessoas que nunca provaram o verdadeiro lamen japonês. Exceto se todos somos reencarnações e passamos por lá um dia. Mas mundo metafísico à parte, a equação irresolvível me levou à única resposta: O lamen vem de um sistema solar. Com planetas mais estranhos, mais ou menos habitáveis, mas todos eles em torno de um sol, do sol do Japão.
-
-Uma forma de ver esse mundo é pensar que é um sistema solar, cada um com sua estrutura, estável, e seus planetas diferentes todos girando em torno de um mesmo sol, todos conectados mesmo que distantes. 
+Qual será o segredo do lámen instantâneo? Deve ser aquele tempero especial e endiabrado! Ou talvez seja o glutamato de monossódio, na dose perfeita. Não, é o macarrão que me fez um dia comê-lo a frio. Minha esposa diz que é o umami. Ou é porque as pessoas acham que o macarrão instantâneo é o mais próximo daquele especial lámen caseiro japonês, como o apaixonado por cinema as vezes aceita qualquer filme. Mas isso não explica as milhares de pessoas que não conheceram o lámen japonês autêntico. Sim mas exceto se as pessoas são reencarnações que já provaram o autêntico. Deixando o mundo metafísico de lado, podemos pensar que existem lámens e lámens. E que são como planetas, que giram em um sistema solar, como em torno do sol do japão. 
 
 <!--
 @note:aiuse v0.1 - translated from Marcio's English - https://chatgpt.com/share/67704162-4110-8011-9148-6dc475d2ed46 
 @tag:open
 -->
-Quando incluí o ramen foi durante minha viagem a Salamanca, na Espanha. Eu não esperava encontrar tantos lugares de ramen em Salamanca. Talvez apareceram por lá por conta de ser uma cidade universitária. Mas encontrá-los em Novembro que esfriava a cada dia realmente aqueceu as coisas. O primeiro ramen foi surpreendentemente bom. O segundo foi diferente. Não esperava carne de vaca e cogumelos no molho de shoyu. Naquele momento, lembrei que um amigo visitou Tóquio e reportou que lá encontrou uma experiência de ramen incrível. Disse que lá comeu um dos melhores Ramens da sua vida que para sua surpresa era um ramem vegetariano. Então, se o ramen sigue as regras de um sistema solar, essas criações expandem a experiência do sistema dos ramens - todos estão ampliando a história. São planetas são diferentes, únicos, que giram em torno de um mesmo sol.
 
-Agora, quais seriam os valores centrais do ramen? Um deles é sobre servir bem quente? Como cliente, em Novembro, em Salamanca, eu esperei por isso. Mas, agora, de volta ao Brasil, me lembrei que aquele mesmo amigo já havia comentado sobre um ramen especial que comeu em São Paulo, no planeta Kazu Ramen. Era um ramen frio, especial de verão. Frio e apimentado, muito bom. Mas, por enquanto, vamos fixar essa variável como um valor, só para simplificar. Vamos considerar que um bom ramen carrega o princípio de ser servido bem quente. Bom, isso ao menos que você realmente saiba o que está fazendo. 
+Quando incluí o lámen foi durante minha viagem a Salamanca, na Espanha. Eu não esperava encontrar tantos lugares de lámen em Salamanca. Talvez apareceram por lá por conta de ser uma cidade universitária. Mas encontrá-los em Novembro que esfriava a cada dia realmente aqueceu as coisas. O primeiro lámen foi surpreendentemente bom. O segundo foi diferente. Não esperava carne de vaca e cogumelos no molho de shoyu. Naquele momento, lembrei que um amigo visitou Tóquio e reportou que lá encontrou uma experiência de lámen incrível. Disse que lá comeu um dos melhores lámens da sua vida que para sua surpresa era um ramem vegetariano. Então, se o lámen sigue as regras de um sistema solar, essas criações expandem a experiência do sistema dos lámens - todos estão ampliando a história. São planetas são diferentes, únicos, que giram em torno de um mesmo sol.
+
+Agora, quais seriam os valores centrais do lámen? Um deles é sobre servir bem quente? Como cliente, em Novembro, em Salamanca, eu esperei por isso. Mas, agora, de volta ao Brasil, me lembrei que aquele mesmo amigo já havia comentado sobre um lámen especial que comeu em São Paulo, no planeta Kazu lámen. Era um lámen frio, especial de verão. Frio e apimentado, muito bom. Mas, por enquanto, vamos fixar essa variável como um valor, só para simplificar. Vamos considerar que um bom lámen carrega o princípio de ser servido bem quente. Bom, isso ao menos que você realmente saiba o que está fazendo. 
 
 <!--
 @note:aiuse v0.1 - translated from Marcio's English - https://chatgpt.com/share/67704162-4110-8011-9148-6dc475d2ed46 
