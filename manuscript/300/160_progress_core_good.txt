@@ -106,21 +106,77 @@ To be fair - and here is where things can really be confusing to many places - t
 
 And the real cost of maintenance adds with time, plus if the business by doing that starts to damage itself, then again the sort of same “strategic” responses appear like automatic behaviors of our operations leading to a snowball effect. 
 
-### Could coxinha planets around the same sun? 
 
-Now in the realm of Brazilian things, it seems that a coxinha could be expanded by having that coxinhas solar system in the first place. I would say so because the coxinha follows a certain structure and offers space for variability. So, as an example, variability with the ingredients used in the dough, spices within, with the texture that it gains on the surface. 
 
-Now, with that said, we should observe a pattern, or tendency which relates to the complex case of the Brazilian Stuffed Croissant, where our needs to push the boundaries too quickly - likely driven by the pressure to widen the market or to make the whole establishment centered around the coxinha experience - take us to focus on, again, on the stuffings. So here is where certain coxinha places lock certain elements and go ahead and give to the customer a lot of stuffings which they are accustomed to, as if to please various tastes from customers.  
 
-With this model pushed to the limits, we may consider that the coxinha dough becomes a sort of plate where the things in the middle seem to be the actual food they are ordering. So then, when browsing the menu, the customer find herself picking up from things she likes, which comes from the basic stuffings, closer to what a traditional chicken coxinha has, but then it goes all the way to, let us say, whole plates, like strogonoff, or feijoada.
+
+
+<!--
+@section - the solar system of coxinhas 
+-->
+
+Agora, é natural imaginarmos que são certas *stranger things* no sentido das coisas que são estrangeiras nos levariam a criar mundos invertidos por conta das interpretações fragmentadas, ou aceleradas. É por isso que devemos também falar sobre os mundos mais próximos, por exemplo o sistema das coxinhas. Este assunto merece atenção, primeiro, porque as coxinhas merecem mais respeito. Porque elas, em primeiro lugar, conquistaram uma estabilidade, no tempo. Foram elas tornaram-se tradicionais, não diferente daquele acarajé e do falafel. Elas que carregam (ou carregavam) uma narrativa estruturada com base em valores. E sim, como conversamos, todos os mundos se expandem. Podemos e devemos esperar avançando, com variabilidade. Por exemplo, poderíamos repensar a dimensão da massa, ou a dimensão dos temperos, a textura, o método empregado na "fritura", dentre outros fatores.
+
+Mas em sincronizidade com aquele mundo invertido do croissant recheado brasileiro, o sistema das coxinhas a tempos mostra sinais de um avanço arbitrário. Considere, por exemplo, o fenômeno observável em certos estabelecimentos especilizados em coxinhas, como esses locais sofrem as pressões do ambiente externo que gera resultados arbitrários e desgastantes, como temos discutido, mesmo que bem intencionado a agradar mais clientes. 
+
+Para explorar essa expansão, vamos começar por atropelar valores, primeiro desmerecendo o papel da massa na experiência completa. Vamos lá, expandir o universo do nosso estabelecimento coxinha. Começando por travar a dimensão da massa, podemos pensar que já temos um bom fornecedor de trigo assim como óleo a vontade e uma bela fritadeira. Com esses aspectos já resolvidos, podemos começar a ver nossa coxinha como uma espécie de cápsula, "tipo coxinha" de ___ (preencha aqui). Ou pense que essa componente da coxinha é o prato e o que resta é o usuário escolher o recheio. Ou podemos pensar que essa camada é um tipo de embalagem, tipo de papel ou isopor, não importa. Então, agora sim, sabemos que nosso clientes querem navegar pelo menu, que eles querem decidir com base nas suas preferências. E também sabemos sobre aquela nossa intenção honorável de trabalhar assim como nosso potencial criativo. Em outras palavras, mãos na massa, corre, porque podemos er exploradores para criar este menu. Bom, calma ai. Poderíamos considerar os temperos, não é mesmo? Porque estamos no Brasil e sabemos que nesse mundo o céu é o limite. Sim, poderíamos. Mas pelo momento, vamos também travar essa dimensão. Avaçando com essa exploração nada nos diz que temos que criar coisas bizarras. Longe disso, vire essa boca para lá. 
+
+Então podemos só começar com variações mais simples. E é isso que fizemos, não é mesmo? Por anos. Mas também algo aconteceu, que inevitavelmente ou invariavelmente exploramos uma modalidade onde até receitas completas começaram a aparecer no interior, por exemplo, como o estrogonofe ou a feijoada. Agora eu sei que criticar isso é comprar briga com algum leitor, por exemplo quem é obcecado por feijoada. Ou quem sente saudade daquela boa feijoada que não tem todo dia. Porque não essa cápsula me dar um pouco daquilo. Tem alguma lógica. 
+
+Mas também devemos nos permitir refletir sobre esse movimento que se acha estratégico e que justamente está fazendo isso - apelando com o cliente, chamando a atenção, trabalhando com um potencial criativo a serviço desse menu que é apelativo, para todos os gostos; e como isso gera mundos não estáveis, coxinhas não memoráveis, mesmo que de certa forma atendam gostos. 
+
+Voltando ao trabalho do menu, por essa lógica, se fosse eu poderia utilizar fácil a nossa nova amiguinha, a tal da IA. E começar com este *prompt*:
+
+> *"Se o meu estabelecimento de coxinha começou com uma única coxinha deliciosa que tinha uma identidade que foi reconhecida, que inclusive saiu no programa de TV popular, e trouxe muitas pessoas para visitar esse local. Eu entendo que precisamos escalar. E nessa necessidade de escala quero aumentar a quantidade de itens do menu. Começando com recheio de frango e variações do tempero. Crie algumas 5 coxinhas nesse sentido. Depois considere também um rumo: Ingredientes, como brócolis, calabresa, carne moída, creme tipo queijo, creme tipo cheddar, palmito, ervilha de latas, azeitona, mais 10. E depois, vamos chamar de nível 3, coloque mais 10 coxinhas que trazem pratos mais elaborados dentro, do Brasil, tipo coxinha de feijoada e estrogonofe. Termine com 5 pratos bem tradicionais e reconhecidos no Brasil. Não esqueça de passar pela lasanha."
+
+<!-- 
+@note-refai "Esse é diferente" #coxinha #croissant @refid-20250204-3a36aba1-0a9e-458d-962c-96cec1ff1b7a https://chatgpt.com/share/67a23a55-5f50-8011-ab34-5a3c089dcc1d 
+-->
+
+E, é claro, a IA nos ajudou aqui na Casa da Coxinha Coxinha, primeiro com o nível de expansão um: 
+
+* Coxinha de Brócolis com Queijo – Brócolis picado misturado a um creme de queijo suave.
+* Coxinha de Calabresa e Queijo – Linguiça calabresa moída com requeijão cremoso.
+* Coxinha de Carne Moída Acebolada – Carne temperada com alho, cebola e toque de cominho.
+* Coxinha de Creme de Queijo – Recheio cremoso com queijo prato e parmesão.
+* Coxinha de Creme de Cheddar com Bacon – Cheddar cremoso com pedaços crocantes de bacon.
+* Coxinha de Palmito Cremoso – Palmito refogado no azeite com creme de leite.
+* Coxinha de Ervilha e Milho – Recheio de ervilha de lata com milho temperado.
+* Coxinha de Azeitona e Queijo Branco – Queijo branco com pedaços de azeitona preta.
+* Coxinha de Quatro Queijos – Mistura de muçarela, provolone, parmesão e gorgonzola.
+* Coxinha de Carne Seca com Abóbora – Carne seca desfiada combinada com purê de abóbora.
+
+Muito bom, não é mesmo? Já vimos essas coisas. Vamos para o nível dois: 
+
+* Coxinha de Feijoada – Feijão preto temperado com pedaços de carne seca, bacon e linguiça.
+* Coxinha de Estrogonofe de Frango – Frango ao molho cremoso de estrogonofe.
+* Coxinha de Estrogonofe de Carne – Carne ao molho cremoso de estrogonofe.
+* Coxinha de Moqueca de Peixe – Peixe ensopado com leite de coco, coentro e azeite de dendê.
+* Coxinha de Bobó de Camarão – Purê de mandioca cremoso com camarão ao dendê.
+* Coxinha de Pato no Tucupi – Pato desfiado cozido com tucupi e jambu, prato típico do Pará.
+* Coxinha de Baião de Dois – Mistura de arroz, feijão verde, queijo coalho e carne seca.
+* Coxinha de Vatapá – Creme de vatapá com camarão seco e temperos baianos.
+* Coxinha de Escondidinho de Carne Seca – Carne seca com purê de mandioca cremoso.
+* Coxinha de Feijão Tropeiro – Feijão tropeiro com torresmo, linguiça e farinha de mandioca.
+* Coxinha de Arroz Carreteiro – Arroz carreteiro com charque e temperos tradicionais.
+* Coxinha de Virado à Paulista – Purê de feijão temperado com torresmo e couve.
+* Coxinha de Lasanha Bolonhesa – Camadas de carne moída ao molho e queijo dentro da coxinha.
+
+Enfim, pegamos a ideia. O céu é o limite não é mesmo? 
 
 <!--
 @todo 
 * [ , anchored] @todo - p1 - In "Esse é diferente" or "Tradicionalmente extraordinário"  - check the note from Dorothea Brande about purposeful action https://docs.google.com/document/d/1hLPFk83jwIaeOqI2qsYfO_LUMU07JYI9XqjGtg1BPiI/edit?tab=t.0 @refid-20241228-d1142f1c-c013-4686-976d-48d1f3927d3e
 -->
 
-> *”Purposeful action seems quicker, clearer more straightforward and enjoyable than any other. In reality, you may be working more slowly and more carefully than ordinarily; still, the fact that there is no confusion of issues, no part of your mind off woolgathering as you move, gives an unmistakable ‘tone’ to activities which are being carried on in the proper way. “ (Brande, Dorothea., p.104, 2014) 
+E falando sobre resgate de valores - e não intencionados ao movimento incessante que quer acelerar dentro dessa bolha da morte - devemos nos lembrar sobre alquilo que conhecemos, mesmo quando geralmente esquecemos. É quase que a mesma ideia, que diz que a nossa criativade trabalha bem, também, quando estamos bem intencionados. O que precisamos, para não cairmos em armadilhas que nos custam muito, é de lembrar que o movimento com propósito é, no final, um movimento menos desgastante: 
+
+> *"A ação com propósito parece mais rápida, clara, direta e prazerosa do que qualquer outra. Na realidade, você pode estar trabalhando mais devagar e com mais cuidado do que normalmente; ainda assim, o fato de não haver confusão de questões, nem parte da sua mente divagando enquanto se movimenta, confere um ‘tom’ inconfundível às atividades realizadas da maneira adequada."* (BRANDE, 2014, p. 104).
+
 <!--
+
+> *”Purposeful action seems quicker, clearer more straightforward and enjoyable than any other. In reality, you may be working more slowly and more carefully than ordinarily; still, the fact that there is no confusion of issues, no part of your mind off woolgathering as you move, gives an unmistakable ‘tone’ to activities which are being carried on in the proper way. “ (Brande, Dorothea., p.104, 2014) 
+
 @references 
 * @reference - Brande, D. (2014). Wake up and live. BN Publishing.
 -->  

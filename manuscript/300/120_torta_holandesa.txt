@@ -1,7 +1,10 @@
 # O segredo da torta  
 
 <!--
-* Virst article 
+
+* v0.8 -Sent to Juliana Cobre - https://docs.google.com/document/d/13wF1MDsjFiOF-9M0i2Z7K3T_G3Vw5_LdIlZQ5MP9ovI/edit?tab=t.0 
+
+* First article 
 https://docs.google.com/document/d/1Yk5nhsR_9CLrWOItjiNJ7fIMF-XYaWYkYX2PVkUzsCs/edit?tab=t.0
 
 @version
