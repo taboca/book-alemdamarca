@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1Yk5nhsR_9CLrWOItjiNJ7fIMF-XYaWYkYX2PVkUzsCs/
 
 @version
 
-* 0.7
+* 1.0
 
 @todo 
 
@@ -28,30 +28,47 @@ https://docs.google.com/document/d/1Yk5nhsR_9CLrWOItjiNJ7fIMF-XYaWYkYX2PVkUzsCs/
 
 
 
-A torta holandesa, aquela torta doce gelada, conhecida pelo Brasil por cafés, padarias, restaurantes, e, é lógico, nas nossas casas. Segundo a Wikipedia, "apesar de seu nome, a sobremesa é totalmente brasileira e não possui nenhum vínculo com os Países Baixos" (WIKIPÉDIA, 2025). Quando li sobre essa ideia, a muitos anos atrás, um quebra-cabeça se formou. Nossa, não tem nada de holandesa? eu pensei. 
+A torta holandesa, aquela torta doce gelada, é reconhecida pelo Brasil em cafés, padarias, restaurantes, e, é lógico, nas nossas casas. Segundo a Wikipedia, "apesar de seu nome, a sobremesa é totalmente brasileira e não possui nenhum vínculo com os Países Baixos" (WIKIPÉDIA, 2025). Quando li sobre essa ideia em um artigo, há muitos anos, um quebra-cabeça se formou. "Nossa, não tem nada de holandesa?", eu pensei.
 
 <!--
 @references 
 * @reference - WIKIPÉDIA, a enciclopédia livre. Torta holandesa. Disponível em: https://pt.wikipedia.org/wiki/Torta_holandesa. Acesso em: 3 fev. 2025.
 -->
 
-E por anos, quando esbarrava na torta holandesa, me sentia frustrado, pensando sobre aquela questão do nome. Aquele quebra-cabeça ficou aberto, com fragmentos de informações que essencialmente não diziam nada, que vieram de um clique em um título chamativo de um artigo curto e uma leitura rápida feita na diagonal. 
+Sempre que esbarrava na torta holandesa, eu pensava sobre aquela impressão que tive sobre o nome. E/ou pensando que aquela impressão teria que explicar a história da torta holandesa. Mas o quebra-cabeça estava aberto, com fragmentos de informações que essencialmente não diziam nada, resultado de um artigo curto e de uma leitura rápida, ou como eu dizia "uma leitura na diagonal". 
 
-Já este capítulo, que é o produto de um movimento mais calmo, resolve aquele meu quebra-cabeça. E foi desta forma que escrevi para a Silvia Leite, a criadora da torta holandesa: 
+Já este capítulo, resolveu aquele antigo quebra-cabeça. E foi desta forma, menos acelerada, que pude conhecer a Silvia Leite, a criadora da torta holandesa: 
 
 > *"Oi Silvia, tudo bem? Sou Marcio Galli, autor de um livro em andamento intitulado Além da Marca - que fala sobre a importância de resgate de valores em um mundo que ficou mais acelerado - no contexto da área alimentícia. Você toparia uma conversa, tipo entrevista, comigo? Algo suave, online, onde eu gostaria de conhecer um pouco sobre a criação da Torta Holandesa. Mas com um olhar, em alinhamento com o livro, cujo objetivo é conhecer um pouco sobre os seus ideais, sobre aquelas coisas que fizeram, e fazem, você avançar sua relação com a arte da criação nessa area." 
 
-E partimos para o que chamo de conversa 80/20. 80% sobre a Silvia e seus valores. E 20% sobre a torta. Como resultado, temos uma oportunidade de conhecer uma fatia dessa pessoa que é, em primeiro lugar, agradecida pela vida. E que foi e é acolhida e por isso acolhe. E essencialmente sobre como valores vem antes da inovação e do sucesso. Conhecer um pouco sobre o que antecede a criação da torta holandesa é uma oportunidade para transcendermos, como por exemplo quebrar aquela ideia limitada que diz que a torta holandesa não tem relação com os países baixos ou com a Holanda. 
+E partimos para o que chamo de conversa 80/20. 80% sobre a Silvia e seus valores. E 20% sobre a torta. Como resultado, temos uma oportunidade de conhecer uma fatia dessa pessoa que é, em primeiro lugar, agradecida pela vida. E que foi e é acolhida e por isso acolhe. E essencialmente sobre como valores vem antes da inovação e do sucesso. Estes momentos que antecedem a criação da torta holandesa é uma oportunidade para transcendermos, e é sobre ir além daquelas primeiras impressões aceleradas, por exemplo aquela ideia que diz que a torta holandesa não tem relação com os países baixos ou com a Holanda. Os três momentos abaixo celebram essa ideia. 
+
+<!--
+@note-refai footnote_80_20 #80/20 #pareto #qualitativa @refid-20250205-20b72c9c-b78b-4072-b270-b08458e2b839 https://chatgpt.com/share/67a395de-d4e4-8011-8da4-c31a2aca8a9e
+-->
+
+[^footnote_80_20]: O princípio 80/20, também conhecido como Princípio de Pareto, é amplamente aplicado em diversas áreas do conhecimento, sugerindo que 80% dos efeitos vêm de 20% das causas. Aqui, quando me referi a "conversa 80/20", é sobre as conversas mais qualitativas, antes de, por exemplo, avançarmos com interações de comunicação aceleradas, como entrevistas. 
 
 
 
 
 
-### O momento sobremesa 
 
-Ouvir a Silvia falar que era um produto para restaurantes, e para aquele "momento sobremesa", me fez pensar sobre aquele “momento cheesecake” que havia percebido em certos tipos de jantares na Califórnia. Falei para ela que que havia percebido que o cheesecake era uma sobremesa de certa forma esperada. Quando ela refletiu sobre essa comparação, ela disse “Sim, pelo aspecto social”. 
 
-Foi nessa hora, reconhecendo a popularidade da torta e esse lugar bem definido no contexto social, eu imediatamente lembrei sobre o conceito de Design de Categoria (*Category Design*) que explica como certos produtos inovadores definem categoria - uma ideia amplamente discutida no livro *Play Bigger* (2020). Essas categorias existem em todas as áreas, sejam guiadas por produtos ou serviços, em tecnologia, música, comida, etc. No mundo da tecnologia, o Uber é um grande exemplo. A criação de novas categorias também definem um mercado e, como sabemos do Uber, muda muita coisa sobre no mundo. No mundo dos cafés, consider como o a marca Nespresso criou toda uma experiência definindo-se como uma categoria, criando um mercado e inclusive abrindo toda uma dinâmica de competição. 
+
+
+### O momento sobremesa
+
+Vamos começar pelo momento sobremesa. Ouvindo a Silvia falar sobre o que ela se referiu como o momento fábrica, e reconhecer a intenção de fornecer a torta como uma sobremesa para restaurantes, me fez lembrar dos meus dias na Califórnia. E daquele momento cheesecake, que acontecia principalmente quando estávamos entre amigos em restaurantes estilo americano. Quando ela ouviu essa comparação, sobre aquele momento cheesecake que era reconhecido e esperado, ela disse “Sim, pelo aspecto social”. 
+
+Essa confirmação me fez ver a torta holandesa por uma perspectiva nova. Ao perceber a popularidade da torta e este lugar especial que ela conquistou no contexto social, eu sabia que estava diante de que seria um grande exemplo de uma forma de pensar referida como Design de Categoria (*Category Design*), uma ideia amplamente discutida no livro *Play Bigger* (2020). O Design de Categoria explica um fenômeno onde certos produtos ou serviços essencialmente definem novas categorias. Nós conhecemos essas categorias de várias formas, como por meio de produtos ou serviços, e em diversas áreas como transporte, estadías, música, comida, e muito mais. No mundo do transporte, o Uber é um grande exemplo. Essas experiências não só são reconhecidas como categorias - que mudam nosso ambiente - mas também definem um mercado, como é observável depois do Uber e de milhares de empresas que de uma forma ou outra competem. Com relação a experiência de tomar café, a marca Nespresso [^footnote_nespresso] também não só definiu a categoria pela experiência mas também definiu um grande mercado. 
+
+<!--
+@note-refai - nota de rodapé - #nespresso @refid-20250205-94ec3482-5f4e-4a42-96c5-58a561f92a79 https://chatgpt.com/share/67a39ae3-e6c0-8011-a72c-ffb3767764b3
+-->
+
+[^footnote_nespresso]: A Nespresso foi lançada pela Nestlé em 1986, mas seu sucesso não foi imediato. Inicialmente, o conceito de café em cápsulas era voltado para o mercado corporativo. A estratégia que consolidou a Nespresso veio depois de um posicionamento voltado ao consumidor doméstico, com a introdução das máquinas Nespresso em conjunto com um modelo de venda direta e assinatura. A marca não apenas inovou no formato de consumo do café, mas essencialmente criou uma nova categoria de mercado: o café em cápsulas premium. 
+
 
 <!--
 @references
@@ -79,16 +96,15 @@ Neste sentido, temos que reconhecer os principais espaços envolvidos: o restaur
 
 Olhando para o antes e o depois, hoje, eu reconheço que a torta traz poucas dúvidas na hora H. Em outras palavras, ela encaixa, no gosto geral. Ela é simples, de entender, feita com ingredientes reconhecidos, mas longe de não especial. O restaurante pode oferecer uma experiência especial, um produto de qualidade, e com um processo de armazenamento de baixo custo e sem perdas. O que temos, nesse mundo depois da torta, é um fenômeno típico das categorias que diz que o usuário de certa forma não vive sem. É por isso que não é incomum um cliente, sem olhar o menu, perguntar coisas como "vocês tem torta holandesa?"
 
-### Momento fãs 
+### O momento fãs 
 
 Esse reconhecimento dentro do aspecto social, nos leva a olhar mais sobre quem são os usuários e como se relacionam com a categoria. Sobre esse assunto, a Silvia não refere-se a eles como clientes nem como consumidores nem como usuários, dentro de um mercado. Ela começou falando sobre fãns. Mas essa conversa sobre fãns não era nada sobre ela pois essencialmente ela falava sobre as pessoas, sobre a valorização das pessoas - e como essa valorização também lhe dá uma forma organizada para tomar decisões. Essa ideia ficou clara quando ela me contou sobre alguns exemplos de experiências com as pessoas na loja dela que é uma filial de uma grande franquia nacional: 
 
-> *"Colocar aqui história caso referência.Colocar aqui história caso referência.Colocar aqui história caso referência.Colocar aqui história caso referência.Colocar aqui história caso referência.Colocar aqui história caso referência.Colocar aqui história caso referência. "* 
+> *"Este é um trecho onde potencialmente o márcio quer incluir uma história sobre não seguir tão a risca o manual. "* 
 
 O que é diferente sobre ela é que ela permite-se perceber. Sem se guiar por regras, como quem segue o manual de instruções. Ouvindo essas histórias percebi que muitas das percepções dela estão conectadas com um nível de sensibilidade sobre o que acontece. Em parte, é sobre acolhimento, ou sobre ouvir, antes de seguir instruções de forma mecanizada. Eu penso que ela faz isso com maestria pois é genuína. 
 
 Como líder na estratégia da operação dessa loja, ela sabe que prefica transcender aquele manual que diz como as coisas têm que ser feitas, como mais de paciência e perspectiva. Desta forma, ela está livre de tratar as pessoas como se tudo fosse um ato transacional. Conforme ela contou algumas dessas histórias, eu lembrei sobre as várias vezes que entrei em uma loja para comprar algo especial mas logo depois da primeira interação eu simplesmente saí -sem entender ou frustrado porque não perceberam a minha situação. 
-
 
 
 <!-- fans, airbnb --> 
@@ -108,9 +124,12 @@ A ilustração do Brian, brincadeiras a parte, é sobre empatia. Exatamente o qu
 
 Quando essas experiências estão próximas das nossas vidas, podemos nos confundir assim como os grandes artistas às vezes se assustam com seus fãns. Quando a Silva tira um tempinho para visitar a torta holandesa nas redes sociais, às vezes ela se pergunta "Quem são eles? de onde vieram?" Mas lá no fundo, na essência, ela sabe que essas histórias são provas que a torta holandesa estava lá, de uma forma ou outra, na alegria e na tristeza, na saúde e na doença, até que a morte nos separe. Quando revisei este capítulo, decidi procurar no meu e-mail por "torta holandesa". Eu encontrei uma mensagem de 2010 onde meu amigo FZ disse "A torta holandesa ja está no congelador :)" momentos antes do que seria o jogo Brasil vs. Holanda. 
 
-### Dedicatória 
+### A hora do veredito
 
-Então podemos falar a origem do nome, que também não foge a regra que diz que valores vêm antes de inovação. Neste episódio, mesmo ainda sem nome, aquelas tortas já estavam no mercado sendo entregues para restaurantes na região de Campinas. Aquele era o momento fábrica, segundo ela. E também era o momento onde ela e seu sócio estavam avançando com questões que envolviam fazer o registro do produto. Então ela recebeu uma ligação do seu sócio que disse que precisava preencher um formulário com o título do produto. A princípio, ela sugeriu colocar nomes como "bolo gelado" ou "torta gelada", uma descrição rápida. Então, ele disse que não era o caso, que não poderia ser um título genérico. Nessa hora, a resposta foi natural, "coloque Torta Holandesa".
+<!--
+-->
+
+Agora podemos falar aquele assunto, sobre a origem do nome, que também não foge a regra que diz que valores vêm antes de inovação. Neste episódio, mesmo ainda sem nome, aquelas tortas já estavam no mercado sendo entregues para restaurantes na região de Campinas. Aquele era o momento fábrica, segundo ela. E também era o momento onde ela e seu sócio estavam avançando com questões que envolviam fazer o registro do produto. Então ela recebeu uma ligação do seu sócio que disse que precisava preencher um formulário com o título do produto. A princípio, ela sugeriu colocar nomes como "bolo gelado" ou "torta gelada", uma descrição rápida. Então, ele disse que não era o caso, que não poderia ser um título genérico. Nessa hora, a resposta foi natural, "coloque Torta Holandesa".
 
 Para eu entender isso ela voltou o filme para um período delicado da vida dela, quando ela morou na Inglaterra. Foi um momento difícil, onde ela se sentiu sozinha. Mas foi também uma história sobre ser acolhida. Por aquela família de holandeses. Era a família do escritor holandês. Ouvindo aquela história, me lembrei do meu primeiro ano longe de casa, em um país distante, um clima e contexto cultural diferente, e ainda sem segurança com o inglês. E lembrei do Alfa Romeo Spider que o JG me emprestou, mesmo sem me conhecer, logo de cara. Era velhinho mas bem cuidado. E eu cuidei bem dele. E também lembrei da bicicleta que a CF me emprestou por um ano. Receber acolhimento quando estamos deslocados, longe das coisas que nos dão segurança, realmente marca muito a gente. Nessas horas, valorizamos mais aqueles momentos, aquelas pessoas, mas também de forma geral as pessoas.
 
