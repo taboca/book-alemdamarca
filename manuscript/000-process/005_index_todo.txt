@@ -256,6 +256,8 @@
 
 @@ esse é diferente 
 
+* [ , anchored ] - p1 - In "esse é diferente" - Consider to elaborate what we as brazilians know, because we do know, the situation with the light french bread. We know so much that we know too that we would not exacly accept that french bread with the standard kit of stuffings, right? @refid-20250204-b83359ce-fe4d-4b89-8349-476d0e2f0561
+
 * [ , anchored] @todo - p1 - In "Esse é diferente" - Consider to say something about the noodle. @refid-20250204-8b902fd6-5173-4271-a334-d5f116c49940
 
 * [ , ] @todo - p1 - "Esse é diferente - Consider cuca, https://www.youtube.com/watch?v=2oyiwU2qZZM @refid-20250204-c27ce974-2b23-43ea-ba83-1310246c37e0
