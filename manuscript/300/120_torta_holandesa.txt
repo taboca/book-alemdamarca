@@ -25,33 +25,29 @@ https://docs.google.com/document/d/1Yk5nhsR_9CLrWOItjiNJ7fIMF-XYaWYkYX2PVkUzsCs/
 
 -->
 
-<!--
-@section - leading b - moved to @refid-20250203-1bba26cc-5f17-425a-b79e-e69d6d7ac91f
-@section - leading a: 
--->
-
-Em 4 de Novembro de 2024, cheguei em Salamanca, no noroeste da Espanha, para passar 30 dias. Eu sabia que a viagem iria me ajudar a avançar essa parte deste livro - sobre resgate de valores. Minha primeira conquista dessa viagem foi ter escrito, no dia 7, para a Silvia Leite, a criadora da popular torta holandesa:
-
-> "Oi Silvia, tudo bem? Sou Marcio Galli, autor de um livro em andamento intitulado Além da Marca - que fala sobre a importância de resgate de valores em um mundo que ficou mais acelerado - no contexto da área alimentícia. Você toparia uma conversa tipo entrevista comigo? Algo suave, online, onde eu gostaria de conhecer um pouco sobre a criação da Torta Holandesa. Mas com um olhar, em alinhamento com o livro, cujo objetivo é conhecer um pouco sobre os seus ideais, sobre aquelas coisas que fizeram, e fazem, você avançar sua relação com a arte da criação nessa area." 
-
-Nossa conversa começou assim: ela de Campinas e eu de Salamanca. Logo de cara falamos sobre escrita, quando ela confirmou que havia feito uma longa viagem parecida, também com o objetivo de escrever. Nessa conversa, pude perceber como ela é agradecida pela vida, como ela valoriza as pessoas em primeiro lugar. E como essa valorização a guia para devolver, no sentido de proporcionar e transformar as pessoas. Então agradeço a Silvia, que criar aquele momento transformador, na prática, em tempo real. Com isso convido você, para esta breve reflexão que antecede (e transcende) a criação da torta holandesa, e que seja um momento para nos lembrar que a inovação (e o sucesso) é produto de um movimento guiado por valores.
 
 
-<!--
-@section - a torta 
--->
 
-Segundo a Wikipedia, e como muitos fãns já sabem, "a sobremesa é totalmente brasileira e não possui nenhum vínculo com os Países Baixos" (WIKIPÉDIA, 2025). Quando ouvi essa verdade, muitos anos atrás, abriu um quebra-cabeça na minha mente. Com peças de curiosidade, achismos, fragmentos de informações que nunca foi montado. Sou feliz por ter finalizado esse quebra-cabeça que, agora e de fato, também quebra com outra verdade maior que diz que a torta holandesa possui vínculo com os paises baixos e com a holanda:  
-
-<!--
-@removed
-A torta holandesa, aquela torta doce gelada, ou aquele bolo gelado, é popularmente encontrada no Brasil em locais como cafés, padarias, nos menus das sobremesas em muitos restaurantes, supermercados, etc. Entendo que essa descrição é limitada. Porém, a intenção não é especificar a obra mas de fato nos convidar para refletir sobre a criação “do produto” e especialmente sobre como produtos inovadores carregam elementos essenciais, como valores. 
--->
+A torta holandesa, aquela torta doce gelada, conhecida pelo Brasil por cafés, padarias, restaurantes, e, é lógico, nas nossas casas. Segundo a Wikipedia, "apesar de seu nome, a sobremesa é totalmente brasileira e não possui nenhum vínculo com os Países Baixos" (WIKIPÉDIA, 2025). Quando li sobre essa ideia, a muitos anos atrás, um quebra-cabeça se formou. Nossa, não tem nada de holandesa? eu pensei. 
 
 <!--
 @references 
 * @reference - WIKIPÉDIA, a enciclopédia livre. Torta holandesa. Disponível em: https://pt.wikipedia.org/wiki/Torta_holandesa. Acesso em: 3 fev. 2025.
 -->
+
+E por anos, quando esbarrava na torta holandesa, me sentia frustrado, pensando sobre aquela questão do nome. Aquele quebra-cabeça ficou aberto, com fragmentos de informações que essencialmente não diziam nada, que vieram de um clique em um título chamativo de um artigo curto e uma leitura rápida feita na diagonal. 
+
+Já este capítulo, que é o produto de um movimento mais calmo, resolve aquele meu quebra-cabeça. E foi desta forma que escrevi para a Silvia Leite, a criadora da torta holandesa: 
+
+> *"Oi Silvia, tudo bem? Sou Marcio Galli, autor de um livro em andamento intitulado Além da Marca - que fala sobre a importância de resgate de valores em um mundo que ficou mais acelerado - no contexto da área alimentícia. Você toparia uma conversa, tipo entrevista, comigo? Algo suave, online, onde eu gostaria de conhecer um pouco sobre a criação da Torta Holandesa. Mas com um olhar, em alinhamento com o livro, cujo objetivo é conhecer um pouco sobre os seus ideais, sobre aquelas coisas que fizeram, e fazem, você avançar sua relação com a arte da criação nessa area." 
+
+E partimos para o que chamo de conversa 80/20. 80% sobre a Silvia e seus valores. E 20% sobre a torta. Como resultado, temos uma oportunidade de conhecer uma fatia dessa pessoa que é, em primeiro lugar, agradecida pela vida. E que foi e é acolhida e por isso acolhe. E essencialmente sobre como valores vem antes da inovação e do sucesso. Conhecer um pouco sobre o que antecede a criação da torta holandesa é uma oportunidade para transcendermos, como por exemplo quebrar aquela ideia limitada que diz que a torta holandesa não tem relação com os países baixos ou com a Holanda. 
+
+
+
+
+
+### O momento sobremesa 
 
 Ouvir a Silvia falar que era um produto para restaurantes, e para aquele "momento sobremesa", me fez pensar sobre aquele “momento cheesecake” que havia percebido em certos tipos de jantares na Califórnia. Falei para ela que que havia percebido que o cheesecake era uma sobremesa de certa forma esperada. Quando ela refletiu sobre essa comparação, ela disse “Sim, pelo aspecto social”. 
 
@@ -83,7 +79,7 @@ Neste sentido, temos que reconhecer os principais espaços envolvidos: o restaur
 
 Olhando para o antes e o depois, hoje, eu reconheço que a torta traz poucas dúvidas na hora H. Em outras palavras, ela encaixa, no gosto geral. Ela é simples, de entender, feita com ingredientes reconhecidos, mas longe de não especial. O restaurante pode oferecer uma experiência especial, um produto de qualidade, e com um processo de armazenamento de baixo custo e sem perdas. O que temos, nesse mundo depois da torta, é um fenômeno típico das categorias que diz que o usuário de certa forma não vive sem. É por isso que não é incomum um cliente, sem olhar o menu, perguntar coisas como "vocês tem torta holandesa?"
 
-<!-- section fans --> 
+### Momento fãs 
 
 Esse reconhecimento dentro do aspecto social, nos leva a olhar mais sobre quem são os usuários e como se relacionam com a categoria. Sobre esse assunto, a Silvia não refere-se a eles como clientes nem como consumidores nem como usuários, dentro de um mercado. Ela começou falando sobre fãns. Mas essa conversa sobre fãns não era nada sobre ela pois essencialmente ela falava sobre as pessoas, sobre a valorização das pessoas - e como essa valorização também lhe dá uma forma organizada para tomar decisões. Essa ideia ficou clara quando ela me contou sobre alguns exemplos de experiências com as pessoas na loja dela que é uma filial de uma grande franquia nacional: 
 
@@ -112,7 +108,7 @@ A ilustração do Brian, brincadeiras a parte, é sobre empatia. Exatamente o qu
 
 Quando essas experiências estão próximas das nossas vidas, podemos nos confundir assim como os grandes artistas às vezes se assustam com seus fãns. Quando a Silva tira um tempinho para visitar a torta holandesa nas redes sociais, às vezes ela se pergunta "Quem são eles? de onde vieram?" Mas lá no fundo, na essência, ela sabe que essas histórias são provas que a torta holandesa estava lá, de uma forma ou outra, na alegria e na tristeza, na saúde e na doença, até que a morte nos separe. Quando revisei este capítulo, decidi procurar no meu e-mail por "torta holandesa". Eu encontrei uma mensagem de 2010 onde meu amigo FZ disse "A torta holandesa ja está no congelador :)" momentos antes do que seria o jogo Brasil vs. Holanda. 
 
-<!-- dedication -->
+### Dedicatória 
 
 Então podemos falar a origem do nome, que também não foge a regra que diz que valores vêm antes de inovação. Neste episódio, mesmo ainda sem nome, aquelas tortas já estavam no mercado sendo entregues para restaurantes na região de Campinas. Aquele era o momento fábrica, segundo ela. E também era o momento onde ela e seu sócio estavam avançando com questões que envolviam fazer o registro do produto. Então ela recebeu uma ligação do seu sócio que disse que precisava preencher um formulário com o título do produto. A princípio, ela sugeriu colocar nomes como "bolo gelado" ou "torta gelada", uma descrição rápida. Então, ele disse que não era o caso, que não poderia ser um título genérico. Nessa hora, a resposta foi natural, "coloque Torta Holandesa".
 
