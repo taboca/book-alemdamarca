@@ -4,7 +4,7 @@
 
 @this 
 
-* v0.3 
+* v0.4 
 * doc pt-br v0.2 ? https://docs.google.com/document/d/1lT6lMfsKG3dq2jXL2HuTSZgy-dRrC3GsaOjWvN2I2t8/edit?tab=t.0 
 
 @tags 
@@ -14,6 +14,8 @@
 * Core values and innovation 
 
 @todo 
+
+* [ , anchored] @todo - p1 - In "Esse é diferente" - Consider to say something about the noodle. @refid-20250204-8b902fd6-5173-4271-a334-d5f116c49940
 
 * [ , ] @todo - p1 - "Esse é diferente - Consider cuca, https://www.youtube.com/watch?v=2oyiwU2qZZM @refid-20250204-c27ce974-2b23-43ea-ba83-1310246c37e0
 
@@ -88,8 +90,12 @@ Qual será o segredo do lámen instantâneo? Deve ser aquele tempero especial e 
 
 Quando incluí o lámen foi durante minha viagem a Salamanca, na Espanha. Eu não esperava encontrar tantos lugares de lámen em Salamanca. Talvez apareceram por lá por conta de ser uma cidade universitária. Mas encontrá-los em Novembro que esfriava a cada dia realmente aqueceu as coisas. O primeiro lámen foi surpreendentemente bom. O segundo foi diferente. Não esperava carne de vaca e cogumelos no molho de shoyu. Naquele momento, lembrei que um amigo visitou Tóquio e reportou que lá encontrou uma experiência de lámen incrível. Disse que lá comeu um dos melhores lámens da sua vida que para sua surpresa era um ramem vegetariano. Então, se o lámen sigue as regras de um sistema solar, essas criações expandem a experiência do sistema dos lámens - todos estão ampliando a história. São planetas são diferentes, únicos, que giram em torno de um mesmo sol.
 
-Agora, quais seriam os valores centrais do lámen? Um deles é sobre servir bem quente? Como cliente, em Novembro, em Salamanca, eu esperei por isso. Mas, agora, de volta ao Brasil, me lembrei que aquele mesmo amigo já havia comentado sobre um lámen especial que comeu em São Paulo, no planeta Kazu lámen. Era um lámen frio, especial de verão. Frio e apimentado, muito bom. Mas, por enquanto, vamos fixar essa variável como um valor, só para simplificar. Vamos considerar que um bom lámen carrega o princípio de ser servido bem quente. Bom, isso ao menos que você realmente saiba o que está fazendo. 
+Agora, quais seriam os valores centrais do lámen? Um deles é sobre servir bem quente? Como cliente, em Novembro, em Salamanca, eu esperei por isso. Mas, agora, de volta ao Brasil, me lembrei que aquele mesmo amigo já havia comentado sobre um lámen especial que comeu em São Paulo, no planeta Kazu lámen. Era um lámen frio, especial de verão. Frio e apimentado, muito bom. Mas, por enquanto, vamos fixar essa variável como um valor, só para simplificar. Ou de outra forma, ao menos que você realmente saiba o que está fazendo, podemos assumir que servir bem quente é um aspecto essencial do ramen.  
 
+<!--
+@todo
+* [ , anchored] @todo - p1 - In "Esse é diferente" - Consider to say something about the noodle. @refid-20250204-8b902fd6-5173-4271-a334-d5f116c49940
+-->
 
 
 ### Sistema desorientado 
