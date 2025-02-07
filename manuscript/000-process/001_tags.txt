@@ -31,7 +31,7 @@
 
 ### Outros 
 
-@note-refai "Esse é diferente" #coxinha #croissant @refid-20250204-3a36aba1-0a9e-458d-962c-96cec1ff1b7a https://chatgpt.com/share/67a23a55-5f50-8011-ab34-5a3c089dcc1d 
+@note-refai "Esse é diferente" #coxinha #croissant @refid-20250204-3a36aba1-0a9e-458d-962c-96cec1ff1b7a https://chatgpt.com/share/67a67882-bcb0-8011-9164-c34624abdc7b
 
 @note-refai - tradução - #translation-pt-br @refid-20250131-fc5ff41b-2e73-4312-8b70-d84eec19354a
 
