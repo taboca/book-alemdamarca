@@ -4,7 +4,7 @@
 
 @this 
 
-* v0.4 
+* v0.6
 * doc pt-br v0.2 ? https://docs.google.com/document/d/1lT6lMfsKG3dq2jXL2HuTSZgy-dRrC3GsaOjWvN2I2t8/edit?tab=t.0 
 
 @tags 
@@ -14,8 +14,6 @@
 * Core values and innovation 
 
 @todo 
-
-* [ , anchored ] - p1 - In "esse é diferente" - Consider to elaborate what we as brazilians know, because we do know, the situation with the light french bread. We know so much that we know too that we would not exacly accept that french bread with the standard kit of stuffings, right? @refid-20250204-b83359ce-fe4d-4b89-8349-476d0e2f0561
 
 * [ , anchored] @todo - p1 - In "Esse é diferente" - Consider to say something about the noodle. @refid-20250204-8b902fd6-5173-4271-a334-d5f116c49940
 
@@ -41,6 +39,8 @@
 
 * [ Done ]  @todo - p1 - In "Esse é diferente " - Replace en-us with the draft from the pt-br in the doc entitled "Book - adm - Esse é diferente " @refid-20241228-b8a9e8a2-6d6a-4259-bbc0-eaeb4f044104
 
+* [ done , anchored ] - p1 - In "esse é diferente" - Consider to elaborate what we as brazilians know, because we do know, the situation with the light french bread. We know so much that we know too that we would not exacly accept that french bread with the standard kit of stuffings, right? @refid-20250204-b83359ce-fe4d-4b89-8349-476d0e2f0561
+
 @documents
 
 * part 1 https://docs.google.com/document/d/1uS-g-EmTDbPGRCyVRxug5VDWZugfGbvGEzzARYTjimY/edit?tab=t.0 
@@ -48,34 +48,15 @@
 
 --> 
 
-O falafel, o acarajé e o lámen são experiências gastronômicas tradicionais. Você bate o olho e sabe o que é. Ou coloca na boca, de olhos fechados, e é transportado para aquele mundo. Às vezes acho que se o tradicional quisesse sobreviver, precisaria ser estático, preservado ou conservado. Que, se entrasse nessa órbita acelerada, sairia pela tangente rumo à extinção. Tipo acarajé de creme tipo cheddar (no lugar do vatapá) com crisp de bacon (no lugar do camarão).
+O falafel, o acarajé e o lámen são exemplos de experiências gastronômicas tradicionais. Você bate o olho e sabe o que é. Ou coloca na boca de olhos fechados e é transportado para um mundo particular. Então pergunto, como preservar as boas experiências tradicionais em um mundo de tantas mudanças? Quando penso que alguém poderia inventar o acarajé com creme tipo cheddar (no lugar do vatapá) com crisp de bacon (no lugar do camarão), eu me fecho, pareço um conservador. 
 
-Mas foi caminhando nesses mundos, de falafel em falafel, de lámen em lámen e de aracarajé em acarajé, que encontrei o que muitas culturas tradicionais já sabiam. Nas areias do falafel, um dia me perguntei "Como pode esse falafel ser tão diferente ao mesmo tempo ser tão tradicional?" No mar de acarajés, soltei um "nossa, esse acarajé é único!". Por esse olhar, o universo da tradição é um universo em expansão. Então, quando dizem "fazemos a nossa cuca assim, é tradição da família", estamos ouvindo os verdadeiros exploradores que avançam as tradições porque olham para essas cucas como um universo em expansão.
+Mas foi caminhando nesses mundos, de falafel em falafel, de lámen em lámen e de acarajé em acarajé, que encontrei o que muitas culturas tradicionais já sabiam. Nas areias do falafel, um dia me perguntei "Como pode esse falafel ser tão diferente ao mesmo tempo ser tão tradicional?" No mar de acarajés, soltei um "nossa, esse acarajé é único!". Por esse olhar, o universo da tradição é um universo em movimento. Então, quando dizem "fazemos a nossa cuca assim, é tradição da família", estamos de frente com o novo e com os mais jovens exploradores que tiveram coragem de mudar o tradicional tradicional com o novo tradicional. 
 
-É isso, o teste: se o acarajé não for diferente, não é o verdadeiro. Mas com cautela, sem creme tipo cheddar. Isso nos leva de volta ao paradoxo, ou ao nosso ambiente acelerado que não parece ser problema por ter ficado normal. O problema não é sobre salvar o tradicional-tradicional, ou estático, à beira da extinção. O problema é sobre o nosso foco, que cada vez mais fica longe dessa posição criativa, e que se ocupa seguindo movimentações arbitrárias ditadas pelo ambiente externo — como no caso da tradicional Coxinha da Tia Coxinha, que nesta semana lançou mais três sabores, além dos 40 que você já conhece.
+Esse é o teste: se o acarajé não for diferente, não é o verdadeiro. E esse tema também nos leva de frente com a realidade da operação que sofre para inovar, agora tropeços fantasiados de galopes, tipo quando impulsionamos A Tradicional Coxinha da Tia Coxinha com "temos mais três sabores essa semana, além dos 40 que você já conhece!". Certamente estamos - ou estaríamos se pudéssemos perceber - diante do dilema sobre o que fazer. Com uma sede para avançar, que começa cedinho até a hora de dormir, com 100% do nosso cérebro e 100% da nossa imaginação e 100% mãos na massa, ignoramos conhecer e perceber os mundos. Neste sentido, na medida que ignoramos esses mundos sem permissão para perceber nosso potencial, nos entregamos. Somos guiados por forças que não ajudam a evoluir as coisas, que não criam experiências memoráveis com base em valor. E continuamos, focando em experiências passageiras mas que não nos livra do esforço arbitrário de tentativas e erros e consequentemente das frustrações e humilhações que nos marcam. 
 
+Vamos à missão: experienciar e refletir sobre os sistemas que expandem nossas possibilidades. E sobre os sistemas que nos confundem. Essencialmente sobre a conscientização do nosso movimento. 
 
-
-
-
-
-
-
-
-
-<!-- GKA -->
-
-Vamos refletir sobre esse tema, sobre os sistemas que nos expandem e sobre sistemas que nos confundem. Esse assunto é bem relevante porque nossa propensão envolve navegar por qualquer que seja o espaço com uma propulsão criativa. Em outras palavras, estamos naturalmente fomintos para contribuir, somar, ajudar, colaborar. Fazemos isso, desde cedo até a hora de dormir, usando 100% do nosso cérebro, 100% da nossa imaginação, 100% mãos na massa, queira ou não queira. E na medida que ignoramos esses mundos, sem tempo para viver essas experiências de maneira mais calma, proporcionalmente entregamos 100% dessa energia no mesmo movimento, levados, guiados, por forças que não expandem nem revolucionam, que não marcam, e que criam só experiências passageiras. Mas mais do que isso, que nesse esforço arbitrário de tentativas e erros, acumulamos as falhas que mudam a gente. 
-
-
-
-
-
-
-
-
-
-### Sistemas solares 
+### O sistema dos lámens
 
 <!--
 @todo 
@@ -83,16 +64,13 @@ Vamos refletir sobre esse tema, sobre os sistemas que nos expandem e sobre siste
 -->
 
 
-Qual será o segredo do lámen instantâneo? Deve ser aquele tempero especial e endiabrado! Ou talvez seja o glutamato de monossódio, na dose perfeita. Não, é o macarrão que me fez um dia comê-lo a frio. Minha esposa diz que é o umami. Ou é porque as pessoas acham que o macarrão instantâneo é o mais próximo daquele especial lámen caseiro japonês, como o apaixonado por cinema as vezes aceita qualquer filme. Mas isso não explica as milhares de pessoas que não conheceram o lámen japonês autêntico. Sim mas exceto se as pessoas são reencarnações que já provaram o autêntico. Deixando o mundo metafísico de lado, podemos pensar que existem lámens e lámens. E que são como planetas, que giram em um sistema solar, como em torno do sol do japão. 
+Qual será o segredo do lámen instantâneo? Deve ser o tempero endiabrado! Ou aquela pitada de glutamato de monossódio. Tem que ser o macarrão! Olhe para o menino, ele está mascando o macarrão frio!. Para minha esposa, é umami. Ou é porque o instantâneo é o mais próximo da verdadeira experiência do lámen (caseiro) japonês; e de alguma forma porque somos reencarnações que passaram pelo Japão e estamos todos conectados com aquela experiência tradicional. Mas deixando o universo sistema metafísico, vamos simplificar. Eu diria que existem lámens e lámens. E que são como mundos que giram em torno de um sol - o sol do japão. Dispostos neste sistema solar, alguns mais próximos e outros mais distantes. E sim, são mundos diferentes. Mas nada é arbitrário. 
 
-<!--
-@note:aiuse v0.1 - translated from Marcio's English - https://chatgpt.com/share/67704162-4110-8011-9148-6dc475d2ed46 
-@tag:open
--->
+Eu realmente não esperava encontrar tantos estabelecimentos de lámen em Salamanca, na Espanha. Deve ser porque Salamanca é uma cidade universitária. Mas foi bom, porque era Novembro e os dias estavam esfriando. Aqueceu as coisas. O primeiro lámen foi muito bom. Esse era tradicional com base de missô e cantos com coisas que sentia falta. Já o segundo foi totalmente diferente. Era escuro, com carne de vaca e cogumelos escuros, tudo na imensidão do caldo de shoyu, com gotinhas vermelhas e amarelas de gordura que brilhavam como estrelas no universo. Então eu lembrei do que meu amigo CG disse depois de voltar de Tóquio, que havia experimentado um dos melhores lámens da sua vida - era um lámem vegetariano. 
 
-Quando incluí o lámen foi durante minha viagem a Salamanca, na Espanha. Eu não esperava encontrar tantos lugares de lámen em Salamanca. Talvez apareceram por lá por conta de ser uma cidade universitária. Mas encontrá-los em Novembro que esfriava a cada dia realmente aqueceu as coisas. O primeiro lámen foi surpreendentemente bom. O segundo foi diferente. Não esperava carne de vaca e cogumelos no molho de shoyu. Naquele momento, lembrei que um amigo visitou Tóquio e reportou que lá encontrou uma experiência de lámen incrível. Disse que lá comeu um dos melhores lámens da sua vida que para sua surpresa era um ramem vegetariano. Então, se o lámen sigue as regras de um sistema solar, essas criações expandem a experiência do sistema dos lámens - todos estão ampliando a história. São planetas são diferentes, únicos, que giram em torno de um mesmo sol.
+Agora, quais seriam os padrões nos lámens? Um deles é que é servido quente. Isso eu percebi lá em Novembro em Salamanca. Por outro lado, de volta ao Brasil, lembrei que o CG tinha me contado do dia que visitou o planeta Lámen Kazu, em São Paulo, e sobre aquele lámen frio. Era um lámen especial de verão. Frio e apimentado. Opa, um pouco quente então. Mas enfim, talvez distante daquele sol tradicional, sim, mas não fora da órbita. 
 
-Agora, quais seriam os valores centrais do lámen? Um deles é sobre servir bem quente? Como cliente, em Novembro, em Salamanca, eu esperei por isso. Mas, agora, de volta ao Brasil, me lembrei que aquele mesmo amigo já havia comentado sobre um lámen especial que comeu em São Paulo, no planeta Kazu lámen. Era um lámen frio, especial de verão. Frio e apimentado, muito bom. Mas, por enquanto, vamos fixar essa variável como um valor, só para simplificar. Ou de outra forma, ao menos que você realmente saiba o que está fazendo, podemos assumir que servir bem quente é um aspecto essencial do ramen.  
+Se estamos em uma jornada reflexiva, te convido para imediatamente sairmos desse sistema e dobrar nossa velocidade, rumo a novos mundos estranhos. Nossa missão: observar e refletir, sem interferir.   
 
 <!--
 @todo
@@ -100,42 +78,52 @@ Agora, quais seriam os valores centrais do lámen? Um deles é sobre servir bem 
 -->
 
 
-### Sistema desorientado 
+### Sistema Kroissant Recheado 
 
 <!--
 @todo 
 * [ , anchored] @todo - p1 - In "Esse é diferente " - Try to simplify as short as - lacking values? @refid-20241228-522a5c5c-8bb5-4087-9d60-0de7e1a3b196
 -->
 
-Enquanto isso, podemos nos ocupar um pouco em um outro espaço, complexo, que nos leva a um movimento desorientado mas que infelizemente a complicação se dá porque não percebemos assim. Acelerados, tentando avançar rápido e desprovidos de valores definidos, sem uma estrutura ou norte, sem avançar com uma elegância essencial, essencialmente nos perdemos. O assunto é complexo pois sabemos que inovação depende de experimentação. É verdade. Mas também é verdade que precisamos ter cautela com o movimento instintivo que nos leva ao espaço da variabilidade e longe do espaço da possibilidade - que nos distancia de sermos criativos e de poder criar experiências memoráveis. 
+Se fosse ficção eu começaria dizendo “Registro do Capitão, data Estelar 1709.2. Estamos diante do que parece ser um croissant. Um croissant camuflado.” Mas infelizmente é a verdade. Estamos diante do que chamo de submundo do croissant recheado. 
 
+Sobre isso, a questão merece o benefício da dúvida. Como observadores, precisamos reconhecer que até o movimento puramente arbitrário, como a reveria, pode trazer coisas boas. Não podemos assumir que todo e qualquer croissant recheado é o mal. E mesmo que fosse visto assim, que a total aniquilação é a única salvação. Isso porque é nossa responsabilidade considerar a possibilidade que toda e qualquer criação pode se encontrar.  
 
+De qualquer forma, olhando para esse submundo, encontraremos milhares de estabelecimentos (mesmo bem intencionados) que se entregam a um movimento obcecado. Esse movimento se aproveita da reputação conquistada pelo tradicional croissant. 
 
+Neste submundo, desconhecemos os valores que diferenciam um croissant de outro. Sem uma visão clara, sobre as características essenciais que definem um bom croissant, a operação fica passível de aceitar variações arbitrárias. Incapazes de identificar a verdadeira (ou tradicional) experiência do croissant, acabam criando uma espécie de pão qualquer, mas que segue padrões dessa alavancagem: servido no formato meia lua, enrolado. Ou camuflado. 
 
+A complicação se agrava por conta que, de forma geral, o croissant tradicional já foi abraçado: é um item querido e certamente uma categoria em alinhamento com o que conversamos no capítulo “O segredo da torta”. 
 
-Nesse sentido, vamos considerar uma situação que merece nossa atenção no mundo do croissant, mais especificamente o croissant recheado. Ou melhor, é um pão em formato de um croissant que em geral é pré-recheado, antes de assar. Sobre isso, é razoável nos darmos o benefício da dúvida - se a intenção for fazer uma crítica que pode ser vista como crítica destrutiva. Em outras palavras, precisamos reconhecer que mesmo o movimento arbitrário, ou até de brincar, pode eventualmente levar a coisas boas. Não podemos assumir que o destino está fadado a ser um croissant esquecido no tempo. Temos que celebrar a possibilidade, mesmo que pequena, de que qualquer que seja o caminho intermediário, algo promissor pode ser encontrado. 
+Neste sentido, sem o entendimento sobre o Ponto de Vista do Croissant, a operação parte para aquilo que faz bem, de qualquer forma: mãos a obra, ou na massa, rumo a contribuição, ou colaboração, logicamente bem intencionada a melhorar a experiência. 
 
-De qualquer forma, o problema relevante ao contexto da operação dos estabelecimentos - intencionados a agregar valor com experiência - é que tanto o negócio como o cliente pode pagar o preço desse movimento arbitrário. Consideraremos as confusões daquele movimento obcecado que quer adicionar valor mas que gera desgaste por justamente não adicionar valor. 
+Podemos analisar o problema por outro ângulo: se esse croissant pré-recheado fosse feito sem recheio. Esse item poderia seria comparável ao nosso pão francês? No geral, feito como vem sendo feito - o recheado sem recheio - seria revelada a experiência inferior. Saberíamos, por exemplo, que assim, esse “croissant recheado sem recheio” não sobreviveria ao teste “sirva só com manteiga”. 
 
-Agora, os problemas que discutiremos adiante podem muito ser consequências de um movimento que se aproveita da própria reputação que o croissant ganhou em outros momentos e de outra forma. Em inglês, a expressão que explica seria *take it for granted*, que significa uma situação onde nos aproveitamos de um valor anterior mas sem dar valor. Em outras palavras, desconhecemos os valores que diferenciam um croissant de outro. Sem uma visão clara sobre a características essenciais que definem um bom croissant, nos situamos em uma posição que aceita variações arbitrárias em vários aspectos. Por conta disso, ficamos incapazes de identificar o que seria o croissant de qualidade. Em muitos casos, torna-se uma espécie de pão qualquer, mas que logicamente por razões dessa "alavancagem" desconhecida, é servido naquele formato meia lua, ainda enrolado. Nossos problemas se agravam justamente por conta de que de fato o croissant foi abraçado, como um item querido, uma categoria certamente. Então neste caso, sem critérios sobre melhor ou pior, o padrão volta-se para o formato, a princípio. A partir disso, entra noss movimento de contribuição, ou colaboração, que busca melhorar a experiência que de certa forma precisa de algo a mais. Em outras palavras, se o nosso croissant pré-recheado tivesse sem recheio, muitos seriam reconhecidos como uma experiência muito inferior, por exemplo, ao pãozinho francês brasileiro. 
+Essa é uma forma de vermos  o problema em perspectiva. E para percebermos aquilo que só quem ama o croissant (tradicional) com manteiga sabe, imagine o que seria nesse mundo se colocássemos na vitrine o pãozinho francês, na modalidade “pão francês recheado”, com sugestões nas modalidade frango desfiado com creme tipo requeijão, calabresa com creme tipo cheddar, etc. Não seria terrível, certo? Exato! Poderíamos inferir que seria um certo pão francês, mediano (para não dizer medíocre), recheado. E que fizeram isso para agregar valor. Mas ainda assim, assumindo que os habitantes desse mundo carregam uma maior sensibilidade para o pãozinho francês, não seria incomum encontrar um habitante muito frustrado, e decepcionado, justamente por conta que conhecia um ótimo pãozinho francês que se sustentava bem, e muito bem graças a Deus, só com manteiga. 
 
 <!--
 @todo 
-* [ , anchored ] - p1 - In "esse é diferente" - Consider to elaborate what we as brazilians know, because we do know, the situation with the light french bread. We know so much that we know too that we would not exacly accept that french bread with the standard kit of stuffings, right? @refid-20250204-b83359ce-fe4d-4b89-8349-476d0e2f0561
+* [ done , anchored ] - p1 - In "esse é diferente" - Consider to elaborate what we as brazilians know, because we do know, the situation with the light french bread. We know so much that we know too that we would not exacly accept that french bread with the standard kit of stuffings, right? @refid-20250204-b83359ce-fe4d-4b89-8349-476d0e2f0561
 -->
 
+Então eles continuam, logicamente desprovidos do contexto do croissant tradicional, colocando a mão na massa e investindo muita energia tentando arrumar, justamente porque sabe-se lá porque “esse pãozinho enrolado em formato de meia lua não é gostoso - não passa no teste da manteiga”. 
 
-Não pensaríamos que valeria a pena passar uma faca com manteiga - que isso seria suficiente. Continuando, e de certa forma como ignorantes sobre nossa ignorância, colocamos a mão na massa de qualquer forma no sentido de tentar arrumar. E isso, como sabemos, com a mesma capacidade criativa que faríamos dentro de qualquer contexto. As coisas começam a ficar complicadas, ou em inglês a expressão ideal seria dizer que as coisas "go haywire".
+Talvez seja esse o ponto onde - para nós aqui observadores a distância - as coisas saem do controle: 
 
-Considere um estabelecimento que decide criar um croissant porém o resultado final não passaria no teste francês. Sem a capacidade de perceber que este design segue por uma rota errada, o problema é que a experiência criada pode parecer a correta. E que foi criado, ainda assim não passaria no teste brasileiro também. Mas agora, sem referências, nos envolvemos no trabalho adicional de invenção mas como responsáveis para arrumar aquele quebra cabeça que diz coisas como "dessa forma não vai vender" ou "falta alguma coisa". Neste sentido, e intencionados a adicionar valor para a experiência do consumidor, engajamos no processo de arrumar, ou melhorar, que logicamente sem nenhuma linha estratégia nos leva inclusive a movimentos que aparentam-se como criativos mas que essencialmente podem ser vistos como movimentos de desespero. Criamos variações, por exemplo no sentido de "trabalhar" no recheio. Desta forma, reconhecemos que teríamos que colocar coisas que as pessoas reconhecem como adequadas para o paladar delas, consequentemente nos encontramos novamente com o nosso menu padrão industrial e fortemente apoiado por grandes marcas que nos levam a rechear o croissant com calabresa, calabresa com queijo, brócolis com queijo, brócolis com requeijão (e variações como creme tipo requeijão), brócolis com cheddar (ou creme tipo cheddar), bacon e cheddar,  e seguimos por esses caminhos. 
+Considere o caso de um estabelecimento que decide criar um croissant que não passaria no teste do mundo francês. Fizeram tudo certo, seguindo uma receita. Mas também não se sustentou no teste da manteiga. Então, na pressão por resultados, a operação avança, agora, como responsáveis para arrumar ess quebra cabeça que diz que "dessa forma não vai vender" ou que essencialmente falta alguma coisa.
+
+Seguindo, intencionados a adicionar valor para a experiência do consumidor, o processo segue com energia e criatividade, dentro do possível. Eles pensam: vamos trabalhar no recheio. Estão desesperados? Nada disso, estão di boas. Estão só arrumando aquela experiência. Sobre o recheio, não é incomum seguir com sugestões que se adequam ao paladar dos consumidores. Também diante da realidade do contexto de mercado, seguir um menu de recheios compatível com o padrão (industrial e fortemente apoiado por grandes marcas) é um caminho: 
+
+As sugestões surgem: o croissant de calabresa com queijo, o croissant de brócolis com queijo, dentre outros. Em alguns casos esbarram em novos problemas tipo “alerta laranja, essas opções ficaram caras”. Mas porque são parte de uma civilização criativa, encontram soluções, como o croissant de brócolis com creme tipo requeijão. Eles seguem por esses caminhos. 
+
+O que não podem ver, é que estão se dedicando - bem intencionados ou até com amor - também em um esforço que limita a criatividade. Por um lado, tentaram agregar. Mas por outro, agregaram seguindo padrões do mercado. Com isso, produzem experiências iguais às dos estabelecimentos ao lado - a competição. 
 
 
+Para sermos justos, temos que reconhecer que muitos estabelecimentos poderão sobreviver. Em outras palavras, nenhuma entidade certificadora de croissants aparecerá para fechar a operação nem consumidores saudosistas nervosos e indignados farão passeatas. 
 
+Muitos avançaram com aquele pãozinho enrolado e recheado à moda padrão. Nada disso seria grave, se o esforço fosse um único projeto, tipo "projeto vamos rechear o croissant e nada mais". Mas infelizmente, a operação que faz isso de forma “estratégica”, estará sujeita a seguir o padrão em outras áreas da operação, essencialmente definindo uma cultura onde a liderança essencialmente limita a capacidade de construir com base em valores. 
 
-
-O que não podemos ver quando imersos nesse tipo de movimento, é que mesmo com dedicação e bem intencionados buscando maior aceitação, nos envolvemos em processos que limitam nossa criatividade enquanto ao mesmo tempo produz um produto final igual ao do estabelecimento ao lado. Essa forma de operar pode ainda fazer com que o processo de criação e produção seja confuso além de se tornar caro, e com isso desgastante quando diante de problemas. 
-
-Para sermos justos, e também nos lembrar sobre cenários confusos que limitam o crescimento, temos que reconhecer que tanto o produto como o estabelecimento podem sobreviver. Ou seja, nenhuma entidade certificadora de croissants irá fechar a operação nem consumidores obcedados farão passeata na frente do estabelecimento. Na vida real, o que muitos estabelecimentos acabem criando são certas refeições tipo pão com recheios. As consequências que são difíceis de perceber é que o mesmo tipo de movimento "estratégico" acontece em várias outras áreas da liderança, porque é um padrão na cultura da operação. Em outras palavras, o negócio começa a se deteriorar em termos da sua capacidade de expandir de forma construtiva e criativa com base em valores estruturados. Enquanto alguns consequem maximizar este modelo, milhares de outro não encontram um espaço para pensar no novo. 
+Enquanto alguns conseguem maximizar esse modelo, por exemplo como sustentáveis pela ótica financeira, milhares de outros pagam o preço pois essencialmente vagam no espaço até que o oxigênio se esgote.
 
 
 
@@ -146,61 +134,62 @@ Para sermos justos, e também nos lembrar sobre cenários confusos que limitam o
 @section - the solar system of coxinhas 
 -->
 
-Agora, é natural imaginarmos que são certas *stranger things* no sentido das coisas que são estrangeiras nos levariam a criar mundos invertidos por conta das interpretações fragmentadas, ou aceleradas. É por isso que devemos também falar sobre os mundos mais próximos, por exemplo o sistema das coxinhas. Este assunto merece atenção, primeiro, porque as coxinhas merecem mais respeito. Porque elas, em primeiro lugar, conquistaram uma estabilidade, no tempo. Foram elas tornaram-se tradicionais, não diferente daquele acarajé e do falafel. Elas que carregam (ou carregavam) uma narrativa estruturada com base em valores. E sim, como conversamos, todos os mundos se expandem. Podemos e devemos esperar avançando, com variabilidade. Por exemplo, poderíamos repensar a dimensão da massa, ou a dimensão dos temperos, a textura, o método empregado na "fritura", dentre outros fatores.
+### Sistema das coxinhas 
 
-Mas em sincronizidade com aquele mundo invertido do croissant recheado brasileiro, o sistema das coxinhas a tempos mostra sinais de um avanço arbitrário. Considere, por exemplo, o fenômeno observável em certos estabelecimentos especilizados em coxinhas, como esses locais sofrem as pressões do ambiente externo que gera resultados arbitrários e desgastantes, como temos discutido, mesmo que bem intencionado a agradar mais clientes. 
+Ainda que um mundo invertido se forme, temos que reconhecer que o croissant pode ser visto como *stranger things*, no sentido de coisas desconhecidas. Essa é uma boa razão para verificarmos se o fenômeno em consideração ocorre em outros sistemas mais conhecidos, como o das coxinhas. 
 
-Para explorar essa expansão, vamos começar por atropelar valores, primeiro desmerecendo o papel da massa na experiência completa. Vamos lá, expandir o universo do nosso estabelecimento coxinha. Começando por travar a dimensão da massa, podemos pensar que já temos um bom fornecedor de trigo assim como óleo a vontade e uma bela fritadeira. Com esses aspectos já resolvidos, podemos começar a ver nossa coxinha como uma espécie de cápsula, "tipo coxinha" de ___ (preencha aqui). Ou pense que essa componente da coxinha é o prato e o que resta é o usuário escolher o recheio. Ou podemos pensar que essa camada é um tipo de embalagem, tipo de papel ou isopor, não importa. Então, agora sim, sabemos que nosso clientes querem navegar pelo menu, que eles querem decidir com base nas suas preferências. E também sabemos sobre aquela nossa intenção honorável de trabalhar assim como nosso potencial criativo. Em outras palavras, mãos na massa, corre, porque podemos er exploradores para criar este menu. Bom, calma ai. Poderíamos considerar os temperos, não é mesmo? Porque estamos no Brasil e sabemos que nesse mundo o céu é o limite. Sim, poderíamos. Mas pelo momento, vamos também travar essa dimensão. Avaçando com essa exploração nada nos diz que temos que criar coisas bizarras. Longe disso, vire essa boca para lá. 
+Este assunto merece atenção, primeiro, porque as coxinhas merecem mais respeito:  elas conquistaram uma estabilidade no tempo, tornaram-se tradicionais, não diferente daquele acarajé e do falafel. E elas carregam (ou carregavam) uma narrativa estruturada com base em valores. 
 
-Então podemos só começar com variações mais simples. E é isso que fizemos, não é mesmo? Por anos. Mas também algo aconteceu, que inevitavelmente ou invariavelmente exploramos uma modalidade onde até receitas completas começaram a aparecer no interior, por exemplo, como o estrogonofe ou a feijoada. Agora eu sei que criticar isso é comprar briga com algum leitor, por exemplo quem é obcecado por feijoada. Ou quem sente saudade daquela boa feijoada que não tem todo dia. Porque não essa cápsula me dar um pouco daquilo. Tem alguma lógica. 
+Considerando o exercício de expansão, poderíamos identificar certas dimensões: a massa, os temperos, a textura ligada ao método empregado na "fritura", dentre outras. Mas em sincronicidade com aquele mundo invertido do croissant recheado, o sistema das coxinhas também apresenta sinais de um avanço arbitrário, ou essencialmente desesperado.
 
-Mas também devemos nos permitir refletir sobre esse movimento que se acha estratégico e que justamente está fazendo isso - apelando com o cliente, chamando a atenção, trabalhando com um potencial criativo a serviço desse menu que é apelativo, para todos os gostos; e como isso gera mundos não estáveis, coxinhas não memoráveis, mesmo que de certa forma atendam gostos. 
+Para explorar, ou simular, essa expansão, vamos começar atropelando valores, primeiro desmerecendo o papel da massa no contexto da experiência. Vamos lá, expandir o universo do estabelecimento coxinha: 
 
-Voltando ao trabalho do menu, por essa lógica, se fosse eu poderia utilizar fácil a nossa nova amiguinha, a tal da IA. E começar com este *prompt*:
+Travamos a dimensão da massa e com justa causa, porque temos um bom fornecedor de trigo, de óleo, e uma bela fritadeira. Com isso resolvido, vamos explorar o espaço de variabilidade, assumindo que a massa da coxinha fosse um tipo de prato, ou embalagem, tipo de papel ou isopor, não importa. Sabemos que nossos clientes querem navegar pelo menu e que farão decisões com base em preferências. E também sabemos daquela nossa intenção, honorável, de trabalhar com todo nosso potencial criativo. 
 
-> *"Se o meu estabelecimento de coxinha começou com uma única coxinha deliciosa que tinha uma identidade que foi reconhecida, que inclusive saiu no programa de TV popular, e trouxe muitas pessoas para visitar esse local. Eu entendo que precisamos escalar. E nessa necessidade de escala quero aumentar a quantidade de itens do menu. Começando com recheio de frango e variações do tempero. Crie algumas 5 coxinhas nesse sentido. Depois considere também um rumo: Ingredientes, como brócolis, calabresa, carne moída, creme tipo queijo, creme tipo cheddar, palmito, ervilha de latas, azeitona, mais 10. E depois, vamos chamar de nível 3, coloque mais 10 coxinhas que trazem pratos mais elaborados dentro, do Brasil, tipo coxinha de feijoada e estrogonofe. Termine com 5 pratos bem tradicionais e reconhecidos no Brasil. Não esqueça de passar pela lasanha."
+Em outras palavras, mãos na massa, vamos criar o menu. O caminho que estamos avançando, muitos já conhecem, chega nas coxinhas de estrogonofe, ou de feijoada. Agora eu sei que criticar isso é comprar uma possível briga com um possível leitor, talvez um que é obcecado por feijoada ou ama estrogonofe. Sobre isso, se você for este leitor, eu dou o braço a torcer que tem um ponto. Mas você também precisa dar o braço a torcer que talvez você só esteja precisando, carente, de uma feijoada ou de um delicioso estrogonofe. Sejamos científicos, ou transparentes, nesta simulação, neste momento: 
+
+Assumindo o movimento estratégico que apela para conquistar o cliente, ou chamar a atenção, vamos então trabalhar com nosso potencial criativo a serviço desse menu que de certa forma quer ser apelativo, para todos os gostos. Neste sentido, podemos considerar pedir ajuda para nosso mais nova amiguinha, a Inteligência Artificial. Considere o *prompt* abaixo: 
+
+> *"Olá Mademoiselle GPT, nosso estabelecimento coxinha começou com uma única coxinha e a partir disso ficamos famosos. E saímos na TV. E agora precisamos escalar. Precisamos aumentar o menu. Crie algumas 5-10 coxinhas depois do frango básico, com base em ingredientes padrão como brócolis, calabresa, carne moída, creme tipo queijo, creme tipo cheddar, palmito, ervilha de latas, azeitona, etc. E depois, no nível dois, crie mais 5 coxinhas (que serão as premium) que podem ser pratos mais elaborados, dentro, conhecidos pelo brasil, tipo coxinha de feijoada e estrogonofe. Considere a ideia da coxinha de lasanha. PS:o nosso estabelecimento é conhecido como A Tradicional Coxinha da Tia Coxinha."
 
 <!-- 
 @note-refai "Esse é diferente" #coxinha #croissant @refid-20250204-3a36aba1-0a9e-458d-962c-96cec1ff1b7a https://chatgpt.com/share/67a23a55-5f50-8011-ab34-5a3c089dcc1d 
 -->
 
-E, é claro, a IA nos ajudou aqui na Casa da Coxinha Coxinha, primeiro com o nível de expansão um: 
+E, é claro, ela nos ajudou de prontidão, sem poupar esforços: 
 
-* Coxinha de Brócolis com Queijo – Brócolis picado misturado a um creme de queijo suave.
-* Coxinha de Calabresa e Queijo – Linguiça calabresa moída com requeijão cremoso.
-* Coxinha de Carne Moída Acebolada – Carne temperada com alho, cebola e toque de cominho.
-* Coxinha de Creme de Queijo – Recheio cremoso com queijo prato e parmesão.
-* Coxinha de Creme de Cheddar com Bacon – Cheddar cremoso com pedaços crocantes de bacon.
-* Coxinha de Palmito Cremoso – Palmito refogado no azeite com creme de leite.
-* Coxinha de Ervilha e Milho – Recheio de ervilha de lata com milho temperado.
-* Coxinha de Azeitona e Queijo Branco – Queijo branco com pedaços de azeitona preta.
-* Coxinha de Quatro Queijos – Mistura de muçarela, provolone, parmesão e gorgonzola.
-* Coxinha de Carne Seca com Abóbora – Carne seca desfiada combinada com purê de abóbora.
+> Ótimo, monsieur! A Tradicional Coxinha da Tia Coxinha precisa expandir o menu sem perder a essência. Vamos escalar isso com duas categorias: coxinhas clássicas (baseadas em ingredientes populares) e coxinhas premium (pratos brasileiros repensados em forma de coxinha).
+>
+> Nível 1 – Coxinhas Clássicas
+>
+> Coxinha de Calabresa com Queijo – Calabresa moída bem temperada, misturada com um creme de queijo tipo catupiry.*
+> Coxinha de Carne Moída com Azeitona – Carne moída refogada com cebola e alho, misturada com pedacinhos de azeitona verde.
+> Coxinha de Brócolis com Creme de Queijo – Brócolis picado e levemente refogado, envolto em um creme tipo catupiry.
+> Coxinha de Palmito Cremoso – Palmito refogado com cebola, ervas e um toque de creme tipo cheddar.
+> Coxinha de Ervilha e Milho Cremoso – Mistura de ervilha de lata e milho com um creme temperado, trazendo textura e sabor.
 
-Muito bom, não é mesmo? Já vimos essas coisas. Vamos para o nível dois: 
+E com foco na experiência premium: 
 
-* Coxinha de Feijoada – Feijão preto temperado com pedaços de carne seca, bacon e linguiça.
-* Coxinha de Estrogonofe de Frango – Frango ao molho cremoso de estrogonofe.
-* Coxinha de Estrogonofe de Carne – Carne ao molho cremoso de estrogonofe.
-* Coxinha de Moqueca de Peixe – Peixe ensopado com leite de coco, coentro e azeite de dendê.
-* Coxinha de Bobó de Camarão – Purê de mandioca cremoso com camarão ao dendê.
-* Coxinha de Pato no Tucupi – Pato desfiado cozido com tucupi e jambu, prato típico do Pará.
-* Coxinha de Baião de Dois – Mistura de arroz, feijão verde, queijo coalho e carne seca.
-* Coxinha de Vatapá – Creme de vatapá com camarão seco e temperos baianos.
-* Coxinha de Escondidinho de Carne Seca – Carne seca com purê de mandioca cremoso.
-* Coxinha de Feijão Tropeiro – Feijão tropeiro com torresmo, linguiça e farinha de mandioca.
-* Coxinha de Arroz Carreteiro – Arroz carreteiro com charque e temperos tradicionais.
-* Coxinha de Virado à Paulista – Purê de feijão temperado com torresmo e couve.
-* Coxinha de Lasanha Bolonhesa – Camadas de carne moída ao molho e queijo dentro da coxinha.
+> Nível 2 – Coxinhas Premium
+> 
+> Coxinha de Feijoada – Feijão preto temperado, recheado com pedacinhos de linguiça calabresa e bacon.
+> Coxinha de Estrogonofe – Clássico estrogonofe de frango ou carne, cremoso e com um toque de mostarda e ketchup.
+> Coxinha de Moqueca Baiana – Peixe desfiado com dendê, leite de coco, tomate e coentro, trazendo o sabor do mar.
+> Coxinha de Escondidinho de Carne Seca – Purê de mandioca por dentro, recheado com carne seca desfiada e temperada.
+> Coxinha de Lasanha – Camadas de massa finíssima dentro, recheada com molho bolonhesa e queijo derretido.
 
-Enfim, pegamos a ideia. O céu é o limite não é mesmo? 
+E com o direito a dizeres encorajadores também: 
+
+> Agora sim, a Tia Coxinha tem um menu de respeito! Essa expansão cria um equilíbrio entre coxinhas tradicionais e coxinhas diferenciadas para atrair novos clientes e fidelizar os antigos.
 
 <!--
 @todo 
 * [ , anchored] @todo - p1 - In "Esse é diferente" or "Tradicionalmente extraordinário"  - check the note from Dorothea Brande about purposeful action https://docs.google.com/document/d/1hLPFk83jwIaeOqI2qsYfO_LUMU07JYI9XqjGtg1BPiI/edit?tab=t.0 @refid-20241228-d1142f1c-c013-4686-976d-48d1f3927d3e
 -->
 
-E falando sobre resgate de valores - e não intencionados ao movimento incessante que quer acelerar dentro dessa bolha da morte - devemos nos lembrar sobre alquilo que conhecemos, mesmo quando geralmente esquecemos. É quase que a mesma ideia, que diz que a nossa criativade trabalha bem, também, quando estamos bem intencionados. O que precisamos, para não cairmos em armadilhas que nos custam muito, é de lembrar que o movimento com propósito é, no final, um movimento menos desgastante: 
+### De volta a base 
+
+Tudo bem, vamos voltar para nossa base. Se o assunto é sobre resgatar de valores para explorarmos a expansão virtuosa, temos que não só nos lembrar sobre aquelas armadilhas - quando caímos de paraquedas seguindo aquele movimento - mas também nos lembrar sobre aquela outra forma de trabalhar, como disse a autora Dorothea Brande em 1936:
 
 > *"A ação com propósito parece mais rápida, clara, direta e prazerosa do que qualquer outra. Na realidade, você pode estar trabalhando mais devagar e com mais cuidado do que normalmente; ainda assim, o fato de não haver confusão de questões, nem parte da sua mente divagando enquanto se movimenta, confere um ‘tom’ inconfundível às atividades realizadas da maneira adequada."* (BRANDE, 2014, p. 104).
 
@@ -212,13 +201,9 @@ E falando sobre resgate de valores - e não intencionados ao movimento incessant
 * @reference - Brande, D. (2014). Wake up and live. BN Publishing.
 -->  
 
-### Considerações finais 
-
-
 <!--
-@note:aiuse v0.1 - translated from Marcio's English - https://chatgpt.com/share/67704162-4110-8011-9148-6dc475d2ed46 
+#evolved @note:aiuse v0.1 - translated from Marcio's English - https://chatgpt.com/share/67704162-4110-8011-9148-6dc475d2ed46 
 @tag:close
 -->
 
-Agora seria fascinante, e importante, visitarmos outros sistemas solares, neste momento, como o do falafel e o do acarajé, sem dúvida. Se pudéssemos adentrar, observar um pouco, navegar entre os sistemas, fazer isso de forma desacelerada, temos muito a ganhar. Sobre isso, pelo momento, penso que precisamos de um pouco de coragem para nos entregar. Não estou falando de aprofundar e viver para sempre em um desses sistemas. Mas também não deveríamos nos entregar tão brutalmente ao que parece ser o novo sem perceber um pouco sobre essas histórias, sistemas, sobre o que é tradicional, receitas passadas ou experiências vividas - seguindo por este movimento acelerado de negação ao clássico, ao nosso passado e a história. Temos muito a ganhar em termos de progresso e evolução, se pudéssemos encontrar uma forma mais calma de resgatar, a partir de valores, um pensamento organizado que nos leva a sermos menos arbitrários.
-
+Existem tantos mundos e suas tradições para conhecermos, como o mundo do falafel e o do acarajé, sem dúvida. Se pudéssemos adentrar, observar um pouco nesses sistemas, e fazer isso de forma desacelerada, temos muito a ganhar. Sobre isso, precisamos de um pouco de coragem para nos entregar. Nada disso é sobre aprofundar, viver para sempre em outros mundos e não voltar para a nossa Terra, nosso momento presente. Mas também não deveríamos nos entregar tão brutalmente ao se faz de novo, camuflado, sem perceber um pouco sobre nossa história, sobre sistemas ou tradições, receitas passadas ou experiências vividas, ou como uma pura negação ao clássico, nosso passado e nossa história. Temos muito a ganhar em termos de progresso e evolução, quando encontramos uma forma mais calma de resgatar, a partir de valores, um pensamento organizado.

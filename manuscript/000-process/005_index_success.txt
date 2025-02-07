@@ -6,6 +6,8 @@
 
 ## Done 
 
+* [ done , anchored ] - p1 - In "esse é diferente" - Consider to elaborate what we as brazilians know, because we do know, the situation with the light french bread. We know so much that we know too that we would not exacly accept that french bread with the standard kit of stuffings, right? @refid-20250204-b83359ce-fe4d-4b89-8349-476d0e2f0561
+
 * [ Done , ] @todo - p1 - In "O segredo da torta" - Consider to mention the phrase from FZ, "a torta está no congelador", which my friend FZ wrote in 2010, ref https://mail.google.com/mail/u/0/#search/torta+holandesa/FMfcgxRsSKVtNPTmqbBgrwKLgLkscDnK before a soccer game Brazil vs. Holanda. @refid-20250203-d6cd6ecb-ec4e-469c-aa2b-3ecc440a01e5
 
 * [ Done ,  removed ] @todo - p1 - In "O segredo da torta" - Check references and science about the tomato from the Rafael Tonon's book - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBnhwfVWkntBbgxqqDzMGGxPwqnLQ 
