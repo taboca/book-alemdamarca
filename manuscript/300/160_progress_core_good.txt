@@ -158,10 +158,11 @@ Assumindo o movimento estratégico que apela para conquistar o cliente, ou chama
 
 E, é claro, ela nos ajudou de prontidão, sem poupar esforços: 
 
-> Ótimo, monsieur! A Tradicional Coxinha da Tia Coxinha precisa expandir o menu sem perder a essência. Vamos escalar isso com duas categorias: coxinhas clássicas (baseadas em ingredientes populares) e coxinhas premium (pratos brasileiros repensados em forma de coxinha).
+> Ótimo, monsieur!
+> A Tradicional Coxinha da Tia Coxinha precisa expandir o menu sem perder a essência. Vamos escalar isso com duas categorias: coxinhas clássicas (baseadas em ingredientes populares) e coxinhas premium (pratos brasileiros repensados em forma de coxinha).
 >
 > Nível 1 – Coxinhas Clássicas
->
+> 
 > Coxinha de Calabresa com Queijo – Calabresa moída bem temperada, misturada com um creme de queijo tipo catupiry.*
 > Coxinha de Carne Moída com Azeitona – Carne moída refogada com cebola e alho, misturada com pedacinhos de azeitona verde.
 > Coxinha de Brócolis com Creme de Queijo – Brócolis picado e levemente refogado, envolto em um creme tipo catupiry.
@@ -171,7 +172,7 @@ E, é claro, ela nos ajudou de prontidão, sem poupar esforços:
 E com foco na experiência premium: 
 
 > Nível 2 – Coxinhas Premium
-> 
+>  
 > Coxinha de Feijoada – Feijão preto temperado, recheado com pedacinhos de linguiça calabresa e bacon.
 > Coxinha de Estrogonofe – Clássico estrogonofe de frango ou carne, cremoso e com um toque de mostarda e ketchup.
 > Coxinha de Moqueca Baiana – Peixe desfiado com dendê, leite de coco, tomate e coentro, trazendo o sabor do mar.
