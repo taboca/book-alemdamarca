@@ -68,6 +68,11 @@ Play Bigger Team. (2016). Play Bigger: How Pirates, Dreamers, and Innovators Cre
 
 MANEY, Kevin. Category Point of View (POV) – The Superheroes Guide. Category Design Advisors, 2023. Disponível em: https://www.categorydesignadvisors.com/category-point-of-view-pov-the-superheroes-guide/. Acesso em: 31 jan. 2025.
 
+<!--
+@at 300 x
+@at 300 impossível possível
+-->
+
 CHESKY, Brian. Blitzscaling Ep. 18: Brian Chesky on Launching Airbnb and the Challenges of Scale. YouTube, 2018. Disponível em: https://www.youtube.com/watch?v=W608u6sBFpo&t=5000s. Acesso em: 31 jan. 2025.
 
 <!-- 300 / holistic design --> 
