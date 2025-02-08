@@ -33,6 +33,8 @@
 
 @note-refai "Esse é diferente" #coxinha #croissant @refid-20250204-3a36aba1-0a9e-458d-962c-96cec1ff1b7a https://chatgpt.com/share/67a67882-bcb0-8011-9164-c34624abdc7b
 
+@note-refai #translation-pt-br @refid-20250207-7b70a1cb-8b83-41c3-8029-70609de2271d
+
 @note-refai - tradução - #translation-pt-br @refid-20250131-fc5ff41b-2e73-4312-8b70-d84eec19354a
 
 @note-refai @refid-20250127-91971a7c-056c-404a-8af5-684e83c0f51b https://chatgpt.com/share/6797bee3-0554-8011-ae3c-50f93bd79191
@@ -48,6 +50,8 @@
 @note-refai @refid-20250116-620a0879-d22a-4f57-b590-f1589ecaccba - https://chatgpt.com/share/67897620-02c4-8011-9ff5-a88e09f6c64c
 
 @note-refai- tradução -  @refid-20250110-26e01163-bfff-478d-8869-dfd843c78dff - In the following phrase, "Ao longo da minha trajetória com a escrita, um livro que fez uma grande diferença foi Becoming a Writer (em tradução livre, Tornando-se um Escritor), um clássico da renomada autora Dorothea Brande." I have used ChatGPT to suggest an ABNT2 translation to the title of Dorothea's book.  https://chatgpt.com/share/67814250-45d8-8011-baae-b8cc27413232 @file:commit:9028078/000_foreword.txt 
+
+@note-refai Quote adjust and translation #playbigger - @refid-20250207-5bb7facd-2244-4b7e-b9ef-ef96f4ae1652
 
 @@ Evolved 
 

@@ -15,9 +15,11 @@
 
 @todo 
 
+* [ ] @todo - p1 - In values and progress In #progress #buildtolast #core - Bring the case of Jim Collins into the subject, the case of entrepreneurs. Ref /  as we consider this idea we should incorporate here the ideas from Jim Collins and Jerry Porras, through the book Build to Last, where they present the concept of "preserve the core, and stimulate progress". (Ref 160_progressing_with_no_core)
+
 * [ , anchored] @todo - p1 - In "Esse é diferente" - Consider to say something about the noodle. @refid-20250204-8b902fd6-5173-4271-a334-d5f116c49940
 
-* [ , ] @todo - p1 - "Esse é diferente - Consider cuca, https://www.youtube.com/watch?v=2oyiwU2qZZM @refid-20250204-c27ce974-2b23-43ea-ba83-1310246c37e0
+* [ ,  anchored ] @todo - p2 - "Esse é diferente - Consider cuca, https://www.youtube.com/watch?v=2oyiwU2qZZM @refid-20250204-c27ce974-2b23-43ea-ba83-1310246c37e0
 
 * [ ] @todo - p1 - In "Esse é diferente" Check if we have honored the e-mail entitled "Livro - além da marca - cultura e tradição o lado bom" which may offer insights about the special things from the things special from the past, and how we may actually misunderstand things, and how we may sometimes fall into the situation of missing the point about the past. @refid-20250115-a83c7ff8-d3a1-4c0e-8069-735a7de99bb3
 
@@ -33,8 +35,6 @@
 
 * [ ] @todo - p1 - In values and progress In #progress #buildtolast #core "Values and progressing", after we arrive at concept from Build to Last, consider the insight from Dorothea Brande's about how it feels, an apparent trick? Where the progress with "purposeful action" feels fast, and her point that purposeful action is stronger. (Ref 160_progressing_with_no_core)
 
-* [ ] @todo - p1 - In values and progress In #progress #buildtolast #core - Bring the case of Jim Collins into the subject, the case of entrepreneurs. Ref /  as we consider this idea we should incorporate here the ideas from Jim Collins and Jerry Porras, through the book Build to Last, where they present the concept of "preserve the core, and stimulate progress". (Ref 160_progressing_with_no_core)
-
 @done 
 
 * [ Done ]  @todo - p1 - In "Esse é diferente " - Replace en-us with the draft from the pt-br in the doc entitled "Book - adm - Esse é diferente " @refid-20241228-b8a9e8a2-6d6a-4259-bbc0-eaeb4f044104
@@ -49,6 +49,11 @@
 --> 
 
 O falafel, o acarajé e o lámen são exemplos de experiências gastronômicas tradicionais. Você bate o olho e sabe o que é. Ou coloca na boca de olhos fechados e é transportado para um mundo particular. Então pergunto, como preservar as boas experiências tradicionais em um mundo de tantas mudanças? Quando penso que alguém poderia inventar o acarajé com creme tipo cheddar (no lugar do vatapá) com crisp de bacon (no lugar do camarão), eu me fecho, pareço um conservador. 
+
+<!--
+@todo 
+* [ ,  anchored ] @todo - p2 - "Esse é diferente - Consider cuca, https://www.youtube.com/watch?v=2oyiwU2qZZM @refid-20250204-c27ce974-2b23-43ea-ba83-1310246c37e0
+-->
 
 Mas foi caminhando nesses mundos, de falafel em falafel, de lámen em lámen e de acarajé em acarajé, que encontrei o que muitas culturas tradicionais já sabiam. Nas areias do falafel, um dia me perguntei "Como pode esse falafel ser tão diferente ao mesmo tempo ser tão tradicional?" No mar de acarajés, soltei um "nossa, esse acarajé é único!". Por esse olhar, o universo da tradição é um universo em movimento. Então, quando dizem "fazemos a nossa cuca assim, é tradição da família", estamos de frente com o novo e com os mais jovens exploradores que tiveram coragem de mudar o tradicional tradicional com o novo tradicional. 
 

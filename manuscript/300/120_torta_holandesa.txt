@@ -71,36 +71,63 @@ Nessa hora, refletindo sobre a popularidade da torta e o papel que ela conquisto
 
 <!--
 @references
-* @reference - Play Bigger Team. (2020, February 4). What problem is Category Design solving? Play Bigger. https://www.playbigger.com/media/what-problem-is-category-design-solving
+* @reference - Play Bigger Team. (2016). Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets. First Edition. HarperCollins.
 -->
 
-Alguns fatores são críticos para que isso seja possível. Um deles pede que haja um Ponto de Vista, que é uma narrativa estratégica para as várias audiências que definirão a existência da experiêcia. É lógico, os consumidores são parte fundamental. Mas essa narrativa é diferente por ser também necessária para todos os outros grupos que de uma forma ou outra estarão no caminho da experiência completa:
+Alguns fatores são críticos para que isso seja possível. Um deles pede que haja um Ponto de Vista, que é uma narrativa estratégica voltada para as principais audiências que definirão a experiência. Essa ideia é bem diferente daquelas narrativas urgentes repletas de jargões; e mais próxima daquela ideia que une tecnologia, trabalho e comunicação:  
 
 <!--
-@note-refai #translation-pt-br @refid-20250131-fc5ff41b-2e73-4312-8b70-d84eec19354a
+@note-refai #translation-pt-br @refid-20250207-7b70a1cb-8b83-41c3-8029-70609de2271d
 -->
 
+> *"Após ter um aha sobre um mercado ou uma percepção tecnológica inicial e depois de descobrir e definir a categoria correta, você precisa elaborar a história sobre essa categoria que irá contar. Você precisa de um ponto de vista poderoso. Um ponto de vista diz ao mundo que você é uma empresa com uma missão, e não uma empresa oportunista tentando ganhar dinheiro de qualquer maneira. Ele enquadra o novo problema que sua categoria identifica e posiciona você como a solução."* (PLAY BIGGER TEAM, 2016, p. 98, tradução nossa).
+
+<!--
+
+@note-refai Quote adjust and translation #playbigger - @refid-20250207-5bb7facd-2244-4b7e-b9ef-ef96f4ae1652
+
+@research 
+
+* Quote - After you come up with an aha of an initial market or technology insight, and after you discover and define the right category, you have to craft the story about the category that you tell. You need a powerful POV. A POV tells the world you are a company on a mission, not a missionary company looking to make money any way it can. It frames the new problem that your category identifies and sets you up as the answer. (Play Bigger Team, 2016, p. 98)
+
+@references
+
+* @reference - PLAY BIGGER TEAM. Play Bigger: how pirates, dreamers, and innovators create and dominate markets. 1. ed. New York: HarperCollins, 2016.
+
+-->
+
+
+<!--
+
+@note-refai #translation-pt-br @refid-20250131-fc5ff41b-2e73-4312-8b70-d84eec19354a
+
+@research 
 > *"Para obter esse tipo de adesão, descobrimos que é importante expressar a estratégia de forma clara e concisa em uma narrativa motivadora. .. chamamos essa narrativa de Ponto de Vista, ou POV. O POV é uma maneira de capturar as decisões que criam uma categoria de forma simples e direta, para que qualquer pessoa possa entender. Ou seja: esses POVs devem ser muito diferentes do conjunto usual de tópicos de escola de negócios ou de uma declaração de missão repleta de jargões."* (MANEY, 2023, tradução nossa).
 
-<!--
 @references 
 * @reference - MANEY, Kevin. Category Point of View (POV) – The Superheroes Guide. Category Design Advisors, 2023. Disponível em: https://www.categorydesignadvisors.com/category-point-of-view-pov-the-superheroes-guide/. Acesso em: 31 jan. 2025.
 -->
 
+
+
+
+
+
+
+
 Uma forma de construir esse ponto de vista é pensar sobre o "de/para". De onde viemos, e, para onde estamos indo. Ou, "como o mundo muda depois dessa ideia?" Por esse olhar, reconheceremos que essa narrativa estratégica está ligada a um entendimento profundo sobre o mundo - e sobre como o mundo está mudando. A partir disso, nos envolvemos no processo de análise para considerar a possibilidade de criar uma solução para essa transformação.
 
-Então, eu fiz uma certa engenharia reversa, a partir daquela ideia de que a torta estava sendo posicionada para restaurantes na região de Campinas. Imaginei o mundo antes da torta: 
-Eu lembrei que as tradicionais sobremesas eram coisas como creme de papaya, banana flambada com sorvete. E tinha a taça de sorvete tipo colegial e também os picolés. 
+Então, eu fiz uma certa engenharia reversa, a partir daquela ideia de que a torta estava sendo posicionada para restaurantes na região de Campinas. Imaginei o mundo antes da torta: eu lembrei que as tradicionais sobremesas eram coisas como creme de papaya, banana flambada com sorvete. E tinha a taça de sorvete tipo colegial e também os picolés. 
 
-Então seria possível mudar aquele velho menu com uma nova experiência para aquele momento sobremesa? Neste sentido, temos que reconhecer as partes envolvidas: o restaurante e o cliente. Do lado das pessoas, para aquele momento sobremesa, precisaríamos de algo que caísse bem no gosto deles. Que fosse agradável ao paladar e que fosse aceita no contexto cultural. Ou abraçada, sem olho torto. Mas se isso for verdade, não quer dizer que é possível, não é mesmo? Então, do lado do restaurante, precisamos de algo que fosse viável: por exemplo, que fosse armazenada sem prejudicar a qualidade nem a experiência. Talvez uma sobremesa gelada?
+Então seria possível mudar aquele velho menu e trazer uma nova experiência para aquele momento sobremesa? Neste sentido, considere as partes envolvidas: o restaurante e o cliente. Do lado das pessoas, para aquele momento sobremesa, precisaríamos de algo que caísse bem no gosto deles. Que fosse agradável ao paladar e que fosse aceita no contexto cultural. Ou abraçada, sem olho torto. Mas se isso for verdade, não quer dizer que é possível, não é mesmo? Então, do lado do restaurante, precisamos de algo que fosse viável: por exemplo, que fosse armazenada sem prejudicar a qualidade nem a experiência. Talvez uma sobremesa gelada?
 
 Olhando para o antes e o depois, agora, não é difícil ver como realmente ela se encaixa, naquela hora H. Em outras palavras, ela é simples, de entender, feita com ingredientes reconhecidos, e ao mesmo tempo longe de não ser especial. O restaurante, então, pode proporcionar aquela experiência, com um produto de qualidade e um processo de armazenamento de baixo custo e sem perdas. O que temos, nesse mundo depois da torta, é um fenômeno típico das categorias que diz que o usuário de certa forma não vive sem.
 
-É por isso que não é incomum quando alguém, mesmo sem olhar o menu, pergunta "vocês tem torta holandesa?" O que nos leva a outra fatia do momento com a Silvia, falar sobre fãs. 
+É por isso que não é incomum quando alguém, mesmo sem olhar o menu, pergunta "vocês tem torta holandesa?" O que nos leva a próxima fatia da conversa, os fãs. 
 
 ### O momento fãs 
 
-Dentro deste aspecto social, podemos olhar mais para os usuários da torta e como eles se relacionam com a categoria. Sobre esse assunto, a Silvia não começou falando de clientes ou consumidores nem usuários, como usuários dentro de um mercado. Ela começou falando sobre fãs. Mas essa conversa sobre fãs foi essencialmente ouvir ela falar sobre as pessoas, sobre a valorização das pessoas e como essa valorização também lhe dá uma forma organizada para tomar decisões. Essa ideia ficou clara quando ela me contou sobre alguns exemplos de experiências com as pessoas na loja dela que é uma filial de uma grande franquia nacional: 
+Dentro daquela questão social, vamos olhar para os usuários e como se relacionam com essa categoria. Sobre esse assunto, a Silvia não começou falando de clientes ou consumidores nem usuários, como usuários dentro de um mercado. Ela começou falando sobre fãs. Mas essa conversa sobre fãs foi essencialmente ouvir ela falar sobre as pessoas, sobre a valorização das pessoas e como essa valorização também lhe dá uma forma organizada para tomar decisões. Essa ideia ficou clara quando ela me contou sobre alguns exemplos de experiências com as pessoas na loja dela que é uma filial de uma grande franquia nacional: 
 
 > *"Este é um trecho onde potencialmente o márcio quer incluir uma história sobre não seguir tão a risca o manual. "* 
 
