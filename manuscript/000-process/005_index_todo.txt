@@ -1,35 +1,29 @@
+-----------
 @@ Contacts 
 
  * MC [ , anchored ] @todo - p1 - @contact: MC @ Linkedin - Send the chapter, with audio and text, to MC. She is now awaiting the whole chapter "Chamar a atenção" which needs the editing pass after Gloria's review. @refid-20250209-cef2584d-c2a8-4098-a2b5-363b4dbddbf1
 * 
 
-## Todo other 
+-----------
+@@ Todo other 
 
 * [ ] Videos for reviews, done. 
 * [ ] Site AlemDaMarca.com.br
 * [ ] Consider dedication to fellow fathers 
 * [ ] Check against chapter ideas here - https://docs.google.com/document/d/1bwwN_udK1EbYsVztVoQGZTu_JIgnHsFVnEOTVRrUNG8/edit?tab=t.0 
 
-
-
-## Todo book
-
-
-
+-------------------
 @@ Acknowledgements 
 
 * [ ] @todo - p1 - Acknowledgements - Start wth "Agradecimento à família", condições criadas, deixaram quebrar meus brinquedos sem grandes penalidades. " @refid-20250207-65217559-6b31-49c9-abcb-1818c56b1ddd
 
-
-
-
-
+-------------------
 @@ Espiral da Morte 
 
 * [ , anchored ] @todo - p1 - In "Bolha, A Espiral da morte" - Check talk about tables, colored, "Uma outra experiência que eu gostaria de refletir é o que eu chamo das mesinhas de boteco patrocinadas, que me parece ser um caminho onde o bar vende a alma, isso é realmente complicado." @refid-20250117-bc204254-e908-465f-a21b-825611322b73
 
 
-
+----------------------------------------
 @@ bolha, menos é mais, chamar a atenção 
 
 * [ ] @todo - p1 - In "Chamar a atenção" Review, the leading paragraphs, ABC vs. BAB [(1) Book - adm - Revisão de "Chamar a atenção" Sobre começar com um caso, depois contexto. Ou contexto. - YouTube](https://www.youtube.com/shorts/ICB6xLx9VF8) @refid-20250117-8dace7fb-f918-4e55-b1e5-62afa300096a
