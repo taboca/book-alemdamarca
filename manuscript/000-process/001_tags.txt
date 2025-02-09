@@ -29,7 +29,7 @@
 
 @note-refai - nota de rodapé - @refid-20250107-0412cbec-43e7-4a50-ab38-ae7642710436 * @note #refai - Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/677d729a-7b08-8011-b0c5-c9bae25ca57f @file:commit:9028078/010_communications.txt 
 
-### Outros 
+### Translations 
 
 @note-refai "Esse é diferente" #coxinha #croissant @refid-20250204-3a36aba1-0a9e-458d-962c-96cec1ff1b7a https://chatgpt.com/share/67a67882-bcb0-8011-9164-c34624abdc7b
 
@@ -37,21 +37,27 @@
 
 @note-refai - tradução - #translation-pt-br @refid-20250131-fc5ff41b-2e73-4312-8b70-d84eec19354a
 
-@note-refai @refid-20250127-91971a7c-056c-404a-8af5-684e83c0f51b https://chatgpt.com/share/6797bee3-0554-8011-ae3c-50f93bd79191
+@note-refai- tradução -  @refid-20250110-26e01163-bfff-478d-8869-dfd843c78dff - In the following phrase, "Ao longo da minha trajetória com a escrita, um livro que fez uma grande diferença foi Becoming a Writer (em tradução livre, Tornando-se um Escritor), um clássico da renomada autora Dorothea Brande." I have used ChatGPT to suggest an ABNT2 translation to the title of Dorothea's book.  https://chatgpt.com/share/67814250-45d8-8011-baae-b8cc27413232 @file:commit:9028078/000_foreword.txt 
+
+@note-refai Quote adjust and translation #playbigger - @refid-20250207-5bb7facd-2244-4b7e-b9ef-ef96f4ae1652
+
+### Research 
+
+@note-refai @research #senneriver #belgium -  @refid-20250209-6db63197-c2c6-4e18-bc5a-e404c7b3eba8 - https://chatgpt.com/share/67a8c251-28f8-8011-9fe3-1d2f65b7e077
 
 @note-refai - pesquisa - #walkman @refid-20250126-7a34d57c-448b-48bc-8d29-5ecb0a2a2dab - https://chatgpt.com/share/679679a0-8d14-8011-acdd-87fbd534f67c
 
 @note-refai - pesquisa - @refid-20250124-e86da185-899c-49ec-8063-11490fb440e2 Walkman https://chatgpt.com/c/6793faec-1f38-8011-9e53-37afa32fd68a 
+
+### Other to triage 
+
+@note-refai @refid-20250127-91971a7c-056c-404a-8af5-684e83c0f51b https://chatgpt.com/share/6797bee3-0554-8011-ae3c-50f93bd79191
 
 @note-refai @refid-20250117-289a7559-02c0-4a16-90c1-14348c655230 
 
 @note-refai @refid-20250116-a7217570-7207-42e1-8ab3-9611aacb25ba https://chatgpt.com/share/67897e37-0278-8011-bcb0-fc68ab852223
 
 @note-refai @refid-20250116-620a0879-d22a-4f57-b590-f1589ecaccba - https://chatgpt.com/share/67897620-02c4-8011-9ff5-a88e09f6c64c
-
-@note-refai- tradução -  @refid-20250110-26e01163-bfff-478d-8869-dfd843c78dff - In the following phrase, "Ao longo da minha trajetória com a escrita, um livro que fez uma grande diferença foi Becoming a Writer (em tradução livre, Tornando-se um Escritor), um clássico da renomada autora Dorothea Brande." I have used ChatGPT to suggest an ABNT2 translation to the title of Dorothea's book.  https://chatgpt.com/share/67814250-45d8-8011-baae-b8cc27413232 @file:commit:9028078/000_foreword.txt 
-
-@note-refai Quote adjust and translation #playbigger - @refid-20250207-5bb7facd-2244-4b7e-b9ef-ef96f4ae1652
 
 @@ Evolved 
 
