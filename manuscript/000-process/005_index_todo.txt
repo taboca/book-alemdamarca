@@ -1,3 +1,8 @@
+@@ Contacts 
+
+ * MC [ , anchored ] @todo - p1 - @contact: MC @ Linkedin - Send the chapter, with audio and text, to MC. She is now awaiting the whole chapter "Chamar a atenção" which needs the editing pass after Gloria's review. @refid-20250209-cef2584d-c2a8-4098-a2b5-363b4dbddbf1
+* 
+
 ## Todo other 
 
 * [ ] Videos for reviews, done. 
@@ -139,7 +144,9 @@
 
 
 
+@@ Impossível possível 
 
+* [ , anchored ] @todo - p1 - In "Impossível possível" - #collaboration #thanks - Add professor Rubens to the book, and send a letter to him sending the whole chapter @refid-20250209-4f224ed5-67b1-4704-aa2c-6d673cfcc8dc
 
 * [ , anchored ] @todo - p1 - In "Impossível possível" - Compare the pt-br translation of ChatGPT at https://docs.google.com/document/d/1lorE929Jq_78uIdDUodoxvqyC8E_IT_iDVA90f_c5gw/edit?tab=t.0 with this one which was hand made. @refid-20241229-8d9ddb59-064f-4823-9e42-bb1d0b256a5a
 
