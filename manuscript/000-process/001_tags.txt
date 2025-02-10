@@ -1,3 +1,13 @@
+@stats behavior #repetitions 
+
+### filter "I", filter "eu" 
+
+* 
+
+### filter "Então" 
+
+* "do meu jeito", v1.3 - @stats: 12 "Então" 
+
 
 @meta-expressions
 
