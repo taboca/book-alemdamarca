@@ -1,6 +1,6 @@
-@stats behavior #repetitions 
+### stats behavior #repetitions 
 
-### filter "I", filter "eu" 
+#### filter "I", filter "eu" 
 
 * 
 
@@ -9,9 +9,20 @@
 * "do meu jeito", v1.3 - @stats: 12 "Então" 
 
 
-@meta-expressions
+
+
+
+
+
+
+### Expressions 
 
 @expression "brasileiro precisa ser estudado" 
+
+
+
+
+
 
 @meta-references 
 
