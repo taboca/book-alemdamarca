@@ -17,6 +17,129 @@
 * synopsis 
 * prototype for cover 
 
+
+## Logs for progress, success
+
+[Book - eue - adm - geração de audios de narrativas com IA para textos a mão - YouTube](https://www.youtube.com/shorts/-ju-8J3ovKA)
+
+[Book - EUE - Quando travamos de tanto olhar, como mudar o contexto e perspectiva - YouTube](https://www.youtube.com/watch?v=NVTqnJ633Fc)
+
+[book- adm - parágrafo primeiro - torta holandesa - YouTube](https://www.youtube.com/watch?v=Pzme2vntYpo)
+
+[book - eue - processo síntese áudio para revisão de texto - YouTube](https://www.youtube.com/watch?v=P-vsLuTodNc)
+
+[Book - eue - Ferramentas na edição: transcrição utilizando IA a partir de leitura do texto papel - YouTube](https://www.youtube.com/watch?v=2VWknH14w0M)
+
+[Magenta - YouTube](https://www.youtube.com/shorts/wJyEvjzqfl0)
+
+[Book - adm - spaceships - YouTube](https://www.youtube.com/shorts/zVovM9Ekm3U)
+
+[Book - general progress - salamanca - YouTube](https://www.youtube.com/shorts/AE4hrYRSumM)
+
+[Book - adm - leading paragraph - YouTube](https://www.youtube.com/shorts/ZPdQM3tYsPA)
+
+[Book - eue - Diamante do confiante - nao pense que é besteira. - YouTube](https://www.youtube.com/shorts/nN9x_7Nh0Y4)
+
+[Book - ADM - Revisão da Vanessa 6 de Janeiro de 2025 - "pingado" na introdução. - YouTube](https://www.youtube.com/shorts/xFCy6RCuyNI)
+
+[Book - adm / eue - revisando no papel, anotando no celular, para edição depois. - YouTube](https://www.youtube.com/shorts/mX6ZIhR1BBQ)
+
+[Book- adm - revisão eu eu - YouTube](https://www.youtube.com/shorts/ihrnUZezPhI)
+
+[Book - adm - revisão gloria tecnologia - YouTube](https://www.youtube.com/shorts/zX-rvxYr2WM)
+
+[Book - ADM - Revisão Rodrigo Silva 100 - Prefácio Dorothea, Prefácil Cafeterias, Introdução - YouTube](https://www.youtube.com/shorts/MfsTYmT0I5Q)
+
+[Book - adm - progresso 25 Janeiro - YouTube](https://www.youtube.com/shorts/1VvF0A5GI3o)
+
+[Book - EUE - morning pages, parisian pages - architecture - YouTube](https://www.youtube.com/shorts/lYhFtAOeOUI)
+
+[Book - adm - diário aproximando manuscrito - YouTube](https://www.youtube.com/shorts/Qil8gUETgps)
+
+[Livro - EUE - Parágrafos líderes (ft. William Zinsser) caso do Além da Marca - YouTube](https://www.youtube.com/shorts/XbZsS4VfMww)
+
+[Livro - EUE - Escrita é um ato solitário? Não (ft. Julia Cameron, The Right to Write) - YouTube](https://www.youtube.com/shorts/wQ1by9R-LrU)
+
+
+
+
+
+
+
+## Logs for editing 
+
+[Book - adm - Esse é diferente, v0.4 - YouTube](https://www.youtube.com/watch?v=IYWEPaMusT0)
+
+[Book - versão 0.9.1 - Segredo da Torta - YouTube](https://www.youtube.com/watch?v=uL45D0G0jio)
+
+[Book - o segredo da torta - 0.9.2 - YouTube](https://www.youtube.com/watch?v=6v9MTm1rvJg)
+
+[Book - ADM - Parte 3 (O Resgate), Capítulo "O Segredo da Torta" valores antes da inovação (RESTRITO) - YouTube](https://www.youtube.com/watch?v=HObO_NfU368)
+
+[Book - adm - Esse é diferente v0.6 - YouTube](https://www.youtube.com/watch?v=3nazLmBQpA8)
+
+[Book - adm - Esse é diferente v0.7 - YouTube](https://www.youtube.com/watch?v=7meMABjNnhE)
+
+[Book - adm - Parte, "O Resgate". Capítulo "Impossível possível" versão 1.1 - YouTube](https://www.youtube.com/watch?v=F8zRqDIGjZo)
+
+[Book - adm - Parte 3, A Bolha, Capítulo Do Meu Jeito v1.0 - YouTube](https://www.youtube.com/watch?v=LAlV7PuH99A)
+
+[Book - adm - Parte 3, "O Resgate", capítulo "Do meu jeito" versão 1.2 - YouTube](https://www.youtube.com/watch?v=3bphsF5E3pY)
+
+[Book - adm - Além da Marca - Parte 3, "O Resgate", capítulo "Do meu jeito" versão 1.3 - YouTube](https://www.youtube.com/watch?v=sbAFwigbiK0)
+
+[Book - ADM - Parte 3, "O Resgate", capítulo "Do meu jeito" versão 1.3 - YouTube](https://www.youtube.com/watch?v=tzB3oQaJE7o)
+
+[book - ADM - Parte 3 "O Resgate" Capítulo "Do Meu Jeito" versão 1.6 - YouTube](https://www.youtube.com/watch?v=X5N5z_rc6vg)
+
+[Book - adm - mundo cão v0.3 - YouTube](https://www.youtube.com/watch?v=JkFRCjmXxgA)
+
+[Book - adm - Espiral da Morte v0.3 - YouTube](https://www.youtube.com/watch?v=f4R1lK7yIDk)
+
+[Book - Adm - Torta Holandesa 0.2 - YouTube](https://www.youtube.com/watch?v=BhPfC9nfH1Q)
+
+[Book - adm - soluções aceleradoras v0.4 - YouTube](https://www.youtube.com/watch?v=9rD2ndVBDQk)
+
+[Book - adm - 5 estrelas se for rápido v0.3 - YouTube](https://www.youtube.com/watch?v=1idoYyu7JqI)
+
+[Book - adm - soluções aceleradoras v0.5 - YouTube](https://www.youtube.com/watch?v=Yfa-PzBU_bU)
+
+[Book - adm - O Segredo da Torta v0.5 - YouTube](https://www.youtube.com/watch?v=djYqvr6WZAQ)
+
+[Book - adm - O segredo da torta v0.6 - YouTube](https://www.youtube.com/watch?v=BgFy9UcW8Ng)
+
+[Book - adm - Segredo da torta v0.7 - YouTube](https://www.youtube.com/watch?v=0mGIOikciZQ)
+
+[Book - adm - esse é diferente v0.1 - YouTube](https://www.youtube.com/watch?v=aT8y4Iz0h2g)
+
+[Book - adm - Esse é diferente, v0.3 - Seção Coxinha - YouTube](https://www.youtube.com/watch?v=mJ21wHcgpyQ)
+
+[Book - adm - v0.9 - YouTube](https://www.youtube.com/watch?v=wDArNZdetLU)
+
+[Book - adm - 5 estrelas se for rápido - YouTube](https://www.youtube.com/watch?v=3cvoXqFjkfA)
+
+[Book - ADM - trabalho v1.0 - YouTube](https://www.youtube.com/watch?v=FCFVv2ThrwM)
+
+[Book - adm - 5 estrelas se for rápido, v0.2 - YouTube](https://www.youtube.com/watch?v=ULL6lXiCrH4)
+
+[Book - adm - QRcode v0.6 - YouTube](https://www.youtube.com/watch?v=p8ifFZAl0lg)
+
+[Book - adm - Qr code v0.7 - YouTube](https://www.youtube.com/watch?v=hzYjLYkbr1k)
+
+[Book - adm - tecnologia v0.4 - YouTube](https://www.youtube.com/watch?v=Saw-8JKGisI)
+
+[Soluções aceleradoras - YouTube](https://www.youtube.com/watch?v=m42jMZNgT5M)
+
+[Book - ADM - qrcode v0.8 - YouTube](https://www.youtube.com/watch?v=qAjn-XOF0ZY)
+
+[Book - ADM - QR Code v0.9 - YouTube](https://www.youtube.com/watch?v=yU6C5gL0Q6o)
+
+[Book - adm - vale presente 0.2 - YouTube](https://www.youtube.com/watch?v=23bjVkFZtKc)
+
+[Book - adm - chamar a atenção v0.3 - YouTube](https://www.youtube.com/watch?v=M5BnRDHtPlI)
+
+[Book - Adm - Torta Holandesa 0.2 - YouTube](https://www.youtube.com/watch?v=BhPfC9nfH1Q)
+
 ## Descrição geral curta 
 
 O livro, título temporário Além da Marca, ajuda aqueles que tem interesse no futuro dos estabelecimentos de alimentação (empreendedores ou aqueles que dão suporte a eles, independente da posição atual) com uma reflexão que resgata nosso foco em um mundo que tornou-se acelerado, onde milhares de estabelecimentos seguem mais do mesmo, essencialmente se desgastando e fundamentalmente se colocando em uma posição onde o estabelecimento não é um lugar bom para trabalhar. Além da Marca, resgata a liderança, traz o amor de volta ao estabelecimento, traz vida, natureza, cultura ou arte, de forma que também faz o espaço ser um palco para viver, mais do que sobreviver. 
