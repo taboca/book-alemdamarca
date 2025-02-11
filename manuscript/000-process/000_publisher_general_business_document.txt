@@ -17,7 +17,6 @@
 * synopsis 
 * prototype for cover 
 
-
 ## Logs for progress, success
 
 [Book - eue - adm - geração de audios de narrativas com IA para textos a mão - YouTube](https://www.youtube.com/shorts/-ju-8J3ovKA)
@@ -67,6 +66,7 @@
 
 
 ## Logs for editing 
+
 
 [Book - adm - Esse é diferente, v0.4 - YouTube](https://www.youtube.com/watch?v=IYWEPaMusT0)
 
