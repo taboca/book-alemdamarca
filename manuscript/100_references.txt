@@ -77,6 +77,17 @@ CHESKY, Brian. Blitzscaling Ep. 18: Brian Chesky on Launching Airbnb and the Cha
 
 MASLOW, Abraham H. *Maslow on Management*. New York: John Wiley & Sons, Inc., 1998.
 
+
+<!-- 300 / Do meu jeito -->
+
+<!-- 
+* dup BRANDE, Dorothea. Becoming a Writer. General Press, 2019. Original de 1934.
+-->
+
+<!-- 300 / Feijão com arroz -->
+
+Referência: JOBS, S. Steve Jobs' 2005 Stanford Commencement Address. Stanford University, 7 mar. 2005. Disponível em: https://www.youtube.com/watch?v=UF8uR6Z6KLc. Acesso em: 11 fev. 2025.
+
 <!-- 300 / holistic design --> 
 
 YCOMBINATOR, Greylock. Scaling Product | Fireside with Joe Gebbia and Reid Hoffman. [Entrevista com Joe Gebbia conduzida por Reid Hoffman]. Tradução nossa. Publicado em 6 de junho de 2017. Disponível em: https://www.youtube.com/watch?v=TCA_7RVo7Uo. Acesso em: 12 dez. 2024.
