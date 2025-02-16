@@ -20,8 +20,6 @@
 
 * [ ] @todo - p1 - In "Part 1, Fazejamento" - Consider a footnote about Maslow, [^footnote_maslow_synergistic_nation] @refid-20241219-54bb6a47-616b-4d96-a2fb-e43735d94d78
 
-* [ , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
-
 * [ ] @todo - p1 - @footnote @from:ChatGPT - "Andrew Weinreich is a serial entrepreneur and pioneer in social networking, best known for founding SixDegrees in 1997, widely regarded as the first modern social network. He was granted U.S. Patent No. 6,175,831 for a "Method and apparatus for constructing a networking database and system," often referred to as the "Six Degrees patent." This historically significant patent in social networking was later acquired by industry leaders, including LinkedIn's Reid Hoffman and Tribe.net's Mark Pincus. Weinreich is also the founder of several other companies and now focuses on guiding entrepreneurs through Andrew's Roadmaps, an educational platform dedicated to startup strategy. (ANDREW'S ROADMAPS, 2019)." ref https://chatgpt.com/share/675341ce-8b10-8011-90d9-31182de1ed94 
 
 * [Done , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea

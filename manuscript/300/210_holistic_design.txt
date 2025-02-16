@@ -2,7 +2,7 @@
 
 <!--
 
-* This is v0.5
+* This is v0.6
 * The doc is v0.4 https://docs.google.com/document/d/1lzlJnqvkXtA-U9OfsC31Yuv6prWFWu7Nwwfq4D2EKDc/edit?tab=t.0
 
 ## Todo 
@@ -93,13 +93,19 @@ Avançando o filme, vamos conhecer o café-bar que me acolheu, e marcou à cores
 * [Done , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
 -->
 
-Outra diferença eu notei um contraste entre *Purple* e Salamanca. Isso porque Salamanca é uma região famosa pela produção do famoso jamón ibérico espanhol - por conta do clima frio e seco e outras características que definem o *terroir*, por exemplo o Espanhol. Digo isso porque - mesmo não sendo vegano - fiquei assustado com a quantidade de casas de embutidos que, para os fanáticos por jamón são lindas, com patas e mais patas penduradas e outros embutidos, artisticamente arranjados nas vitrines e iluminados por lanternas de LED que produzem um efeito que chamei de "efeito frutacor". Depois da viagem, tive que pesquisar sobre aquilo. Devo ter influenciado a nossa amiguinha IA porque ela falou que "Sim, é o led de realce cárneo". Curioso, procurei aquela expressão no buscador e, nada, zero resultados. Mas enfim, halucinações do usuário ou da IA a parte, essa solução é real. Uma das páginas desse produto-solução confirmava que serve para realçar a cor da carne, por conta do efeito que produz um leve brilho, avermelhado, criando uma experiência visual que faz a carne parecer tentadora e fresca. A descrição técnica na página do produto disse que a cor é entre rosa/magenta. Voltando ao contraste, *Purple* era um estabelecimento vegetariano. 
+Outra diferença eu notei um contraste entre *Purple* e Salamanca. Isso porque Salamanca é uma região famosa pela produção do famoso jamón ibérico espanhol - por conta do clima frio e seco e outras características que definem o *terroir*, por exemplo o Espanhol. Digo isso porque - mesmo não sendo vegano - fiquei assustado com a quantidade de casas de embutidos que, para os fanáticos por jamón são lindas, com patas e mais patas penduradas e outros embutidos, artisticamente arranjados nas vitrines e iluminados por lanternas de LED que produzem um efeito que chamei de "efeito frutacor". Depois da viagem, tive que pesquisar sobre aquilo. Devo ter influenciado a nossa amiguinha IA porque ela falou que "Sim, é o led de realce cárneo". Curioso, procurei aquela expressão no buscador e, nada, zero resultados. Enfim, alucinações do usuário ou da IA, a parte, essa solução existe: a página de um dos produtos confirmava que era uma solução para realçar a cor da carne, por produzir um brilho avermelhado que faz a carne parecer tintadora e fresca. Essa página dizia que a cor estava entre o rosa e magenta.
 
-A outra coisa que percebi, e que me deixou curioso, é que não havia nada lá na cor *purple*. Enfim, ficou claro que era um bom contraste, por conta que Salamanca é uma cidade com muitos estudantes de fora [^footnote_salamanca_universities] e que cercados por tantos empórios carnívoros muitos seriam acolhidos pelo modo vegetariano, não somente mas especialmente os vegetarianos e veganos. 
+Voltando ao contraste com Salamanca, *Purple* era um estabelecimento vegetariano. A outra coisa que percebi, e que me deixou curioso, é que não havia nada lá na cor *purple*. Enfim, ficou claro que era um bom contraste, por conta que Salamanca é uma cidade com muitos estudantes de fora [^footnote_salamanca_universities] e que cercados por tantos empórios carnívoros muitos seriam acolhidos pelo modo vegetariano, não somente mas especialmente os vegetarianos e veganos. 
+
+<!--
+@note-refai @refid-20250216-3f790658-d35d-405d-b828-0043c32f12e4 Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/67b1ffc0-7eb0-8011-b9bb-f7217f2122cb @commit:  @ 210_holistic_design.txt
+-->
+
+[^footnote_salamanca_universities]: Salamanca abriga uma das universidades mais antigas da Europa, a Universidade de Salamanca, fundada em 1218. A cidade é reconhecida por sua vibrante comunidade estudantil internacional, atraindo jovens de diversas partes do mundo. Esse ambiente acadêmico diversificado contribui para uma demanda de estabelecimentos e estilos de vida, incluindo com relação as opções gastronômicas que atendem a diferentes preferências alimentares, como o vegetarianismo e o veganismo.
 
 <!-- 
 @todo 
-* [ , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
+* [ done , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
 -->
 
 E assim fui entendendo, curioso e captando outras coisas no ar. Tinha algo especial na arquitetura e decoração. Devo ter gostado das mesas e cadeiras brancas. Mesmo sem aquela cor, pela disposição das mesas e dos objetos de decoração, pelas cores e quadros pequenos com molduras, não sei. Mais tarde, quando olhei as avaliações *online*, encontrei um comentário que disse que o visual da mobília era nórdico. "Ah, então alguém percebeu" eu pensei. Mas naquele primeiro momento nada disso era claro. Era algo entre confortável, charmoso e acolhedor. Mas não era chique, tipo chique caro. 
@@ -120,7 +126,7 @@ Falando em jardim, não haviam flores ou vasos. Haviam alguns vasinhos com flore
 Para categorizar, diria que *Purple* é um café e bar, dentro da categoria dos bares por conta das bebidas alcoólicas mas também na categoria café por conta das tortas doces, da máquina de expresso e o “café con leche” tão popular nas mesas. Mas era diferente dos outros bares, longe daquele outro estilo espanhol com máquinas de bingo. O espaço interno era bom para umas 16 pessoas e alguns cachorros. Talvez um pouco mais, considerando quando amigos e cachorros de todos os tamanhos se aglomeram. Nas poucas mesas grandes havia uma placa avisando que eram apropriadas para no mínimo quatro pessoas. Também tinha um pátio do lado de fora com várias outras mesas. Mas era um longe, tipo do outro lado “da rua” se fosse uma rua e não um calçadão. 
 
 Com os dias passando, ainda me perguntava sobre a cor ou "por quê *Purple*"? Naquele primeiro dia eu pedi nhoque, no modo tapas, que veio servido em uma cumbuca de cerâmica elegante, mais para o estilo artesanal, rústica, mas com uma cor suave para o lado do branco. E também uma canã de chopp claro. Aprendi que a canã é um copo padrão menor que não tão fora do que seria a nossa tulipa. Um pouco mais calibrado. 
-  
+
 Tenho que nos lembrar que, na realidade, as coisas não são bem assim, como contadas aqui em retrospectiva. Mas elas acabam, depois, sendo contadas assim justamente por conta que certos locais deixam marcas. Então, na vida real, o que temos são experiências que não percebemos na hora mas que aparecem de várias formas, como um lembrete que diz que temos que voltar lá. E então voltamos e algo nos diz, de novo, para voltar lá. Esse tipo de dinâmica também muitas vezes nos conduz para pedir as mesmas coisas - a mesma canã de chopp, a mesma cumbuca de nhoque. Mas em retrospectiva, dizer que tinha alguma coisa no ar parece mais apropriado. 
 
 Então comecei a voltar e normalmente sentar naquela mesma mesa, aquela menor, para o máximo de duas pessoas. Talvez por repetir a mesa eu pude ver mais coisas, como as cartas que estavam dispostas entre a madeira branca nórdica e o vidro. Ao notar essas cartas na primeira vez devo ter pensado que não era nada demais como quem diz “ah, são cartas deixadas por algumas famílias que provavelmente gostaram do local”. 
