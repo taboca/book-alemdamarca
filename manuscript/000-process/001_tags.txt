@@ -62,6 +62,11 @@
 
 @note-refai Quote adjust and translation #playbigger - @refid-20250207-5bb7facd-2244-4b7e-b9ef-ef96f4ae1652
 
+
+### ABNT2 adjust, in text and references 
+
+@note-refai @refid-20250215-9f0fc7a2-e20d-4d19-8821-949b74a3a285 #ABNT Ref "(Brande, 2014) - used gpt to fix the reference https://chatgpt.com/share/67b11128-508c-8011-b990-22134983f08d also corrected Chatgpt. 
+ 
 ### Research 
 
 @note-refai @research #senneriver #belgium -  @refid-20250209-6db63197-c2c6-4e18-bc5a-e404c7b3eba8 - https://chatgpt.com/share/67a8c251-28f8-8011-9fe3-1d2f65b7e077

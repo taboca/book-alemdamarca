@@ -24,7 +24,7 @@ Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial
 
 BAER, Drake. How LinkedIn’s Reid Hoffman jumped off a cliff and built an airplane. Fast Company, 17 maio 2013. Disponível em: https://www.fastcompany.com/3009831/how-linkedins-reid-hoffman-jumped-off-a-cliff-and-built-an-airplane?utm_source=chatgpt.com. Acesso em: 26 nov. 2024.
 
-Brande, D. (2014). Wake up and live. BN Publishing.
+BRANDE, D. Wake up and live (Acorde e Viva). BN Publishing, 2014. (Publicado originalmente em 1936).
 
 MASLOW, A. H. Toward the Psychology of Being. Connecticut: Martino Publishing, 2011. (Trabalho original publicado em 1962).
 
@@ -85,6 +85,10 @@ MASLOW, Abraham H. *Maslow on Management*. New York: John Wiley & Sons, Inc., 19
 -->
 
 <!-- 300 / Feijão com arroz -->
+
+<!--
+* Dup - BRANDE, D. Wake up and live (Acorde e Viva). BN Publishing, 2014. (Publicado originalmente em 1936).
+-->
 
 Referência: JOBS, S. Steve Jobs' 2005 Stanford Commencement Address. Stanford University, 7 mar. 2005. Disponível em: https://www.youtube.com/watch?v=UF8uR6Z6KLc. Acesso em: 11 fev. 2025.
 

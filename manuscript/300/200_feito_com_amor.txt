@@ -8,6 +8,10 @@
 )
 * version 0.9
 
+@@ todo 
+
+* [ , anchored] @todo - p1 - In "Fazejamento" - consider to deal with the dup of Brande here and at "Arroz com Feijão" @refid-20250215-51ddbe94-dd0c-43c7-b2d4-079f4d526d5f
+
 * [ ] @todo - p1 - In "Feijão com arroz" - Send check the chapter with the author. @refid-20250211-f8117568-e810-4d5d-a355-d32cd0c3ee64
 
 @@ done 
@@ -16,7 +20,18 @@
 
 -->
 
-Você já parou para pensar sobre porque muitas pessoas (estamos juntos se você é desses) dizem que fazem bem as coisas na última hora (ou debaixo de pressão)? Sim, diria a autora Dorothea Brande. E quando ela parou, em 1934, ela encontrou também a fórmula para o sucesso, que foi bem documentada em *Wake Up and Live* (Acorde e Viva) em 1936. Para Brande, o que acontece nessas situações é resultado da “coragem do desespero”. Correndo o risco de uma supersimplificação, seria dizer focamos na produtividade na medida que não temos tempo para falhar. Ou como Brande diria, sem tempo para se envolver com a “vontade de falhar.” 
+
+<!--
+@note-refai @refid-20250215-9f0fc7a2-e20d-4d19-8821-949b74a3a285 #ABNT Ref "(Brande, 2014) - used gpt to fix the reference https://chatgpt.com/share/67b11128-508c-8011-b990-22134983f08d also corrected Chatgpt. 
+-->
+
+Você já parou para pensar sobre por que muitas pessoas (estamos juntos se você é desses) dizem que fazem bem as coisas na última hora (ou debaixo de pressão)? Sim, diria a autora Dorothea Brande. E quando ela parou, em 1934, ela encontrou também a fórmula para o sucesso, que foi bem documentada em *Wake Up and Live* (Acorde e Viva) em 1936 (Brande, 2014). Para Brande, o que acontece nessas situações é resultado da “coragem do desespero”. Correndo o risco de uma supersimplificação, seria dizer que focamos na produtividade na medida em que não temos tempo para falhar. Ou, como ela diria, sem tempo para se envolver com a “vontade de falhar”.
+
+<!--
+@references 
+* @reference - * Dup * BRANDE, D. Wake up and live (Acorde e Viva). BN Publishing, 2014. (Publicado originalmente em 1936).
+
+-->
 
 Sobre essa vontade de falhar, podemos pensar como sendo o movimento que nos ataca como auto sabotagem diante dos desafios. Quando nos envolvemos sem uma atitude positiva - desprovidos de um propósito ou qualquer outra convicção onde acreditamos que seria impossível falhar - automaticamente alimentamos o lado que conspira contra o sucesso. Ou seja, a nossa energia, criatividade e imaginação trabalham sim - e muito bem - no sentido oposto. Em outras palavras, gastamos energia, inclusive criando problemas que não precisam existir, essencialmente nos desgastando, sem prazer, sem felicidade, sem feedback de que estamos fazendo bem, sem fazer o nosso melhor, inclusive no modo tentativa e erro. E justamente porque nossos objetivos e responsabilidades continuarão lá (de qualquer forma), nos envolvemos (de novo) agora tentando arrumar as coisas, como quem tenta passar no teste (de qualquer forma). Tipo remediar. Tudo isso pode ocorrer, exceto quando estamos envolvidos, confiantes, ou agindo "como se fosse impossível falhar" como diria Dorothea Brande.   
 

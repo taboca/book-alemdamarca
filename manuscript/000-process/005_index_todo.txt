@@ -57,6 +57,8 @@
 
 @@ Feijão com arroz
 
+* [ , anchored] @todo - p1 - In "Fazejamento" - consider to deal with the dup of Brande here and at "Arroz com Feijão" @refid-20250215-51ddbe94-dd0c-43c7-b2d4-079f4d526d5f
+
 * [ ] @todo - p1 - In "Feijão com arroz" - Send check the chapter with the author. @refid-20250211-f8117568-e810-4d5d-a355-d32cd0c3ee64
 
 
@@ -176,6 +178,8 @@
 
 
 @@ Fazejamento 
+
+* [ , anchored] @todo - p1 - In "Fazejamento" - consider to deal with the dup of Brande here and at "Arroz com Feijão" @refid-20250215-51ddbe94-dd0c-43c7-b2d4-079f4d526d5f
 
 * Sociedade decadente: Incluir uma nota de rodapé conectando a ideia de Maslow sobre camadas de segurança que permitem avanços, em contraste com as limitações de uma sociedade em declínio. ([1/22,
 

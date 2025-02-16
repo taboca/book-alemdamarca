@@ -215,7 +215,13 @@ De certa forma, aqui eu celebro e critico essa nossa familiaridade com essa áre
 
 Ainda, e para complicar essa nossa relação com o fazejamento, temos também que reconhecer que enquanto uma quantidade muito grande de estabelecimentos falham, existem milhares de outros que de uma forma ou outra se sustentam, mesmo orientados a esse modo de operação tentando jogar as regras do jogo ou buscando eficiência com o que temos orientados ao que acontece “na hora H.” O fato que muitos se sustentam - praticamente sem planejamento e carregando problemas para frente - acaba criando um paradoxo que de certa forma é uma justificativa para outros seguirem o movimento, como se estivessemios bem do nosso lado uma voz que diz “tá vendo, até fazendo desse jeito dá certo”.
 
-Sobre o potencial do nosso comportamento ligado ao fazejamento, acho relevante citar a renomada autora Dorothea Brande, que em *Wake Up and Live* (Acorde e Viva) escrito em 1936, trouxe o pensamento “coragem por desespero”. Segundo ela, quando acreditamos que é impossível falhar (sendo uma possível situação é quando a água bate na bunda), o resultado é que nós deixamos de usar nossa imaginação para encontrar todo tipo de problema na frente. Em outras palavras, partimos para a ação, silenciando aquele lado de autocrítica, ou autossabotagem, procurando o por quê não vai dar certo. O ponto, para nós, é que quando estamos envolvidos com querer fazer, estamos também guiados por uma perspectiva que alimenta as condições de fazer sem ver problemas no caminho. Essa energia é tão focada que pode também explicar o sucesso de muitos que avançam, que sobrevivem ao tempo, mesmo começando com o fazejamento, ao ponto que eventualmente conquistam maturidade com o tempo e aprendizado, inclusive evoluindo comportamentos, e depois das suas equipes, se estruturando e essencialmente crescendo. Para a Dorothea, o movimento de coragem por desespero tem o poder de silenciar o que ela se refere a “vontade de falhar”. 
+<!--
+@todo
+
+* [ , anchored] @todo - p1 - In "Fazejamento" - consider to deal with the dup of Brande here and at "Arroz com Feijão" @refid-20250215-51ddbe94-dd0c-43c7-b2d4-079f4d526d5f
+-->
+
+Sobre o potencial do nosso comportamento ligado ao fazejamento, acho relevante citar a renomada autora Dorothea Brande, que em *Wake Up and Live* (Acorde e Viva) escrito em 1936, trouxe o pensamento “coragem por desespero”. Segundo ela, quando acreditamos que é impossível falhar, o resultado é que nós deixamos de usar nossa imaginação para encontrar todo tipo de problema na frente. Em outras palavras, partimos para a ação, silenciando aquele lado de autocrítica, ou autossabotagem, procurando o por quê não vai dar certo. O ponto, para nós, é que quando estamos envolvidos com querer fazer, estamos também guiados por uma perspectiva que alimenta as condições de fazer sem ver problemas no caminho. Essa energia é tão focada que pode também explicar o sucesso de muitos que avançam, que sobrevivem ao tempo, mesmo começando com o fazejamento, ao ponto que eventualmente conquistam maturidade com o tempo e aprendizado, inclusive evoluindo comportamentos, e depois das suas equipes, se estruturando e essencialmente crescendo. Para a Dorothea, o movimento de coragem por desespero tem o poder de silenciar o que ela se refere a “vontade de falhar”. 
 
 <!--
 @todo
@@ -224,7 +230,7 @@ Sobre o potencial do nosso comportamento ligado ao fazejamento, acho relevante c
 
 <!--
 @references 
-* @reference - Brande, D. (2014). Wake up and live. BN Publishing.
+* @reference - BRANDE, D. Wake up and live (Acorde e Viva). BN Publishing, 2014. (Publicado originalmente em 1936).
 --> 
 
 
