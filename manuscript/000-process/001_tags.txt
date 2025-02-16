@@ -30,6 +30,8 @@
 
 ### Notas de rodapé 
 
+@note-refai @refid-20250216-3f790658-d35d-405d-b828-0043c32f12e4 Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/67b1ffc0-7eb0-8011-b9bb-f7217f2122cb @commit: f271521 @ 210_holistic_design.txt
+
 @note-refai - nota de rodapé - footnote_80_20 #80/20 #pareto #qualitativa @refid-20250205-20b72c9c-b78b-4072-b270-b08458e2b839 https://chatgpt.com/share/67a395de-d4e4-8011-8da4-c31a2aca8a9e
 
 @note-refai - nota de rodapé - @footnote:footnote_oceano_vermelho @refid-20250130-432c1e4e-1a1a-4598-9282-82669acbd4fa https://chatgpt.com/share/679baf1c-e47c-8011-b113-9a044469880d 
