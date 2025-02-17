@@ -1,11 +1,13 @@
-#    Design holístico 
+# Design holístico 
 
 <!--
 
-* This is v0.6
+* This is v0.7
 * The doc is v0.4 https://docs.google.com/document/d/1lzlJnqvkXtA-U9OfsC31Yuv6prWFWu7Nwwfq4D2EKDc/edit?tab=t.0
 
 ## Todo 
+
+* [ , anchored] @todo - p1 - In "Design holístico" Consider to put a footnote about airbnb founders. @refid-20250217-60aca772-b208-45c3-b1ea-af07372d5d8f
 
 * [ , ] @todo - p2 - In "Design holístico" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
 
@@ -84,7 +86,7 @@ Esta história é um ponto de partida para a reflexão sobre como estabeleciment
 
 ### Purple, de Salamanca 
 
-Avançando o filme, vamos conhecer o café-bar que me acolheu, e marcou à cores, a minha estadia de um mês em Salamanca, na Espanha, no momento que estava escrevendo essa parte do livro. Logo de cara, o que chamou a atenção foi que o nome era uma cor. *Purple* [^footnote_purple]. 
+Avançando o filme, vamos conhecer o café-bar que marcou à cores minha estadia de trinta dias em Salamanca, na Espanha, quando estive escrevendo essa parte do livro. De cara, achei o nome diferente: *Purple* [^footnote_purple]. Diferente do tradicional e também diferente da categoria de estabelecimentos tipo Rei do X, Rainha da Y, Palácio dos Z, etc. Era só a cor.   
 
 [^footnote_purple]: Eu escolhi uma outra cor, Purple, como uma variação como sendo o nome fictício. A cor verdadeira é outra. 
 
@@ -93,24 +95,28 @@ Avançando o filme, vamos conhecer o café-bar que me acolheu, e marcou à cores
 * [Done , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_purple. @refid-20241211-68f8c553-d6dc-410a-9535-39bb07ed1043
 -->
 
-Outra diferença eu notei um contraste entre *Purple* e Salamanca. Isso porque Salamanca é uma região famosa pela produção do famoso jamón ibérico espanhol - por conta do clima frio e seco e outras características que definem o *terroir*, por exemplo o Espanhol. Digo isso porque - mesmo não sendo vegano - fiquei assustado com a quantidade de casas de embutidos que, para os fanáticos por jamón são lindas, com patas e mais patas penduradas e outros embutidos, artisticamente arranjados nas vitrines e iluminados por lanternas de LED que produzem um efeito que chamei de "efeito frutacor". Depois da viagem, tive que pesquisar sobre aquilo. Devo ter influenciado a nossa amiguinha IA porque ela falou que "Sim, é o led de realce cárneo". Curioso, procurei aquela expressão no buscador e, nada, zero resultados. Enfim, alucinações do usuário ou da IA, a parte, essa solução existe: a página de um dos produtos confirmava que era uma solução para realçar a cor da carne, por produzir um brilho avermelhado que faz a carne parecer tintadora e fresca. Essa página dizia que a cor estava entre o rosa e magenta.
+Além do nome, havia um contraste entre *Purple* e Salamanca. Isso porque Salamanca é uma região famosa pela produção do famoso jamón ibérico espanhol - por conta do clima frio e seco e outras características que definem o *terroir*, por exemplo o Espanhol. Eu fiquei assustado com a quantidade de casas de embutidos que, para os fanáticos por jamón, são lindas, com patas e patas penduradas e outros embutidos tudo artisticamente arranjado nas vitrines e iluminado por lanternas de LED que produzem um efeito que em um primeiro momento chamei de "efeito frutacor". Depois da viagem, buscando conhecer essa tecnologia, devo ter influenciado a nossa amiguinha IA porque ela disse "sim, é o led de realce cárneo". Curioso, procurei assim no buscador que trouxe zero resultados. Alucinações do usuário ou da IA, a parte, acabei encontrando o produto: um spot que produz um brilho avermelhado, que segundo a especificação a cor está entre rosa e magenta, que faz a carne parecer tentadora e fresca. 
 
-Voltando ao contraste com Salamanca, *Purple* era um estabelecimento vegetariano. A outra coisa que percebi, e que me deixou curioso, é que não havia nada lá na cor *purple*. Enfim, ficou claro que era um bom contraste, por conta que Salamanca é uma cidade com muitos estudantes de fora [^footnote_salamanca_universities] e que cercados por tantos empórios carnívoros muitos seriam acolhidos pelo modo vegetariano, não somente mas especialmente os vegetarianos e veganos. 
+<!-- 
+@note-refai @refid-20250217-b673f11b-32d0-4b16-9317-d1600d5c1624 #salamanca #universities #population #20%students - https://chatgpt.com/share/67b32df1-2e9c-8011-99a3-a345ce6353cb
+-->
+
+Mas *Purple* era um estabelecimento vegetariano. O que faria diferença para a grande população de estudantes - por conta principalmente da Universidade de Salamanca [^footnote_salamanca_universities] e da Universidade Pontifícia de Salamanca - normalmente cercados no meio daquele ecossistema carnívoro muito rico. Então uma luzinha para esse mundo cairia bem, especialmente para os estudantes vegetarianos e veganos.  
 
 <!--
 @note-refai @refid-20250216-3f790658-d35d-405d-b828-0043c32f12e4 Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/67b1ffc0-7eb0-8011-b9bb-f7217f2122cb @commit: f271521 @ 210_holistic_design.txt
 -->
 
-[^footnote_salamanca_universities]: Salamanca abriga uma das universidades mais antigas da Europa, a Universidade de Salamanca, fundada em 1218. A cidade é reconhecida por sua vibrante comunidade estudantil internacional, atraindo jovens de diversas partes do mundo. Esse ambiente acadêmico diversificado contribui para uma demanda de estabelecimentos e estilos de vida, incluindo com relação as opções gastronômicas que atendem a diferentes preferências alimentares, como o vegetarianismo e o veganismo.
+[^footnote_salamanca_universities]: Salamanca abriga uma das universidades mais antigas da Europa, a Universidade de Salamanca, fundada em 1218. A cidade é reconhecida por sua vibrante comunidade estudantil internacional, atraindo jovens de diversas partes do mundo. 
 
 <!-- 
 @todo 
 * [ done , further] @todo - p1 - In "Design holístico" #magenta, check the footnote_salamanca_universities. @refid-20241211-302085be-f973-4493-8252-d4dd982f9634
 -->
 
-Curioso sobre alguma coisa no ar, estava captando alguma coisa sobre o espaço que por sinal não era nada quadrado. Sobre a decoração, devo ter gostado das mesas e cadeiras que eram brancas e não daquela cor. Gostei da disposição das mesas, dos objetos de decoração, das cores e dos pequenos quadros e suas molduras. Mais tarde, lendo as avaliações *online*, um comentário elogiava o visual da mobília dizendo ser nórdico. "Ah, alguém percebeu melhor aquilo que quase percebi", eu pensei. Era isso: nada tão era claro mas claramente um espaço charmoso, confortável e acolhedor. Não era chique, tipo o chique caro espanta para aquele dia normal. Era mais que o normal mas não a ponto de ser anormal. 
+O local ficava na área do calçadão, em uma esquina. Seria um quadrado, se não fosse o balcão que praticamente cortava uma diagonal definindo o triângulo dos clientes e o outro, do pessoal. Logo ao entrar, nada na cor *purple*. Mas gostei da quantidade de cantos brancos, das mesas e cadeiras brancas, gostei da disposição das mesas e dos objetos de decoração, das cores claras com tons amarelados e quadrinhos e molduras pelas paredes. E dos papeis de paredes em tom azul com florais brancos. Mais tarde, lendo as avaliações *online*, um comentário elogiou a mobília dizendo que era estilo nórdico. "Ah, alguém percebeu melhor aquilo que quase percebi", eu pensei.
 
-Sentei na mesinha pequena colada na parede do balção, bem no início antes das banquetas altas. Essa mesa, que ficava próxima ao corredor que levava aos banheiros, parecia apropriada para uma pessoa. O balção não era limpo como aqueles dos filmes de faroeste que dá para lançar o copo de cerveja até a mão do forasteiro. Começava com o expositor de vidro com várias opções que eram servidas no modo tapas [^footnote_tapas]. Na sequência, haviam duas torneiras de chopp. E finalmente, o canto das tortas doces.  
+Ainda nada estava tão claro. Mas claramente tudo era charmoso. Ou confortável ou acolhedor. Não era chique, tipo o chique caro que espanta para o dia a dia. Sentei na mesinha colocada na parede do início do balcão, antes das banquetas altas e próxima ao corredor que dava acesso aos banheiros. O balção não era liso e aberto como dos filmes de faroeste. No estilo dos cafés de Salamanca, cheio de coisas que ficam bem na frente de quem senta na bancada. Começava com o expositor de vidro com as opções de tapas [^footnote_tapas]. Na sequência, haviam duas torneiras de chopp. Depois um espaço aberto e finalmente o canto das tortas doces, antes da passagem para o pessoal.   
 
 [^footnote_tapas]: Sou principiante com o “modo tapas” de comer mas adorei a experiência por conta que, gastando menos, eu posso experimentar mais coisas. São porções menores, servidas em um pequeno prato. No café Purple era uma pequena cumbuca bonita, sempre uma cumbuca diferente. 
 
@@ -119,65 +125,75 @@ Sentei na mesinha pequena colada na parede do balção, bem no início antes das
 * [Done , further] @todo @todo-footnote - p1 - In "Design holístico" #magenta, check the footnote_tapas. @refid-20241211-7f16f8c1-689f-4d7f-90bd-992a2b4c91ea
 -->
 
-Demorei para perceber o charme desse canto doce. Era diferente do padrão Brasileiro, nos cafés ou padarias, onde os bolos e doces estão lado a lado cada um no seu quadrado e tudo dentro da mesma vitrine gelada. Neste canto, cada torta ou bolo ficava em sua redoma de vidro. Cada uma com seu tamanho com alturas diferentes em andares diferentes. Lembrei das mesas dos bolos de casamento. Ou poderia ser um jardim. 
+Demorei para perceber as características que também davam um charme para o canto doce. Era diferente do padrão Brasileiro nos cafés e padarias, onde os bolos e doces estão lado a lado cada um no seu quadrado e tudo dentro da mesma vitrine gelada. Neste canto, em cima do balcão, cada torta ou bolo estava em uma redoma de vidro. Cada uma com um tamanho diferente, cada uma com uma altura diferente e dispostas em andares diferentes. Lembrava aquelas disposições multiníveis das mesas dos bolos de casamento. Ou um jardim. 
 
+Falando em jardim, não haviam muitas flores ou vasos. Mas haviam vasos de flores em alguns cantos, assim como pequenos vazinhos de flores de plástico nas mesas. É como se fosse a decoração de uma casa que literalmente e figurativamente preenchia o espaço fazendo o que seria um espaço pequeno ficar grande. 
 
-Falando em jardim, não haviam flores ou vasos. Haviam alguns vasinhos com flores de plástico em cima de algumas mesas, que combinavam com tudo.  Era um espaço pequeno. Nas avaliações, um usuário disse que é bom para ir com amigos ou sozinho. Eu, sozinho, confirmei. Me senti bem, desde o primeiro dia, e então cada vez tentava entender o algo mais que ainda estava no ar. 
+Nas avaliações, um usuário disse que é bom para ir com amigos ou sozinho. Eu, sozinho, confirmei. Me senti bem, desde o primeiro dia. Se tivesse que categorizar, diria que *Purple* é um café e bar, dentro da categoria bares por conta das bebidas alcoólicas mas também na categoria café por conta das tortas doces, da máquina de expresso e o “café con leche” tão popular nas mesas. Mas era diferente dos outros bares, como aqueles que tinham as máquinas de bingo. O espaço suportava umas 16 pessoas e alguns cachorros. Talvez um pouco mais, considerando aqueles momentos de invasões de amigos e cachorros de todos os tamanhos que vão direto para o pequeno balção. Nas poucas mesas grandes havia uma plaquinha avisando que era para, no mínimo, quatro pessoas. 
 
-Para categorizar, diria que *Purple* é um café e bar, dentro da categoria dos bares por conta das bebidas alcoólicas mas também na categoria café por conta das tortas doces, da máquina de expresso e o “café con leche” tão popular nas mesas. Mas era diferente dos outros bares, longe daquele outro estilo espanhol com máquinas de bingo. O espaço interno era bom para umas 16 pessoas e alguns cachorros. Talvez um pouco mais, considerando quando amigos e cachorros de todos os tamanhos se aglomeram. Nas poucas mesas grandes havia uma placa avisando que eram apropriadas para no mínimo quatro pessoas. Também tinha um pátio do lado de fora com várias outras mesas. Mas era um longe, tipo do outro lado “da rua” se fosse uma rua e não um calçadão. 
+No primeiro dia, eu pedi nhoque, no modo tapas, que veio servido em uma cumbuca de cerâmica elegante, estilo artesanal ou rústica e com uma cor suave para o lado do branco. E também uma canã de chopp claro. Aprendi que a canã é um caneca menor que a caneca tipo *pint*. Não é tão longe da nossa tulipa mas vem um pouco mais calibrado. 
 
-Com os dias passando, ainda me perguntava sobre a cor ou "por quê *Purple*"? Naquele primeiro dia eu pedi nhoque, no modo tapas, que veio servido em uma cumbuca de cerâmica elegante, mais para o estilo artesanal, rústica, mas com uma cor suave para o lado do branco. E também uma canã de chopp claro. Aprendi que a canã é um copo padrão menor que não tão fora do que seria a nossa tulipa. Um pouco mais calibrado. 
+Com os dias passando, conforme fui voltando, ainda procurava aquela cor. Mas estava descobrindo outras coisas. Por exemplo, que as cumbucas mudavam de cor ou estilo. Era o mesmo nhoque mas era um nhoque diferente. E de nhoque em nhoque, de canã em canã, voltando a mesma mesa e devagar percebendo outras coisas no ar:
 
-Tenho que nos lembrar que, na realidade, as coisas não são bem assim, como contadas aqui em retrospectiva. Mas elas acabam, depois, sendo contadas assim justamente por conta que certos locais deixam marcas. Então, na vida real, o que temos são experiências que não percebemos na hora mas que aparecem de várias formas, como um lembrete que diz que temos que voltar lá. E então voltamos e algo nos diz, de novo, para voltar lá. Esse tipo de dinâmica também muitas vezes nos conduz para pedir as mesmas coisas - a mesma canã de chopp, a mesma cumbuca de nhoque. Mas em retrospectiva, dizer que tinha alguma coisa no ar parece mais apropriado. 
+Por exemplo, as cartas na mesa entre o tampão nórdico e o vidro. Inicialmente, eram só cartas, provavelmente deixadas por pessoas que gostavam do local. E imaginei que aquela pessoa atrás do balcão que normalmente me atendia deveria ser a dona. E que aquela senhora de vez em quando deveria ser a mãe dela. E que aquela menininha do outro dia deveria ser a filha dela. Então, era uma família. 
 
-Então comecei a voltar e normalmente sentar naquela mesma mesa, aquela menor, para o máximo de duas pessoas. Talvez por repetir a mesa eu pude ver mais coisas, como as cartas que estavam dispostas entre a madeira branca nórdica e o vidro. Ao notar essas cartas na primeira vez devo ter pensado que não era nada demais como quem diz “ah, são cartas deixadas por algumas famílias que provavelmente gostaram do local”. 
+Então, quebrei a rotina, decidindo ir lá para tomar café da manhã e fazer minhas páginas matinais. Perguntei se tinham o tal do “croissant a la plancha con mantequilla y melocotón” que normalmente vem cortado ao meio depois de passar pelo forno como se fosse na “chapa de calor" com um potinho de manteiga e outro de geleia de pêssego. Nesse dia, também mudei de mesa. E nessa nova mesa, mais cartas. Então já era hora de ler, ou perceber, por exemplo que normalmente elas começavam com “Marta,” e diziam coisas especiais: 
 
-Mas voltando ao local e na mesma mesa, pedindo de novo nhoque na cumbuca e a mesma canã, tudo vegetariano e bom, continuava a captar algo sobre alguma coisa que estava no ar. Eu estava então caminhando no rumo da verdade, apesar que não procurei saber tanto da verdade, porque decidi não perguntar nada para ela.
-Mas já sabia que aquela pessoa atrás do balcão era provavelmente a dona. Isso porque ela me atendeu todas as vezes que voltei, porque um outro dia vi uma senhora que parecia a mãe dela. E outro dia vi uma menina que parecia ser filha ou sobrinha. Então se era uma família e se ela me atendia sempre, e dado que ela ficava no caixa-timão do barco, decorre que é a dona. E assim eu fui completando o quebra cabeça, peça por peça, na medida que voltava lá. Com essa rotina fui percebendo menos do já percebido e ao mesmo tempo percebendo mais sobre o não percebido: por exemplo, o conteúdo das cartas, mais pistas. 
-
-Em um dado retorno, eu quebrei minha rotina, por conta que fui “de manhã” e não a tarde. Digo “de manhã” porque fiquei no fuso horário do Brasil e era ainda hora de café no Brasil. Nesta altura, eu já conhecia a experiência do “croissant a la plancha” que é um croissant cortado ao meio que passa pelo forno tipo feito na “chapa” de calor, normalmente servido com um potinho de manteiga e geleia (de pêssego) ou, como eles dizem, “con mantequilla y melocotón". Enfim, era a hora do café em meados de Novembro e o momento pediu “café con leche” com “croissant a la plancha con mantequilla y melocotón.” 
-
-E também uma mesa diferente que veio com outras cartas. Agora essas cartas diziam algo a mais sobre o quebra-cabeça. Além disso, já era hora de perceber melhor, até por conta que várias cartas começavam com “Marta,” e falavam de coisas especiais, como o exemplo abaixo: 
-
-> *”Marta, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.“* 
+> **Ao Café Purple e à Marta**  
+>  
+> Em poucos meses, este espaço se tornou meu cantinho especial em Salamanca.  
+> O Café Magenta representa algo que eu sempre procurei, sem saber;  
+> é um espaço onde se pode simplesmente estar, ser.  
+> Pode-se compartilhar com amigos, ficar sozinho, ler, escrever, pensar.  
+> É um espaço que, entre bilhetes de pessoas que tiveram a sorte de deixar suas marcas  
+> nesta mesa e fotos familiares, sempre te acolhe.  
+> Hoje em dia, é muito raro encontrar um lugar assim, e essas joias preciosas devem ser valorizadas.  
+>  
+> Vindo para Salamanca de uma ilha muito distante, o Magenta me proporcionou  
+> um espaço seguro em meio a tanta incerteza, quase como um toque de mágica.  
+> Se eu pudesse levar comigo algo desta cidade antiga de volta a Porto Rico,  
+> seria o Café Magenta.  
+>  
+> Obrigada por todos os cafés, os chás, os sanduíches por puro prazer, pelos bolos,  
+> mas acima de tudo por sempre me receberem de braços abertos.  
+>  
+> **— Isabella ❤️**
 
 <!-- 
 @todo 
 * [ , further] @todo - p1 - In "Design holístico" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06
 -->
 
-Todas as cartas carregavam algo que estava nessa carta. Elas eram todas, de certa forma parecidas. Talvez a Marta tenha feito algo que deu para essas pessoas algo que elas já conheciam, familiar, algo que elas sentiam falta, algo que encontraram no espaço. Entre tapas salgadas e tortas doces, no meio no café com leite, nos copos de chopp ou no vinho, por meio da Marta, certamente. Algumas dessas cartas carregavam um tom de despedida, de pessoas que por lá passaram, talvez estudantes ou famílias ou pessoas trabalhando. Penso que não eram pessoas da Espanha, talvez porque se fossem não perceberiam aquilo. Então eram pessoas que ficaram lá, mas por tempo suficiente para perceber. 
+E todas as cartas traziam algo parecido com essa. Talvez a Marta e sua família trouxeram para elas algo conhecido,  familiar, algo que elas sentiam falta. Entre tapas e tortas, entre cafés com leite e bebidas, algumas carregavam um certo tom de despedida. Talvez famílias ou indivíduos que passaram por lá estudando ou trabalhando ou passeando mas também escrevendo. Mas não poderiam ser pessoas lá de Salamanca, porque eram pessoas que provavelmente ficaram lá por tempo suficiente mas não demais a ponto de não perceber: 
 
-Por essas percepções elas se sentiram em casa e da mesma forma elas levaram um pedaço da Espanha de volta para suas terras. O espaço lhes deu uma oportunidade de pausar suas vidas, para escrever. Elas deixaram um presente porque receberam um presente. 
+> Querida Marta,
+>
+> Desejamos a você e à sua família um Feliz Natal e um próspero Ano Novo. Além disso, queremos dizer que nos sentimos em casa no seu cantinho mágico em Salamanca.
+>
+> Um abraço,
+> Louise, Nico, Carina
 
-Neste ponto, meados de Novembro e com minha estadia quase no meio, eu estava certo que o local era especial mas também certo que tudo aquilo era fresco demais; em outras palavras eu podia ver mas não poderia sentir o que levou aquelas pessoas a deixar aquelas cartas coloridas, profundas e sinceras. Mas tudo aquilo confirmava que tinha algo no ar.  
+Elas se sentiram em casa. Elas levaram um pedaço da Espanha de volta para suas casas também, de uma segunda casa. Chega a ser engraçado, agora, que podemos ir tão longe e que sim, somos capazes de encontrar depois de milhares de quilômetros de distância, aquela segunda casa que nos leva de volta para casa. Refletindo sobre isso, lembrei do que a Silvia Leite (do capítulo O Segredo de Torta) me disse sobre aquele terceiro espaço, além da casa e além do trabalho, aquele terceiro espaço. Esse da Marta é a segunda casa, aquela que faz você pausar um pouco a sua vida, inclusive ao ponto de escrever. Então elas deixaram esses presentes depois de viverem momentos presentes.  
 
-Na tentativa de concluir, correndo o risco de perder coisas no ar que podemos imaginar, devemos celebrar um elemento neste arranjo: Que o dono estava lá. Com isso, me veio à mente uma ideia de longa data que diz que “o dono precisa estar lá”. Vamos agora refletir sobre isso.  
+Nesta altura, em meados de Novembro e minha estadia quase no meio, eu procurava fechar o quebra-cabeça especial do espaço. Uma dessas peças estava lá no início daquelas cartas que começavam daquela forma (Marta). Então é isso, a dona estava lá. Esse foi o momento de revisitar aquele velho assunto que diz que o dono precisa estar lá: 
 
-Mas isso nos leva à pergunta sobre o que é estar presente, ou o que seria o papel da liderança mais especial que nos leva a essa ideia. Explorar isso é importante porque podemos nos confundir, diante de um movimento acelerado, com a ideia de que estar presente é garantir que as coisas andem como devem andar, que os colegas de trabalho estejam trabalhando como esperado, que a experiência para os clientes esteja dentro do esperado, esse tipo de coisa. Sim, de certa forma isso é verdade. 
+### Liderar não é controlar 
 
-Mas não é toda a verdade nem a melhor parte da verdade. Porque aquele espaço tinha de certa forma uma cor, ou era um canvas onde a Marta fez e faz sua arte, onde ela está avançando, navegando, para um destino. Talvez ela faça isso por sua filha, ou sobrinha, ou sua mãe. Mas, certamente fazia, ou passou a fazer, pelas pessoas que passam por lá. Observar o espaço da Marta nos coloca na posição de perceber, com mais responsabilidade, a diferença entre estar lá, como controlador, e estar lá, como líder. 
+Falar sobre isso é importante porque podemos nos confundir, naquele movimento acelerado, e limitar o papel da liderança assumindo que é sobre garantir que as coisas andem como devem andar, por exemplo monitorarndo o trabalho dos colegas e certificando que a experiência dos clientes está dentro do esperado, esse tipo de coisa. 
 
-### Liderança e design 
+Em certo grau tem uma verdade nisso. Mas não é toda e nem a melhor parte. Para a Marta, o que ela tem lá é um canvas, onde ela faz arte e navega para um destino. Talvez ela faça isso por sua filha. Ou por sua mãe. Mas se faz arte também faz por ela. E certamente pelas pessoas que passam por lá. Observar o espaço da Marta é uma oportunidade de refletir sobre estar lá longe de estar lá como controlador, sobre estar lá como líder que cria um espaço vivo, como um livro aberto que recebe cartas.  
 
-Mas por acreditar que ainda tinha algo a mais no ar que fiquei de olhos e ouvidos relativamente abertos. Após uma das visitas, eu publiquei um vídeo na plataforma YouTube intencionado para compartilhar em família. Mais tarde, recebi uma notificação me informando que o algoritmo havia detectado a música da Miley Cyrus e por isso não estava de acordo com a política de uso. Com isso acabei optando por remover a trilha sonora, dado que não a trilha não era relevante para aquele uso pessoal. No momento da notificação fiquei surpreso e frustrado, até por conta que o vídeo nem estava listado como público. Achei desnecessário lidar com isso, mas enfim, passou. 
+Eventualmente eu publiquei um vídeo na plataforma YouTube para documentar um momento, no formato não público (*unlisted*). Naquele mesmo dia, recebi uma notificação porque a música da Miley Cyrus precisaria ser removida para adequar a política. Fiquei um frustrado mas fiz, até porque não achava que a música era relevante. 
 
-Mas esse evento foi um sinal. Porque na próxima visita, não demorou para eu perceber a música. Então caiu a ficha que a música estava também no ar, que eram músicas calmas, músicas que eu gostava. Eu acho que um dia ouvi uma do Frank Sinatra. Uma vez que não consegui entender o padrão das músicas, acabei perguntando para Marta sobre a música ambiente. Ela disse que era Spotify. Uma playlist? Sim, uma playlist. 
+Mas foi na próxima visita que percebi que eu estava errado. Foi só sentar e percebí a música. Então achei outra peça que faltava. Era a música no ar. Um dia tocou Frank Sinatra. Sem entender o padrão, perguntei para Marta sobre as músicas. Ela disse que era Spotify. Uma playlist? Sim, uma playlist. Simples assim. 
 
-Então agora temos também a trilha sonora, além das mesas e cadeiras com design nórdico, além do canto tipo jardim com um arranjo com várias tortas doces, além das cartas nas mesas, e outras coisas que combinavam. Só não achei mesmo nada daquela cor, *Purple*. E por isso, prefiro chamar o todo pelo nome, *Purple*. 
-
-Pela ótica do canvas do artista, podemos também entender que nem sempre a intenção é criar o ambiente ideal, a arte que atende todos os gostos. Mas não podemos dizer que a arte não é coerente - que não tem uma identidade, ou uma cor, um estilo. Esse quadro é coerente para a liderança, coerente para os colaboradores, coerente para os usuários. Não exatamente algo que agrada a todos, assim como as obras de arte ou as histórias. Mas certamente um ambiente que por seu design envolve, como a arte envolve alguns, como uma música envolve outros, como um bom livro envolve um leitor, inclusive ao ponto que o leitor torna-se um fã do autor. Alguns desses também escrevem cartas para esses autores. 
-
-*Purple* nos traz uma oportunidade para refletirmos sobre o significado de liderança. Ou, minimamente, nos ajuda a distanciar daquela ideia restrita e acelerada que diz é sobre controle, um papel que está lá para garantir, monitorar, etc. Mas é complexo entender o movimento de liderança porque justamente pode ir muito além, como artistas que seguem um norte e vão descobrindo mais, sobre a arte, sobre o mundo e sobre eles ao mesmo tempo. 
-
-
-
+Então agora temos a trilha sonora, além das mesas e das cadeiras com design nórdico, além do canto jardim das tortas doces, além das cartas, além dos vasos de flores, das cumbucas e louças coloridas, das paredes com pequenos quadros de família, além do papel de parede azul com florais brancos que cobrem a parte superior da parede depois do barrado branco de madeira. Só não tinha mesmo aquela cor, *Purple*. 
 
 <!--
 @note/research - Reid thought it was important for Joe Gebbia to talk about not just the Airbnb website but the entire experience around it - because he says that it is one of the things he learned from the Airbnb founders - who happen to be the founders, and designers by background. https://youtu.be/TCA_7RVo7Uo?si=DZ3j8JcF1ww-es1R&t=349 
 --> 
 
-Quando o assunto envolve liderança e design, o renomado investidor do Vale do Silício, Reid Hoffman, tem aprendido muito com os executivos Brian Chesky e Joe Gebbia, dois amigos que se conheceram na escola de design de Rode Island que criaram uma ideia maluca onde as pessoas poderiam dormir na casa das outras pessoas. No início, em 2008, o pequeno empreendimento era conhecido como AirBedAndBreakFast.com, literalmente Café da Manhã com Colchão de Ar, mas que depois se tornou um unicórnio do mundo das startups, exemplo de plataforma que emplacou o conceito de economia colaborativa, tornando-se o maior competidor de hotéis do mundo sem mesmo terem uma única propriedade para estadia. Em uma conversa-entrevista com Joe Gebbia, Reid pede para Joe falar um pouco sobre como o pensamento do design se preocupa com a experiência toda do usuário. Joe explica a ideia apresentando como que a perspectiva do design expande os horizontes de um problema específico, que no caso do Airbnb seria a questão da estadia:  
+Isso nos leva a refletir que o líder não está pintando e bordando em um canvas arbitrário. O renomado investidor do Vale do Silício, Reid Hoffman, diz ter aprendido muito com os executivos Brian Chesky e Joe Gebbia - aqueles dois estudantes de design que criaram em 2008 aquela ideia maluca (de vender café da manhã com estadia no colchão de ar) que eventualmente tornou-se um unicórnio no mundo das startups e maior competidor de hotéis do mundo - sobre a importância do design na liderança. Em uma conversa-entrevista com Joe Gebbia, Reid pede para Joe falar um pouco sobre como o pensamento do designer se preocupa com a experiência do usuário: 
 
 <!--
 @note-research citation original en-us
@@ -203,12 +219,21 @@ Quando o assunto envolve liderança e design, o renomado investidor do Vale do S
 
 -->  
 
-Na sequência, Joe enfatiza que o pensamento do designer deve considerar um arco maior. Desta forma, o trabalho do designer consiste em entender, dentro desse arco, os pontos de interação do usuário e com isso como que o usuário se conecta com a experiência. Na conversa, Joe exemplifica a ideia enquanto segura uma garrafa de água, sugerindo que essa iniciativa poderia levar o designer a colocar a mensagem no rótulo indicando as instruções para reciclagem da garrafa. 
+Na sequência, Joe enfatiza que o pensamento do designer considera um arco maior. E dentro desse arco, os pontos de interação do usuário e como o usuário se conecta com toda a experiência. Ele exemplifica a ideia, enquanto segura a garrafa de água, sugerindo que o rótulo pode indicar as instruções sobre a melhor forma de reciclar.  
 
-O que podemos tirar, dentre as várias lições deixadas pelo Airbnb, é uma lição sobre permissão. Permissão para observar o usuário, para perceber, e com isso aprender. Aprender como e porque o usuário se envolve, como e porque ele passa a confiar. E com isso quando é que ele diz palavras como "amo" na mesma frase onde está o nome da sua marca. Nesta mesma video entrevista, Joe Gebbia conta que muita coisa mudou quando eles, Brian e Joe, se aproximaram mais dos primeiros clientes de Nova Iorque, quando marcaram visitas "como fotógrafos profissionais" para ajudar seus clientes anfitriões com fotos melhores das suas residências. Ele destaca que essa proximidade permitiu um nível de percepção muito maior, inclusive ao ponto de perceberem que muitas tecnologias que eles tinham criado, por exemplo no aplicativo e no site, era um desastre total por conta que nenhum usuário conseguia entender. Na medida que foram caminhando, mais próximos desses clientes, tudo mudou; inclusive ao ponto onde alguns desses clientes começaram a usar a palavra "amo" e Airbnb na mesma frase. 
+O que podemos tirar, dentre as várias outras lições deixadas pelo Airbnb, é uma lição sobre permissão. Permissão para se aproximar do usuário ao ponto de entender quando o usuário se envolve e quando passa a confiar. Ele conta como muita coisa mudou depois que começaram a ir para Nova Iorque "como fotógrafos profissionais" com o objetivo de melhorar as fotos das residências dos anfitriões. Essa aproximação trouxe muitos frutos. Por exemplo, a oportunidade de perceber que várias das "soluções" tecnológicas criadas eram um desastre para esses usuários. Desta forma, eles avançaram até o ponto onde algo mudou, inclusive ao ponto onde alguns anfitriões "começaram a usar a palavra *amo* e *Airbnb* na mesma frase", disse Joe Gebbia. 
 
-Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco holístico - não devemos confundir com a intenção de somar todos os desejos de clientes, como uma obsessão que busca atender todos os gostos. Existe uma diferença entre o trabalho de design que busca entender o que faz um cliente se envolver, e o que faz eles confiarem, com atender a desejos arbitrários. No primeiro caso você tem um norte que também traz foco e priorização. No segundo caso você tem muita coisa para fazer e se envolver mas sem noção de como e por quê priorizar. 
+<!--
+@note/research - Joe Gebbia highlights the day where the early Airbnb customers started to use the words “Love and Airbnb” in the same sentence - https://youtu.be/TCA_7RVo7Uo?si=h7xN693t6YF5vb9h&t=570 
+--> 
 
+### Liderar não é agradar 
+
+Enquanto a ideia envolve abertura - que reconhece o usuário dentro de um arco holístico - não significa que é trata-se do movimento obsecado que quer atender a todos os gostos. Existe uma diferença entre o esforço para agradar e o esforço que faz o cliente se envolver e confirar. No primeiro caso, atendendo aos gostos e desejos arbitrários, nos confundimos. No segundo caso, encontramos um norte. No primeiro, gastamos energia sem garantias. No segundo, construimos ganhando energia. 
+
+Voltando ao canvas do Café Purple de Salamanca, ficou claro que a intenção não é criar um ambiente ideal que agrada a todos. Eu notei isso nos comentários online. E está tudo bem, assim como a arte do artista honesto não quer atender a todos os gostos. Mas não podemos dizer que não é coerente - que não tem uma cor, um estilo, ou uma identidade. Esse quadro é coerente, acima de tudo, para a liderança e para os colaboradores. Mas é também coerente para esses usuários que confiam e lá encontraram valor. Não agrada a todos, assim como as obras de arte ou as histórias, mas envolve, como uma música envolve seus fãs, como um bom livro envolve o leitor, inclusive ao ponto do leitor escrever para o autor. 
+
+No último dia, naquele momento de despedida no Café *Purple*, presenciei a cena especial: A Marta levantando o vidro de uma das mesas enquanto uma voz da cozinha perguntou o que ela fazia. Ela explicou de quem era a carta. Ficou mais claro como aquele momento era, para eles, um ritual. E para despedir, agora levando essa foto colorida, disse para Marta que "vou alí no Brasil buscar minha esposa e já volto!" 
 
 <!-- 
 @todo 
@@ -216,19 +241,6 @@ Enquanto essa ideia envolve uma abertura - por um olhar que reconhece o arco hol
 -->
 
 <!--
-@note/research - Joe Gebbia highlights the day where the early Airbnb customers started to use the words “Love and Airbnb” in the same sentence - https://youtu.be/TCA_7RVo7Uo?si=h7xN693t6YF5vb9h&t=570 
---> 
-
-
-
-
-
-<!--
 @todo 
-* [ , further] @todo - p2 - In "Holistic design" - Consider, that the case with Magenta, what's in the air that sometimes we can't touch exactly, it's a mix, it's a blend, it's a unique blend. It's in the architecture, it's in furniture, it's in the soundtrack, it's in listening to the customers, it's in valuing the customers.
+* [ , anchored] @todo - p1 - In "Design holístico" Consider to put a footnote about airbnb founders. @refid-20250217-60aca772-b208-45c3-b1ea-af07372d5d8f
 -->
-
-No último dia que visitei o café-bar *Purple* presenciei a cena especial da Marta levantando o vidro de uma das mesas enquanto alguém na cozinha perguntava sobre o que era. Ela explicou de quem era a nova carta. Ficou ainda mais claro como eles respeitavam aquelas cartas assim como aquele momento era um ritual. 
-
-Espero que esta narrativa nos ajude a refletir sobre como o movimento de liderança tem poder de influenciar o design da experiência. É o movimento de liderança que dá abertura para o que acontece, não só para clientes entrarem pela porta, pedirem as coisas e irem embora, mas para tudo que entra e fica; como a música ambiente, por exemplo. Com essa visão, existem consequências. A primeira é que ser líder não é sobre saber, ou sobre controlar, e sim sobre ouvir, perceber, e se conectar com um público. O outro ponto envolve reconhecer que esse movimento de abertura, por meio do pensamento do design, leva ao fechamento, às limitações de certa forma, mas ao ambiente que é coerente para aquele público e que gera confiança e com isso cria uma experiência marcante. Com isso, de forma síncrona, uma marca forte tanto para quem trabalha como para os clientes. 
-
