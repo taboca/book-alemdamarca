@@ -201,7 +201,7 @@ Isso nos leva a refletir que o líder não está pintando e bordando em um canva
 > *”From the very beginning, we thought about this more than just a place to put your head at night, a place to lay down. Even from that very one weekend, we're like 'well, what if we pick them up from the airport, what if we provide breakfast in the morning, what if we give them Bart pass [train] to get around the city with a map to San Francisco.’ So even from the beginnings of this weird weekend project was this idea of how do you think about everybody's experience from end to end. “* (Gebbia, Joe., YCombinator, 2017) 
 -->
 
-> *“Desde o início, pensamos nisso como mais do que apenas um lugar para descansar a cabeça à noite, um lugar para se deitar. Mesmo naquele fim de semana inicial, estávamos tipo ‘bem, e se nós os buscássemos no aeroporto?, e se fornecêssemos café da manhã pela manhã?, e se déssemos um passe do Bart [trem] para que pudessem circular pela cidade com um mapa de San Francisco?’ Então, desde o começo desse estranho projeto de fim de semana, já existia essa ideia de como pensar na experiência de todos, de ponta a ponta.” (YCombinator, 2017, tradução nossa).
+> "Desde o início, pensamos nisso como mais do que apenas um lugar para descansar a cabeça à noite, um lugar para se deitar. Mesmo naquele fim de semana inicial, estávamos tipo ‘bem, e se nós os buscássemos no aeroporto?, e se fornecêssemos café da manhã pela manhã?, e se déssemos um passe do Bart [trem] para que pudessem circular pela cidade com um mapa de San Francisco?’ Então, desde o começo desse estranho projeto de fim de semana, já existia essa ideia de como pensar na experiência de todos, de ponta a ponta.” (YCombinator, 2017, tradução nossa).
 
 <!-- 
 @todo 
@@ -219,9 +219,9 @@ Isso nos leva a refletir que o líder não está pintando e bordando em um canva
 
 -->  
 
-Na sequência, Joe enfatiza que o pensamento do designer considera um arco maior. E dentro desse arco, os pontos de interação do usuário e como o usuário se conecta com toda a experiência. Ele exemplifica a ideia, enquanto segura a garrafa de água, sugerindo que o rótulo pode indicar as instruções sobre a melhor forma de reciclar.  
+Joe está enfatizando que o pensamento do designer valoriza um arco maior. E dentro desse arco, os pontos de interação do usuário. Ou seja, como o usuário se conecta com toda a experiência. Ele exemplifica assa ideia, enquanto segura uma garrafa de água, sugerindo que o rótulo poderia falar sobre a melhor forma de reciclar.  
 
-O que podemos tirar, dentre as várias outras lições deixadas pelo Airbnb, é uma lição sobre permissão. Permissão para se aproximar do usuário ao ponto de entender quando o usuário se envolve e quando passa a confiar. Ele conta como muita coisa mudou depois que começaram a ir para Nova Iorque "como fotógrafos profissionais" com o objetivo de melhorar as fotos das residências dos anfitriões. Essa aproximação trouxe muitos frutos. Por exemplo, a oportunidade de perceber que várias das "soluções" tecnológicas criadas eram um desastre para esses usuários. Desta forma, eles avançaram até o ponto onde algo mudou, inclusive ao ponto onde alguns anfitriões "começaram a usar a palavra *amo* e *Airbnb* na mesma frase", disse Joe Gebbia. 
+Dentre as várias outras lições deixadas pelo Airbnb, uma lição é sobre permissão. Permissão para essa aproximação com o usuário ao ponto que ele envolve e confia. Ele conta como as coisas mudaram depois que começaram a ir para Nova Iorque "como fotógrafos profissionais" com o objetivo de ajudar os usuários anfitriões com as fotos de suas residências. Essa aproximação trouxe muitos frutos. Por exemplo, perceberam que muitas "soluções" tecnológicas que haviam criado eram um desastre para esses usuários. E eles avançaram desta forma, até o ponto que algo mudou. Segundo ele, ao ponto onde alguns anfitriões "começaram a usar a palavra *amo* e *Airbnb* na mesma frase". 
 
 <!--
 @note/research - Joe Gebbia highlights the day where the early Airbnb customers started to use the words “Love and Airbnb” in the same sentence - https://youtu.be/TCA_7RVo7Uo?si=h7xN693t6YF5vb9h&t=570 
