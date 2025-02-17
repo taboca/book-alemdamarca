@@ -232,12 +232,6 @@
 
 
 
-
-* [ ] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
-
-* [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
-* [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
-
 * [ ] @todo - p1 - In "Cliente chato", consider my father and myself and this whole book. 
 * [ ] @todo - p1 - In "Cliente chato", check on rights, with @contact:OM, and notes in "Livro - além da marca - caso do quantitativo cantina Romar" ref "Aqui também é um lembrete de uma outra narrativa, que é a narrativa do não mudamos nada, de um consumidor bem crítico, que é um cliente fiel de uma cantina tradicional Ribeirão Preto, onde ele um dia falou que algo mudou em relação ao prato, e o novo gerente, que é descendente dos fundadores originais argumentou que nada mudou, e no argumento falou que as quantidades eram as mesmas, e como se naquele momento para esse cliente crítico a resposta já estava lá, como se ele tivesse dito exatamente, as quantidades são as mesmas e tudo começou assim, uma ideia, passar pelo quantitativo não significa nada talvez eram os ingredientes, ficou um momento um pouco tenso, talvez o jovem que está na liderança pode até não entender, se aquela pessoa está lá para criticar, somente por criticar, mas ali pelo menos foi um caso que passou mais para frente, onde esse jovem gerente viu o cliente lá e falou que gostaria de conversar mais com ele, estava interessado sim em melhorar, em trazer a identidade da cantina de volta, então pelo menos estamos aí um caso de alguém que se abriu, está aberto a ouvir"
 
@@ -345,10 +339,5 @@
 * [ , ] @todo - p1 - In "A estante da culinária" - Need to incorporate the contribution from "Las recetas de la felicidade" and "La cocica sagrada", ref ABNT: MANGAS, S. Las recetas de la felicidad. Madrid: El País Aguilar, 2013 and ref "CHOMSKI, Débora. La cocina sagrada. Madrid: Alba Editorial, 2009." @refid-20241210-4ee3d8ac-34d3-4d87-a57f-240ba8ec0224
 
 * [ , ] @todo - p1 - In "A estante da culinária" - Consider the case which @Contact:RCS had mentioned after visiting the VegFest in São Paulo, the topic of a transition of Fugini from a bolonhesa sauce to steps of evolution with soy, and then a bolonhesa like sauce entirely with soy. https://www.fugini.com.br/produtos/atomatados/105/molho-de-tomate-premium-fugini-sache-300g @refid-20241210-3e531059-883f-472b-8354-bcc1ebbd3047
-
-
-
-
-
 
 

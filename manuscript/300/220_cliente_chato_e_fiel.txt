@@ -2,16 +2,15 @@
 
 <!--
 
+@version 
+
+* v1.0
+
 @todo
 
 * [ ] @todo - p1 - In "Cliente chato" - Consider a new leading paragraph structure,  that has a end paragraph "Mas sim, pode ser ..." With  "Faremos isso também porque organizando nossa comunicação, orientados a valores, encontramos um foco e clareza sobre interações que podem passar despercedidas como reclamações ou discussões. " #ref-paper-replace-dec26-clacli0070 @refid-20241226-85bd2cbc-1a79-4a7d-8dce-b27711564f6e
 
 * [ ] @todo - p1 - In "Cliente chato" - Outline: S "Mundo estabelecimentos, um ser, comentários chatos, físico e digital - se for óbvio é relevante, senão é cliente clato." C "Problema, temos muito mais variabilidade, realmente. Pessoas com problemas, situações de stress, tudo. P "O que fazer?" R "Pode ter algo atrás; Como acontece; " @refid-20241226-e2235865-6eda-4d56-af36-94995f76f517
-
-* [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
-* [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
-
-* [ , anchored] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
 
 * [ ] @todo - p1 - In "Cliente chato", consider my father and myself and this whole book. 
 * [ ] @todo - p1 - In "Cliente chato", check on rights, with @contact:OM, and notes in "Livro - além da marca - caso do quantitativo cantina Romar" ref "Aqui também é um lembrete de uma outra narrativa, que é a narrativa do não mudamos nada, de um consumidor bem crítico, que é um cliente fiel de uma cantina tradicional Ribeirão Preto, onde ele um dia falou que algo mudou em relação ao prato, e o novo gerente, que é descendente dos fundadores originais argumentou que nada mudou, e no argumento falou que as quantidades eram as mesmas, e como se naquele momento para esse cliente crítico a resposta já estava lá, como se ele tivesse dito exatamente, as quantidades são as mesmas e tudo começou assim, uma ideia, passar pelo quantitativo não significa nada talvez eram os ingredientes, ficou um momento um pouco tenso, talvez o jovem que está na liderança pode até não entender, se aquela pessoa está lá para criticar, somente por criticar, mas ali pelo menos foi um caso que passou mais para frente, onde esse jovem gerente viu o cliente lá e falou que gostaria de conversar mais com ele, estava interessado sim em melhorar, em trazer a identidade da cantina de volta, então pelo menos estamos aí um caso de alguém que se abriu, está aberto a ouvir"
@@ -25,6 +24,11 @@
 * Cliente chato, que importa - Este capítulo começa com a história de um feedaback duro que foi deixado em um restaurante tradicional, que poderia ser recebido como um "comentário negativo de um cliente chato" mas que eventualmente foi reconhecido como um feedack importante dado por um cliente fiel. Consideramos os desafios para entender feedback por duas perspectivas. A primeira considera como as próprias métricas de execução tem poder de silenciar o feedback. A segunda destaca a importância de levar em consideração os perfis daqueles que deixam feedback. Neste sentido, apresentamos o modelo criado pelo pesquisador Adam Grant que identificou quatro perfís e destacou a importância de valorizar um perfil em especial: quem deixa um feedback duro mas ao mesmo tempo se importa "com você", nos levando a reconsiderar aquele "comentário negativo de um cliente chato" como possivelmente "um feeback crítico de um cliente fiel".  
 
 @done 
+
+* [ done , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
+* [ done , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
+
+* [ done , anchored] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
 
 * [ Done, anchored ] @todo - p1 - In "Cliente chato" - Shorten the Peter Drucker paragraph, and refer to it at "Sobre isso, sobre comunicar". @refid-20241226-0e9c1cad-b037-4ca7-806e-3adcaa1ba095
 
@@ -42,55 +46,62 @@
 
 * [Done, anchored ] @todo - p1 - In "Cliente chato" - Add a last paragraph, "Talvez meu pai tenha deixado uma esperança sobre os chatos, que levou refletir sobre o potencial do meu chato". #ref-paper-dec26-clicha-0010 @refid-20241226-7ef7b4ad-6487-4745-aad4-ce081a4565f5
 
-
 -->
 
 
 
-À medida que o mundo se acelerou, ficou mais agitado, como uma panela de pressão.  É observável nosso ambiente - logicamente nos estabelecimentos de alimentação - mais pessoas, mais agitadas, muitos estressados, e mais comunicações que de fato são extremas, como grandes elogios ou grandes críticas. Ou ainda, mesmo que críticas suaves, também percebemos mais como críticas, até por conta de um ritmo que não permite a versão lenta, restando somente o curto e grosso, ou como notas de corte.  
 
-Com a operação sobrecarregada, nos distanciamos da possibilidade de ouvir os clientes, focando no que é transacional, cuidar do que é esperado de acontecer. Quanto à construção, que depende de feedback, confiamos que a gestão traz respostas; com isso, alimentando um distanciamento onde nossos colaboradores não se envolvem em mudanças. 
 
-Este capítulo nos traz um momento de reflexão sobre a importância de ouvir. Mas além disso, sobre ouvir a partir de princípios, não para ouvir toda e qualquer ideia, mas criarmos um ambiente que nos equipa para navegar por feedback, principalmente daqueles que estão ao nosso lado, mesmo que pareçam em uma primeira impressão, como chatos.
 
-### Pais chatos 
 
-É bem complexo, para a liderança dos estabelecimentos, saber quem é quem. Eu mesmo não tinha clareza sobre isso porque o primeiro “cliente chato” que conheci foi meu pai. Ele era visto como um chato, para muitos. Mas para outros, que entendiam sua chatice, ele era respeitado. Aliás, sabemos muito sobre essa questão do chato que encontra outro chato e esses chatos se tornam amigos que não se veem como chatos. 
+
+
+
+E o mundo acelerou, ficou mais agitado, como uma panela de pressão. E de forma análoga, se você abrir o estabelecimento de alimentação, lá encontrará mais pessoas, mais agitadas, mais estressadas, com comunicações mais acaloradas, como grandes elogios ou grandes críticas. Muitos dos papos do cliente - que não encaixa no transacional básico - são ignorados pela operação. E quando levemente percebidos, trazem dores e não soluções, tipo quando percebemos que o cliente está fazendo sessão de terapia. 
+
+Nessa situação, sobrecarregados, a operação se distancia do perceber o feedback do cliente que poderia mudar tudo, focando 100% no que é transicional, cuidando ou controlando só o que é esperado. Desta forma, o lado construtivo estratégico, que depende desse feedback, fica na mão da gestão, que por sinal muitas vezes fica longe e não vê o que acontece na operação. 
+
+Vamos refletir sobre a importância de ouvir, de perceber os clientes. Mas embutido nessa ideia, refletir sobre a pressão "estratégica" que sufoca os colaboradores nesse modo transacional, fazendo deles coloraboradores obcecados para fazer o que tem que ser feito, sem tempo para ouvir ou perceber; sem participar do processo de feedback virtuoso que poderia mudar muita coisa para melhor. 
+
+### Pai chato filho chato 
+
+É complexo, não só para a operação dos estabelecimentos, mas no geral, saber quem é quem. É como se ficássemos distraídos, com o tom de voz da pessoa, com o jeito, com aquilo que parece ser uma chatice, ou o que, naquela hora, parece atrapalhar o processo, como não adequado. 
+
+O primeiro cliente chato que conheci foi meu pai. Para muitos - por exemplo estabelecimentos - ele era um chato. Mas para outros que conheciam a sua chatice, ele era respeitado. Sabemos sobre isso: quando dois chatos se encontram e tornam-se amigos pois confiam em suas chatisses.
 
 <!--
 @todo 
 * [Done, anchored ] @todo - p1 - In "Cliente chato" - Add a last paragraph, "Talvez meu pai tenha deixado uma esperança sobre os chatos, que levou refletir sobre o potencial do meu chato". #ref-paper-dec26-clicha-0010 @refid-20241226-7ef7b4ad-6487-4745-aad4-ce081a4565f5
 -->
 
-Então, quando meu pai saia para as ruas de Ribeirão Preto, o que era raro, era uma luta. E quando ele ia, estávamos lá, no local e tudo, de novo, ficava chato, ou difícil. Ele acabava reclamando muito do restaurante, quase que brigando com o garçom ou quem quer que estivesse lá. Então aquele momento era mais ou menos perdido. E ele arrematava, no caminho de volta para casa, confirmando a tese que basicamente era “não quero sair porque é sair para passar mal”. O pior, para todos nós espectadores do show, era que era verdade, lá no fundo. Todos sabíamos que ele estava certo. Talvez por ser meu pai eu tenha mantido uma esperança sobre os supostos chatos, uma que me levou a refletir sobre o potencial do meu chato interior.
+Quando saímos para a rua, o que era raro, era uma luta. Chegávamos ao local, tudo bem, então tudo começava. Ele reclamava do restaurante, brigava com o garçom ou quem quer que estivesse lá. E no caminho de volta para casa, ele arrematava, confirmando aquela tese que dizia "não quero sair porque é sair para passar mal!". Para nós, espectadores do show, ainda assim era bem chato, mesmo que normalmente sabíamos que ele estava certo.
 
 <!--
 @todo 
 * [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Em parte, em uma ... boa pitada de invencionismo." with "Sobre o meu chato interior, sei que em parte se parece com a chatisse do meu pai. Sempre reclamei das coisas também. Mas este é um chato diferente, que prepara o prato com narrativas com pitadas de ironia, às vezes dramáticas às vezes tristes às vezes engraçadas. Um chato que dá voltas em torno dos "bugs" dos estabelecimentos. #ref-paper-replace-dec26-clicha-0020 @refid-20241226-43e4f7c6-825d-4e6e-b36b-cbb07bc41253
 -->
 
-Não sei se em cafés eu cresci; mas sei que por cafés eu trabalhei muito. Sobre o meu chato interior, em parte se parece com a chatisse do meu pai pois sempre reclamei das coisas. Mas este é um chato diferente, que prepara o prato, com narrativas, e tempera com pitadas de ironia. E, às vezes, dá uma apimentada dramática. Às vezes, dá uma salgada com lágrimas, desenha um pentagrama de ketchup no prato, etc. E ainda tenta rir de tudo dando boas voltas em torno dos "bugs" dos estabelecimentos. 
+Por esses tantos cafés que tanto trabalhei, descobri também meu chato interior. Em parte, parecido com o meu pai, reclamando das coisas. Mas todo chato é diferente. O meu é aquele chato que prepara o prato, que coloca uma narrativa, acompanhada com ironia, temperada e apimentada com uma porção de drama, e finalizada com sal em gotas de lágrimas. Às vezes quero desenhar no prato o pentagrama com ketchup. Para te contar um pouco sobre o meu lado chato, peço que me acompanhe em duas histórias que envolvem pombos:
 
-Para te contar do meu lado chato semi-piadista eu tenho uma narrativa que criei depois que me mudei de São Carlos, quando tinha saudades de uma padaria especial onde de lá tanto trabalhei. Voltando para Ribeirão, contemplando o passado, falei muitas vezes que tinha "saudades dos pombos da padaria Tabajara." 
+Uma certa vez fiquei com raiva de ver uma grande quantidade de pombos dentro do restaurante - por sinal bem próximo ao renomado hospital dentro do campus daquela renomada universidade - e ao me deparar com uma gigantesca placa que dizia "não alimente os pombos!". "Mas como assim não alimentar os pombos se toda essa área está coberta por farelos de pastel e outros salgadinhos?", pensei. Achei tão bizarro que na hora de deixar a avaliação pública eu decidi deixar em inglês, uma avaliação 5 estrelas, convidando toda a comunicade acadêmica daquele renomado curso de medicina para uma vivência meditativa junto a natureza, e junto aos pombos. 
 
-A situação era a seguinte: A padaria fez a parte dela, colocaram telas anti-pássaros. E sabemos também muito bem que pombos não passam por telas. Mas também sabemos que pombos são espertos. E lá em São Carlos, do lado do campus da USP, os pombos eram espertos. Então eles entravam pela porta da frente que não tinha tela. E lá ficavam, pegando as migalhas dos estudantes e doutores. E ai de você se tentasse espantar os pombos. Eles se perdiam com as emoções, ficavam desnorteados, e para as telas eles voavam e lá se debatiam. Tudo isso eu pude ver, na minha mente, enquanto no frio de São Carlos tomava aquele delicioso pingado gelado enquanto comia aquele pão quentinho com ovo. Mas aceito que uma observação mais científica é que poucos espantavam os pombos e que, na real, eles ficavam lá dentro perambulando e ciscando e logicamente saíam pela porta da frente na hora que o chão era lavado ou na hora de fechar. 
-Provavelmente viví uma década assim, meio chato, dizendo “saudades dos pombos da padaria Tabajara”, e outras coisas sobre outros estabelecimentos. Meio com raiva, de um lado, mas de outro perambulando por esses espaços e me debatendo com essas ideias, críticas, sem achar a saída. Por anos fiquei assim, me julgando, de certa forma me vendo como um chato. 
+A outra história, também com pombos, é de longa data. Costumo dizer, "saudades dos pombos da padaria Tabajara". A situação era a seguinte: a padaria fez a parte dela. Colocaram telas antipássaros. Mas sabemos também, muito bem, que pombos não passam por telas. Em outras palavras, são espertos. Mas talvez lá em São Carlos, bem do lado da renomada universidade, aqueles pombos eram mais espertos. Porque eles não entravam pelas telas, eles entravam pela porta da frente, sem pressa. E lá eles ficavam, comendo as migalhas, as sobras que caíam das mesas, dos estudantes e doutores. Agora eu aprendi a duras penas espantar os pombos não era uma boa ideia. Porque os pombos se perdiam nas emoções. E desnorteados, para as telas eles voavam, e lá eles se debantiam porque não lembravam de sair pela porta de onde vieram. Tenho que concluir como cientificamente válido, que as pessoas sabem conviver com os pombos, minimamente não espantando, deixando eles perambulando e ciscando e esperando que saiam pela porta da frente na hora de fechar ou na hora que o chão é lavado. 
+
 
 <!--
 @todo
 * [ Done, anchored ] @todo - p1 - In "Cliente chato" - Replace "Aliás, enquanto ... aquilo." with "Sobre esse evento, um amigo deu nome, dôssie. E com isso nasceu um mito - quando o Marcio envia o Dossiê é o fim do estabelecimento. Nunca mais fiz outro. Mas fiquei pensando sobre aquele comportamento, enquanto ainda chato. " #ref-paper-replace-dec26-clicha-0030 @refid-20241226-5d262f1f-ca83-48e4-b43f-cdd502394295
 -->
 
-Em outro episódio, ainda em São Carlos, eu escrevi para um restaurante Mexicano. Eu vi algo incrível, uma oportunidade para o estabelecimento. Acabei escrevendo 20 páginas. Meu amigo chamou aquilo de "O dossiê". Deixei o monobloco na porta do restaurante. Não lembro o que virou, se conversamos, sim ou não. Acho que o dono agradeceu. Mas enfim, o restaurante fechou. Sobre esse evento, um amigo deu nome, dôssie. E com isso nasceu um mito - quando o Marcio envia o Dossiê é o fim do estabelecimento. Nunca mais fiz outro. Mas fiquei pensando sobre aquele comportamento, enquanto ainda chato.
 
-O ponto de inflexão aconteceu uma década depois, durante o período de mais ou menos um ano onde eu escrevi grande parte do meu livro "Slow Down to Start Up" do Café Pagliaroni em Ribeirão Preto. Talvez tenha sido o próprio processo de escrita desse livro - que fala sobre o poder da desaceleração - que me levou a ver algo sobre este e aquele consumidor ou cliente ou chato. 
+Eu provavelmente vivi algumas décadas assim, meio chato ou meio com raiva, e de certa forma perambulando por espaços ou me debatendo com as ideias sem achar saída. Mas também, eventualmente, encontrando a saida pelo caminho menos acelerado, aquele que me permitiu colocar para fora, por exemplo na segunda parte do livro, assim como encontrar a versão mais reflexiva. 
 
 <!--
 @todo
 * [Done , anchored ] @todo - p1 - In "Cliente chato" - Replace "Primeiro, que atrás ... sobre valor. " with "Por exemplo, que atrás de um cliente chato pode ter uma pessoa especial. Ou mais precisamente, a dica é essa: o comentário percebido como chato - certamente desconfortável -  por ser guiado por emoções é a ponte que pode para oportunidades." #ref-paper-replace-dec26-clicha-0040 @refid-20241226-24c2a348-6ae3-43d8-b142-bb5db6fd7d80
 -->
 
-Minha interação com este café foi diferente. Comecei escrevendo por e-mail, enviando sugestões, a partir de observações. Algumas foram bem objetivas, como por exemplo quando apontei sobre o risco de um degrau e como muitas pessoas estavam caindo lá. Eles, o dono, me respondiam agradecendo. Mas eu também me peguei, de certa forma ou de uma nova forma, respeitando o tempo deles. Me peguei mais leve e observando que eu reconhecia o trabalho deles, em primeiro lugar. É como se eu não tivesse mais tão urgente, só passando um meio feedback à moda “curto e grosso”. Também me peguei elaborando mais sobre valores. Acho que foram nesses momentos, falando sobre valores, que me fizeram ver várias coisas. Por exemplo, que atrás de um cliente chato pode ter uma pessoa especial. Ou mais precisamente, a dica é essa: o comentário percebido como chato - certamente desconfortável -  por ser guiado por emoções é a ponte que pode para oportunidades.
+Como um cliente desacelerado, percebi um ponto de inflexão nas cartas que deixei para o Café Pagliaroni, em Ribeirão Preto, onde escrevi por um ano. Foi uma interação bem diferente. Comecei escrevendo por e-mail, enviando sugestões, a partir de observações. Algumas foram bem objetivas, como por exemplo quando apontei sobre o risco com o degrau e como algumas pessoas estavam caindo lá. O pessoal da liderança respondeu agradecendo. Mas uma outra diferença estava nas minhas cartas, que agora estavam respeitando o tempo deles, reconhecendo o trabalho deles em primeiro lugar. Então aquelas cartas estavam menos aceleradas, longe de ser "curto e grosso". Por estar em outra agenda, também percebi que as mensagem estavam essencialmente falando de valores. Aquelas cartas foram lidas. E respostas foram escritas. E eu percebi o uso da palavra parceiro nas respostas. Conclusão: atrás de um cliente chato tem um cliente não chato. 
 
 <!--
 @todo 
@@ -98,7 +109,9 @@ Minha interação com este café foi diferente. Comecei escrevendo por e-mail, e
 
 -->
 
-Formalizando o desafio à nossa frente, em diante de todas as interações e clientes chatos, mais ou menos chatos, casos legítimos ou confusos, e considerando a velocidade que operamos, precisamos valorizar uma forma para ouvi-los, aumentar nossa atenção e paciência, justamente para obter valor e conseguirmos ressignificar essas interações. Imagina, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata na sua frente. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Vamos considerar dois cenários baseados em histórias reais, primeiro uma situação do comentário curto e grosso que foi silenciado. Depois, um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial.
+Formalizando o desafio à nossa frente: teremos mais interações. Com clientes chatos, mais ou menos chatos, casos legítimos ou confusos. Considerando a velocidade que operamos, precisamos criar uma forma para perceber, com mais paciência, inclusive considerando formas de ressignificar essas interações e assim encontrar valor. Imagine, se soubessemos que toda interação com um cliente chato geraria valor? Provavelmente iríamos ouvir a próxima pessoa chata. Diante de um paradoxo, da possibilidade da não comunicação a partir da percepção do cliente chato e seu comentário curto e grosso que esconde algo especial, vamos fazer algo. Vamos considerar dois cenários baseados em histórias reais, primeiro uma situação do comentário curto e grosso que foi silenciado. Depois, um caso onde o estabelecimento quase não percebeu, mas conseguiu, nos 40 minutos do segundo tempo, enxergar algo especial.
+
+
 
 
 
@@ -111,23 +124,19 @@ Formalizando o desafio à nossa frente, em diante de todas as interações e cli
 
 <!--
 @todo 
-* [ , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
-* [ , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
+* [ done , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
+* [ done , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
 
 --> 
 
-Você deve se lembrar da história do atendente que me disse "O que os olhos não veem, o coração não sente", dentro do capítulo que *QR Code esse desconhecido* na segunda parte, *A Bolha*. Esse incidente ocorreu quando perguntei a opinião dele depois de apresentar a hipótese de que certos clientes poderiam ficar desconfortáveis por conta do cardápio só ser visto depois de tirar uma foto do QR Code com o Smartphone, com isso possivelmente poderiam perder clientes, por exemplo pessoas que poderiam apreciar o ambiente requintado e e tivessem interessadas em pagar um valor premium por um atendimento especial, mais simples, mais fácil. Vale lembrar que naquele dia fui lá para relaxar, era minha meta inicial, antes de ter engajado nessa preocupação depois de ver a casa vazia só com alguns estudantes conectados. 
-
-Eu nunca vou esquecer a resposta, por conta que foi tão forte ao ponto que desengajei da conversa ou discussão - tipo, enquanto uma gotinha de lágrima escorre. É lógico, pois não havia o que pudesse ser dito. Aquele é o tipo de comentário que chamo de comentário finalizador. Tem certos momentos, na vida, que os comentários finalizadores são apropriados, é verdade. Mas é triste notar que o funcionário estava naquela condição. Quando a operação chega nessa condição, quando as coisas giram tão rápido, literalmente perdemos nosso tempo por conta da nossa incapacidade de ouvir, não só os clientes mas o ambiente todo. 
-
+Você deve se lembrar da história do atendente disse "O que os olhos não veem, o coração não sente", no capítulo *QR Code esse desconhecido* quando sugeri que o estabelecimento poderia estar perdendo clientes. Então estive, no lado chato da história mais uma vez, vivenciando aquilo que chamo de comentário finalizador. O silêncio. Mas também conclui que não pode ser culpa do atendente porque essencialmente é resposabiliade da liderança criar o ambiente. Em outras palavras, a liderança cria as condições, por exemplo quando alimenta aquela incapacidade de ouvir (não só os clientes mas o ambiente todo). 
 
 <!--
 @todo 
-
 * [ Done, anchored ] @todo - p1 - In "Cliente chato" - Shorten the Peter Drucker paragraph, and refer to it at "Sobre isso, sobre comunicar". @refid-20241226-0e9c1cad-b037-4ca7-806e-3adcaa1ba095
 -->
 
-Quando olhamos pela ótica da comunicação e seu papel na gestão, podemos refletir sobre essas situações quando a operação não permite que colaboradores ou clientes, como subordinados ao ambiente, possam efetivamente se comunicar, consequentemente, impedem que valor seja criado. Em Informação, Comunicação e Compreensão (2012), Peter Drucker reconhece que é papel da liderança criar as condições para que os receptores (clientes, colaboradores) possam se comunicar efetivamente. 
+Para considerarmos a influência da gestão na comunicação - e consequentemente a responsabilidade - temos que começar com a ideia de que os clientes (assim como os colaboradores) são de fato subordinados. Em Informação, Comunicação e Compreensão (2012), Peter Drucker reconhece que é a liderança quem cria as condições para que os receptores (como clientes, colaboradores) possam se comunicar efetivamente. 
 
 <!--
 @aiuse 
@@ -141,49 +150,58 @@ Quando olhamos pela ótica da comunicação e seu papel na gestão, podemos refl
 * @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
 -->
 
-Neste sentido, Drucker reconhece que "O ponto de partida da comunicação nas organizações deve ser fazer o receptor tentar se comunicar." Quando a liderança reconhece essa responsabilidade, ela cria as condições no meio, permitindo aos seus colaboradores elevar a comunicação - além do respeitar ou traduzir o que é dito - gerando um ambiente saudável onde os envolvidos reconhecem que suas interações de comunicação geram mudanças. Em um estabelecimento que valoriza a comunicação dentro da ótica da gestão, os colaboradores tem tempo para conversar sobre esses assuntos, sentem-se responsáveis pelos canais e ferramentas, como por exemplo as caixas de sugestões, e ainda particularmente responsáveis por avaliar se o processo ou ferramenta ou meio está ajudando ou atrapalhando a comunicação. 
+Ao reconhecer que "o ponto de partida da comunicação nas organizações deve ser fazer o receptor tentar se comunicar," a liderança cria as condições para que os colaboradores possam fazer o mesmo. Começando com permissão para ouvir, a comunicação se envolve em traduzir e transmitir valores a partir dessas interações aos níveis acima. Em uma gestão que valoriza a comunicação - de baixo para cima - como parte do processo de evolução, os colaboradores tem tempo para perceber porque podem conversar sobre o que acontece. Com isso sentem-se responsáveis - pelos canais e ferramentas de comunicação - e tornam-se efetivamente responsáveis, por exemplo envolvidos em checar se o meio (como as caixas de sugestões) e seus processos e ferramentas está ajudando ou atrapalhando essa comunicação. 
+
+Para o renomado Adam Grant, autor de Originais, temos que tomar cuidado quando orgulhosos e filosóficos dizemos para nós mesmos “não me traga problemas, traga-me soluções” mas essencialmente estamos travados em um ambiente que não evolui. Grant aponta que as organizações inovadoras criam uma cultura que não vê problemas em ver problemas. É por essa razão que algumas corporações inclusive antecipam a leitura da visão honesta e crítica nomeando um advogado do diabo (GRANT, 2017, p. 180). Em outras palavras, não temos porque esperar os problemas chegarem ao ponto insuportável para resolvê-los. 
+
+<!--
+@references
+* @reference - GRANT, Adam. Originais: como os inconformistas mudam o mundo. Tradução de Sérgio Rodrigues. Rio de Janeiro: Sextante, 2017.
+-->
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
 @todo 
-* [ , anchored] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
+* [ done , anchored] @todo - p1 - In "Cliente chato", bring the story of Adam Grant and the different kinds of feedback. @refid-20241226-e655ff74-ed74-4001-b280-6d8dda3485f9
 
 -->
 
 
-Eu trouxe essa história de volta, não só para que pudéssemos repensar nossos processos de comunicação mas também para reconhecermos que o assunto "Como navegar feebdack" é de fato complexo. Saber ler feedback é complexo por conta que o feedback é dependente de vários fatores. Por exemplo, um cliente pode estar lá em um dia estressado e lançar mão de comentários arbitrários - tanto positivos como negativos. Por outro lado, como saber se um comentário merece mais atenção? Para nos ajudar com isso, o renomado Autor Adam Grant, autor de Originais, estruturou algumas ideias para nos ajudar.
 
-Um dos alertas que Adam Grant faz é sobre a cultura de gestão que, com um tom filosófico, geralmente nos envolve com a ideia: “não me traga problemas, traga-me soluções”. É verdade que, ao começar assim, somos motivados a dar mais atenção e entender o porquê da solução depois. Por outro lado, o foco exagerado nessa orientação pode nos distanciar do interesse em buscar leituras mais honestas sobre potenciais problemas. A solução de muitas organizações inovadoras consiste em criar um ambiente onde cultura não vê problemas em ver problemas. Iniciativas dessa ordem não se limitam a criar corporações mais resilientes, dado que prever caminhos diversos - negativos ou positivos - pode ser uma prática que ajuda a selecionar ideias mais criativas. É por isso que algumas corporações antecipam a leitura de uma visão honesta e crítica, literalmente nomeando um advogado do diabo (GRANT, 2017, p. 180). Em outras palavras, não temos porque esperar os problemas chegarem ao ponto insuportável para resolvê-los. 
+
+
+
+
+
+### 40 minutos do segundo tempo
 
 <!--
 * [ ] @todo-editing #review-research - In "Cliente chato e fiel" - Check Adam Grant supporting points. @refid-20241226-716536e8-7140-4c29-9011-1c6394f23594
 -->
 
-Em Dar e Receber (GRANT, 2014) Adam também chama nossa atenção para percebermos com quem estamos falando na hora de obter feedback. Para ajudar com isso, ele desenha um gráfico que separa as pessoas em quatro quadrantes definidos pelo eixo X, da agradabilidade quem mede quanto alguém concorda ou discorda de você, com o eixo Y, do egoísmo-autruísmo que mede a motivação sem intenção de ajudar até real intenção de ajudar. Em um dos extremos, temos aquela pessoa que nunca desiste de você, a amiga incondicional mas que infelizmente por concordar com tudo não lhe dá a visão honesta e descordante da vida, como algumas mães por exemplos. No extremo oposto, é simples ignorar essas, por ser as pessoas que não se importam com você e também discordam. Mas os dois outros quadrantes são realmente interessantes. Um deles, é o que o Adam chamaria de "amigo da onça" que pode concordar com você porém não se importa de verdade - logicamente um perfil para tomarmos cuidado. Já o quadrante restante é considerado o perfil ideal para feeddback. Isso por conta que estes se importam com você, porém não hesitam em discordar. É o perfil honesto que se importa. No mundo dos estabelecimentos, devemos prestar atenção neste perfil, que inclusive pode passar despercebido como o perfil do cliente chato. Em outras palavras, devemos ficar de olho porque um "cliente chato" pode ser de fato o cliente chato e fiel. 
+Em Dar e Receber (GRANT, 2014) Adam também chama nossa atenção para percebermos com quem estamos falando na hora de obter feedback. Para ajudar com isso, ele desenha um gráfico que separa as pessoas em quatro quadrantes definidos pelo eixo X, da agradabilidade, ou seja quanto a pessoa concorda ou discorda de você; e o eixo Y, do egoísmo-autruísmo que mede quanto a motivação em ajudar até verdadeira. No quadrante um, ele identifica aquela pessoa que nunca desiste de você, a amiga incondicional ou em alguns casos as mães, que para agradar deixa de ser honesta com você. No extremo oposto, são as pessoas que não se importam com você e também discordam. Para Grant, essas são fáceis de ignorar. Mas os dois outros quadrantes é que são interessantes: por exemplo, o que ele chama de "amigo da onça", aquele que concorda com você mas não se importa de verdade. Esse é um perfil que temos que navegar com cautela. Já o quadrante restante é considerado, segundo Grant, é um perfil que merece grande atenção porque esse sim se importa com você *mas* também não hesita em discordar. Em outras palavras, é o perfil honesto que também se importa. Em outras palavras, devemos ficar de olho porque pode ser que o "cliente chato" é o cliente chato e fiel. 
 
 <!--
 @references
-* @reference - GRANT, Adam. Originais: como os inconformistas mudam o mundo. Tradução de Sérgio Rodrigues. Rio de Janeiro: Sextante, 2017.
-
 * @reference - GRANT, Adam. Dar e receber: uma abordagem revolucionária sobre sucesso, generosidade e influência. Tradução de Afonso Celso da Cunha Serra. Rio de Janeiro: Sextante, 2014. 
 -->
 
+Isso nos leva a cena que ouvi de um historiador-empreendedor-chefe que esteve na liderança de um famoso restaurante mexicano por décadas. Quando o conheci ele falou sobre a culinária mexicana, sobre a preocupação com o milho, pensei qu era a única coisa que explicaria aquelas casas de tacos da Califórnia onde o profissional “da chapa” orquestrava taquitos de duas tortilhas de milho, frescas, que se encontraram com carnitas, que recebiam a aquele toque de limão fresco, o coentro, fresco, tudo aquilo acompanhado com guacamole, e aquele “vinagrete” com micro pedacinhos de pimentões. 
 
-### 40 minutos do segundo tempo
+O que aconteceu com ele, eu penso, pode ser considerado como sendo uma anomalia na comunicação de hoje em dia. Pois no final do segundo tempo, ouviram ele. Uma anomalia do bem. Então ele me contou sobre aquela cantina - que aqui vou chamar de Cantina 016. É uma cantina tradicional e conhecida por muitos de Ribeirão Preto das antigas. Ele disse que ia muito lá e continua indo. Em outras palavras, ele é um cliente fiel. Sobre isso, é triste pensar que com tantas tecnologias - com tudo no banco de dados - milhares de estabelecimentos continuam não entendendo nem mesmo se o cliente é fiel. 
 
+Enfim, ele ia lá desde sempre. Acompanhou o local desde a época do antigo dono que era o descendente de portugues. Ele acompanhou o longo trabalho do crescimento da marca. Eu não lembro bem de ter ido lá, se fui quando era criança. Mas lembro que muitos da família falavam sobre aquele local, principalmente minha tia que diz que adorava a “Cantina 016”. 
 
-E com isso podemos ir para a outra história porque ela é sobre quase não ouvir. Quem me contou foi uma pessoa especial que conheci no café Pagliaroni em Ribeirão Preto. Este senhor, um descendente libanês, é um historiador e grande conhecedor dos cafés e outros estabelecimentos de alimentação, apreciador de uma boa culinária do Brasil e do mundo.
+Então ele contou, que o tempo passou, que o dono mudou, que os herdeiros pegaram a liderança, e que algo mudou. E contou que um dia ele abriu a boca e falou “que não era a mesma coisa”. E que o herdeiro, agora na liderança, falou pra ele que “as quantidades eram exatamente as mesmas, que a receita não mudou, nada”. Quando ele me contou essa cena, eu vi o que aconteceu, em câmera lenta: ele dizendo “isso mesmo, as quantidades são as mesmas.”
 
-Quando ele falou sobre a culinária mexicana, a preocupação e o entendimento que eles têm sobre o milho, eu fiquei com saudades dos dias da Califórnia, quando eu entrava naqueles pequenos espaços - que normalmente jamais entraria com medo do visual - onde o profissional “da chapa” orquestrava taquitos de duas tortilhas de milho, bem frescas, que se encontraram com carnitas, e recebiam a aquele toque de limão fresco, aquele coentro, fresco, tudo aquilo acompanhado com guacamole, e aquele “vinagrete” de micro pedacinhos de pimentões - tudo que nos faz precisar inventar palavras, como Umami, para explicar o inexplicável. 
-
-Enfim, este historiador, apreciador do que merece ser apreciado, me contou sobre possível fim de um estabelecimento, um possível cliente chato, mas essencialmente sobre a possibilidade de uma comunicação. O que aconteceu com ele, eu penso, pode ser considerado como sendo uma anomalia na comunicação. 
-
-O local que ele apontou é uma cantina - que aqui vou chamar de Cantina 016 - tradicional conhecida por muitos de Ribeirão, das antigas. Ele me contou que ele foi muito lá, a vida toda. E como ele era, e ainda é, um cliente fiel. Sobre isso, um breve ponto deve ser feito, porque muitos estabelecimentos nem mesmo conseguem perceber, mesmo com todas as tecnologias que guardam tudo no banco de dados, sobre qual cliente é qual cliente, se tem um cliente fiel ou não fiel e se isso é relevante. 
-
-Ele ia lá desde sempre, acompanhou o local que foi criado por um descendente de portugues, o longo trabalho que fez a marca crescer no tempo. Eu mesmo não lembro de ter ido lá, se fui quando criança, mas é bem recorrente ouvir sobre essa cantina nos momentos de família, comendo, em casa. Minha tia sempre falava da tal “Cantina 016”. Então, ele contou, que o tempo passou, que o dono mudou, que os herdeiros pegaram a liderança, e que ele sabe que algo mudou.
-E contou que um belo dia ele abriu a boca, e falou “que não era a mesma coisa”. E o herdeiro, novo dono e então gerente, falou pra ele que “as quantidades eram exatamente as mesmas, que a receita não mudou, nada”. 
-Naquele momento, da forma que ele me contou, eu via uma cena toda, mas em câmera lenta. Um outro tipo de cena, finalizadora, que diz que nada mais precisaria ser dito, com as pupilas do gerente dilatando ao mesmo tempo que um sorriso se fazia na cara do cliente. Nada mais precisaria ser dito porque aquela primeira tentativa de defesa já entregava os pontos. 
-
-Nossa conversa foi rápida, mas eu peguei que a conversa deles foi sobre aquilo mesmo, sobre “Isso mesmo, as quantidades são as mesmas.”
-
-Agora, não sei se é porque esse cliente, fiel, foi reconhecido, ou se pela própria situação onde o gestor entregou os pontos, mas história termina com uma luz de esperança porque, ele concluiu, quando voltou ao espaço dando mais uma chance - ou talvez vivendo o passado no presente - o dono, que estava próximo da mesa, parou do lado e falou “olha, nós vamos mudar, nós vamos melhorar, eu gostaria de conversar mais com você.”
+Agora, seja porque ele foi reconhecido como fiel, ou se pela própria situação do gestor que entregou os pontos, essa história termina com uma luz de esperança. Porque, ele concluiu, quando voltou ao espaço para dar mais uma chance o dono, que estava próximo a mesa, parou do lado e falou “olha, nós vamos mudar; eu gostaria de conversar mais com você.”
