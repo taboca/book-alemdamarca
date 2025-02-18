@@ -4,7 +4,7 @@
 
 * v0.2 sync [x] https://docs.google.com/document/d/1uyVTeEOyt47ZW9HUAczxgxrVPuDMLkImcf052DSHs1I/edit?tab=t.0
 
-* this = v0.3 
+* this = v0.6
 
 @todo-references 
 
@@ -15,6 +15,12 @@
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Add ABNT2 reference to the books of Julia Cameron, near to "Neste momento eu já tinha do meu lado o material da Julia Cameron então pelo olhar do filme do astronauta e explorador solitário, meu robô assistente já carregava uma ligação com a Julia, com *O Caminho do Artista* e depois o *The Right to Write*, dois projetos que foram transformadores nesse momento de transição como escritor." @refid-20241210-75f3f5b6-7f46-448a-8d18-c4c126a17726
 
 @todo 
+
+* [ , anchored] - @todo - p1 - In "Naves espaciais" - Check the four elements of Casper. @refid-20250218-8d1db3a8-0acd-4341-ab94-a817c2e33243
+
+* [ , anchored] - @todo - p1 - In "Naves espaciais" - Check the actual real book of Casper which Marcio has. @refid-20250218-1493a4a5-69ed-40a8-ac36-7a9c0933eeb2
+
+* [ ] @todo-index, @todo - p1 - In Spaceships, Check for answers, for the possibility of a short interview with the owners of the La Fraternite - la fraternité photos https://g.co/kgs/SkX2k5i to check about if they had music, and how they used that style back in the days, and if their setting where like a prototype, like a club or a “second house”. Marcio had sent an e-mail to Erico. @refid-20250218-31319db7-3687-4540-ac1d-2476d76243af
 
 * [ ] @todo - p1 - In spaceships - Check the e-mail entitled "Livro - projeto - além da marca - depois que estado de excelência é conquistado" which talks about the apparent situation of stagnation but, on the other hand, considers how the existance of the place does a social function, for example to new customers; but its existance, its functional operation. This note also makes a reference to a letter which may have been sent to Pagliaroni where Marcio talked about families at Pagliarone, about babies crying and the cartoon book which was given to the kid. @refid-20250115-b2f07faa-337f-4307-8f5b-91d389cfdb49
 
@@ -38,122 +44,157 @@ Existem duas verdades observáveis no universo dos estabelecimentos que, para mi
 
 [^footnote_change_constant_heraclitus]: Essa ideia, adaptada e popularizada como “A única constante na vida é a mudança”, é amplamente atribuída ao filósofo grego Heráclito, que viveu por volta de 535–475 a.C. Embora não haja um registro direto dessa formulação exata em suas obras sobreviventes, ela é derivada de suas reflexões sobre a impermanência e o fluxo constante da realidade. 
 
-Mas ligados no 220v, no ritmo acelerado do dia a dia, acabamos misturando as coisas. Talvez essa lógica explique a invenção do rodízio de pizza, ou um croissant que acabou sendo recheado, com os mesmos recheios que já haviam invadido aquele simples, básico, o saudoso, pão de batata, aquele que entrou em extinção. Como sabemos, nossa operação não fica parada. Guiados pela pressão e métricas de mercado, de posse de uma criatividade extraordinária [^footnote_criatividade], sabemos dar um jeitinho.
+Ligados nesse ritmo 220, acabamos misturando as coisas, às vezes demais. Talvez isso explique a invenção e onde chegamos com o rodízio de pizza, ou o que fizemos com o croissant recheado que acabou recebendo os recheios que já haviam invadido o antigo pão de batata de batata. A operação não fica parada. De posse de uma criatividade extraordinária [^footnote_criatividade], ela também pode dar aquele jeitinho, mesmo guiada por pressão ou métricas de mercado.
 
 [^footnote_criatividade]: Não estou sendo irônico ao pensar em criatividade extraordinária que faz essas coisas, como as coisas do "jeitinho brasileiro". Essa energia criativa é verdadeiramente poderosa. Mas sim, muitas vezes nos vemos guiados por ansiedade e sem valores, utilizando esse potencial de qualquer forma.
 
 A seguir, convido você para observar uma reunião estratégica, fictícia, entre dois líderes que decidem o futuro do pequeno estabelecimento. Na sequência, vamos explorar outros mundos, histórias verdadeiras de estabelecimentos guiados por um contexto bem diferente.
 
-### Pão de Quê Jô
+### A Barraca Pão de Quê
 
-Contexto: O pão de queijo, aquele de queijo de queijo, entrou em extinção. Talvez por conta que tem muita lactose, ou muita gordura, ou porque dá trabalho, ou porque é caro, para o mercado. O novo padrão, normal para o mercado, é um pão de queijo feito com soro de leite. Este passa no teste do mercado: Bom preço, leve, menos gordura animal, padronizado no sentido de consistente. Ele joga limpo nas lei da indústria e também passa no teste visual - parece aquele pão de queijo, o saudoso, das Minas Gerais. A Tenda do Pão de Quê, aceitou comprar da Jô esse novo produto congelado. Os líderes só estão ajustando os detalhes para pisarem no acelerador, vender mais rápido:
+Contexto: O pão de queijo, aquele de queijo de queijo, entrou em extinção. Talvez porque tinha muita lactose, ou muita gordura, ou porque dá trabalho, ou porque é caro, para o mercado. O novo padrão, normal para o mercado, é um pão tipo de queijo, de verdade, de soro de leite. Este passa no teste do mercado: bom preço, mais leve, menos gordura animal. É padronizado no sentido de consistente. Ele joga limpo com a lei da indústria e passa no teste visual. Ou seja, parece aquele pão de queijo, aquele saudoso, das Minas Gerais. 
 
-> *"Agora sim, precisamos vender muito desses! Sim, que tal rechear? Imagina o pão de queijo recheado com queijo? Nossa. Ou com Romeu e Julieta? Essas duas coisas as pessoas adoram! Opa! Mas pera lá, agora complicamos o processo pois ficou caro, de novo. Hum, que tal comprarmos aquela seringa de rechear churros? Boa! Daí podemos comprar Reserjão! O que é isso? O Serjão tem uma solução semi-láctea que é uma espécie de queijo derretido só que mais econômico e não tão gorduroso. Mas o kit é de quatro seringas, tá? Sem problemas, deixamos duas seringas com recheio de churros e as outras duas podem ser 'requeijão tradicional' e 'requeijão azeitonado'. Genial!"* 
+Os proprietários da Barraca Pão de Quê, Ping e Pong, aceitaram comprar da Jô aquele novo produto congelado. Como líderes, eles já sabem que todo mundo na praça fez o mesmo. E que tá tudo sem graça. Agora eles ajustam os detalhes, antes de acelerar:
 
-Quando a gestão está essencialmente faminta por resultados, guiada por uma ótica do mercado externo, ela encontra no hipermercado de soluções, ao lado, as respostas, que essencialmente navegam em um mar vermelho, onde todos lá batalham com as mesmas ferramentas e correm o risco de entrar na espiral da morte, como por exemplo, em acertar o desafio da briga de preços, ou desafio de aumentar o volume, logicamente reduzindo os custos dos ingredientes básicos, ou colocar tecnologias que aparentemente barateiam tudo isso de uma forma acelerada ou ansiosa.
+> *Ping:* Vamos rachar de ganhar dinheiro!  
+>  
+> *Pong:* Mas é muito sem graça e todo mundo tem o mesmo - temos que fazer alguma coisa para chamar atenção!  
+>  
+> *Ping:* Imagine o pão de queijo recheado com queijo?  
+>  
+> *Pong:* Nossa! E se fosse Romeu e Julieta?  
+>  
+> *Ping:* Essas duas coisas as pessoas iriam adorar!  
+>  
+> *Pong:* Peraí, temos um problema, porque agora vai ficar muito caro. Como assim, queijo no pão de queijo? Se nós agora compramos aquele pão de queijo de soro de leite, não faz sentido colocar queijo.  
+>  
+> *Ping:* Eita! Que tal então comprarmos aquela seringa de rechear churros?  
+>  
+> *Pong:* Boa! Daí podemos comprar o Reserjão.  
+>  
+> *Ping:* O que é isso?  
+>  
+> *Pong:* Bom, o Serjão tem uma solução semi-láctea, que é uma espécie de queijo derretido, só que é mais econômico e não é gorduroso. E ainda, não gera poços de gordura desagradáveis.  
+>  
+> *Ping:* Mas o kit é de 4 seringas. Como vamos fazer com os outros recheios?  
+>  
+> *Pong:* Que nada!, são as seringas dos churros, né? Podemos simplesmente colocar os sabores dos churros. Seriam: as duas padrão dos churros, a com Reserjão tradicional e Reserjão azeitonado.  
+>  
+> Ping:* Genial!
+
+Com a gestão faminta por resultados e guiada pela ótica do mercado, ela encontra as respostas no hipermercado de soluções ao lado. Enquanto isso, esses sócios essencialmente navegam para o oceano vermelho onde todos batalham com as mesmas ferramentas. O que não percebem é que entraram no ringue, na briga de preços. Agora, eles precisam de mais eficiência no assunto da redução dos custos. Agora, precisam de achar ingredientes (e soluções) ainda mais eficientes. Agora, precisam de mais tecnologias para otimizar isso tudo. Imersos ou obcedados, não percebem que estão se encurralando e potencialmente entrando na espiral da morte. 
+    
+### Aparições 
+
+Enquanto aqui na Terra corremos com essa rotina, existem outros estabelecimentos viajam, com outra perspectiva. Vamos conhecer alguns, que podem ser considerados espaços alienígenas. Se irão sobreviver nessa Terra, é difícil dizer. Mas veremos que estão guiados por missões específicas que, pelo menos, os deixam imunes às forças terrenas - como aquelas vozes do mercado que como sabemos arrastam milhares de estabelecimentos para a espiral da morte.
 
 
-### Naves espaciais 
-
-Enquanto assistimos a essa rotina acelerada, outros estabelecimentos navegam por mares distantes dessa terra. Vamos conhecer estes seres, que podem ser considerados alienígenas. Se irão sobreviver aqui na Terra, é difícil falar, mas podemos reconhecer que estão guiados por missões específicas, diferentes do que sabemos, e com isso imunes as forças terrenas, as vozes do mercado, que muitas vezes levam milhares de estabelecimentos para a espiral da morte.
-
-Por volta de uma década atrás, meu amigo V me levou para conhecer um tipo de bar bem diferente. A porta, pequena, levava a gente direto por um corredor. Parecia um labirinto que nos guiava para uns cantos. Cada canto tinha uma mesa pequena com tampão de madeira estilo rústico e pequenas bancadas como sendo as cadeiras. Os cantos não eram grandes, alguns para duas pessoas, outros para quatro. Não sei se tinham cantos maiores - nunca nos adentramos muito. Quanto ao estilo visual, foi um dos primeiros que ví que trazia um design meio industrial meio underground. As paredes eram pintadas de preto fosco, as bancadas pareciam feitas na serralheria com tubos retangulares, tudo preto fosco. Hoje esse estilo está por toda parte, por conta também das hamburguerias premium que explodiram por muitas cidades trazendo um estilo meio dark meio industrial. Na época isso era novo. Era dark, era industrial, mas não aparentava ser feito por escritórios de arquitetura renomados. Era diferente, mesmo para São Paulo. 
-
-Sobre o que era é mais fácil falar sobre o que não era. Não era buteco, nem pub. Nem restaurante, nem bar. Também não era balada. E também não serviam comida, apesar que de vez em quando um foodtruck convidado estacionava em uma das poucas vagas na frente. Isso também era outra novidade para a época. Sobre o que tinha, sem tentar dizer o que era, eles traziam cervejas artesanais, especiais.
+Pelo menos 87600 horas atrás, meu amigo CG me convidou para conhecer um local diferente. Cidade São Paulo, bairro Moema. Por fora, parecia uma casa do bairro. Normal, exceto a pintura escura que acompanhava a noite. A pequena porta nos levava por um corredor. Depois, parecia um labirinto, com paredes e cantos. Nos cantos haviam mesas, pequenas, com um tampão de madeira rústico e bancadas. Eram cantos para duas ou quatro pessoas. Não sei sobre outros cantos maiores porque não fui adiante. Sobre o visual, foi provavelmente o primeiro espaço que vi com aquele design meio industrial meio underground. As paredes, em preto fosco, e a estrutura das bancadas feitas em serralheria também pintadas em preto fosco. Hoje, este estilo está por toda parte, nas hamburguerias premium que pipocaram por todo lado espalhando o estilo dark industrial, agora na versão 3.0. Então aquela seria a versão 1.0 - dark de verdade e industrial pra valer. Antes do 2.0, aquelas feitas por designers e arquitetos renomados, antes da 3.0, as que copiam as 2.0. Era diferente, até para São Paulo.
 
 <!--
-* [ ] @todo-index, @todo - p1 - In Spaceships, Check for answers, for the possibility of a short interview with the owners of the La Fraternite - la fraternité photos https://g.co/kgs/SkX2k5i to check about if they had music, and how they used that style back in the days, and if their setting where like a prototype, like a club or a “second house”. Marcio had sent an e-mail to Erico. 
+* [ ] @todo-index, @todo - p1 - In Spaceships, Check for answers, for the possibility of a short interview with the owners of the La Fraternite - la fraternité photos https://g.co/kgs/SkX2k5i to check about if they had music, and how they used that style back in the days, and if their setting where like a prototype, like a club or a “second house”. Marcio had sent an e-mail to Erico. @refid-20250218-31319db7-3687-4540-ac1d-2476d76243af
 --> 
 
-Eles também tinham uma agenda particular. Só abriam em certos dias a partir das 18h, tipo às Sextas-feiras. Aquilo para mim era muito diferente. Nossa curiosidade começa com “como podem fazer isso?” Mas basta algo ser verdade, de alvenaria, para a gente também acabar por outro lado dizendo “é claro que podem. Eles podem fazer o que quiserem”. Esse tipo de observação também nos levava a especular quem eram os donos, tipo assim “quem são? O que fazem? Onde vivem?”
+Sobre o que era: melhor falar o que não era. Não era boteco, nem pub, nem restaurante, nem bar. Também não era balada. E também não servia comida. Exceto de vez em quando quando aparecia um food truck estacionado na vaga da frente. Isso era outra novidade para a época. Sobre o que tinha, sem tentar dizer o que era, eles tinham cervejas artesanais, especiais. E também uma agenda particular: porque só abriam em certos dias, a partir das seis. Tipo, às sextas-feiras. Aquilo, para mim, era bem diferente.
 
-Chegamos a conclusão que eles tinham condições de manter aquele espaço daquele jeito - logicamente por cota que trabalhavam durante semana, até a Sexta-feira na hora de abrir. Que, em outras palavras, era o local de happy hour, só deles, do jeito deles. Um tipo de batcaverna. Mas também um que calhou, para a nossa sorte, de ficar aberto nos mesmos momentos que queríamos, mais que um happy hour, um special hour. Se alguma coisa lá fosse fora do padrão - para o mundo lá fora - não era problema tão grave. Isso por conta que só entravam lá os que entendiam o sinal. Então é isso: O capítulo mudou e o tempo passou. Mudei de São Paulo e eventualmente o amigo V também. 
+"Como podem fazer isso?", pensei. Pensava que alguma lei deveria existia para forçar o estabelecimento a rodar no horário comercial. Mas quando a gente vê a coisa, de verdade, de alvenaria, a gente se atualiza ou pensa fora da caixa. Então disse, "é claro que eles podem abrir quando bem quiserem". Então estávamos imaginando quem eram os proprietários: quem são eles? O que fazem? Onde vivem? Agora nossa criatividade trabalhava para justificar porque deu certo: é lógico, eles tem condições financeira para isso.  Ou, eles devem ralar a semana toda até a sexta-feira na hora de abrir. Enfim, em outras palavras, era o happy hour deles: o espaço, só deles, do jeito deles, uma espécie de bat-caverna. Mas também uma que calhou, para nossa sorte, de ficar aberto exatamente naquela hora do nosso "happy hour", bem de noite. Também pensei que se alguma coisa lá fosse fora do padrão - para o mundo lá fora por exemplo - não seria problema. Isso porque ninguém saberia a hora que abre. E ninguém entraria lá mesmo, exceto os que percebeiam os sinais. Normalmente, esse tipo de espaço dá dica, no *online* ou no físico, por exemplo deixam pistas, como um barril de cerveja especial no cantinho.
 
-Por conta que o local era em São Paulo, onde tudo é possível, não tive na época uma razão para considerar uma categoria especial. Mas algo ficou na memória, uma lembrança de uma boa experiência. Além daquelas perguntas: Quem são eles? O que fazem? Onde vivem? E mais, por quê fazem o que fazem?
+Mas é isso: o capítulo virou, avançamos 87600 horas para a frente. Para falar a verdade, durante esse tempo todo, não vi razão para considerar aquele espaço como único, como uma categoria especial. Talvez porque era São Paulo, onde tudo poderia acontecer. Ou porque era um único caso. Mas enfim aquele espaço *dark* ficou na lembrança, a cores, assim como aquelas perguntas no ar: Quem são eles? O que fazem? Onde vivem? E por que fazem o que fazem?
 
-### Aparição 
 
-A resposta veio com o tempo e por ter vivenciado outras situações. Ou seriam aparições? Hoje penso que esses espaços são naves espaciais. E sobre seus líderes, alienígenas. Uma década depois, agora no interior do estado de São Paulo, o mesmo amigo V me convida para conhecer um espaço que ele identificou a partir de uma rede social de achadinhos do mundo das cervejas especiais. Este é um bom momento para reconhecer a importância daqueles que acreditam - por exemplo em naves espaciais - verdadeiros exploradores. 
 
-Essa nave era grande, com mais ou menos uns 160 metros quadrados. Quanto a missão? É sobre a experiência de aprecisar cervejas especiais, feitas na casa, estilo Belga. No comando estão os dois capitães. A capitã, que é treinada como sommelier, é responsável pela criação e qualidade. O outro capitão, que por sinal é marido dela, fica encarregado da produção das cervejas. Ele também tem treinamento em química e atua em uma conhecida universidade da cidade. Ambos cuidam da operação de gestão da nave e também da tripulação variável, que por sinal conta com estudantes em áreas como matemática, química, etc. 
+
+
+
+
+
+
+
+
+
+
+#### Abduzidos 
+
+Precisei de mais tempo e mais viagens para perceber o que seriam outras aparições. Hoje estou certo que esses espaços são naves espaciais e seus líderes alienígenas. Uma década depois, agora no interior de São Paulo, o mesmo amigo CG me convida para conhecer outro espaço. CG captou os sinais a partir de uma rede social de achadinhos do mundo das cervejas especiais. Ele possui novas ferramentas para essas buscas. Este é o momento perfeito para reconhecer este perfil: aqueles que buscam, porque prestam atenção nos sinais, e que acreditam, por exemplo em alienígenas e naves espaciais. São eles os verdadeiros exploradores.
+
+Essa nave é maior, uns 350 metros quadrados. No portão de entrada tem a inscrição: L'Expérimentale. Quanto à missão: explorar os mundos distantes no quadrante Belga do universo das cervejas artesanais. No comando, uma capitã e seu primeiro oficial. A capitã possui treinamento em sommelier e por isso se envolve com criação e qualidade - faz parte do cargo dela experimentar. Já ele, que também é marido, dá aulas de química em uma renomada universidade no planeta Terra. Ambos cuidam da estratégia, da operação, e da tripulação que por sinal conta com estudantes de matemática, química, e outras áreas da Terra.
 
 <!--
 * [ Excluded , anchored] @todo - p1 - In "Spaceships ..." - Check the data from Experience, Frango’s wife. @refid-20241210-65c4aeff-0860-4375-892e-ee61d5227b55
 --> 
 
-Sobre os horários de operação, ela opera em uma agenda bem particular. Normalmente abrem o portão quando o final de semana está chegando, por volta do meio dia. A janela vai até as 5 da tarde. Fomos várias vezes. 
+Sobre os horários de operação, essa nave também tem uma agenda particular. Normalmente, o portão abre próximo ao final de semana, por volta do meio-dia. Os visitantes podem visitar dentro da janela que vai até às 5 da tarde. Nosso horário de visita é em geral aos Sábados, por volta das 3 da tarde. 
 
-When we get there and pick a seat we find a menu printed on A5 paper and placed in a vertical display, with a selection of beers, always fresh and subject to change at any time based on the production line. All the beers follow the Belgium style. 
+A gente chega, senta na mesa, e dá de cara com um *display* vertical, um tipo de menu impresso em papel sultite A5. Nada de QR code. São esses os destinos possívels. Poucas opções. E todos os caminhos nos levam para experiências únicas, no rumo do universo Belga. 
 
-Once we got onboard for the first time, after the discovery investment of Vedigas of course, we were totally surprised, and excited, with thoughts crossing our heads such as “wow how come this place exists here in this city?” and that sort of question. We had certainly experienced something amazing, through the beers and by riding there in that spacious ship along with the small crew. And when you are in that position, like a fan or like an entrepreneur or a new member I don’t know, it comes as a sort of natural movement of protecting the place. In that position, I may have engaged in a sort of natural movement of supporting them as if I were a captain, in a way fighting for them. And it was when I was wearing let us say a captain’s hat, suggesting ideas to them, that we were caught, actually, in front of first lessons about who they were, and a bit towards understanding their mission: 
+Não demorou muito para começarmos com aquelas perguntas do tipo "Nossa, como isso foi aterrisar aqui? Como foi possível?" Já estávamos experienciando aqueles novos mundos e observando a operação da pequena tripulação. Quando você entra nessa, já se tornando um fã, sente-se como um candidato a ser membro da tripulação. E acaba se envolvendo com a ideia de proteger o lugar ou a missão. Pensei, "Se fosse o capitão, deveria lutar por eles", e pensei que eles precisavam de mais visitantes. Como um candidato empolgado de primeira viagem, acabei dando uma dica de marketing para o primeiro oficial, codenome Frango.
 
-I or we may have suggested something related to advertising, or marketing, expressing our thoughts to the passing captain Frango. And it didn’t take long to get a sense that he had a conviction that the way they were navigating was right, or steady, or that they had a north guiding them. It the place was a all broken up ship with shity beers, we would certain be quiet, not ever talk again with them, and know they were navigating towards a spiral of death or something. But that wasn’t the case, the beers are special, the crew quite confident. So, for now, initially, it sounded like “something is wrong here” but at the same time “something is right” and perhaps other crossing thoughts would happen as in “let us keep our mouths shut so that we can continue to come here and the place continues to be this way”. 
+E bem ali comecei a aprender as primeiras lições, como um verdadeiro candidato deveria, não só sobre a missão mas sobre como a missão é feita. Um primeiro ponto: eles estavam confiantes que estavam navegando no rumo certo, seguindo um norte. Então fiquei confuso, ou curioso; Se o local fosse todo quebrado e uma experiência de baixa qualidade, saberia que estaria tudo errado. Mas não era o caso porque tudo parecia organizado. Ou especial: a nave, a tripulação, as cervejas, a experiência completa. Procurei ouvir, ou sentir, e pensar que alguma coisa certa acontecendo lá. Nessa hora, a lição foi - vamos ficar quietos, para continuar vindo aqui, e para que isso tudo continue a ser exatamente como é.
 
-When we hear thoughts from the captains, we sense they know certain things we don’t know, and we sense a confidence level oriented to values. What they say goes along with the experience we have everytime we enter the ship: We feel our connection right when we sit at the table and we get to see the menu right away while a crew member brings cold water in a bottle with cups - which is unusual in Brazil - and popcorn, ask it or not. There is a ritual right there, which takes us to start with a lighter belgium beer. The food options aren’t written in the menu in front of us, like the beers, although we can order from other places or bring from home. So the point can’t be missed - you are there to experience their beer creations. So it’s a laboratory in a way, for experiencing beers, which goes well with the style because Belgium style goes well with that kind of mission, a space to be creative. So that brings us to their spaceship name, Experiência. 
+Acompanhando o movimento da tripulação, fomos aprendendo que eles sabiam coisas que não sabíamos. Confiantes e orientados por valores, estavam entregando aquela experiência, a partir do momento que sentávamos na mesa. Por exemplo, enquanto olhávamos as poucas opções no menu, um membro da tripulação trazia água gelada, o que é bem diferente do mundo que conhecemos. E trazia também pipoca. Bem diferente esse protocolo. Nossa viagem começava assim: primeiro com uma parada na cerveja belga leve, depois, partíamos para explorar os outros mundos, mais distantes, ou encorpados, ou intensos, ou novos mundos estranhos. 
 
-Usually, we go there by three in the afternoon, knowing that they close at five. That works well for us because these days we drink less, and better, so it’s a greenlight to go, a visible limit, as we know they would not allow us to extend too much. With that said, when there are not many passengers, we many times had extended our experience with the captain’s approval, perhaps a number of times we left by eight or nine, a bit drunk because usually we end with the stronger beers. 
+Sobre a comida, fora a pipoca automática, não existiam opções no menu. Mas aprendemos sobre o protocolo que permitia pedir comida de fora, no modo entrega. Sobre esse protocolo - ou política sobre comida se você preferir - dois pontos merecem atenção. Primeiro, não ter um cardápio era uma mensagem sobre evitar o risco da contaminação da experiência toda, por exemplo, ao pedir *junk food* lá de fora. Segundo, de fato a nave carregava um menu escondido, provavelmente por conta do protocoloco de sobrevivência. Mas vale a nota que deixada no meu diário de bordo:
 
-Now, regarding the food policy, two points should be made. One is that by not having food, we do not run the risk of spoiling the whole experience, such as by ordering junk food from the outside. Point two is that they do have a few options from a menu which is not advertised - besides the automatic popcorn servings; and it turns out that these options are actually great, likely better than many bars in Brazil: Simple, straightforward, well done. One is a cup with long slices of carrots and cucumber resting in a water with lime and salt, the other are chicken nuggets (which actually has chicken meat in it), and they too have a crispy and seasoned fried potato plate that reminded me of the how places from USA love to season the potatoes. So it’s nice when you find a place that does not have an official kitchen but at the same time their simple food menu exceeds the expectations and what other bars have. 
+> Esses pratos são melhores do que muitos lá da nossa terra.
+> São simples, sim. Mas é tudo bem feito: 
+> Um deles é a caneca com longas fatias de cenoura e pepino que descansam na água suave com limão e sal.
+> A outra é a porção de *chicken nuggets*, porém feitos frango de verdade e bem fritos.
+> Outra é a porção de batata frita com um tempero especial e nada para atrapalhar, como por exemplo aquele granulado de bacon em cima do creme tipo cheddar.
+> Marcio *out* - câmbio desligo.  
 
-So that is a bit from the experience at Experiência, and their journey. For me, yet, it is unclear what exactly is their mission. And who knows if they fully know too. What we know is that we are taken, when we are there. It is always a good trip. 
+Estávamos agradecidos por termos encontrado esse espaço que nem mesmo tinha uma cozinha oficial mas que mesmo assim fazia além das expectativas, bem melhor que muitos locais na Terra. 
 
-### Entre naves 
+Concluindo esse relatório, nosso ritual começava pelas 3 da tarde do Sábado e ia até o portão fechar às 5. Seguíamos o protocolo que diz "beba menos e beber melhor", que também vai bem com "se beber não dirija", que vai bem com "se não for dirigir me chama". Para nós, era luz verde, um bom limite para voltarmos para nossa terrinha normal. Com isso dito, e quando a nave tem poucos visitantes, estendemos a experiência algumas vezes, com a aprovação da capitã e do primeiro oficial. Em algumas ocasiões, perdemos nossos relatórios. Mas uma lógica sugere que saímos de lá por volta das 8. Ou das 9. Talvez um pouco atordoados por conta das missões de exploração mais ousadas do quadrante belga. Isso é um pouco sobre essa experiência, ou jornada, e sobre essa nave e sua tripulação. Como um membro nível visitante, não está totalmente clara a missão deles. E quem sabe, talvez, eles também não saibam tudo. Sobre o que sabemos, que eles também sabem, é que quando estamos lá, somos abduzidos. É sempre uma ótima viagem.
 
-Now, let us consider another spaceship, one also found by Vedigas the explorer. This one is a place nearby to Experiencia, also framed by the world of beers, although very different. They are quite small, the size of a standard ship container. You enter the ship and you will be in front of the captain, solo style, serving another wine cup to himself. The ship has his name outside - Ebrio. And inside, at the center, one big table which gives a limit to the number of passengers and at the same time setting them to meet thus becoming part of the crew. We are surrounded by a great selection of beers from around the world - beers which are difficult to find in the city - so in part the mission may have to do with experiencing these beers. Small ship, a common table at the center, passengers and captain close to each other, the subjects are heard by everyone, and sometimes a beer cup does a little tour, and that is it. 
+
+
+
+
+
+
+
+
+
+### O vácuo, espaço sem ruído 
+
+Agora, vamos adentrar outra espaçonave, também encontrada pelo explorador, o amigo CG. Esta é pequena, do tamanho de um container. Do lado de fora, está escrito as iniciais E.B.R.I.O. Você entra lá, no portão, e dá de cara com o capitão que dirige a nave no modo solo. Normalmente, ele tem um copo de vinho em uma mão e um maçarico na outra. No centro, uma mesa grande que limita o número total de passageiros visitantes e, ao mesmo tempo, faz com que todos conversem junto com a tripulação. Se você olhar para as paredes, verá janelas para vários universos: o universo das Belga, o universo das inglêsas, o universo das americanas, o universo das irlandêsas, e o universo das brasileiras. E outros universos estranhos que se encontram dentro do metaverso das cervejas. Todas as experiências são compartilhadas, ali mesmo naquela sala de comando, junto com o capitão, onde todos ouvem as conversas de todos. E, às vezes, um copo de cerveja faz um tour pela tripulação. E é isso. Então deixo alguns pontos para reflexão a partir dessas histórias: 
+
+O primeiro diz que eles não vão mudar as coisas tão rápido. Ou se fizerem, não é porque um passageiro, visitante cochichou algo na última visita. Em outras palavras, eles navegam com um senso de direção que faz com que fiquem imunes às dicas arbitrárias do ambiente externo. Seguindo com certos protocolos, eles muitas vezes trabalham menos e ao mesmo tempo aprendem mais rápido - justamente porque estão bem próximos dos visitantes - ou usuários, clientes ou passageiros, como quiser - e da tripulação. Com isso, voam, conquistando mais clareza sobre a verdadeira missão.
+
+Outro ponto que merece atenção envolve falar sobre o combustível e sobre a estrutura que sustenta tudo. Ou seja, sobre o ambiente que protege a missão. Você deve se lembrar, o meu relatório de 87.600 horas atrás, quando eu levantei aquela pergunta "Como assim, eles podem abrir na sexta-feira?" Em outras palavras, eles podiam porque tinham as condições. Nessas horas o que vem na mente é que eles tem dinheiro. É uma das condições, é verdade.  
+
+Mas talvez seja mais sensato pensar que dinheiro é parte, no meio de outros recursos, de um conjunto maior que serve para proteger a missão:  para o estabelecimento aprender, aprender a crescer. Essa é a lição. 
+
+Temos que lembrar qu muitas pessoas, "do nada", recebem boladas de investimento, jogam tudo, e mesmo assim criam espaços que não viram nada. Além de sairem da jornada com marcas tão fortes que jamais tentariam de novo.
+
+Já outras trabalham antes, ou começam pequeno, mas avançam, com uma margem de segurança. Sobre essa margem de segurança, podemos pensar que é o capital de giro. Mas, de novo e  essencialmente, não é sobre dinheiro só. Essa é a margem que permite a navegação, que permite segurança que segue um propósito. É o oxigênio suficiente para entender, aprendeer, e para encontrar mais valores. Algumas pessoas fazem jornadas duplas, outras se associam e outras conseguem investimento. Não importa o jeito, mas é um fato que a função da proteção está ligada ao propósito. E que as grandes inovações de uma forma ou outra utilizam de recursos para avançar nesse processo, com cautela, mas seguindo um norte.
+
+
+
+
+
+
+
+
+
+
+Um outro ponto, também observável sobre esses espaços - e até no caso da tripulação solo - é que a tripulação se sente unida. Neste sentido, quero deixar uma mensagem especial que levará a refletir sobre aquela questão do ritual, não só para o cliente mas especialmente sobre o valor do ritual para a tripulação - os colaboradores. 
 
 <!--
-* note - Next, the point is about north giving the view to not listen. 
--->
-
-One point to consider from these stories is that with all of them a pattern seems strong: that they aren’t going to change anything anytime soon, and if they are it would be really difficult to be related to the last thing that a passing passenger said. Along with that, there are suspicions that they are running with enough fuel to keep their trajectory.
-
-So this seems to explain in some cases the hours they operate and other particular characterizations. 
-What is interesting, and that gives us a point to a reflection, goes back to what can’t be missed, of them having a good sense of direction: They are immune to arbitrary tips from the customer, or sales representatives. And I would say that they are in a good position of progress in the sense of having a traction that means less work and better chances to understand results, where things are going in terms of the relationship with the passengers, the crew, and the actual mission. 
-
-Perhaps we could consider that they are running in slow motion - outside the pressure of the world which asks them to accelerate by following rules from the external environment tied to the market. 
-
-### Rituais 
-
-Eu sei que essas três aparições estão dentro do universo da exploração da cerveja. Logicamente, também por conta daquela intenção exploratória do meu amigo V. No entanto, peço que possamos deixar essa pasta aberta, justamente para olhar para as perspectivas e elementos que fazem esses locais se tornarem especiais, não só para os passageiros que entram lá, mas também para toda a tripulação. Quanto a isso, nós percebemos claramente, toda a tripulação lá, nesta nave, trabalha muito bem e muito feliz. Mantendo esta pasta aberta, sem querer limitar a ponto duas reflexões. Uma delas é a questão dos rituais.
-
-In *The Power of Rituals*, Casper Ter Kuile had looked at how different institutions - such as churches or tribes - through history and identified common elements not related to specific worldviews which are there and can be considered as the elements which are meaningful for us to be together. 
-
-These elements are: The means to connect with ourselves, the means to connect with our fellow others, our society; the means to connect with our nature, and the means to engage in what he calls transcending. 
-
-Taking us back in time, he brings clarity on how rituals given by tribes or churches had put us together through events: A small city in the past where no one had the means to connect with others crossing boundaries, had given to local people, through their local church, a place well serving these elements, through events and gatherings, like rituals, not mention the celebrations which always carried good food, as in food made by families, done together or under the supervision of the captains of the monasteries, with quality control and that sort of thing. 
-
-This perspective helps us in the face of changes in our modern world which change in many ways how we interact with the environment. For many, certainly the world is lost, as they see so many overlapping perspectives which can mean confusion, with their religious institutions losing control in certain ways, or others even dismantled as they were. There is certainly a greater variability in our new world, as we had considered throughout this book, given that we are in a position to access, and get involved, with far too many communicative experiences of a networked world - too many views which may not follow from a guiding path.  
-
-With that said, the very elements considered by Casper also give us a view that helps to understand and explain why so many modern dynamics bring us together and to some extent fulfills those functions.  A case presented through the book are the Harry Potter book clubs, which essentially carry on the elements and give to many people much more than a reading experience of a fiction book, a leisure experience. In fact, many who go to Harry Potter reading clubs, value their clubs as essential as others value their religious groups. 
-
-
-
-### Laços e inovação 
-
-<!--
-
-@doc ref v0.1 https://docs.google.com/document/d/1VbMwqbuO7kuEN2ZgLeCg2Ej-XuBZdx4hzyXDZWauxZg/edit?tab=t.0 
-@this v0.1 
-
 @todo 
-
-* [ , anchored] @todo - p1 - In "Spaceships ..." - Reflect on the dual considerations for "spaceships": (A) as a manifestation of the "scratch and itch" effect, and (B) as the birthplace where community values are exercised in a colleagueship context. Review Reid Hoffman's point from his interview with Brian Chesky, which emphasizes how being guided by the community provides essential guidelines. Incorporate this perspective into the framing of spaceships, highlighting the role of community strength and guidance. @refid-20241210-4cf621a1-6f56-4475-939a-3d660760e8c5
-
-* [ , anchored] @todo - p1 - In "Spaceships ..." - Translate the story of the extended experience at Experiencia, to pt-br. @refid-20241216-27abb370-76a5-4e00-b6be-12934abea5f4
-
+* [ , anchored] - @todo - p1 - In "Naves espaciais" - Check the actual real book of Casper which Marcio has. @refid-20250218-1493a4a5-69ed-40a8-ac36-7a9c0933eeb2
+* [ , anchored] - @todo - p1 - In "Naves espaciais" - Check the four elements of Casper. @refid-20250218-8d1db3a8-0acd-4341-ab94-a817c2e33243
 -->
 
-Relatório de um passageiro em missão - sobre o dia que tomaram o controle da nave. 
+Em *The Power of Rituals* (KUILE, 2020), o autor Casper Ter Kuile, que seria Gaspar em portugues, visitou o passado na busca dos elementos que unem as pessoas. E ele encontrou, no meio dos rituais das igrejas e das tribos em diversas partes do mundo. Na alma dos rituais, os elementos são: Primeiro, precisamoso de um meio para nos conectar com nós mesmos. Segundo, de meio que nos conecta com a comunidade, e consequentemente com a sociedade. Terceiro, o meio precisa nos conecta com a natureza, ou o ambiente como quiser. E quarto, o meio serve para que possamos transcender.
 
-> *Saturday, around 3PM in Earth’s Gregorian calendar datetime system. Not different from other days, we knew and were okay knowing of our formal window, which was short, from 3 to 5pm which was the ship’s official closing time. Although we started with three, this time our team was five. A little problem was that one of our experienced colleagues came in late, by 4PM. He wasn’t worried much, initially, because he knew - based on prior experiences, that the crew would give us a bit more time.* 
->
-> *Although we all hoped for some extension, we too knew of their rules: Strict closing when the captains had formal events to go, or other situations like when one of the captains had a soccer game to watch. In these circumstances they had to kick us out around 5PM. But we may have sensed more pressure as it was around the end of the year, where there are more end of year parties approaching. Andry didn’t take much time to acknowledge his plan: No worries, I will catch up with you guys. I wanted to help him with advice so I told him to jump to the stronger beer that we were drinking - as in Belgium stage three. But he preferred to advance by complying with the ritual, starting with a light beer and moving through stages. He apparently didn’t see a problem in accelerating and assured he would arrive at the stronger beer with us. I noticed too that he was ordering larger glasses while we were on smaller cups.*
-> 
-> *Anyway, with the 5pm check point approaching, we asked one of the crew members if they would allow us another round? With that, a couple rounds had passed. From this point in time, we might have noticed a movement of crew members in the next room, on the other wing area. They were organizing a table and it seemed like a celebration. It didn’t take long for us to figure it was their end of the year official party, which explained why so many crew members were there that day. Then one of them approached us and asked us, crisp and clear, if we wanted to take control of the control room - explaining that it required us to know how to control the multiple beer faucets, and do the accounting of orders ourselves.*
->
-> *By the time I heard one or two voices saying yes, most of us were already walking towards the control room for what turned out to be a quick training session. We learned the basics with how to dispense the beer. As for the accounting system, we didn’t trust ourselves with the computer (although most of us had formal training in Computer Science) and preferred to do the accounting on paper.*
->
-> *From that point on, time for us had passed differently. Around 9PM in Earth’s time, we interrupted one of the captains from their party and asked help with the process for releasing us. We closed our table, wished each other a good year and left.* 
->
-> *From this other journey, we can certainly confirm that trust is developed from values being exercised. What I might add now, on the other hand, is that the journey is never static, that with these spaces our journeys always take us to discover new things. And although we do learn a few things about the science going on, I would say that the best is really that we are essentially discovering more about ourselves, bringing back values that we might have missed back on earth. What we have is an opportunity to develop trust, bounds, it’s a place where we have space, where we can breathe, a place to talk, to think, to be ourselves, and a space which let us be humans.* (Marcian X)
+<!--
+@references 
+* @reference - TER KUILE, Casper. The power of ritual: Turning everyday activities into soulful practices. HarperOne, 2020.
+-->
 
+Quando ele visitou aquela pequena vila do passado, onde normalmente as pessoas não se uniriam, ele observou o papel da igreja. Aquela igreja criava um ambiente que, de uma forma ou outra, por meio de rituais, envolviam as pessoas em atividades - como estudos, festividades, celebrações - que traziam esses elementos. 
+
+Isso nos leva a refletir sobre os desafios para criarmos ambientes de união e propósito na nossa realidade. Sabemos que, às vezes, o mundo parece estar perdido, com tantas perspectivas que nos confundem. Assim como muitas das antigas instituições, como religiões, de certa forma não nos servem tão bem exatamente como eram, no nosso novo mundo. Com isso, ficamos de certa forma desnorteados em uma infinidade de meios para interação mas que essencialmente não nos envolvem como as pessoas se envolviam quando eram membros dessas instituições. 
+
+Essa é a mensagem que Casper recebeu: que podemos fazer nossos ambientes carregando aqueles elementos. Um dos exemplos do livro, é sobre o os clubes de leitura do Harry Potter, que essencialmente permitem que as pessoas possam aprendem sobre elas, sobre os outros, sobre o ambiente e a vida, e refletir sobre tudo, ou transcender. Um clube de leitura do Harry Potter não é uma igreja, ou uma religião, é verdade. Mas quem está lá sabe que, juntos, estão aprendendo sobre valores morais. 

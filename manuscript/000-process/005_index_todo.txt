@@ -311,7 +311,13 @@
 
 
 
+@@ Spaceships
 
+* [ , anchored] - @todo - p1 - In "Naves espaciais" - Check the four elements of Casper. @refid-20250218-8d1db3a8-0acd-4341-ab94-a817c2e33243
+
+* [ , anchored] - @todo - p1 - In "Naves espaciais" - Check the actual real book of Casper which Marcio has. @refid-20250218-1493a4a5-69ed-40a8-ac36-7a9c0933eeb2
+
+* [ ] @todo-index, @todo - p1 - In Spaceships, Check for answers, for the possibility of a short interview with the owners of the La Fraternite - la fraternité photos https://g.co/kgs/SkX2k5i to check about if they had music, and how they used that style back in the days, and if their setting where like a prototype, like a club or a “second house”. Marcio had sent an e-mail to Erico. @refid-20250218-31319db7-3687-4540-ac1d-2476d76243af
 
 * [ ] @todo - p1 - In spaceships - Check the e-mail entitled "Livro - projeto - além da marca - depois que estado de excelência é conquistado" which talks about the apparent situation of stagnation but, on the other hand, considers how the existance of the place does a social function, for example to new customers; but its existance, its functional operation. This note also makes a reference to a letter which may have been sent to Pagliaroni where Marcio talked about families at Pagliarone, about babies crying and the cartoon book which was given to the kid. @refid-20250115-b2f07faa-337f-4307-8f5b-91d389cfdb49
 
