@@ -4,7 +4,7 @@
 
 * v0.2 sync [x] https://docs.google.com/document/d/1uyVTeEOyt47ZW9HUAczxgxrVPuDMLkImcf052DSHs1I/edit?tab=t.0
 
-* this = v0.6
+* this = v0.7
 
 @todo-references 
 
@@ -40,21 +40,21 @@
 
 -->
 
-Existem duas verdades observáveis no universo dos estabelecimentos que, para mim, criam um paradoxo no espaço-tempo. Uma delas é que “nada se cria, tudo se copia”. Meu pai dizia isso sempre que via uma novidade na TV. A outra ideia diz que “mudança é única coisa constante na vida”[^footnote_change_constant_heraclitus]. É como laranja e leite, ambas são gostosas e bem diferentes. 
+Existem duas verdades, observáveis no universo dos estabelecimentos, que criam um paradoxo no espaço-tempo. Uma delas diz que “nada se cria, tudo se copia”. Meu pai dizia isso sempre que via cada nova novidade na TV. A outra ideia diz que “mudança é única coisa constante na vida”[^footnote_change_constant_heraclitus].
 
 [^footnote_change_constant_heraclitus]: Essa ideia, adaptada e popularizada como “A única constante na vida é a mudança”, é amplamente atribuída ao filósofo grego Heráclito, que viveu por volta de 535–475 a.C. Embora não haja um registro direto dessa formulação exata em suas obras sobreviventes, ela é derivada de suas reflexões sobre a impermanência e o fluxo constante da realidade. 
 
-Ligados nesse ritmo 220, acabamos misturando as coisas, às vezes demais. Talvez isso explique a invenção e onde chegamos com o rodízio de pizza, ou o que fizemos com o croissant recheado que acabou recebendo os recheios que já haviam invadido o antigo pão de batata de batata. A operação não fica parada. De posse de uma criatividade extraordinária [^footnote_criatividade], ela também pode dar aquele jeitinho, mesmo guiada por pressão ou métricas de mercado.
+Mas então, no ritmo 220V, essas verdades se misturam também. Talvez é isso que explica onde chegamos com o rodízio de pizza, ou o que fizemos com o croissant recheado que acabou recebendo os recheios que já haviam invadido o antigo pão de batata de batata. A verdade é que a operação não fica parada, nunca, de posse de uma criatividade extraordinária [^footnote_criatividade] e daquela vontade de dar um jeitinho. 
 
 [^footnote_criatividade]: Não estou sendo irônico ao pensar em criatividade extraordinária que faz essas coisas, como as coisas do "jeitinho brasileiro". Essa energia criativa é verdadeiramente poderosa. Mas sim, muitas vezes nos vemos guiados por ansiedade e sem valores, utilizando esse potencial de qualquer forma.
 
-A seguir, convido você para observar uma reunião estratégica, fictícia, entre dois líderes que decidem o futuro do pequeno estabelecimento. Na sequência, vamos explorar outros mundos, histórias verdadeiras de estabelecimentos guiados por um contexto bem diferente.
-
 ### A Barraca Pão de Quê
+
+Vamos considerar uma reunião estratégica, fictícia, entre dois sócios que decidem o futuro do pequeno estabelecimento. Isso antes de exploramos uma narrativa inspirada em histórias de verdadeiros líderes que são guiados por valores. 
 
 Contexto: O pão de queijo, aquele de queijo de queijo, entrou em extinção. Talvez porque tinha muita lactose, ou muita gordura, ou porque dá trabalho, ou porque é caro, para o mercado. O novo padrão, normal para o mercado, é um pão tipo de queijo, de verdade, de soro de leite. Este passa no teste do mercado: bom preço, mais leve, menos gordura animal. É padronizado no sentido de consistente. Ele joga limpo com a lei da indústria e passa no teste visual. Ou seja, parece aquele pão de queijo, aquele saudoso, das Minas Gerais. 
 
-Os proprietários da Barraca Pão de Quê, Ping e Pong, aceitaram comprar da Jô aquele novo produto congelado. Como líderes, eles já sabem que todo mundo na praça fez o mesmo. E que tá tudo sem graça. Agora eles ajustam os detalhes, antes de acelerar:
+Agora, os proprietários da Barraca Pão de Quê, Ping e Pong, aceitaram comprar da Jô esse novo produto/solução congelado. Mas na liderança da operação, eles reconhecem que todo mundo na praça fez o mesmo. E que, a experiência está sem graça. Então agora eles precisam ajustar os detalhes, antes de acelerar:
 
 > *Ping:* Vamos rachar de ganhar dinheiro!  
 >  
@@ -87,7 +87,6 @@ Com a gestão faminta por resultados e guiada pela ótica do mercado, ela encont
 ### Aparições 
 
 Enquanto aqui na Terra corremos com essa rotina, existem outros estabelecimentos viajam, com outra perspectiva. Vamos conhecer alguns, que podem ser considerados espaços alienígenas. Se irão sobreviver nessa Terra, é difícil dizer. Mas veremos que estão guiados por missões específicas que, pelo menos, os deixam imunes às forças terrenas - como aquelas vozes do mercado que como sabemos arrastam milhares de estabelecimentos para a espiral da morte.
-
 
 Pelo menos 87600 horas atrás, meu amigo CG me convidou para conhecer um local diferente. Cidade São Paulo, bairro Moema. Por fora, parecia uma casa do bairro. Normal, exceto a pintura escura que acompanhava a noite. A pequena porta nos levava por um corredor. Depois, parecia um labirinto, com paredes e cantos. Nos cantos haviam mesas, pequenas, com um tampão de madeira rústico e bancadas. Eram cantos para duas ou quatro pessoas. Não sei sobre outros cantos maiores porque não fui adiante. Sobre o visual, foi provavelmente o primeiro espaço que vi com aquele design meio industrial meio underground. As paredes, em preto fosco, e a estrutura das bancadas feitas em serralheria também pintadas em preto fosco. Hoje, este estilo está por toda parte, nas hamburguerias premium que pipocaram por todo lado espalhando o estilo dark industrial, agora na versão 3.0. Então aquela seria a versão 1.0 - dark de verdade e industrial pra valer. Antes do 2.0, aquelas feitas por designers e arquitetos renomados, antes da 3.0, as que copiam as 2.0. Era diferente, até para São Paulo.
 

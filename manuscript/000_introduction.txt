@@ -2,6 +2,10 @@
 
 <!--
 
+@version 
+
+* v1.1
+
 @todo 
 
 * [ , anchored ] @todo - p1 - In "Introduction - " Check the e-mail "Book - ADM - Introdução elemento sobre complicação?" which may offer an insight that supports a better complication. @refid-20250102-78a18e9f-33a3-40c5-aabb-05823835eb94
@@ -41,7 +45,7 @@
 
 
 
-Em meados de 1997, um estudante de computação publicou uma página na web intitulada "A Vida se Repete" [^footnote_avidaserepete]. Falava  da rotina que começava no bar quando ele pedia seu pingado, ao lado da mesma moça, que fumava o mesmo cigarro, que ouvia a mesma piada, que ouvia a mesma risada do amigo ao lado. E falava que aquele copo “meiado” ficava lá, por horas, ao lado da mesma estação de trabalho. Isso tudo, porque a vida se repete. 
+Em meados de 1997, um estudante de computação publicou uma página na web intitulada "A Vida se Repete" [^footnote_avidaserepete]. Falava  da rotina que começava no bar quando ele pedia seu pingado, ao lado da mesma moça, que fumava o mesmo cigarro, que ouvia a mesma piada, que ouvia a mesma risada do amigo ao lado. E falava que aquele copo “meiado” ficava lá - por horas e horas - ao lado daquela mesma estação de trabalho. Isso tudo, porque a vida se repete. 
 
 [^footnote_avidaserepete]: "A Vida se Repete", publicado em 1997, é um texto que descreve a rotina repetitiva de um estudante: o mesmo pingado, a mesma companhia, as mesmas piadas e risadas, simbolizando como os pequenos rituais do cotidiano parecem se repetir infinitamente. A página original pode ser encontrada no [arquivo da web](https://web.archive.org/web/19970517035253/http://www.icmsc.sc.usp.br/~taboca/lifesites/repeat.html).
 
