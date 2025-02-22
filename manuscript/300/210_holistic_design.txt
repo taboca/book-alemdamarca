@@ -2,7 +2,7 @@
 
 <!--
 
-* This is v0.7
+* This is v0.8
 * The doc is v0.4 https://docs.google.com/document/d/1lzlJnqvkXtA-U9OfsC31Yuv6prWFWu7Nwwfq4D2EKDc/edit?tab=t.0
 
 ## Todo 
@@ -44,13 +44,13 @@
 
 Gosto não se discute. Tudo bem. Então é possível que o mesmo estabelecimento de alimentação seja amado por uns e odiado por outros. Mas se essa ideia é verdadeira, por que é que milhares de pessoas continuam "ponderando", procurando pelas redes sociais, e tomando decisões com base na média das avaliações? 
 
-Não somos ignorantes, é lógico, talvez só um pouco presos nessa nova correia acelerada da vida e sem tempo para, por exemplo, nos tornar fãs daquele outro estabelecimento três estrelas. E assim continuamos, de certa forma, procurando espaços que atendem a média geral. Está tudo bem. Sabemos em certo grau que são lentes sociais que filtram o que seria especial, para nós. Sabemos que não nos dão aquela foto colorida e memorável. Mas veja bem, está tudo bem porque tem certa verdade lá, porque não deixa de ser uma foto, mesmo que seja preto e branco.
+Não somos ignorantes, é lógico. Talvez sem tempo para, por exemplo, nos tornar fãs daquele outro estabelecimento três estrelas que deixamos de ir. E assim olhamos para a média geral. E está tudo bem quando, em certo grau, quando essas lentes filtram alguma coisa que seria especial. Tudo bem que assim não teremos aquela. Porque não deixa de ser uma foto, não é mesmo? Mesmo sendo em preto e branco. 
 
-Agora, enquanto o usuário poderiam deixar de lado as lentes sociais, a realidade para a operação é que milhares de estabelecimentos se orientam buscando essas avaliações- navegando como mariposas que se confundem em torno de luzes artificiais - essencialmente lutando para criar aquela foto, mesmo que no final a experiência sem graça, sem sabor e sem cor.  
+Se o problema para as pessoas é sério, mais ainda é para a operação que se vê, agora, como milhares de outros estabelecimentos que se orientam buscando *essas* avaliações; navegando como mariposas que agora se confundem com as luzes artificiais, e investindo muita energia para criar aquela foto, mesmo que seja preto e branco, ou sem cor, ou sem sabor.   
 
 ### La Barca, de São Carlos
 
-Muita gente carrega na memória experiências verdadeiramente coloridas; da mesma forma que muita gente tira milhares de fotos lindas mas de experiências passageiras. Eu não esqueço da lanchonete La Barca [^footnote_labarca], em São Carlos, durante o curso de computação entre 1993 e 2000. Isso era na época que a Web era bebê, bem antes das redes sociais [^footnote_linkedin_facebook] que só surgiriam a partir de 2003. Em outras palavras, não havia avaliações médias dos estabelecimentos aos termos dessas lentes sociais. Guardamos boas memórias daquilo tudo porque, *para a nossa tribo*, era uma experiência cinco estrelas. 
+Muita gente carrega na memória experiências verdadeiramente coloridas; da mesma forma que muita gente tira milhares de fotos lindas mas de experiências passageiras. Não esqueço da lanchonete La Barca [^footnote_labarca], em São Carlos, durante o curso de computação entre 1993 e 2000. Isso era na época que a Web era bebê, bem antes das redes sociais [^footnote_linkedin_facebook] que só surgiriam a partir de 2003. Em outras palavras, não havia avaliações médias dos estabelecimentos aos termos dessas lentes sociais. Guardamos boas memórias daquilo tudo porque, *para a nossa tribo*, era uma experiência cinco estrelas. 
 
 <!--
 @research-note 

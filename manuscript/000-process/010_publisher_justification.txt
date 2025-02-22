@@ -1,7 +1,50 @@
 ## Justificativa (Relevância e Originalidade)
 
 <!--
-* https://docs.google.com/document/d/1P9TwLhy2EejNLjwI6JJHkwycBVdckC9CZHpJvvS_W6A/edit?tab=t.0
+
+* v1.1 https://docs.google.com/document/d/1P9TwLhy2EejNLjwI6JJHkwycBVdckC9CZHpJvvS_W6A/edit?tab=t.0
+
+* v1.2 https://docs.google.com/document/d/1r6GUfMVO2SYmSlhcTE4ESJTWLJiZ8RAu19hH5Otefrs/edit?tab=t.0
+
+-->
+
+
+<!--
+@version 1.2
+-->
+
+De forma geral, esse projeto traz uma preocupação com relação à influência do meio ambiente moderno no comportamento humano [1]. Com relação aos estabelecimentos de alimentação, nos preocupamos com o avanço das tecnologias, especialmente as experiências comunicativas, e a influência no movimento de liderança, construção da marca, identidade de negócio e bem-estar dos colaboradores.
+Duas situações nos levam a considerar o problema.
+
+A primeira é que muitos estabelecimentos focam na execução em primeiro lugar, seja por conta da própria atenção voltada aos processos que garantem a experiência do cliente, ou por outras, como falta de investimentos. O autor Fabrício Morini, em Faça seu Negócio Decolar, nos lembra que o fazejamento é a execução sem planejamento. Pouco mudou neste sentido.
+
+Por outro lado, diante dos avanços tecnológicos  devemos considerar as mudanças em termos das experiências comunicativas, enquanto o físico se aproxima do digital, que nos torna mais conectados em um rico ambiente, entre clientes, fornecedores, parceiros e outras vozes que influenciam nossas decisões: Do lado dos clientes, a interação que era lenta e controlada - com sugestões e reclamações no estabelecimento e o boca-a-boca lá fora - hoje está mais dinâmica. Agora, eles não pensam duas vezes para comentar, avaliar e recomendar, etc. E suas razões e formatos variam, com comentários simples ou narrativas elaboradas, entre Likes e vídeos com efeitos incríveis, eles se expressam entre amigos ou para o mundo, em grupos privados ou publicamente. Do lado dos fornecedores, temos mais soluções, narrativas mais elaboradas para mais necessidades - fachadas, mesas, cardápio, comunicações de marketing, logística, gestão e muito mais. Além disso, as plataformas tecnológicas estenderam o papel dos dos parceiros, atendendo as demandas em áreas como aquisição de clientes, experiência de pedidos, pagamentos, entregas, etc.  
+
+A complicação - e razão para esse material - é que a operação dos estabelecimentos, entre esses lados (o que fazer e como fazer ) fica empoderada, como se estivéssemos com fome e dentro de um hipermercado de soluções, envolvida em um ritmo acelerado neste ambiente que, cada vez mais, traz narrativas cada vez melhores. Se por um lado é um ambiente empoderador - é um fato - por outro a bombardeia de narrativas que influenciam as decisões. Reformulando o desafio, devemos nos perguntar se este meio pode influenciar nossa operação; assim como as consequências para a saúde do negócio e o bem estar dos envolvidos. 
+
+Para estruturar o problema, simplificamos a questão como sendo um problema de foco. Com esta lógica, partindo do princípio que a operação investe energia e atenção, consideramos a situação onde as narrativas do ambiente influenciam o movimento de liderança - essencialmente com um movimento induzido - especialmente quando a operação é desprovida de valores próprios (no sentido de princípios guiados por propósito). Neste cenário, o movimento de liderança é enfraquecido, também devido a orientação mencionada do foco na execução (“mão na massa”) e pressão do ambiente do mercado que nos orienta com o pensamento da performance. Em outras palavras, o fazejamento (que no passado ainda poderia andar lado a lado com um aprendizado mais lento) torna-se um fazejamento potencializado.  Além disso, consideramos efeitos paralelos; em especial, a caracterização da marca, que passa a ser construída por este movimento, impactando tanto a identidade e saúde do negócio como o bem-estar dos colaboradores. 
+
+Sobre originalidade:
+
+Ainda que a questão seja relevante, é importante sensibilizar o leitor, justamente pela premissa do foco dividido (o leitor normalmente está assediado e ocupado procurando mais métodos, mais receita, mais soluções). Neste sentido, duas perspectivas conduzem o leitor a se sensibilizar e entender o problema: A bolha da comunicação e a bolha dos estabelecimentos. 
+
+Começando pela “bolha da comunicação”, o autor convida o leitor a uma viagem no tempo com o objetivo de organizar uma visão sobre as construções tecnológicas e experiências comunicativas que definem nosso ambiente de vida e trabalho. Isso nos leva a uma reflexão sobre o que normalmente não é visto, um tecido social que define nosso ritmo e comportamento. 
+
+O leitor é então convidado, de volta ao presente, para dentro da “bolha dos estabelecimentos” mas como um observador. Pela leitura, a narrativa torna-se especial, justamente por ser diferente de quando estão lá, enquanto consumidores, com fome ou sede e acelerados pelo trabalho ou ansiosos para relaxar. O objetivo é uma reflexão, cena a cena, diante das fachadas, sentados nas mesas, segurando os cardápios, ouvindo o som ambiente, tentando fazer pedidos, acompanhando as entregas na garupa das motocicletas, descartando embalagens, e muito mais. Serão momentos dramáticos e até viscerais; mas não mais do que a nossa realidade, aquela que exige que tenhamos um smartphone para pedir uma pizza, até no estabelecimento, aquela que quer alimentar nossos filhos com o “lanche que nada na piscina de cheddar,” a mesma que dá 5 estrelas para que nossos filhos motoboys continuem a avançar pelo vermelho (com seus escapamentos ensurdecedores).  
+
+Com essas perspectivas, o leitor é convidado - antes de considerar a missão de resgate da liderança - para a formalização do problema, como sendo “a equação do foco”. Celebramos, com tom reflexivo e de preocupação, que a riqueza das experiências comunicativas cativam a operação com a percepção do movimento ser estratégico; mas que essencialmente caracteriza o enfraquecimento da liderança como uma execução que busca por eficiência, que segue ideias dos outros.
+
+Em relação a marca, identificamos que essa redução da autonomia não impede que a marca seja construída, e de forma acelerada, induzida pelas vozes dos clientes, fornecedores, colaboradores, parceiros, e vozes “estratégicas”; caracterizando um cenário “normal” que é essencialmente um estabelecimento genérico, assim como um cenário extremo de total descaracterização da marca - e que leva a consequências catastróficas para o negócio. Além disso, celebramos que este ambiente - desprovido de identidade - torna-se completamente desmotivador aos colaboradores que não se veem mais no papel de criadores (envolvidos com um futuro), essencialmente se vendo como operadores (no sentido de máquinas) que buscam somente eficiência.
+
+A solução, que segue a lógica, traz a questão da marca (que na situação anterior voa sem controle) como chave para resolver a equação do foco. Nesta parte, começamos pela desconstrução do conceito popular de marca - marcas “grandes” presentes sem utilidade e relação com a essência do ser humano. Na contramão, resgatamos os elementos que criam organizações verdadeiras, como o respeito ao ser humano, a valorização da vida e a natureza, valores em termos de moral e ética, valores ligados à cultura e arte. 
+
+Nosso destino, Além da Marca, nos guia para uma operação que é prática e produtiva, que permite separar ruído de sinal, e que simultaneamente constroi uma marca forte. Mas mais do que isso, que empodera o ambiente interno e externo para construir juntos. Com mais energia e menos frustração, resgatamos nosso papel de liderança e simultaneamente construímos uma marca forte e um ambiente saudável que respeita os envolvidos como seres humanos, criativos.  
+
+[1] De forma geral, esse projeto está alinhado com outros - como Nação Dopamina, Máquina do Caos, Foco Roubado, Ruído, Identity and Violence 
+
+
+<!--
+@version 1.1 
 -->
 
 De forma geral, esse projeto traz uma preocupação com relação à influência do meio ambiente moderno no comportamento humano [1]. Com relação aos estabelecimentos de alimentação, nos preocupamos com o avanço das tecnologias, especialmente as experiências comunicativas, e a influência no movimento de liderança, construção da marca, identidade de negócio e bem-estar dos colaboradores.
