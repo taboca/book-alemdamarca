@@ -1,7 +1,6 @@
 -----------
 @@ Contacts 
 
- * MC [ , anchored ] @todo - p1 - @contact: MC @ Linkedin - Send the chapter, with audio and text, to MC. She is now awaiting the whole chapter "Chamar a atenção" which needs the editing pass after Gloria's review. @refid-20250209-cef2584d-c2a8-4098-a2b5-363b4dbddbf1
 
 
 -----------
@@ -41,7 +40,10 @@
 * [ ] @todo - p1 - general - In the 3rd part, consider the notion of "pasteurização do passado" ref from the chapters structure "Em “A pasteurização, do passado”, consideramos uma situação paradoxal, dado que certas experiências do passado, como o bolinho de bacalhau, ainda existem mas em uma versão “sem graça” onde o público jovem não vê nada demais enquanto os antigos que provaram da versão original se decepcionam. Celebraremos, com tom de tristeza e saudosismo, como muitas experiências gastronômicas correm risco de extinção."
 
 
+-------------------
+@@ Do meu jeito 
 
+* [ , anchored] @todo - p1 - Do meu Jeito - [ft. @contact:VP] Consider to improve the idea of "molho bárbaro", because it has no logic. @refid-20250224-8a5882bc-c97d-40f4-a5b9-cbc81c549f5c
 
 
 -------------------

@@ -14,6 +14,8 @@
 
 ## Done 
 
+* [ done , anchored ] @todo - p1 - @contact: MC @ Linkedin - Send the chapter, with audio and text, to MC. She is now awaiting the whole chapter "Soluções Aceleradoras" which needs the editing pass after Gloria's review. @refid-20250209-cef2584d-c2a8-4098-a2b5-363b4dbddbf1
+
 * [ done , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
 * [ done , anchored] - @todo - p1 - In "Cliente chato e fiel" Check if we could remove the story of "o que os olhos não veem o coração não sente" from the "Cliente chato e fiel". @refid-20241217-272ecc8e-90ea-48a5-ada7-585bf27a055d
 

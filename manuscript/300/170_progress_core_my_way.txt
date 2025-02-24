@@ -13,6 +13,10 @@ v1.7
 
 * 12 então 
 
+@@ Todo
+ 
+* [ , anchored] @todo - p1 - Do meu Jeito - [ft. @contact:VP] Consider to improve the idea of "molho bárbaro", because it has no logic. @refid-20250224-8a5882bc-c97d-40f4-a5b9-cbc81c549f5c
+
 --> 
 
 <!--

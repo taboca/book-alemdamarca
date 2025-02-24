@@ -9,6 +9,8 @@
 
 ## Todo agenda 
 
+* [ , anchored] @todo - p1 - @contact:MC - Follow up sending a new version - "Letter to Mariana Costa 2/24/2025 @refid-20250224-4fb1fb1b-4eb7-4121-8e56-9fe38093bf91" 
+
 * [ ] Follow up with - added two strategic reviews "[ ] Review the content from Silvia Leite from the yellow book @refid-20250218-047cc428-9f27-43c3-9339-ccc7215c7191" and "* [ ] p1 - Check review Andre, Massupiry vs. Researjão? @refid-20250218-0dff4cbc-5295-4909-95e8-ebc0bf56e2a4"
 
 ## Todo editing
