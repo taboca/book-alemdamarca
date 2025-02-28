@@ -8,6 +8,7 @@
 100/010_communications.txt
 100/020_jobs.txt
 100/030_fazejamento.txt
+100/040_fazejamento_potencializado.txt
 
 000_part2.txt
 
