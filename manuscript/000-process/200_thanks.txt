@@ -10,6 +10,12 @@
 
 * 
 
+### Mateus and Gil from Cervejaria Experiência 
+
+* [ , anchored ] @todo - p1 - @contact:ME, GE - Get feedback from Experiencia folks @refid-20250224-ba97963c-1436-47ef-a7b9-e96f6f3a00bb @link:refid-20250224-ef3624dc-a722-40d6-ac5e-663e8b0e1855
+
+* [ done ] @todo - p1 - @contact:ME, GE - Given the chapter "Naves espaciais" to the founders of Cervejaria Experiência. @refid-20250224-ef3624dc-a722-40d6-ac5e-663e8b0e1855 https://www.alemdamarca.com.br/a/2025-02-21-t3-e185_entrega_manuscrito_mateus_e_gil_cervejaria_experiencia_rp
+
 ### AF - @contact:AF, André Figueiredo 
 
 * [ ] @todo - p1 - In "Soluções Aceleradoras" - Temporada 2 [ft. AF] - https://www.alemdamarca.com.br/a/temporada_2_preedicao_manuscrito @refid-20250222-8f333705-1dac-49f0-b92d-93b6f0033c2d
@@ -74,7 +80,7 @@
 
 * RCS - @Contact:RCS, Roger Carneiro Soares. Roger had always supported many of my projects and also had given some perspectives about where we are going with food. He had too given a viewpoint about the industry adapting products, reducing meat and increasing soy. 
 
-* FM - @contact:FM, Fabrício Morini, do Faça seu Negócio Decolar. 
+* FM - @contact:FM, Fabrício Morini, do Faça seu Negócio Decolar. #Fazejamento
 
 * OM - @contact:OM, Omar Morad, who I met at the cafeteria Pagliaroni in Ribeirão Preto. I am thankful for our conversations and for having met Omar who is a combination of an entrepreneur in the food establishment world with a historian. Ref 220_cliente_chato_e_fiel 
 

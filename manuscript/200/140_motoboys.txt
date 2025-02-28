@@ -1,6 +1,15 @@
 # "5 estrelas" se for rápido
 
 <!--
+
+@version 
+
+* v0.5 - https://www.youtube.com/watch?v=erPI2roCyYs 
+
+@reviews
+
+* Feedback - positive - An Uber driver, had said that it is insightful that the evaluation system of Uber produces a safety result, while the evaluation system of food delivery systems might be actually producing unsafe speed effects. @refid-20250224-f4c78717-9542-4167-ac8f-ffa718e421b0
+
 @todo 
 
 * [ ] @todo - p1 - In Acelerados - Motoboys - Consider narrative "De qualquer forma chega também deformada porém por conta de uma entrega acelerada, das empinadas e da frequência de ressonância do escapamento sem miolo. Mas por quê reclamar? Nossas pizzas baratinhas, essas entre 10 a 15 dólares, são sobreviventes de um romance trágico escrito pelas ruas - vidas aceleradas.  Temos que manter nossa postura, nossa felicidade, até porque para cada pizza que chega eu sei que um jovem motoqueiro - futuro do Brasil - naquele dia não morreu. Sou feliz por saber que se a pizza não vem cortada é porque o chef pizzaiolo tá preocupado com a gente, com aquela rápida." @refid-20250129-fcf4af15-8307-4b5c-a1d1-78221bb3069b
@@ -14,8 +23,6 @@
 @version 
 
 * old - https://docs.google.com/document/d/1AB27TfKbKBcgOsIkzmq_w2lBngTLRKrOIVrlq7_mnWM/edit?tab=t.0
-
-* v0.4
 
 -->
 

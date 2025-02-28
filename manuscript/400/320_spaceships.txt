@@ -6,6 +6,10 @@
 
 * this = v0.7
 
+@collaboration 
+
+* [ done ] @todo - p1 - @contact:ME, GE - Given the chapter "Naves espaciais" to the founders of Cervejaria Experiência. @refid-20250224-ef3624dc-a722-40d6-ac5e-663e8b0e1855 https://www.alemdamarca.com.br/a/2025-02-21-t3-e185_entrega_manuscrito_mateus_e_gil_cervejaria_experiencia_rp
+
 @todo-references 
 
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Translate the story of the extended experience at Experiencia, to pt-br. @refid-20241216-27abb370-76a5-4e00-b6be-12934abea5f4
@@ -15,6 +19,8 @@
 * [ , anchored] @todo - p1 - In "Spaceships ..." - Add ABNT2 reference to the books of Julia Cameron, near to "Neste momento eu já tinha do meu lado o material da Julia Cameron então pelo olhar do filme do astronauta e explorador solitário, meu robô assistente já carregava uma ligação com a Julia, com *O Caminho do Artista* e depois o *The Right to Write*, dois projetos que foram transformadores nesse momento de transição como escritor." @refid-20241210-75f3f5b6-7f46-448a-8d18-c4c126a17726
 
 @todo 
+
+* [ , anchored ] @todo - p1 - @contact:ME, GE - Get feedback from Experiencia folks @refid-20250224-ba97963c-1436-47ef-a7b9-e96f6f3a00bb @link:refid-20250224-ef3624dc-a722-40d6-ac5e-663e8b0e1855
 
 * [ , anchored] - @todo - p1 - In "Naves espaciais" - Check the four elements of Casper. @refid-20250218-8d1db3a8-0acd-4341-ab94-a817c2e33243
 

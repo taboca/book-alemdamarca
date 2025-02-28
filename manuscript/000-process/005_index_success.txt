@@ -14,6 +14,8 @@
 
 ## Done 
 
+* [ done ] @todo - p1 - @contact:ME, GE - Given the chapter "Naves espaciais" to the founders of Cervejaria Experiência. @refid-20250224-ef3624dc-a722-40d6-ac5e-663e8b0e1855 https://www.alemdamarca.com.br/a/2025-02-21-t3-e185_entrega_manuscrito_mateus_e_gil_cervejaria_experiencia_rp
+
 * [ done , anchored ] @todo - p1 - @contact: MC @ Linkedin - Send the chapter, with audio and text, to MC. She is now awaiting the whole chapter "Soluções Aceleradoras" which needs the editing pass after Gloria's review. @refid-20250209-cef2584d-c2a8-4098-a2b5-363b4dbddbf1
 
 * [ done , anchored] @todo - p1 - In "Cliente chato" - Check the dup of the story of the "O que os olhos não veem o coração não sente". @refid-20241226-86071885-1d4b-4f27-8747-d78c84ee60fd
