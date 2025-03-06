@@ -324,6 +324,10 @@
 
 
 
+@@ Design Holístico
+
+* [ , anchored] @todo - p1 - Purple vs. Magenta @refid-20250306-7fcb052c-188d-4e07-94a8-6c827428239b
+
 * [ , ] @todo - p2 - In "Design holístico" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
 
 * [ , further] @todo - p1 - In "Design holístico" #magenta, copy a letter into this text, and check with Marta. @refid-20241211-51d20af7-2a9a-4700-9f27-29277503fb06

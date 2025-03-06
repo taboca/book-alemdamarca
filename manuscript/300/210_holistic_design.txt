@@ -7,6 +7,8 @@
 
 ## Todo 
 
+* [ , anchored] @todo - p1 - Purple vs. Magenta @refid-20250306-7fcb052c-188d-4e07-94a8-6c827428239b
+
 * [ , anchored] @todo - p1 - In "Design holístico" Consider to put a footnote about airbnb founders. @refid-20250217-60aca772-b208-45c3-b1ea-af07372d5d8f
 
 * [ , ] @todo - p2 - In "Design holístico" #magenta, consider a few words more about the situation of reviews with Google Reviews, where many customers are actually mad about the waiter, likely the owner or her sister. @refid-20241211-7a5b1a98-5d19-41a2-956b-e5b751dfa20b
@@ -139,25 +141,17 @@ Por exemplo, as cartas na mesa entre o tampão nórdico e o vidro. Inicialmente,
 
 Então, quebrei a rotina, decidindo ir lá para tomar café da manhã e fazer minhas páginas matinais. Perguntei se tinham o tal do “croissant a la plancha con mantequilla y melocotón” que normalmente vem cortado ao meio depois de passar pelo forno como se fosse na “chapa de calor" com um potinho de manteiga e outro de geleia de pêssego. Nesse dia, também mudei de mesa. E nessa nova mesa, mais cartas. Então já era hora de ler, ou perceber, por exemplo que normalmente elas começavam com “Marta,” e diziam coisas especiais: 
 
-> **Ao Café Purple e à Marta**  
+
+<!--
+@todo 
+* [ , anchored] @todo - p1 - Purple vs. Magenta @refid-20250306-7fcb052c-188d-4e07-94a8-6c827428239b
+-->
+
+> **Ao Café Purple e à Marta,**  
 >  
-> Em poucos meses, este espaço se tornou meu cantinho especial em Salamanca.  
-> O Café Magenta representa algo que eu sempre procurei, sem saber;  
-> é um espaço onde se pode simplesmente estar, ser.  
-> Pode-se compartilhar com amigos, ficar sozinho, ler, escrever, pensar.  
-> É um espaço que, entre bilhetes de pessoas que tiveram a sorte de deixar suas marcas  
-> nesta mesa e fotos familiares, sempre te acolhe.  
-> Hoje em dia, é muito raro encontrar um lugar assim, e essas joias preciosas devem ser valorizadas.  
+> Em poucos meses, este espaço se tornou meu cantinho especial em Salamanca. O Café Magenta representa algo que eu sempre procurei, sem saber; é um espaço onde se pode simplesmente estar, ser. Pode-se compartilhar com amigos, ficar sozinho, ler, escrever, pensar. É um espaço que, entre bilhetes de pessoas que tiveram a sorte de deixar suas marcas nesta mesa e fotos familiares, sempre te acolhe. Hoje em dia, é muito raro encontrar um lugar assim, e essas joias preciosas devem ser valorizadas. Vindo para Salamanca de uma ilha muito distante, o Magenta me proporcionou um espaço seguro em meio a tanta incerteza, quase como um toque de mágica. Se eu pudesse levar comigo algo desta cidade antiga de volta a Porto Rico, seria o Café Magenta. Obrigada por todos os cafés, os chás, os sanduíches por puro prazer, pelos bolos, mas acima de tudo por sempre me receberem de braços abertos.  
 >  
-> Vindo para Salamanca de uma ilha muito distante, o Magenta me proporcionou  
-> um espaço seguro em meio a tanta incerteza, quase como um toque de mágica.  
-> Se eu pudesse levar comigo algo desta cidade antiga de volta a Porto Rico,  
-> seria o Café Magenta.  
->  
-> Obrigada por todos os cafés, os chás, os sanduíches por puro prazer, pelos bolos,  
-> mas acima de tudo por sempre me receberem de braços abertos.  
->  
-> **— Isabella ❤️**
+> Isabella
 
 <!-- 
 @todo 
