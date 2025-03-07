@@ -36,7 +36,7 @@
 400/320_spaceships.txt
 400/310_cooks_values.txt
 
-000_afterword.txt
+#000_afterword.txt
 
 #
 #400/100_cartas_business_cards.txt
