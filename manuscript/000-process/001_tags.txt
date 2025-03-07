@@ -30,6 +30,8 @@
 
 ### Notas de rodapé 
 
+@note-refai @refid-20250307-d8211dfc-9682-4574-81cb-80477ee88166 #footnote Semáforo de Rodízio, inventado por Marcio, rodapé feito por ChatGPT em https://chatgpt.com/share/67cb04b9-55e4-8011-b4e9-7f7fd1767ad5 
+
 @note-refai @refid-20250306-211381d2-623c-4069-89c1-f8662df407c9 #footnote rise of word water 
 
 @note-refai @refid-20250216-3f790658-d35d-405d-b828-0043c32f12e4 Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/67b1ffc0-7eb0-8011-b9bb-f7217f2122cb @commit: f271521 @ 210_holistic_design.txt

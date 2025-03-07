@@ -210,6 +210,10 @@ Em outras palavras, quando a gente pensa em um "tipo" de estabalecimento para um
 
 Nós devemos considerar o esforço tremendo para estarmos conscientes sobre certas narrativas. Ou melhor, coragem para pausar. Considere como certas experiências gastronômicas se encaixam em um enquadre social cultural que reafirma o modo automático, tanto para o cliente que vai lá porque é o lugar certo na hora certa, como para a operação que fica no meio, como na cozinha, manipulando as coisas, deixando passar o fluxo, repassando insumos, métodos, ferramentas e plataformas. Tudo isso, logicamente, sem tempo para perceber que repassar rápido pode também significar estar cercado. 
 
+<!--
+@note-refai @refid-20250307-d8211dfc-9682-4574-81cb-80477ee88166 #footnote Semáforo de Rodízio, inventado por Marcio, rodapé feito por ChatGPT em https://chatgpt.com/share/67cb04b9-55e4-8011-b4e9-7f7fd1767ad5 
+-->
+
 Pense na experiência do rodízio que "coincidentemente" é uma experiência sobre abundância. Você paga uma vez, um certo preço mais alto, e recebe volume e diversidade de carnes. Por conta disso, tivemos que inventar o "Semáforo de Rodízio" [^footnote_bbq_light]. Muitos desses lugares falam sobre as quantidade e tipos de cortes, por exemplo. Por exemplo, na cidade onde moro tem um rodízio famoso - em um posto de gasolina por sinal muito respeitado por caminhoneiros que geralmente não cometem erros nessa área - que afirma ter mais de 34 tipos diferentes de carne. Uma visita rápida no site confirmou isso. E também outra seção fala sobre os tipos de eventos que você pode fazer lá. 
 
 [^footnote_bbq_light]: No Brasil, especialmente em churrascarias rodízio, é comum o uso de um "sinalizador de mesa" com dois lados coloridos — verde e vermelho. O lado verde indica ao garçom que os clientes desejam continuar recebendo cortes de carne, enquanto o lado vermelho sinaliza uma pausa ou o término do serviço.
