@@ -186,7 +186,7 @@ ANDREW'S ROADMAPS. Building the Future Show - Ep. 193 w/ Andrew Weinreich - CEO 
 * [x, further] @todo - p1 - In "Impossível possível" #learnhowtolearn #airbnb #brianinfinitelearner - Transcribe the article (from the yellow notebook and the e-mail entitled "Todo - book - adm - Brian on learning how to learn") section which brings the thought from Brian Chesky on learning how to learn, by going to the definite sources. Thanks to Reid, for contextualizing that question. Make the point that Reid sees Brian as an infinite learner. @refid-20241210-1d4ae8cc-67e7-473b-8640-2630cbaeafa9
 -->
 
-Durante uma entrevista com o cofundador do Airbnb, Brian Chesky, sobre os desafios antes da escala (GREYLOCK, 2018), um calouro pediu um conselho sobre o tema aprendendo como aprender. Antes da resposta, Brian reconheceu que não era um especialista no tema, mas que lá mesmo, onde estavam em Stanford, haviam especialistas. 
+Durante uma entrevista com o cofundador do Airbnb, Brian Chesky, sobre os desafios antes da escala (GREYLOCK, 2018), um calouro pediu um conselho sobre o tema aprendendo como aprender. Antes da resposta, Brian reconheceu que não era um especialista no tema, mas que lá mesmo, onde estavam em Stanford, havia especialistas. 
 
 <!--
 @references 
