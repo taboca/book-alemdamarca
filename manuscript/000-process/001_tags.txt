@@ -28,6 +28,9 @@
 
 @note-refai
 
+@note-refai @refid-20250307-ad185ca8-5432-4143-b291-78b88d9121aa https://chatgpt.com/share/67cb75ec-84cc-8011-8eda-fdb3c45ec0ec Translation of blockquote 
+
+
 ### Notas de rodapé 
 
 @note-refai @refid-20250307-d8211dfc-9682-4574-81cb-80477ee88166 #footnote Semáforo de Rodízio, inventado por Marcio, rodapé feito por ChatGPT em https://chatgpt.com/share/67cb04b9-55e4-8011-b4e9-7f7fd1767ad5 

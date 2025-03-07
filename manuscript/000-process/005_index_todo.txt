@@ -116,6 +116,8 @@
 
 @@ Comunicação
 
+*  [ , anchored] @todo - p1 - In "Tecnologia" - @ft:Clécios - Review - @refid - > Grande parte do problema está ligado a nossa percepção sobre o ambiente tecnologico, por conta que é ela que cria as nossas lentes. Como podemos perceber a tecnologia a partir do campo de visão criado por ela?" / Clécios: Acento no tecnológico e substituir o primeiro ela por "a percepção"
+
 * Capítulo 'TRABALHO': Revisar o uso repetitivo da palavra "DECIDIR" nas primeiras frases para evitar redundância. ([1/23, 22:23])
 
 * [ , ] @todo - p1 - In "Part 1, communications - "Consider the story about technology and work which may be duplicated with the actual chapter entitled "O trabalho" in the part one. @refid-20241217-7315af22-8b83-4730-8e2b-3788d55e627f and text: https://mail.google.com/mail/u/0/#search/tecnologia+e+trabalho/KtbxLwgsvTptfrNxgWfVCrKLKJbTtHGWJB

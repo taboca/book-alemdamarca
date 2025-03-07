@@ -75,7 +75,7 @@ Em *Faça Seu Negócio e Decolar*, o autor Fabrício Morini trouxe a história d
 
 > *"Eles apostaram numa lanchonete. Não é nada glamoroso. É um estabelecimento simples, como eram os comércios desse tipo antes do chamado "raio gourmetizador" que atingiu o ramo e complicou a cozinha. O local não tem firulas. É uma área pequena, com três mesas, um balcão e uma chapa, de onde saem lanches como misto-quente, x-burger, x-salada e omeletes. Vendem, ainda, vitaminas, açaí com granola, salgados e café puro ou com leite. Não há um foco definido. Oferecem um pouco de tudo para tentar matar a fome dos mais diversos tipos de cliente. Os dois trabalham pesado. Abrem as portas às 8 horas, mas chegam ao local antes das 7 horas para deixar tudo em ordem. Costumam voltar para casa após as 21 horas. Como podemos ver, a rotina de empresário é "casca grossa". Apesar de toda a "ralação", eles estão patinando."* (Morini, 2017, p. 49-50)
 
-Obrigado Fabrício, pelos voos paronâmicos que me ajudaram a perceber como o espírito empreendedor ama fazer e como o movimento sem consciência pode fazer o fazer voltar contra a própria intenção do movimento. Inspirado por essa reflexão, neste capítulo faremos uma regressão, uma celebração. Vamos observar, e de certa forma valorizar, a lógica que nos guia para colocar a mão na massa, a mesma lógica que nos desafia para estarmos sobre conscientes sobre os riscos de sair fazendo. 
+Obrigado Fabrício, pelos voos paronâmicos que me ajudaram a perceber como o espírito empreendedor ama fazer e como o movimento sem consciência pode fazer o fazer se voltar contra a própria intenção do movimento. Inspirado por essa reflexão, neste capítulo faremos uma regressão, uma celebração. Vamos observar, e de certa forma valorizar, a lógica que nos guia para colocar a mão na massa, a mesma lógica que nos desafia para estarmos sobre conscientes sobre os riscos de sair fazendo. 
 
 Começando pela perspectiva do empreendedorismo, mesmo diante da necessidade de inovação, é inescapável reconhecer que em grande grau a função empreendedora envolve colocar a mão mão na massa. Segundo Joseph Schumpeter, essencialmente o movimento de empreender é sobre fazer as coisas acontecer:
 
@@ -89,7 +89,17 @@ Começando pela perspectiva do empreendedorismo, mesmo diante da necessidade de 
 
 -->
 
+<!--
+@note-refai @refid-20250307-ad185ca8-5432-4143-b291-78b88d9121aa https://chatgpt.com/share/67cb75ec-84cc-8011-8eda-fdb3c45ec0ec Translation of blockquote 
+-->
+
+<!--
+@research 
 > *"To act with confidence beyond the range of familiar beacons and to overcome that resistance requires aptitudes that are present in only a small fraction of the population and that define the entrepreneurial type as well as the entrepreneurial function. This function does not essentially consist in either inventing anything or otherwise creating the conditions with the enterprise exploit. It consists in getting things done."* (Schumpeter, 2008, p. 132)
+-->
+
+> "Agir em contextos desconhecidos é difícil e constitui uma função econômica especial, primeiramente porque ultrapassa os limites das atividades rotineiras e conhecidas, e depois porque o ambiente oferece resistência de múltiplas formas, que variam conforme as condições sociais. Essas resistências vão desde a simples recusa de financiamento ou compra de algo novo até ataques diretos contra quem tenta produzi-lo. Não se trata apenas de realizar tarefas rotineiras ou explorar oportunidades já estabelecidas, mas sim, acima de tudo, de fazer as coisas acontecerem." (Schumpeter, 2008, p. 132)
+
 
 <!-- 
 @meta @references
