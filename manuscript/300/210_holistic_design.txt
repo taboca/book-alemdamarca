@@ -199,7 +199,8 @@ Isso nos leva a refletir que o líder não está pintando e bordando em um canva
 > *”From the very beginning, we thought about this more than just a place to put your head at night, a place to lay down. Even from that very one weekend, we're like 'well, what if we pick them up from the airport, what if we provide breakfast in the morning, what if we give them Bart pass [train] to get around the city with a map to San Francisco.’ So even from the beginnings of this weird weekend project was this idea of how do you think about everybody's experience from end to end. “* (Gebbia, Joe., YCombinator, 2017) 
 -->
 
-> "Desde o início, pensamos nisso como mais do que apenas um lugar para descansar a cabeça à noite, um lugar para se deitar. Mesmo naquele fim de semana inicial, estávamos tipo ‘bem, e se nós os buscássemos no aeroporto?, e se fornecêssemos café da manhã pela manhã?, e se déssemos um passe do Bart [trem] para que pudessem circular pela cidade com um mapa de San Francisco?’ Então, desde o começo desse estranho projeto de fim de semana, já existia essa ideia de como pensar na experiência de todos, de ponta a ponta.” (YCombinator, 2017, tradução nossa).
+> Desde o início, pensamos nisso como mais do que apenas um lugar para descansar a cabeça à noite, um lugar para se deitar. Mesmo naquele fim de semana inicial, estávamos tipo ‘bem, e se nós os buscássemos no aeroporto?, e se fornecêssemos café da manhã pela manhã?, e se déssemos um passe do Bart [trem] para que pudessem circular pela cidade com um mapa de San Francisco?’ Então, desde o começo desse estranho projeto de fim de semana, já existia essa ideia de como pensar na experiência de todos, de ponta a ponta.
+> (YCombinator, 2017, tradução nossa).
 
 <!-- 
 @todo 

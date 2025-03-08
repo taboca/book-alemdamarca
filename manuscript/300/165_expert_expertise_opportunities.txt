@@ -202,7 +202,8 @@ GREYLOCK. Blitzscaling Ep. 18: Brian Chesky on Launching Airbnb and the Challeng
 
 Brian começou contextualizando o desafio: 
 
-> "Se eu dissesse que quero que você aprenda sobre um assunto e que tem uma semana para isso. [...] E eu quero que você realmente aprenda. Quero que você aprenda tudo o que é importante. Quero que você se torne um especialista ou, pelo menos, um especialista temporário, de modo que possa conhecer o básico e entender as coisas mais importantes." (GREYLOCK, 2018).
+> Se eu dissesse que quero que você aprenda sobre um assunto e que tem uma semana para isso. [...] E eu quero que você realmente aprenda. Quero que você aprenda tudo o que é importante. Quero que você se torne um especialista ou, pelo menos, um especialista temporário, de modo que possa conhecer o básico e entender as coisas mais importantes.
+> (GREYLOCK, 2018).
 
 <!--
 @research - block quote 
