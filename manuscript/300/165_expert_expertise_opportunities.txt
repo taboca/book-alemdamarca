@@ -94,18 +94,26 @@ De volta ao momento da balança, agora sim podemos comparar essa proposta super 
 
 ### Realidade alternativa 
 
-Mas vamos exercitar revisitar esse julgamento, levar para uma segunda instância. Uma ideia seria chamar o diabo, neste caso com o objetivo de fazer uma análise crítica daquele lado vencedor? Tipo, “vamos trazer os pontos negativos de usar aquela opção”. 
-Essa ideia, não é incomum no mundo dos negócios. O investidor Michael Dearing diz que aprendeu essa ideia quando trabalhou na Disney: 
+Mas vamos exercitar revisitar esse julgamento, levar para uma segunda instância. Uma ideia é chamar o advogado do diabo, neste caso com o objetivo de fazer uma análise crítica daquele lado vencedor? Tipo, “vamos trazer os pontos negativos sobre usar aquela opção”. Essa ideia, não é incomum no mundo dos negócios- isso é o que o investidor Michael Dearing disse e que aprendeu quando trabalhou na Disney: 
 
-> *””* (DEARING, XXX) 
+<!--
+@research 
+And this was a tactic that I learned from Michael Eisner at Disney. I didn't work for him but I worked for somebody who worked for him, and the whole idea there was every big good idea is going to be subjected to a devil's advocate case. And somebody—probably the smartest person he could find—is going to be in charge of trying to destroy your idea. And he or she isn't gonna be held as like... they're not going to be considered to be out of bounds for trying to destroy your idea. It was their job to try to destroy your idea. And that technique of saying, "Okay, you please spend the next two days finding everything wrong with this, and then you have full permission to be the biggest asshole you ever met, trying to torpedo this idea." If you can find some people in your life who can play that role, that's a huge positive as a founder.
+(33:39)
 
-Mas de forma análoga, também poderíamos dar uma mãozinha para esse julgamento contratando o advogado de Deus. 
+-->
 
-Neste sentido, eu posso testemunhar a favor do Pão de Deus. Vamos para o dia que vi o processo de fermentação lenta sob uma nova luz.  
+> Essa foi uma tática que aprendi com Michael Eisner na Disney. Eu não trabalhei diretamente para ele, mas trabalhei para alguém que trabalhou com ele. E a ideia central era que toda grande ideia boa deveria passar por uma análise de advogado do diabo. Alguém — provavelmente a pessoa mais inteligente que ele conseguisse encontrar — teria o trabalho de tentar destruir a sua ideia. E essa pessoa não seria considerada inadequada ou exagerada por tentar fazer isso. Pelo contrário, era o trabalho dela tentar destruir a ideia. E essa técnica funcionava assim: "Ok, você agora vai passar os próximos dois dias encontrando tudo o que há de errado com isso, e você tem total permissão para ser a pessoa mais desagradável que puder para afundar essa ideia". Se você conseguir encontrar pessoas em sua vida que possam desempenhar esse papel, isso será algo muito positivo como fundador.
+> (GREYLOCK, 2015, 33:39, tradução nossa)
 
-Meu objetivo era *só* aprender como fazer aqueles pães lindos e gostosos. No estilo “aspirante à cheff”,  me matriculei em um curso sobre panificação com fermento natural. 
+<!--
+@Reference
+* @reference - GREYLOCK. Blitzscaling 03: Michael Dearing on capitalism, creativity, and creative destruction. Publicado por Greylock em 8 out. 2015. YouTube. Disponível em: https://www.youtube.com/watch?v=3vCdfa_aeI8. Acesso em: 7 mar. 2025.
+-->
 
-Era um curso prático e teórico ao mesmo tempo, que prometia aquele tal pão de fermentação natural, estilo italiano, casca grossa, quentinho, com aquele interior alveolado com aquelas bolhas internas e aquele sabor e aroma especiais. 
+De forma análoga, seguindo a lógica dos Michael, também podemos dar uma mãozinha para o outro lado, por exemplo contratando o advogado de Deus. A lógica é a mesma. Mas um ponto do Michael foi bem notado, quando sugere que você não estará capacitado para fazer isso. Ou talvez esteja. Mas o ponto principal é sobre essa sensibilidade que envolve abertura. E vale a celebração sobre tudo aquilo que faz a gente ganhar a outra visão. Venha comigo acompanhar o dia que vi o processo de fermentação lenta sob a nova luz: 
+
+Considere o dia que me matriculei naquele curso sobre panificação, a princípio, *só* para aprender como fazer aqueles pães lindos e deliciosos. No estilo “aspirante à chef”,  me matriculei no curso de panificação com fermento natural. Era um curso prático e teórico ao mesmo tempo, que prometia aquele tal pão de fermentação natural, estilo italiano, casca grossa, quentinho, com aquele interior alveolado e as bolhas internas e aquele sabor e aroma especiais. 
 
 Chegamos cedinho para o café da manhã especial. Fomos recebidos por aquele pão tipo italiano de fermentação lenta. Estava perfeito: café e pão com manteiga. Era o pão perfeito, dos Deuses. E fez a gente se perguntar sobre o resultado para o final do dia. Calma aí, nós vamos fazer um pão assim? Sim, o professor-chef Rubinho falou. E não é só isso: vocês aprenderão o processo, colocarão a mão na massa, e levarão para casa quatro pães: o pão tipo italiano, a baguete francesa, o pão recheado com gorgonzola e figo e o pão de campanha (com farinha branca, integral e centeio). 
 
@@ -118,14 +126,11 @@ Chegamos cedinho para o café da manhã especial. Fomos recebidos por aquele pã
 
 E assim foi o dia. Aprendemos sobre a propagação do fermento utilizando um fermento anterior, sobre como pré-misturar a farinha na água em um processo referido como hidrólise, e muito mais. E também aprendi a “amassar” (como eu dizia) de um jeito menos afobado. Ou melhor, fazer as dobras. E sobre colocar o sal na hora certa. E, é lógico, sobre a fermentação lenta em temperatura baixa. 
 
-Bastante coisa para um único dia. E conseguimos, fizemos pães incríveis e lindos com direito a assinar eles com a navalha. 
+Bastante coisa para um único dia. Mas conseguimos: fizemos pães incríveis, lindos, e com direito a assiná-los com a navalha. Tudo aquilo experienciado lá confirmava a ideia que dizia que aquele tipo de pão não poderia existir no estabelecimento. Em outras palavras, seria impossível para a lanchonete da esquina. 
 
-Tudo aquilo que experienciei lá confirmava a ideia que dizia que aquele tipo de pão não poderia existir em um estabelecimento. Em outras palavras, seria impossível para a lanchonete da esquina. 
+No entanto, uma dúvida teria surgido bem cedinho, se não fosse eu entretido com aquela experiência matinal do pão quentinho e fresquinho. Mas estava lá, no inconsciente: quando foi feito aquele pão que comemos de manhã? Ela ficou clara quando, eventualmente, falamos sobre pré-assar e casquerar. E com isso, estávamos falando sobre congelamento. E eu disse, na lata, para o professor, “Então, você está me dizendo que aquele pão matinal foi descongelado e  reassado e casquerado de manhã?” Ele disse sim. E na sequência eu perguntei “Mas fica igual?” 
 
-Mas uma dúvida teria surgido logo cedo se não fosse eu entretido com aquela experiência matinal do pão quentinho e fresquinho. 
-Mas ela estava lá, no inconsciente: quando foi feito aquele pão que comemos de manhã? Ela ficou clara quando, eventualmente, falamos sobre pré-assar e casquerar. E com isso, estávamos falando sobre congelamento. E eu disse, na lata, para o professor, “Então, você está me dizendo que aquele pão matinal foi descongelado e  reassado e casquerado de manhã?” Ele disse sim. E na sequência eu perguntei “Mas fica igual?” 
-
-Minha mente não aceitava a possibilidade da realidade alternativa. Na minha realidade, não cabia naquela mesa um pão artesanal - quentinho-fresquinho, de fermentação lenta e feito com fermento natural e muito amor - que tivesse congelado. 
+Minha mente não aceitava a possibilidade daquela realidade alternativa. No meu mundo, não cabia naquela mesa um pão artesanal - quentinho-fresquinho e de fermentação lenta e feito com fermento natural e muito amor - que tivesse congelado. 
 
 De novo, o pão da manhã era tão bom que devo ter achado que caiu do céu. Naquela hora, em câmera lenta esperando a resposta do Rubens, a imagem já estava se desfazendo, a cena desmoronando, enquanto uma nova imagem - não de decepção mas iluminada - se formava. Então ele disse  “Eu não saberia dizer se foi congelado ou não“. E eu fui teleportado para outra dimensão na velocidade da luz, ao mesmo tempo perguntando enquanto dobrava minha massa cinzenta, “mas até quantos meses não dá para dizer?”
 
