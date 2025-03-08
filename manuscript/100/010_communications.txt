@@ -50,7 +50,8 @@
 
 Se ela chegasse de frente, fazendo barulho, grande e imponente, soltando fumaça pelas ventas, como aquela locomotiva que chegou em Ohio em 1828, talvez nos envolveríamos em uma discussão mais acalorada, talvez parecida com o texto publicado por um conselho escolar da cidade:
 
-> *"Se Deus tivesse planejado que suas criaturas inteligentes viajassem à assustadora velocidade de 25 milhas por hora a vapor, Ele teria predito isso por meio de seus santos profetas. É um dispositivo de Satanás para levar almas imortais ao inferno."* (KLEIN, 2009, p. 57)
+> Se Deus tivesse planejado que suas criaturas inteligentes viajassem à assustadora velocidade de 25 milhas por hora a vapor, Ele teria predito isso por meio de seus santos profetas. É um dispositivo de Satanás para levar almas imortais ao inferno.
+> (KLEIN, 2009, p. 57)
 
 <!--
 @references 
@@ -97,8 +98,7 @@ Em 1959, Peter Drucker se preocupou sobre essa percepção, ou falta de percepç
 * @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
 --> 
 
-
-> *"A abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora."* (Drucker, 2012, p.39)
+> A abordagem a partir da biologia humana, leva-nos à conclusão de que a tecnologia não se refere a elementos concretos – ferramentas, processos e produtos –, mas a trabalho – especificamente a atividade humana, através da qual o homem supera as limitações das leis de ferro da biologia, ao contrário de todos os outros animais, que têm a lutar muito para se manterem vivos no dia seguinte ou na próxima hora. (Drucker, 2012, p.39)
 
 <!--
 @todo 
@@ -155,7 +155,8 @@ Assim, ela é disseminada: pelo processo para criação do forno, pelas receitas
 
 Por conta disso, o manuseio e a disseminação torna-se uma experiência comunicativa no contexto social. Mas mesmo que bem intencionada, para ajudar as pessoas com um trabalho para ser feito da melhor forma, exerce sua influência. Em outras palavras, a caixa de ferramentas também nos limita a ver fora da caixa. Isso nos leva a conclusão reflexiva, junto com Peter Drucker, que o trabalho influencia o trabalho:
 
-> *"As ferramentas e técnicas não só influenciarão fortemente qual trabalho pode e será realizado, mas também determinarão como ele será realizado. O trabalho, sua estrutura, organização e conceitos, por sua vez, influenciarão com a mesma força o desenvolvimento de ferramentas e técnicas."* (Drucker, 2012, p.40) 
+> As ferramentas e técnicas não só influenciarão fortemente qual trabalho pode e será realizado, mas também determinarão como ele será realizado. O trabalho, sua estrutura, organização e conceitos, por sua vez, influenciarão com a mesma força o desenvolvimento de ferramentas e técnicas.
+> (Drucker, 2012, p.40) 
 
 <!--
 @references 

@@ -147,7 +147,7 @@ Em outras palavras, mãos na massa. Ou melhor, mãos no recheio e vamos criar no
 
 Assumindo o movimento estratégico que apela para conquistar o cliente, ou chamar a atenção, vamos então trabalhar com nosso potencial criativo a serviço desse menu que de certa forma quer ser apelativo, para todos os gostos. Neste sentido, podemos considerar pedir ajuda para nosso mais nova amiguinha, a Inteligência Artificial. Considere o *prompt* abaixo: 
 
-> *"Olá Mademoiselle GPT, nosso estabelecimento coxinha começou com uma única coxinha e a partir disso ficamos famosos. E saímos na TV. E agora precisamos escalar. Precisamos aumentar o menu. Crie algumas 5-10 coxinhas depois do frango básico, com base em ingredientes padrão como brócolis, calabresa, carne moída, creme tipo queijo, creme tipo cheddar, palmito, ervilha de latas, azeitona, etc. E depois, no nível dois, crie mais 5 coxinhas (que serão as premium) que podem ser pratos mais elaborados, dentro, conhecidos pelo brasil, tipo coxinha de feijoada e estrogonofe. Considere a ideia da coxinha de lasanha. PS:o nosso estabelecimento é conhecido como A Tradicional Coxinha da Tia Coxinha."*
+> Olá Mademoiselle GPT, nosso estabelecimento coxinha começou com uma única coxinha e a partir disso ficamos famosos. E saímos na TV. E agora precisamos escalar. Precisamos aumentar o menu. Crie algumas 5-10 coxinhas depois do frango básico, com base em ingredientes padrão como brócolis, calabresa, carne moída, creme tipo queijo, creme tipo cheddar, palmito, ervilha de latas, azeitona, etc. E depois, no nível dois, crie mais 5 coxinhas (que serão as premium) que podem ser pratos mais elaborados, dentro, conhecidos pelo brasil, tipo coxinha de feijoada e estrogonofe. Considere a ideia da coxinha de lasanha. PS:o nosso estabelecimento é conhecido como A Tradicional Coxinha da Tia Coxinha.
 
 <!-- 
 @note-refai "Esse é diferente" #coxinha #croissant @refid-20250204-3a36aba1-0a9e-458d-962c-96cec1ff1b7a https://chatgpt.com/share/67a67882-bcb0-8011-9164-c34624abdc7b
@@ -189,7 +189,8 @@ E com o direito a dizeres encorajadores também:
 
 Tudo bem, vamos voltar para nossa base. Se o assunto é sobre resgatar de valores para explorarmos a expansão virtuosa, temos que não só nos lembrar sobre aquelas armadilhas - quando caímos de paraquedas seguindo aquele movimento - mas também nos lembrar sobre aquela outra forma de trabalhar, como disse a autora Dorothea Brande em 1936:
 
-> *"A ação com propósito parece mais rápida, clara, direta e prazerosa do que qualquer outra. Na realidade, você pode estar trabalhando mais devagar e com mais cuidado do que normalmente; ainda assim, o fato de não haver confusão de questões, nem parte da sua mente divagando enquanto se movimenta, confere um ‘tom’ inconfundível às atividades realizadas da maneira adequada."* (BRANDE, 2014, p. 104).
+> A ação com propósito parece mais rápida, clara, direta e prazerosa do que qualquer outra. Na realidade, você pode estar trabalhando mais devagar e com mais cuidado do que normalmente; ainda assim, o fato de não haver confusão de questões, nem parte da sua mente divagando enquanto se movimenta, confere um ‘tom’ inconfundível às atividades realizadas da maneira adequada.
+> (BRANDE, 2014, p. 104).
 
 <!--
 

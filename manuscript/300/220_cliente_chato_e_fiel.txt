@@ -152,7 +152,8 @@ Para considerarmos a influência da gestão na comunicação - e consequentement
 * @aiuse  - https://chatgpt.com/share/676dd3b2-3c40-8011-ab1e-7a7c8b6ef66f 
 -->
 
-> *"Podemos, então, dizer algo construtivo sobre comunicação? Podemos fazer alguma coisa? Podemos dizer que a comunicação deve partir do receptor, não do emissor. No contexto das organizações tradicionais, temos de começar de baixo para cima. A comunicação de cima para baixo não funciona. Ela só pode funcionar depois que a comunicação de baixo para cima for estabelecida com sucesso."* (DRUCKER, 2012, p. 16).
+> Podemos, então, dizer algo construtivo sobre comunicação? Podemos fazer alguma coisa? Podemos dizer que a comunicação deve partir do receptor, não do emissor. No contexto das organizações tradicionais, temos de começar de baixo para cima. A comunicação de cima para baixo não funciona. Ela só pode funcionar depois que a comunicação de baixo para cima for estabelecida com sucesso.
+> (DRUCKER, 2012, p. 16).
 
 <!--
 @references

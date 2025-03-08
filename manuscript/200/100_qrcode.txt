@@ -11,7 +11,7 @@
 
 Imagine um universo paralelo onde as pessoas não andam olhando para smartphones de última geração. Neste planeta diferente, uma cafeteria decidiu que o menu seria acessível somente por meio do QR Code. Na mesa, adesivaram um QR Code com instruções: 
 
-> *"Este é o nosso cardápio QR Code. Basta ir na loja ao lado, comprar um smartphone de última geração. Certifique-se que esse smartphone tem câmera e é compatível com a loja de aplicativos X. Volte aqui, conecte-se a nossa rede WIFI, visite a loja de aplicativos online, instale o nosso aplicativo para decodificar as fotos da câmera, aponte a cãmera para essa imagem, aguarde o botão que irá aparecer, selecione-o. Parabéns, você está diante do menu!"* 
+> Este é o nosso cardápio QR Code. Basta ir na loja ao lado, comprar um smartphone de última geração. Certifique-se que esse smartphone tem câmera e é compatível com a loja de aplicativos X. Volte aqui, conecte-se a nossa rede WIFI, visite a loja de aplicativos online, instale o nosso aplicativo para decodificar as fotos da câmera, aponte a cãmera para essa imagem, aguarde o botão que irá aparecer, selecione-o. Parabéns, você está diante do menu! 
 
 <!-- situation agreement --> 
 
