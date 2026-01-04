@@ -145,6 +145,10 @@ De forma análoga, seguimos no modo clichês, criando narrativas para o site, o 
 * [ Done , anchored ] @todo-index @todo - p1 - In “Chamar a atenção” - Check again the text from Robert McKee, the interview. Consider rephrasing the above. @refid-20250116-736e1eab-dee4-4d6b-b3d2-7603a7e7bf12
 --->
 
+{fullbleed: true}  
+![](images/cover-piscina.jpg)
+
+
 Essa névoa é um problema porque se a gente nasce na névoa, e só vê névoa, não existe névoa. Talvez por isso criticamos o cinema americano como sendo "cinema americano". E é por isso que quando esbarramos em um filme muito bom americano pensamos que é um positivo-falso, uma espécie de patinho bonito errado e sozinho. 
 
 <!--
