@@ -29,6 +29,11 @@ Um dia, passando por uma famosa avenida de Ribeirão Preto, notei um *outdoor* b
 
 Contribuindo com a reflexão sobre este paradoxo, trago as próximas seções que consideram como a tecnologia do QR Code, especialmente no Brasil, avançou dentro dos estabelecimentos de alimentação. E sim, em parte impulsionada pela pandemia. Mas é lógico, nada disso é culpa do QR Code. E é por isso que precisamos fazer duas paradas. A primeira, voltando um pouco no tempo, para celebrarmos a beleza dessa invenção. E enfim, de volta para presente, experienciarmos como estabelecimentos abraçaram isso - principalmente durante a pandemia - de forma descontrolada. 
 
+{fullbleed: true}  
+![](images/cover-qrcode.jpg)
+
+
+
 
 ### O QR Code não tem culpa 
 
