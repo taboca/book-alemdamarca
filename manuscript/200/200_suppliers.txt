@@ -42,10 +42,10 @@ Eu diria que ela começou, literalmente, comendo pelas beiradas. Porque um dia e
 
 Em minha defesa, ela foi evoluindo no tempo. Era aquela semi massa semi queijo sim, um produto da nossa criatividade, das ruas, que remixou o saudoso requeijão com a farinha de trigo. Mas tornou-se oficial, impulsionada por nossa criatividade industrial preocupada com as massas. Esse é o preço que pagamos, no meio desse capitalismo virtuoso-vicioso, que amo ou odeio. Que por um lado, alí em Minas Gerais faz queijos artesanais com aquele jeitinho mineiro que ganha prêmios na Europa, e do outro aqui no nosso colo passamos a chupetinha do nenê nesse novo creme tipo creme que deixou de ser de milho verde faz tempo. 
 
-Vamos conhecer, agora, a versão moderna: MazzaXis, nome fictício. Quando descobri que tinha nome, que era um produto ou solução, corri para visitar a página oficial. Wow, encontrei a resposta para aquela dúvida de longa data. E como desenvolvedor da web, e profissional de marketing, feliz por ter encontrado uma página bem feita e objetiva. 
-
 {fullbleed: true}  
 ![](images/cover-massupiri.jpg)
+
+Vamos conhecer, agora, a versão moderna: MazzaXis, nome fictício. Quando descobri que tinha nome, que era um produto ou solução, corri para visitar a página oficial. Wow, encontrei a resposta para aquela dúvida de longa data. E como desenvolvedor da web, e profissional de marketing, feliz por ter encontrado uma página bem feita e objetiva. 
 
 Nesta altura, e por estar bem envolvido com marketing, entendi que estava diante de uma “*landing page*”, ou uma página de aterrissagem. Caso você não conheça este conceito, trata-se de uma página que é voltada para um público interessado em comprar uma solução por conta de uma dor/problema/necessidade. Por isso, a página deve trazer seções objetivas permitindo que o usuário avance no processo de decisão. Em outras palavras, é uma apresentação de negócios para essa audiência que, neste momento, quer uma solução. Então vamos juntos, rolar essa página:
 
