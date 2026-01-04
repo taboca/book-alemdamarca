@@ -44,6 +44,9 @@ Em minha defesa, ela foi evoluindo no tempo. Era aquela semi massa semi queijo s
 
 Vamos conhecer, agora, a versão moderna: MazzaXis, nome fictício. Quando descobri que tinha nome, que era um produto ou solução, corri para visitar a página oficial. Wow, encontrei a resposta para aquela dúvida de longa data. E como desenvolvedor da web, e profissional de marketing, feliz por ter encontrado uma página bem feita e objetiva. 
 
+{fullbleed: true}  
+![](images/cover-massupiri.jpg)
+
 Nesta altura, e por estar bem envolvido com marketing, entendi que estava diante de uma “*landing page*”, ou uma página de aterrissagem. Caso você não conheça este conceito, trata-se de uma página que é voltada para um público interessado em comprar uma solução por conta de uma dor/problema/necessidade. Por isso, a página deve trazer seções objetivas permitindo que o usuário avance no processo de decisão. Em outras palavras, é uma apresentação de negócios para essa audiência que, neste momento, quer uma solução. Então vamos juntos, rolar essa página:
 
 Começando pelo topo, ví que o produto tinha nome: MazzaXis. Esse nome estava em cima do papel de parede que ia de fora a fora. Era uma pizza, bem de pertinho, com um pedaço sendo retirado. Dava para ver o calor pela fumaça. Mesmo sem fome, coloquei o chapéu do pizzaiolo. Ou do pizzaiolo chef.
