@@ -40,9 +40,10 @@
 * The book part 
 --> 
 
-Então, bem-vindo a bordo. Eu espero que essa viagem seja diferente. Como piloto, minha intenção é a despressurização da cabine. Não importa seu lugar na operação - no atendimento, atrás do balcão, na cozinha, na gestão, se é investidor, professor, mentor, ou se você é um hoje um cliente disfarçado de cliente que um dia irá mergulhar neste mundo. Esse livro é sobre respirar, sobre refletir em perspectiva. É sobre, como adulto, colocar a máscara do pensamento consciente no adulto antes daquele adulto acelerado ou impulsivo.
+Seja bem-vindo a bordo. Te adianto que essa viagem será um pouco diferente. Como piloto, minha intenção é a despressurização da cabine. Não importa seu lugar na operação - no atendimento, atrás do balcão, na cozinha, na gestão, se você é investidor, professor, mentor; ou se você é um disfarçado de cliente que um dia irá mergulhar neste mundo dos estabelecimentos. 
 
-Uma advertência, sobre o que este material não é: não é sobre fórmulas, não traz receitas prontas, nem métodos e ferramentas, ou frameworks. Primeiro, porque como você sabe, sobre isso temos muito. Sobre isso estamos também cercados diante de uma infinidade de soluções para todo tipo de problema. Segundo, porque neste meio estamos esquecendo que no final, ainda, somos o recurso mais valioso e que mais vale a pena investir. 
+Esse livro é sobre respirar, sobre refletir, em perspectiva. É sobre, como um adulto, colocar a máscara do pensamento consciente, nesse nosso adulto, antes de se lançar com o pensamento impulsivo, ansioso, acelerado, antes de ir para a mão na massa. Ou, em outras palavras, podemos considerar o que este material não é: não é sobre fórmulas, não traz receitas prontas, nem métodos e ferramentas, ou frameworks. Primeiro, porque como você sabe, sobre isso temos muito. Sobre isso estamos também cercados diante de uma infinidade de soluções para todo tipo de problema. Segundo, porque neste meio estamos esquecendo que no final, ainda, somos o recurso mais valioso e que mais vale a pena investir. 
+
 <!--
 @todo 
 * [ , anchored ] @todo - p1 - in Introduction - The following could be part of a general induction introduction, SCqA for this part, the book part. 
