@@ -45,10 +45,30 @@ Fazendo um apanhado sobre a experiência, foi inevitável a conclusão que ir pe
 
 É que eu imaginei que a experiência do cartão presente poderia ser algo mais especial que o situação normal. Como cliente, sei lá, pensei que se alguém passa por esse trabalho todo é bem capaz que gosta tanto do local que deveria receber um prêmio, ou pelo menos ganhar uma sobremesa. Mas nada, o que ganhamos foi aquela não receptividade. Eu até entenderia um pouco se fosse um cupom de desconto, tipo daqueles que antigamente traziam promoções tão agressivas que os estabelecimentos tanto odiavam e deixavam os consumidores no cantinho. 
 
-Quando comentei com ela sobre o que esperava - sobre essa experiência ideal que diz que deveriam prestar mais atenção que esses são potencialmente super clientes que poderiam voltar muitas vezes nos próximos 10 anos - ela matou a charada, apontando que os departamentos simplesmente não se conversam. E me fez lembrar de uma apresentação do Eric Ries, o renomado autor do livro *A Start-up Enxuta* que reconheceu que as empresas avançaram realmente avançaram com os processos *lean* onde os vários departamentos - como marketing, engenharia e design - se orientam pela experiência do cliente. Porém, ele aponta, que se por um lado essa orientação é valiosa, por outro não existe uma união entre os departamentos em torno de um propósito: 
+Quando comentei com a querida sobre o que esperava - sobre essa experiência ideal que diz que deveriam prestar mais atenção  e que deveriamos ser tratados como super clientes que poderíamos voltar muitas vezes nos próximos 10 anos - ela matou a charada. Ela sempre foi mais inteligente e direta. E simplesmente falou "os departamentos não se conversam". 
 
-> É fácil para nós nos perdermos e esquecermos qual é o propósito do nosso trabalho diário. Acho que grande parte do desperdício no ambiente de trabalho moderno tem a ver com pessoas que se desconectam desse propósito, desse significado maior do trabalho que realizamos.
+Aquele comentário matador me fez lembrar de uma reflexão do Eric Ries, o renomado autor do livro *A Start-up Enxuta* que reconheceu que os processos ágeis, mesmo que bem intencionados e centrados no usuário, ainda assim falham justamente porque departamentos não se conversam em torno de um propósito: 
+
+> Um dos desafios do ambiente de trabalho moderno é que as pessoas se tornaram desconectadas do propósito — do significado mais amplo do trabalho que realizamos.
+> Existem abordagens que surgem a partir dos diferentes elementos funcionais de uma corporação moderna que compartilham muitas semelhanças. Todos nós temos enfrentado os mesmos problemas. 
+> Se você pegar hoje uma empresa bem administrada e der um grande zoom para fora — adotando uma visão de cima, quase divina — pode imaginar cada silo funcional como um enorme silo físico de grãos. É possível vê-los operando de forma independente. Agora imagine que você pega um desses silos, remove a tampa como se fosse uma lata de Pringles, e olha para dentro.
+> Ao olhar para dentro do silo de engenharia, você verá um desenvolvimento altamente iterativo e ágil — iterações no estilo de extreme programming. Ao olhar para o silo de design, verá o design thinking em ação. Se observar o marketing, verá customer development. Se observar as operações, verá alguma versão disso. Assim, você pode encontrar uma organização em que, em todos os silos, as práticas são altamente iterativas, centradas no cliente e profundamente focadas em aprendizado. Então, ao dar um zoom para fora, você pode pensar: uau, esta deve ser uma empresa realmente adaptável, orientada ao aprendizado. 
+> Mas o que frequentemente se descobre, em vez disso, é que, apesar de toda essa iteração e aprendizado dentro de cada silo individual, o produto final do trabalho da empresa é passado — pasta por pasta — de um silo para o outro, em um processo totalmente linear, antigo e no estilo waterfall.
 > (RIES, 2014, 10:35)
+
+<!-- 
+
+One of the challenges of the modern work environment is that people have become disconnected from purpose — from the greater meaning of the work that we do.
+
+There are approaches that come out of the different functional elements of a modern corporation, that share a lot of similarities. We’ve all been struggling with the same problems.
+
+If you take a well-run company today and zoom way out — take a God’s-eye view — you can imagine each functional silo as a huge physical grain silo. You can see them operating independently. Now imagine you grab one of those silos, pop the top off like a Pringles can, and look inside.
+
+Look inside the engineering silo: you’ll see highly iterative, agile development — extreme programming–style iteration. Look inside the design silo, you’ll see design thinking in action. grab marketing, you’ll see customer development, you grab operations and you will see some version of it. So you might find an organization where, in every silo, things are highly iterative, customer-centric, and deeply focused on learning. Then you zoom out, you might think: Wow, this must be a truly adaptable, learning-oriented company.
+
+But what you often discover, instead, is that, despite all this iteration and learning within each individual silo, the actual work product of the company is passed — binder to binder — from one silo to the next, in a totally linear, old-school, waterfall process.
+-->
+
 
 <!-- 
 @reference 
