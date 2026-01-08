@@ -4,17 +4,14 @@
 
 @version 
 
-* v1.2
+* v1.3
 
 @todo 
 
 * [ , anchored ] @todo - p1 - In "Introduction - " Check the e-mail "Book - ADM - Introdução elemento sobre complicação?" which may offer an insight that supports a better complication. @refid-20250102-78a18e9f-33a3-40c5-aabb-05823835eb94
-
 * [ , anchored] @todo - p1 - In "Introduction" - Check the logic in the elements listed: context which is local, cultural, social and technological. @refid-20241217-32e62333-898b-4068-8319-4b29555d13ba
-
 * [ , anchored ] @todo - p1 - in Introduction - This is likely GKA. 
 * [ , anchored ] @todo - p1 - in Introduction - Consider to bring this up? After why? Nothing of this would be necessary.. 
-
 * [ , anchored ] @todo - p1 - in Introduction - Check if the following which talks about the supermarket, can be brought a whole context, latter or now, but all the supermarket metaphor together - refid-
 * [ , anchored ] @todo - p1 - in Introduction - Is the following too soon? 
 * [ , anchored ] @todo - p1 - in Introduction - The following could be part of a general induction introduction, SCqA for this part, the book part. 
@@ -26,11 +23,8 @@
 @outline 
 
 * Originality - SCqA of the introduction - Situation of us being trapped, in this world, by the market, the problem of acceleration. The reading, aspect A, will give us the opportunity to the "in the establishment" but not there.  Highlights - "I was not there, as a cheff, as an entrepreneur, a collaborator, or even a customer." Highlights - This trip, outside, is a must especially to anyone in this area, because of an intrinsic mechanized experience whcih comes with these places, the impossibility of not being there. 
-
 * Situation complication  - leadership movement naturally pulls, in this area, into the situation of focus on execution - JTBD's trap - JTBD of founder - should JTBD be introduced here? Or in chapter one - And then it connects with the whole subject, or complication, because the JTBD movement is also dictated by the norm, the market; to people and to places. 
-
 * Complication further - the environment turned into richer - Cost, and the illusion of performance. SCqA - From Justification, from execution to marketing involvement influencing the whole - The justification refers to the "execution way of doing" which is the rule; and that with a new world oriented to solutions, set us to a movement of efficiency. 
-
 * A1 - Get from the justification?
 
 -->
@@ -40,9 +34,17 @@
 * The book part 
 --> 
 
-Seja bem-vindo a bordo. Te adianto que essa viagem será um pouco diferente. Como piloto, minha intenção é a despressurização da cabine. Não importa seu lugar na operação - no atendimento, atrás do balcão, na cozinha, na gestão, se você é investidor, professor, mentor; ou se você é um disfarçado de cliente que um dia irá mergulhar neste mundo dos estabelecimentos. 
+Seja bem-vindo a bordo. Te adianto que essa viagem será um diferente. Como piloto, minha intenção é a despressurização da cabine. 
 
-Esse livro é sobre respirar, sobre refletir, em perspectiva. É sobre, como um adulto, colocar a máscara do pensamento consciente, nesse nosso adulto, antes de se lançar com o pensamento impulsivo, ansioso, acelerado, antes de ir para a mão na massa. Ou, em outras palavras, podemos considerar o que este material não é: não é sobre fórmulas, não traz receitas prontas, nem métodos e ferramentas, ou frameworks. Fiz assim, em primeiro lugar, porque como você sabe estamos já cercados em um mar de soluções, uma infinidade de soluções para todo tipo de problema. Mas mais do que isso, em segundo lugar, quando nos permitimos continuar assim, nos distraimos. Essencialmente nos esquecendo de nós, do que fazemos de melhor, de que somos o recurso mais valioso e o que mais vale a pena investir. 
+Não importa seu lugar na operação - no atendimento, atrás do balcão, na cozinha, na gestão. 
+
+Com uma tremenda sede por resultados, diante de uma abundância de soluções, ficamos cercados por essas vozes dos clientes, dos fornecedores, das plataformas tecnológicas que não cansam. 
+
+Ou talvez você hoje faça despercebido como cliente, mas sabe que um dia irá se aventurar neste mundo dos estabelecimentos de alimentação.
+
+Esse livro é sobre respirar, refletir, estar em perspectiva. É sobre, como adulto, saber colocar a máscara, a máscara do pensamento consciente, antes de se lançar no modo impulsivo, ansioso, acelerado. Antes de ir para a mão na massa.
+
+Em outras palavras, podemos considerar o que este material não é: não é sobre fórmulas, não traz receitas prontas, nem métodos e ferramentas, ou frameworks. Fiz assim, em primeiro lugar, porque como você sabe estamos já cercados em um mar de soluções, uma infinidade de soluções para todo tipo de problema. Mas mais do que isso, em segundo lugar, quando nos permitimos continuar assim, nos distraimos. Essencialmente nos esquecendo de nós, do que fazemos de melhor, de que somos o recurso mais valioso e o que mais vale a pena investir. 
 
 <!--
 @todo 
@@ -51,9 +53,21 @@ Esse livro é sobre respirar, sobre refletir, em perspectiva. É sobre, como um 
 
 Não lhe convidaria para esta viagem se a situação dos estabelecimentos não estivesse turbulenta. Se não estivéssemos tão acelerados (ou mecanizados ou digitalmente guiados) nada disso seria necessário. Podemos elaborar sobre a complicação no nosso caminho, devemos reconhecer sobre duas perspectivas, aparentemente virtuosas, que influenciam a operação no ambiente moderno: 
 
-Uma delas é que queremos trabalhar. Nós gostamos de colocar a mão à massa, de focar na execução. Esta intenção, ou atitude, corre por nossas veias. Fazemos assim porque valorizamos o cliente e os processos intencionados a garantir uma boa experiência para o cliente. Além disso, guiados pela ética do trabalho, valorizamos o trabalho que nos faz batalhar, lutar, acordar cedo, dormir tarde, etc. E é porque isso é tão vital que muitas vezes exageramos também, por exemplo passando dos limites. No geral, o trabalho é virtuoso. Pouca coisa mudou nesse sentido. Outro aspecto, também de certa forma virtuoso, é que o mundo moderno quer muito nos ajudar com tudo isso. Em outras palavras, temos um ambiente hiperconectado que traz uma infinidade de soluções. E com elas, suas narrativas. Neste ambiente, também estamos mais conectados. Agora, mais interagimos com clientes, fornecedores, parceiros, plataformas e outras vozes que querem nos ajudar. 
+Uma delas é que queremos trabalhar. Nós gostamos de colocar a mão à massa, de focar na execução. Esta intenção, ou atitude, corre por nossas veias. Fazemos assim porque valorizamos o cliente e os processos intencionados a garantir uma boa experiência para o cliente. Além disso, guiados pela ética do trabalho, valorizamos o trabalho que nos faz batalhar, lutar, acordar cedo, dormir tarde, etc. E é porque isso é tão vital que muitas vezes exageramos também, por exemplo passando dos limites. 
 
-Por outro lado, essas perspectivas como correntes virtuosas nem sempre trabalham no sentido do progresso. Em outras palavras, elas podem nos guiar para desafios, para situações que nos confudem. Como quando nos vemos guiados pela corrente mas de repente no meio da pororoca de problemas, por exemplo quando a grande sede por resultados se encontra com a abundância de soluções. Ficamos cercados neste ambiente, por vozes, dos clientes, dos fornecedores, das plataformas e tecnologias que não cansam: 
+No geral, o trabalho é virtuoso. Pouca coisa mudou nesse sentido.
+
+<!-->
+@section - mundo abundância, vozes,..
+-->
+
+Outro aspecto, também de certa forma virtuoso, é que o mundo moderno quer muito nos ajudar com tudo isso. Em outras palavras, temos um ambiente hiperconectado que traz uma infinidade de soluções. E com elas, suas narrativas. Neste ambiente, também estamos mais conectados. Agora, mais interagimos com clientes, fornecedores, parceiros, plataformas e outras vozes que querem nos ajudar. 
+
+Por outro lado, essas perspectivas como correntes virtuosas nem sempre trabalham no sentido do progresso. Em outras palavras, elas podem nos guiar para desafios, para situações que nos confudem. 
+
+Como quando nos vemos guiados pela corrente mas de repente no meio da pororoca de problemas. 
+
+Com uma tremenda sede por resultados, diante de uma abundância de soluções, ficamos cercados por essas vozes dos clientes, dos fornecedores, das plataformas tecnológicas que não cansam: 
 
 Do lado dos clientes, a interação era lenta. Ou desta forma, e de certa forma, controlada; onde interações como as sugestões e reclamações andavam lado a lado com o aprendizado. Além disso, e de forma síncrona, esse movimento era acompanhado pelo fenômeno do boca-a-boca, lá fora. Agora, sejam esses clientes ou usuários, eles não pensam duas vezes para comentar, avaliar e recomendar, etc. E suas razões e formatos variam, entre simples *likes*, comentários, resenhas com narrativas mais elaboradas, ou até vídeos com efeitos incríveis. Eles se expressam, entre amigos ou para o mundo, em grupos privados ou publicamente. Para a operação, estejam eles colaborando, ou estressando, demandam mais atenção. Do lado dos fornecedores, existem mais soluções, com narrativas mais elaboradas, para mais necessidades, como as nossas fachadas, mesas, cardápios, ações de marketing, etc
 
