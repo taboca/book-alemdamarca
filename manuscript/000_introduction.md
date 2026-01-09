@@ -34,15 +34,11 @@
 * The book part 
 --> 
 
-Seja bem-vindo a bordo. Te adianto que essa viagem será um diferente. Como piloto, minha intenção é a despressurização da cabine. 
+Seja bem-vindo a bordo. Como piloto, te adianto que esta viagem será bem diferente. A minha intenção é a total despressurização da cabine. Não importa o seu lugar na operação - no atendimento, atrás do balcão, na cozinha ou na gestão - este livro é sobre respirar. É sobre refletir, em perspectiva, sobre colocar a máscara do pensamento consciente antes de ir para a mão na massa, antes de ir para a operação (no modo impulsivo e acelerado).
 
-Não importa seu lugar na operação - no atendimento, atrás do balcão, na cozinha, na gestão. 
+A razão disso é que estamos cercados. No meio de tantas soluções e com uma tremenda sede por resultados, estamos cercados e pressionados por muitas vozes. As vozes dos clientes, dos fornecedores, dos influenciadores e das plataformas tecnológicas. Tudo isso nos coloca no meio de um ambiente frenético que não não para, não cansa. 
 
-Com uma tremenda sede por resultados, diante de uma abundância de soluções, ficamos cercados por essas vozes dos clientes, dos fornecedores, das plataformas tecnológicas que não cansam. 
-
-Ou talvez você hoje faça despercebido como cliente, mas sabe que um dia irá se aventurar neste mundo dos estabelecimentos de alimentação.
-
-Esse livro é sobre respirar, refletir, estar em perspectiva. É sobre, como adulto, saber colocar a máscara, a máscara do pensamento consciente, antes de se lançar no modo impulsivo, ansioso, acelerado. Antes de ir para a mão na massa.
+Se você está na operação - ou mesmo que agora se passa despercebido como cliente mas sabe que um dia irá se aventurar no mundo dos estabelecimentos de alimentação - este material é uma oportunidade para uma reflexão. Desacelerada.
 
 Em outras palavras, podemos considerar o que este material não é: não é sobre fórmulas, não traz receitas prontas, nem métodos e ferramentas, ou frameworks. Fiz assim, em primeiro lugar, porque como você sabe estamos já cercados em um mar de soluções, uma infinidade de soluções para todo tipo de problema. Mas mais do que isso, em segundo lugar, quando nos permitimos continuar assim, nos distraimos. Essencialmente nos esquecendo de nós, do que fazemos de melhor, de que somos o recurso mais valioso e o que mais vale a pena investir. 
 
