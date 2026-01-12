@@ -22,12 +22,25 @@
 @illutration - dup - o que, como, quando e por quê @refid-20250126-b5335a53-4f1a-48bd-8549-168216313f0e
 -->
 
-É lógico: se a tecnologia é essencialmente trabalho, não podemos deixar de celebrar o lado positivo; quando a empacotamos, ela dos dá "meio caminho andado" para fazer aquele certo trabalho. Mas o preço que pagamos - também sabemos porque está embutido - é que ela nos diz o que fazer (e o como, quando e por quê). Então, se o manuseio significa disseminação, o fato é que ela comunica. Mas o desafio dessa "materialização" hoje também ocorre por conta das redes que nos conectam com muito mais soluções e suas narrativas. 
+<!-- 
+@edit-note 12 de janeiro de 2026 às 15h10 da tarde por Marcio Galli. 
+-->
 
-Considere a situação de uma família de três (mãe, pai e uma criança de cinco anos. Eles voltaram, depois de 15 anos longe, para a cidade natal onde tudo começou. Agora, tudo é diferente. Principalmente por conta de duas universidades públicas que cresceram. Para eles, agora, a cidade é predominantemente de estudantes. Para o momento do reencontro, eles decidiram sair para jantar. Assim o pequeno e brilhante Lorenzo poderá conhecer seus primos que tem idades respectivas de sete, onze e treze anos. O pai tem pressa e por não saber muita coisa decidiu fazer uma busca online.  E rapidamente encontrou um estabelecimento, digamos assim, cinco estrelas. Mas chegando lá, ficaram decepcionados com o local, que não pareceu ser apropriado para as crianças. Mas eles estão decepcionados, de verdade, porque por um breve momento acharam que estavam indo para um bom local. É como se tivessem sido enganados. Ou, que seja, levemente enganados. Quando a mãe expressou um sinal de frustração com o marido e a cidade, o primo de onze falou, "Então, tia, você não leu os comentários?"
+É lógico, se a tecnologia é essencialmente trabalho, não podemos deixar de celebrar o lado positivo: quando a utilizamos, ela nos dá meio caminho andado. Consequentemente, pelo manuseio ocorre a disseminação pois ela comunica, ela agiliza, ou acelera. E nos aproveitamos disso tudo. E até aí, tudo bem.
 
+Mas essa moeda tem outro lado. O preço que pagamos é que ela nos diz o que fazer, como fazer, quando e até por que fazer. Em outras palavras, é a materialização da comunicação que acelera e com isso cristaliza nosso comportamento. Principalmente agora, diante das redes tecnológicas que definem o contexto social, que com com suas narrativas nos envolvem como se tudo fosse normal.
 
+Considere a situação dessa família de três. Mãe, pai e o brilhante Lorenzo de 5 aninhos. Eles voltaram para a cidade onde tudo começou.  Passaram-se 15 anos. Agora tudo está diferente, principalmente por conta das duas grandes universidades públicas. Agora a cidade é predominantemente voltada aos estudantes. Estão felizes porque talvez Lorenzo irá estudar por alí mesmo.
 
+Para celebrar esse momento, os pais decidiram fazer um jantar especial. Passaram para buscar os três priminhos do Lorenzo que moram na cidade, com idades respectivas de 7, 11 e 13 anos. É lógico, seja por conta da pressa ou da correia da vida, ou por praticidade, o pai escolheu o local fazendo uma busca *online*. E rapidão encontrou um estabelecimento legal, digamos assim "5 estrelas". E o que decorreu, em resumo, ou de certa forma mais ou menos assim: 
+
+Uma surpresa, para cada um. Os pais, ficaram decepcionados porque o local não apropriado para as crianças (nem para adultos). O mais velho escondia sua empolgação. O de 11 só tinha visto aquilo na internet. E o de 7 ficou orgulhoso de ter feito a tarefa de casa de ficar tampando os olhinhos do Lorenzo. Show pesado que trincaria os copos se nao fossem de plástico. Aliás, copos que nao machucavam os estudantes mais ousados que dançavam em cima das mesas, também de plástico. 
+
+Foi assim a volta: o silêncio no carro paralelo ao leve sorriso dos mais velhos, o olhar decepcionado da mãe para o lado do marido enquanto ele tentava explicar que simplesmente foram enganados. Para quebrar o momento e o silêncio, o primo mais velho tentou ajudar com "Então tio, você não leu os comentários né?"  
+
+<!--
+
+-->
 
 Esta cena, que nem soa absurda, serve para nos lembrar sobre aquelas lentes criadas pelo ambiente tecnológicos que mudam nossa percepção. Mesmo frustrados, aceitamos as consequências: vamos nos ajustando neste meio híbrido, social e tecnológico. Como quando dizemos, em tom de brincadeira autodepreciativa, que "o problema está entre o monitor e a cadeira". Foram-se os dias que usávamos as tecnologias sentados. Nesta situação, devemos nos perguntar se não estamos ocupados demais sendo usuários passivos (que se acham ativos), como quando quase aprendemos uma coisa e outra nos atropela. E se essa ocupação nos distancia daquela ideia que diz que podemos mudar o ambiente. Ou, que seja, nos distancia do poder de decidir com o que engajar. Outra razão para isso vem da lógica que diz que o não fazer nada, como aceitar, é o oposto do trabalho de mudar, como inovar. Então pensamos, "se só sendo usuário estou nesse ambiente tenho um trabalhão, imagina se quisesse mudar tudo isso." A verdade é que esquecemos o que é o custo de não fazer nada, de aceitar, de andar em um labirinto. E também esquecemos que a inovação está mais ligada a criatividade, ao pensamento flexível, como por exemplo o pensamento que descarta o desnecessário. 
 
