@@ -58,7 +58,7 @@ Se ela chegasse de frente, fazendo barulho, grande e imponente, soltando fumaça
 * @reference - KLEIN, Maury. The Power Makers: Steam, Electricity, and the Men Who Invented Modern America. 1. ed. New York: Bloomsbury Press, 2009. 560 p.
 -->
 
-Agora, 200 anos à frente, alcançamos uma ambiente tecnológico (tecnologia) que nem nos assusta. Ou não bate de frente, não faz barulho nem solta fumaça. Hoje ela vem de lado, às vezes de mansinho. Não esqueço aquele dia, quando a minha sobrinha, ainda neném, sacou o dedinho, rápida no gatilho. Acertou bem na mosca, do quadradinho de 16 x 16 pixels. Matou a propaganda do vídeo. Isso sim é novo, essa naturalidade que ela entra. 
+Agora, 200 anos à frente, alcançamos uma ambiente tecnológico (tecnologia) que nem nos assusta. Ou não bate de frente, não faz barulho nem solta fumaça. Hoje ela vem de lado, às vezes de mansinho. Não esqueço aquele dia, quando a minha sobrinha, ainda neném, sacou o dedinho, rápida no gatilho. Acertou bem na mosca, do quadradinho de 16 x 16 pixels. Matou a propaganda do vídeo. Isso sim é novo, essa naturalidade que ela entra, desde cedo. Sobre isso, devemos refletir. Por conta desse envolvimento que nos encanta, nos enquadra, e que define nosso campo de visão. 
 
 <!--
 @highlight: Clécios 
@@ -68,7 +68,7 @@ Android, bebês. Hoje, nossos smartphones, agora crianças, cuidam
 dos nossos bebês
 -->
 
-Sobre isso, devemos refletir. Por conta de um envolvimento que nos encanta, ou nos enquadra, ou define nosso campo de visão. Já faz um tempo que o renomado investidor do Vale do Silício Marc Andreessen - o co-criador do primeiro navegador da Web [^footnote_marc_mozilla] - disse que o software estava comendo o mundo [^footnote_marc_software_eating]. Naquela época, em 2011, o navegador da Web estava fazendo seus 18 anos. Já as primeiras redes sociais eram crianças. E os smartphones, como o iPhone e Android, bebês. Hoje, nossos smartphones, agora crianças, cuidam dos nossos bebês. Às vezes, meio que cuidamos delas, quando nos perguntamos "o que será que elas estão fazendo?" Mas muitas vezes não, quando estamos ocupados. Mas é isso. Ela comeu o mundo. Ou está comendo o mundo. Mas mais do que isso, ela também come pelas beiradas.
+Já faz tempo que o renomado investidor do Vale do Silício Marc Andreessen - o co-criador do primeiro navegador da Web [^footnote_marc_mozilla] - disse o software estava comendo o mundo [^footnote_marc_software_eating]. Naquela época, em 2011, o navegador da Web ainda era jovem, fazia 18 anos. Já as primeiras redes sociais eram crianças. E os smartphones, como o iPhone e Android, bebês. Hoje, esses nossos smartphones, ainda crianças, já cuidam dos nossos bebês. Às vezes, meio que cuidamos delas, quando nos perguntamos "o que será que elas estão fazendo?" Mas muitas vezes não, quando estamos ocupados. Mas é isso. Ela comeu o mundo. Ou está comendo o mundo. Mas mais do que isso, ela também come pelas beiradas.
 
 <!--
 @note-refai @refid-20250110-69e47cc8-fe5c-4c25-9bb4-aca35a9cd2af * @note #refai - Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/6781acba-4efc-8011-8033-608aa290e9e9 @file: 20b743f / 010_communications.txt
