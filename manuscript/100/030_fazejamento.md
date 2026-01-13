@@ -2,6 +2,8 @@
 
 <!--
 
+* v0.4 - 13 de janeiro de 2026 por Marcio Galli. 
+
 ####### @doc 
 
 * Ref - https://docs.google.com/document/d/1dRUwZa12fB5CsmLsqXJe9jJ6mhYlfNPjlbmmk8rIC4E/edit?tab=t.0 
@@ -61,12 +63,11 @@ Em “O fazejamento”, consideramos a situação desafiadora quando a operaçã
 
 * Ref - https://docs.google.com/document/d/1dRUwZa12fB5CsmLsqXJe9jJ6mhYlfNPjlbmmk8rIC4E/edit?tab=t.0 
 
-
-* this v0.3
-
 -->
 
-Em *Faça Seu Negócio e Decolar*, o autor Fabrício Morini trouxe a história de um profissional de sucesso que nasceu empreendedor. Mas, como todo empreendedor, precisou vencer um dois maiores desafios no caminho do sucesso. O profissional contou para Fabrício sobre o antes e o depois. Que antes, não tinha a menor ideia do que era planejar. Antes, seu método era o fazejamento. Em outra ilustração, Fabrício nos leva para ver o fazejamento bem do nosso lado: 
+O que define empreender? Segundo a Wikipedia, o "empreendedorismo é o processo de iniciativa de implementar novos negócios ou mudanças em empresas já existentes." Outras definições, como do Houaiss (2021), trazem realizar uma tarefa difícil ou trabalhosa. São algumas definições válidas, tudo bem. Mas elas não dizem muito sobre o que acontece "dentro da caixa" do empreenderismo.  
+
+Sobre isso, encontrei uma boa ideia no livro *Faça Seu Negócio e Decolar* do autor Fabrício Morini. Ele trouxe um olhar - de um empreendedor de sucesso - que explicou o que empreendedor faz em termos de transformação, sobre o antes e o depois. Essa pessoa contou para o Fabrício, de certa forma simples assim: Antes o que eu fazia era o fazejamento. E depois, o planejamento. E então Fabrício trouxe uma ilustração, bem do mundo dos estabelecimentos, que diz muito sobre esse antes: 
 
 <!--
 @todo
@@ -76,9 +77,11 @@ Em *Faça Seu Negócio e Decolar*, o autor Fabrício Morini trouxe a história d
 > Eles apostaram numa lanchonete. Não é nada glamoroso. É um estabelecimento simples, como eram os comércios desse tipo antes do chamado "raio gourmetizador" que atingiu o ramo e complicou a cozinha. O local não tem firulas. É uma área pequena, com três mesas, um balcão e uma chapa, de onde saem lanches como misto-quente, x-burger, x-salada e omeletes. Vendem, ainda, vitaminas, açaí com granola, salgados e café puro ou com leite. Não há um foco definido. Oferecem um pouco de tudo para tentar matar a fome dos mais diversos tipos de cliente. Os dois trabalham pesado. Abrem as portas às 8 horas, mas chegam ao local antes das 7 horas para deixar tudo em ordem. Costumam voltar para casa após as 21 horas. Como podemos ver, a rotina de empresário é "casca grossa". Apesar de toda a "ralação", eles estão patinando.
 > (Morini, 2017, p. 49-50)
 
-Obrigado Fabrício, pelos voos paronâmicos que me ajudaram a perceber como o espírito empreendedor ama fazer e como o movimento sem consciência pode fazer o fazer se voltar contra a própria intenção do movimento. Inspirado por essa reflexão, neste capítulo faremos uma regressão, uma celebração. Vamos observar, e de certa forma valorizar, a lógica que nos guia para colocar a mão na massa, a mesma lógica que nos desafia para estarmos sobre conscientes sobre os riscos de sair fazendo. 
+Obrigado Fabrício por fazer esse voo panorâmico, em câmera lenta, por tirar uma foto que diz muito sobre o que tem alí no espírito empreendedor. Gosto de ver como uma energia, paixão por fazer. Mas logo alí ele nos convida para perceber o desafio da jornada do empreendedorismo. Que está embutida nessa história a necessidade de emergir um movimento consciente, intencionado a transformar, a trazer impacto. Em outras palavras, o empreendedor busca resultados (sucesso) a partir da ação (fazejamento) por meio do planejamento. 
 
-Começando pela perspectiva do empreendedorismo, mesmo diante da necessidade de inovação, é inescapável reconhecer que em grande grau a função empreendedora envolve colocar a mão mão na massa. Segundo Joseph Schumpeter, essencialmente o movimento de empreender é sobre fazer as coisas acontecer:
+Penso que a nossa reflexão sobre esse assunto merece ser, pelo menos agora, desacelerada. E se ficarmos aqui, só celebrando esse nosso potencial de fazejamento? Que tal um momento de pausa sobre essa nossa propensão em, bem ao ponto, colocar a mão na massa? Penso assim porque espero que reconhecer esse nosso poder é um grande primeiro passo para nos lembrar sobre agir com responsabilidade e de forma consciente. 
+
+Segundo Joseph Schumpeter, essencialmente o movimento de empreender é sobre fazer as coisas acontecerem: 
 
 <!--
 @todo 
