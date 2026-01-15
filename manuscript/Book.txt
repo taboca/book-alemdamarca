@@ -9,7 +9,7 @@
 100/010_communications.md
 100/020_jobs.md
 100/030_fazejamento.md
-100/040_fazejamento_potencializado.txt
+100/040_fazejamento_potencializado.md
 
 000_part2.txt
 
@@ -17,9 +17,9 @@
 200/105_vale_presente.txt
 #200/110_256_tipos_de_pizza.txt
 200/110_visceral_different.txt
-200/120_vender_a_alma.txt
+200/120_vender_a_alma.md
 200/130_mundo_cao.txt
-200/140_motoboys.txt
+200/140_motoboys.md
 200/200_suppliers.txt
 
 000_part3.txt

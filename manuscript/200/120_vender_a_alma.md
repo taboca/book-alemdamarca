@@ -4,13 +4,14 @@
 @version 
 
 * online v0.1 - https://docs.google.com/document/d/1oyDNbE2W6j-amETjZ280Eujzuk1HZ3t4iu8PGxwa46A/edit?tab=t.0
-* this v0.3 
+* this v0.4 - Atualizado no dia 14 de janeiro de 2026 às 23h09 por Marcio Galli. 
 
 @todo
 * [ , anchored ] @todo - p1 - In "Bolha, A Espiral da morte" - Check talk about tables, colored, "Uma outra experiência que eu gostaria de refletir é o que eu chamo das mesinhas de boteco patrocinadas, que me parece ser um caminho onde o bar vende a alma, isso é realmente complicado." @refid-20250117-bc204254-e908-465f-a21b-825611322b73
 -->
 
-Sabemos que o nosso destino, mesmo que confuso muitas vezes, não é sobre sobreviver. É sobre viver. Operando nossas vidas, a intenção é viver. Na visão do estabelecimento, esse viver seria crescer. Mas também sabemos que para isso precisamos de segurança. Mas a mesma necessidade de segurança também é uma força que nos distrai. Ou que, no caso extremo, pode nos levar a espiral da morte. 
+
+Sabemos que o nosso destino, mesmo que muitas vezes confusos ou distraídos, nada é sobre o sobreviver. Em algum lugar, talvez lá no fundo, sabemos que a vida é sobre viver. Agora, o que seria um estabelecimento que segue essa ideia? O que seria um estabelecimento que de verdade busca viver, e não sobreviver? É verdade. Vida depende da condição de segurança, que dá força ou apoio, ou apoio moral, apoio no contexto social. Começamos assim. Mas também temos que lembrar que buscar segurança torna-se muitas vezes capturar segurança. Então, neste capítulo, vamos refletir sobre quando as coisas ficam difíceis. Sobre como manipulamos nossa realidade e caímos na falsa sensação de segurança. Onde essa ideia nos distrai e nos empurra, no caso extremo, nos levando para a espiral da morte. 
 
 Te convido para conhecer um pouco sobre a trajetória de um estabelecimento que chegou na cidade e muito nos surpreendeu. Mas ele foi mudando, talvez sobrevivendo diante das dificuldades. Ou outros diriam que foi vendendo sua alma - se fôssemos pensar com aquela ideia de clichês. Mas essa é uma história que mostra que muitas vezes nos perdemos não por nossos valores mas porque damos ouvidos ao externo. Saudades daquele bar-restaurante. 
 
