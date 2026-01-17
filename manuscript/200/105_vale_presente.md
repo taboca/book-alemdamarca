@@ -1,9 +1,10 @@
 <!--
+
 @note - ref e-mail Case of interaction with the SAC https://mail.google.com/mail/u/0/#search/camarada/KtbxLwGnNVxqBPxXxJtsCzcwFFXBRgWzsB 
 
-v0.1 doc - https://docs.google.com/document/d/125ALCXYWADV0Se1JsIMjRhV2WcMlo5TdUtDruElyMFw/edit?tab=t.0 
-
-@this v0.2
+* v0.3 
+* v0.2 
+* v0.1 doc - https://docs.google.com/document/d/125ALCXYWADV0Se1JsIMjRhV2WcMlo5TdUtDruElyMFw/edit?tab=t.0 
 
 --> 
 
