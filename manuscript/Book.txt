@@ -16,7 +16,7 @@
 200/100_qrcode.txt
 200/105_vale_presente.md
 #200/110_256_tipos_de_pizza.txt
-200/110_visceral_different.txt
+200/110_visceral_different.md
 200/120_vender_a_alma.md
 200/130_mundo_cao.txt
 200/140_motoboys.md
