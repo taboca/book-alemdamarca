@@ -1,6 +1,8 @@
 <!--
 @consider 
 
+* v0.4
+* v0.5 - marcio alterou no dia 17 de janeiro de 2026, às 11h45min. 
 
 * [x] Em “A evolução da comunicação”, voltaremos no tempo, junto com o autor (que é um apaixonado por tecnologia e comunicação), considerando a evolução dos meios de comunicação (começando pelo rádio, TV, web, redes sociais, e aos conteúdos assistidos por AI) e o impacto nas nossas vidas em termos de foco e comportamento. 
 
@@ -42,7 +44,6 @@
 
 * [Done , anchored ] @todo - p1 - In "Part 1, communications - Consider to complete the end of the chapter "A tecnologia" with more about the story of the teen being there to help with the online promotion at e-mail ref "Book - adm - além da marca - artigo 2024 - young and experienced with technology ". which requires to be translated to pt-br too. @refid-20241217-5d789b23-da5e-43cf-90e4-1819b7212b70
 
-* version v0.4
 
 -->
 
@@ -58,7 +59,11 @@ Se ela chegasse de frente, fazendo barulho, grande e imponente, soltando fumaça
 * @reference - KLEIN, Maury. The Power Makers: Steam, Electricity, and the Men Who Invented Modern America. 1. ed. New York: Bloomsbury Press, 2009. 560 p.
 -->
 
-Agora, 200 anos à frente, alcançamos uma ambiente tecnológico (tecnologia) que nem nos assusta. Ou não bate de frente, não faz barulho nem solta fumaça. Hoje ela vem de lado, às vezes de mansinho. Não esqueço aquele dia, quando a minha sobrinha, ainda neném, sacou o dedinho, rápida no gatilho. Acertou bem na mosca, do quadradinho de 16 x 16 pixels. Matou a propaganda do vídeo. Isso sim é novo, essa naturalidade que ela entra, desde cedo. Sobre isso, devemos refletir. Por conta desse envolvimento que nos encanta, nos enquadra, e que define nosso campo de visão. 
+Agora, 200 anos à frente, alcançamos uma ambiente tecnológico (tecnologia) que nem nos assusta. Ou não bate de frente, não faz barulho nem solta fumaça. Hoje ela vem de lado, às vezes de mansinho. Não esqueço aquele dia, quando a minha sobrinha, ainda neném, sacou o dedinho, rápida no gatilho. Acertou bem na mosca, do quadradinho de 16 x 16 pixels. Matou a propaganda do vídeo. Isso sim é novo, essa naturalidade que ela entra, desde cedo.
+
+<!-- removed - Removido a partir de um evento de trabalho às 11h45 do dia 17 de janeiro de 2026. 
+Sobre isso, devemos refletir. Por conta desse envolvimento que nos encanta, nos enquadra, e que define nosso campo de visão. 
+-->
 
 <!--
 @highlight: Clécios 
@@ -68,7 +73,11 @@ Android, bebês. Hoje, nossos smartphones, agora crianças, cuidam
 dos nossos bebês
 -->
 
-Já faz tempo que o renomado investidor do Vale do Silício Marc Andreessen - o co-criador do primeiro navegador da Web [^footnote_marc_mozilla] - disse o software estava comendo o mundo [^footnote_marc_software_eating]. Naquela época, em 2011, o navegador da Web ainda era jovem, fazia 18 anos. Já as primeiras redes sociais eram crianças. E os smartphones, como o iPhone e Android, bebês. Hoje, esses nossos smartphones, ainda crianças, já cuidam dos nossos bebês. Às vezes, meio que cuidamos delas, quando nos perguntamos "o que será que elas estão fazendo?" Mas muitas vezes não, quando estamos ocupados. Mas é isso. Ela comeu o mundo. Ou está comendo o mundo. Mas mais do que isso, ela também come pelas beiradas.
+Já faz tempo que o renomado investidor do Vale do Silício Marc Andreessen - o co-criador do primeiro navegador da Web [^footnote_marc_mozilla] - disse o software estava comendo o mundo [^footnote_marc_software_eating]. Naquela época, em 2011, o navegador da Web ainda era jovem, fazia 18 anos. Já as primeiras redes sociais eram crianças. E os smartphones, como o iPhone e Android, bebês. Hoje, esses nossos smartphones, ainda crianças, já cuidam dos nossos bebês. 
+
+Na minha época de criança, eu achava que os pais cuidavam da gente meio que avisando, "não faz isso que vai levar uma cintada!" E hoje, a gente meio cuida meio dizendo para nós mesmos "o que será que elas estão fazendo no celular?" Mas é lógico, nem todos pais tem tempo para esse cuidado.
+
+Então é isso, o Marc Andreessen estava certo, o software comeu o mundo. E aquela galera de Ohio de certa forma também certos, perceberam a velocidade assustadora que a tecnologia comeria o mundo. Mas também, agora, te convido para curtir como ela faz isso desse outro jeitinho especial, tipo como ela come pelas beiradas.
 
 <!--
 @note-refai @refid-20250110-69e47cc8-fe5c-4c25-9bb4-aca35a9cd2af * @note #refai - Abaixo, nota de rodapé feita por AI com Prompt de Marcio Galli em https://chatgpt.com/share/6781acba-4efc-8011-8033-608aa290e9e9 @file: 20b743f / 010_communications.txt
@@ -110,14 +119,26 @@ Em 1959, Peter Drucker se preocupou sobre essa percepção, ou falta de percepç
 * @reference - DRUCKER, Peter F. Tecnologia, administração e sociedade. Rio de Janeiro: Elsevier, 2012.
 --> 
 
-### É trabalho
+
+
+
 
 
 Essa perspectiva, que diz que a tecnologia é o trabalho, se alinha com o pensamento dos designers envolvidos na criação de ferramentas, produtos e processos. Um renomado designer, que trabalhou para a organização Mozilla (os criadores do navegador Firefox), explicou o pensamento que leva a construção da ferramenta perfeita.
 
-Para simplificar, ele começou com a pergunta “Qual seria a pá perfeita?” Primeiro, descreveu os principais elementos da pá: o cabo, o pegador na parte de cima e a lâmina na parte de baixo. E falou sobre os tipos de pás: as de cabos longos e as de cabo curto. Sobre os pegadores, sobre os pegadores em formato "D" e outros do tipo "T". Sobre a lâmina, falou até sobre aquelas que trazem diamantes incrustados. 
+Ele começou com a pergunta “Qual seria a pá perfeita?” Primeiro, descreveu os principais elementos da pá: o cabo, o pegador na parte de cima e a lâmina na parte de baixo. E falou sobre os tipos de pás: as de cabos longos e as de cabo curto. Sobre os pegadores, sobre os pegadores em formato "D" e outros do tipo "T". Sobre a lâmina, falou até sobre aquelas que trazem diamantes incrustados. E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o papel da tecnologia, no fundo, não é estar no nosso caminho. 
 
-E então concluiu que "A pá perfeita é o buraco pronto", reconhecendo que o papel da tecnologia, no fundo, não é estar no nosso caminho. Muita coisa sobre isso sabemos, por exemplo que ela não pode ser a pedra no nosso caminho. Mas também por esse mesmo mérito, sabemos que quando ela fica no nosso caminho é porque a escolhemos, que de certa forma ela venceu, se mostrou como válida por conta de fazer um trabalho melhor do que era feito antes. 
+
+
+
+
+
+
+
+
+
+
+Muita coisa sobre isso sabemos, por exemplo que ela não pode ser a pedra no nosso caminho. Mas também por esse mesmo mérito, sabemos que quando ela fica no nosso caminho é porque a escolhemos, que de certa forma ela venceu, se mostrou como válida por conta de fazer um trabalho melhor do que era feito antes. 
 
 É nessa hora que as coisas começam a ficar confusas, no sentido de concretas, ou materiais, como aquela pedra que um dia utilizamos para fazer lanças. Ou aquele computador utilizado por Mark Zuckerberg para lançar a rede social TheFacebook [^footnote_mark_facebook]. 
 
@@ -166,7 +187,10 @@ Por conta disso, o manuseio e a disseminação torna-se uma experiência comunic
 
 Esse pensamento nos coloca de frente para a reflexão sobre as experiências comunicativas no contexto de trabalho. Experiências comunicativas, passadas por métodos escritos, por fórmulas verbalizadas do mentor para o aprendiz, demandas do chefe para o subordinado, etc. Ou até pelas pérolas encrustradas na lâmina afiada que é a língua do chefe que diz coisas como "pare de resmungar e aperte o botão". Ou seja, o manuseio das tecnologias pelo grupo de trabalho em grande parte define experiências comunicativas que influenciam o trabalho.
 
-Em outras palavras, quando dizemos "quem chegar atrasado tem que pagar um café", estamos criando uma punição leve mas que é forte ao reenforçar o modelo de trabalho adequado. Essas experiências comunicativas definem no berço das culturas de trabalho. 
+
+
+
+
 
 Devemos também considerar que este é um fenômeno que se materializa quando estamos orientados por resultados. Quando dizemos, "Ah, se a pá resolve melhor o trabalho de cavar um buraco, me dê a pá que quero cavar mais rápido", sem nos preocuparmos se o buraco é mais embaixo ou se o buraco é necessário, estamos seguindo como quem confia nas coisas que foram bem usadas. Isso está menos ligado à nossa falta de inteligência e mais ligado à capacidade comunicativa do ambiente, que de certa forma nos pressiona, tipo por questão de sobrevivência, que nos ascende uma luz verde para acelerar; mesmo em condições onde não gostamos. "Eu engulo isso não porque amo muito tudo isso! É que preciso sobreviver; porque isso é que paga o leite para as crianças", por exemplo. 
 
@@ -174,6 +198,8 @@ Devemos também considerar que este é um fenômeno que se materializa quando es
 
 
 
+
+<!--
 
 ### Martelando quadros  
 
@@ -187,20 +213,17 @@ Nós percebemos o martelo como superpoderoso, como o martelo de um super herói.
 
 Considere as interações sociais que agora apresentam-se como necessárias para sobrevivência (no contexto de convívio, aprendizado e de trabalho), como as interações por meio das redes sociais. Imersos naquele meio, nos inclinamos a achar que temos que agir da forma que outros fazem para obtermos resultados de sucesso. Envolvidos nesse ambiente, por conta de uma narrativa inicial que diz que é lá que as coisas acontecem, acabamos muitas vezes confusos nesse meio, lutando pela sobrevivência, dia após dia. Isso se explica porque milhares de pessoas criam contas em parte pessoal, em parte profissional, em redes como o Instagram, e martelam todo santo dia com o objetivo de escalar, mas não percebem que de forma síncrona todas elas caminham juntas concorrendo pelas mesmas audiências, assistindo a elas mesmas, aprendendo com elas mesmas, envolvidas em um ciclo de sobrevivência sem sair do lugar - em outras palavras, envolvidas agora em uma muralha.
 
-<!-- @section paradoxo -->
+
 
 A simples constatação que milhares de profissionais ficam martelando (no ambiente digital) todos os dias, como se fossem heróis mas essencialmente não dominando o meio, nos reafirma como o ambiente nos influencia pela percepção sobre as tecnologias em uso. Olhando para essa cena moderna, se Wallace e Darwin estivessem na sala, eu lançaria a pergunta: vocês já pensaram que uma nova geração poderia mudar o comportamento de forma espontânea? Tipo, meio que "do nada", ou desprendidos do processo lento e evolutivo? 
 
-<!--
-@highlight: Clécious: 
-[15:36, 3/7/2025] Clecios Silva: Hiper genial “o homem supera as limitações das leis de ferro de
-biologia”, por outro lado se supera, inclusive ao ponto de se ferrar.
+
 -->
 
-O suporte para isso está na constatação sobre esses usuários, que tomados por experiências comunicativas em um dado ambiente moldado pela fusão do social com o tecnológico, se envolvem, como animais, na luta pela sobrevivência diária. Guiados por narrativas do ambiente, ganhamos comportamentos que nos definem, como se uma geração toda tivesse ganhado um ouvido especialmente feito para ouvir ruídos. Em outras palavras, devemos considerar que se por um lado "o homem supera as limitações das leis de ferro de biologia", por outro lado se supera, inclusive ao ponto de se ferrar. 
 
 
 
+### A urna 
 
 
 
@@ -222,4 +245,22 @@ Neste momento, joguei a toalha. Decidi que deveria seguir as instruções, volta
 
 Considerando a situação negativa anterior, agora estava diante de reais resultados à minha frente. Era uma quase alegria. Porém, logo que fiz o processo para o primeiro cupom, apareceu uma mensagem de erro. Voltou a sensação de frustração diante dessa nova expectativa. Fiquei semi-triste. Porém, em relação àquela situação anterior anterior, estava semi-feliz porque estava agora orgulhoso de ter ido lá. Tipo assim, ah tá, agora sim, não perdi a viagem. Ou, agora entendo o porquê desse espaço. Ou, agora sei porquê você está aqui, meu amigo. E, agora preciso de você para me ajudar. Olhei pra ele e com um semblante feliz avisei sobre o erro. Sem risadas ou lágrimas por ambas as partes. Ele foi direto, falou que poderia me ajudar. Tirou o tablet da manga e fez tudo por lá. Foi simples assim. Eu agradeci e fui. Meio frustrado, por não ter encontrado a urna. Meio confuso sobre tudo aquilo.
 
-É lógico: não podemos concluir que o meio nos transforma em devotos seguidores, e que com isso perderíamos nossa consciência. Mas devemos nos perguntar sobre esse envolvimento que tira nossa atenção, e sobre como nosso comportamento e crescimento pessoal pode ser influenciado. 
+
+
+
+
+
+
+
+
+É lógico: não podemos concluir que o meio nos transforma tão agressivamente, ou brutalmente. Mas sim celebramos como esse manuseio, no social, vai comendo, devagarinho. Devemos nos perguntar sobre esse envolvimento que tira nossa atenção, e sobre como nosso comportamento e crescimento pessoal pode ser influenciado. 
+
+<!--
+@highlight: Clécious: 
+[15:36, 3/7/2025] Clecios Silva: Hiper genial “o homem supera as limitações das leis de ferro de
+biologia”, por outro lado se supera, inclusive ao ponto de se ferrar.
+-->
+
+O suporte para isso está na constatação sobre esses usuários, que tomados por experiências comunicativas em um dado ambiente moldado pela fusão do social com o tecnológico, se envolvem, como animais, na luta pela sobrevivência diária. Guiados por narrativas do ambiente, ganhamos comportamentos que nos definem, como se uma geração toda tivesse ganhado um ouvido especialmente feito para ouvir ruídos. Em outras palavras, devemos considerar que se por um lado "o homem supera as limitações das leis de ferro de biologia", por outro lado se supera, inclusive ao ponto de se ferrar. 
+
+
