@@ -281,29 +281,35 @@ Sempre que me deparo com essa experiência, eu tento dizer para alguém ao lado,
 
 Voltando ao ponto, como no caso do jogo, nos voltamos para o desafio a nossa frente muitas vezes utilizando nosso potencial criativo de forma reativa - somando, arrumando, dando um jeito. A micro guilhotina, ou a tesoura infantil de cortar sachê, são sub-produtos criativos desse movimento. Tem relação com o nosso jeitinho brasileiro, que no fundo no fundo temos um certo orgulho. Mas no fundo no fundo no fundo, pode bem ser um movimento ansioso. Mesmo bem intencionado, por exemplo para ajudar clientes a rangerem menos seus dentes. Estamos geralmente procurando uma enchada para qualquer que seja o buraco a frente, geralmente não nos preocupando se o buraco é mais embaixo - ou ainda se precisamos de cavar em primeiro lugar.
 
-### Quando acreditamos  
+
+
+
+
+
+
+
+
+
+
+### Aprendendo a partir do desespero 
 
 <!--
 @todo 
 * [Done, anchored] @todo - p1 - In fazejamento - Consider to cut section at "De certa forma, aqui eu celebro e critíco..." with the title "The power of confidence" or equivalent, #DorotheaBrande @refid-20241226-02ecd304-6f59-46e0-8b43-bf1a93859bc3
 -->
 
-De certa forma, aqui eu celebro e critico essa nossa familiaridade com essa área - tudo ao mesmo tempo, mas para nos lembrar, justamente, que não temos como nos livrar dessa nossa propensão para servir e estar enquadrados em certas regras “da casa”. E veja bem, um grande aspecto que leva muitos a situação de fazejamento vem da própría escolha de trabalhar nessa área. Considere as milhares de pessoas que escolhem fazer um espetinho, um carrinho de lanches, uma tenta de milho, um food truck, etc; por conta que, afinal de contas, tudo isso é muito familiar para elas. 
+Mas é lógico, não podemos tão prematuramente levantar a placa que diz que o que vem pela frente é a espiral da morte. Temos que reconhecer que pode ter sim aprendizado que emerge a partir do fazer. Afinal de contas, alguém consegue sucesso a partir do fazer acontecer, alguém encontra o planejar, não é mesmo?  
 
-Ainda, e para complicar essa nossa relação com o fazejamento, temos também que reconhecer que enquanto uma quantidade muito grande de estabelecimentos falham, existem milhares de outros que de uma forma ou outra se sustentam, mesmo orientados a esse modo de operação tentando jogar as regras do jogo ou buscando eficiência com o que temos orientados ao que acontece “na hora H.” O fato que muitos se sustentam - praticamente sem planejamento e carregando problemas para frente - acaba criando um paradoxo que de certa forma é uma justificativa para outros seguirem o movimento, como se estivessemios bem do nosso lado uma voz que diz “tá vendo, até fazendo desse jeito dá certo”.
+Milhares de pessoas que escolhem fazer um espetinho, um carrinho de lanche, uma tenda do milho, um food truck, e sim elas começam assim porque tudo isso é muito familiar para elas. Elas sabem que todo mundo precisa comer, todo dia, tem essa história dentro da gente.
+
+E mesmo que existem milhares de estabelecimentos falham, existem muitos outros que, de uma forma ou outra, se sustentam, mesmo orientados pelo fazer, dançando conforme a música, buscando eficiência do jeito que dá para resolver, resolvendo as buchas na hora H. De certa forma, o fato de que muitos se sustentam sem investimento ou planejamento anterior, mostra um paradoxo e uma razão com aquela voz que nos diz "tá vendo, até fazendo daquele jeito dá certo!" 
 
 <!--
 @todo
-
 * [ , anchored] @todo - p1 - In "Fazejamento" - consider to deal with the dup of Brande here and at "Arroz com Feijão" @refid-20250215-51ddbe94-dd0c-43c7-b2d4-079f4d526d5f
 -->
 
-Sobre o potencial do nosso comportamento ligado ao fazejamento, acho relevante citar a renomada autora Dorothea Brande, que em *Wake Up and Live* (Acorde e Viva) escrito em 1936, trouxe o pensamento “coragem por desespero”. Segundo ela, quando acreditamos que é impossível falhar, o resultado é que nós deixamos de usar nossa imaginação para encontrar todo tipo de problema na frente. Em outras palavras, partimos para a ação, silenciando aquele lado de autocrítica, ou autossabotagem, procurando o por quê não vai dar certo. O ponto, para nós, é que quando estamos envolvidos com querer fazer, estamos também guiados por uma perspectiva que alimenta as condições de fazer sem ver problemas no caminho. Essa energia é tão focada que pode também explicar o sucesso de muitos que avançam, que sobrevivem ao tempo, mesmo começando com o fazejamento, ao ponto que eventualmente conquistam maturidade com o tempo e aprendizado, inclusive evoluindo comportamentos, e depois das suas equipes, se estruturando e essencialmente crescendo. Para a Dorothea, o movimento de coragem por desespero tem o poder de silenciar o que ela se refere a “vontade de falhar”. 
-
-<!--
-@todo
-* [Done , anchored] @todo - p1 - #references - In "Part 1, fazejamento" - Consider to refer to Dorothea Brande, Wake Up and Live. @refid-20241218-b9e46cc2-2512-4145-946e-da07d34af3c8
---> 
+Sobre esse potencial paradoxal, deixo registrado uma genial ideia que autora Dorothea Brande em 1936 deixou no livro *Wake Up and Live* (Acorde e Viva). Ela explica um super poder chamando de “coragem do desespero” (BRANDE, 2014). O que eu entendi é que quando estamos desesperados, em certas situações como quando a água bate na bunda, deixamos de usar nossa imaginação para complicar o caminho a nossa frente. Em outras palavras, partimos para a ação. Quando eu li isso, eu entendi (na hora) porque é que eu dizia que só terminava as coisas na última hora. Temos que reconhecer como esse movimento confere a muitas pessoas a condição de sobrevivem ao tempo, onde elas conquistam sucesso a partir do fazejamento, conquistam maturidade para seus negócios e para o comportamento de suas equipes. Para a Dorothea, a coragem por desespero tem o poder de silenciar o que ela se refere a “vontade de falhar”. 
 
 <!--
 @references 
@@ -311,32 +317,11 @@ Sobre o potencial do nosso comportamento ligado ao fazejamento, acho relevante c
 --> 
 
 
-
-
-
-
-
-
 <!--
-@todo 
-* [Dismissed, anchored] @todo - p1 - In "Fazejamento" - Consider to move the next section which starts with "Com isso, temporariamente... " within the section "Aprendizado dentro da bolha" and also replace this title with "A escola da vida". @refid-20241226-8ac6de17-8b92-4c6a-b06b-23aea405dcc6
+@todo
+* [Done , anchored] @todo - p1 - #references - In "Part 1, fazejamento" - Consider to refer to Dorothea Brande, Wake Up and Live. @refid-20241218-b9e46cc2-2512-4145-946e-da07d34af3c8
 --> 
 
-Com isso, temporariamente concluindo, sobre o potencial do fazejamento ou a arte de sair fazendo, temos que reconhecer que além de tudo carrega um fundamento moral e ético. Em outras palavras, temos um foguete e uma bomba nas nossas mãos. E o que temos a frente é uma oportunidade de pensar sobre como o mundo mudou, fornecendo o combustível, a plataforma, e toda uma galera para nos ajudar a lançar. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-### A bolha do aprendizado 
 
 <!--
 @doc v0.2 - https://docs.google.com/document/d/1786JnFgUQ4gowdCcS-zxhW051uqf0wJS854M1vurdnk/edit?tab=t.0
@@ -344,29 +329,19 @@ Com isso, temporariamente concluindo, sobre o potencial do fazejamento ou a arte
 -->
 
 
+Se por um lado podemos avançar, seguindo nossa inclinação a encontrar soluções nos orientando pela busca por eficiência, por outro lado vem a dúvida sobre o aprendizado. Mesmo com certa insegurança, sabemos que aprender em retrospectiva é normal: 
 
-Se por um lado podemos avançar, seguindo nossa inclinação a encontrar soluções nos orientando pela busca por eficiência, por outro lado vem a dúvida sobre o aprendizado, até porque sabemos que avançar mais rápido pode significar errar mais. Mesmo com certa insegurança, sabemos que aprender em retrospectiva é normal. A “escola da vida” nos disse isso. Nossos primeiros passos foram conquistados assim, como Maslow lembrou: próximo da perna da mãe, sentindo-se segura, a criança dá uns passinhos. E vai conquistando novos cantinhos. 
+Temos a “escola da vida”, para começo de conversa. Ou podemos voltar para aqueles nossos primeiros passos como Maslow nos lembrou onde próximos a perna da mãe nos sentimos seguros para conquistar novos cantinhos. Fora isso, o mundo da educação também nos disse algumas coisas importantes:  
 
-O mundo da educação também tem algo a nos dizer sobre isso. O Ciclo de Aprendizagem Experiencial de Kolb (Kolb, David., 2014) simplifica o entendimento sobre como aprendemos depois da vivência. Seguindo a ordem, começamos com Vivenciar, depois com Refletir, depois Conceituar. A partir disso, o quarto estágio envolve Experimentar, que logicamente significa voltar ao início do ciclo, Vivenciar. O ciclo de Kolb nos ajuda a entender o esquema "básico" do aprendizado a partir da vivência - e ao mesmo tempo dá aos professores a oportunidade de, digamos assim, inventarem vivências novas que permitem aos estudantes se envolverem com, como dito, os estágios de reflexão, conceitualização e assim por diante. 
+O Ciclo de Aprendizagem Experiencial de Kolb (Kolb, David., 2014) simplifica o entendimento sobre como aprendemos depois da vivência. Seguindo a ordem, começamos com Vivenciar, depois com Refletir, depois Conceituar. A partir disso, o quarto estágio envolve Experimentar, que logicamente significa voltar ao início do ciclo, Vivenciar. O ciclo de Kolb nos ajuda a entender o esquema "básico" do aprendizado a partir da vivência e explica muito sobre o que os professores fazem quando criam as vivências que permitem aos estudantes se envolverem antes e refletir-aprender depois. 
 
 <!--
 @references 
 KOLB, David A. Experiential Learning: Experience as the Source of Learning and Development. 2nd ed. Upper Saddle River: Pearson Education, 2014.
 -->
 
-Essas percepções sobre o aprendizado que vem depois da execução, de uma forma ou outra nos apoiam para o fazejamento. É lógico, que se o assunto sobre aprender, ou aprender como aprender, fosse mais evidente, estaríamos de uma forma ou outra nos perguntando coisas como: Temos interesse em aprender? Temos condições de aprender? Ou até se precisamos de estratégia para aprender? A complicação, quando o ciclo do aprendizado ocorre na esfera do fazejamento, é que encontramos no próprio ambiente os indicadores para refletir e conceitualizar, como por exemplo a satisfação do cliente que está, hoje, no local. 
 
-Além da lógica, valorizamos isso por conta do passado que nos trouxe muitos estabelecimentos que de fato foram evoluindo com o tempo, de forma lenta, ou um cozimento lento. Em outras palavras, o que acontecia no estabelecimento era mais isolado e lento, com interações locais e assim aprendizado local. A realidade a partir da operação, as dinâmicas de interação - como o cliente elogiando ou reclamando ou um ingrediente novo distribuído localmente - criava as condições para um aprendizado no tempo para a operação de liderança. Enquanto isso,  o efeito boca cuidava da percepção sobre o estabelecimento, formando a marca. 
-
-
-
-
-<!--
-@todo 
-* [Dismissed, anchored] @todo - p1 - In "Fazejamento" - Consider to move the section "Com isso, o estabelecimento crescia .. " into the section "Fazejamento potencializado" as part 1 of the leading paragraph, so that it contrasts with the correct situation assertion which said "justificamos um certo fazejamento anterior".. .  @refid-20241226-bd6da53f-bbb4-49b4-a679-9136d97bca6a
--->
-
-Com isso, o estabelecimento crescia até o ponto onde um certo novo cliente, uma ou duas gerações à frente, se deparava com a placa que dizia “desde 1964”. Essa ideia, de emplacar o tempo como prova, ia bem junto com as histórias por pais ou avós, sobre a comida ou como aqueles locais eram especiais, memórias que marcaram o tempo.  
+A complicação, é quando esse ciclo de aprendizado fica confinado a nossa própria "bolha do fazejamento". Em outras palavras, quando encontramos em próprio mundo respostas que modelam nossas reflexões e formação de conceitos.  Mas ainda que isso seja um problema, sabemos que o dia a dia e a experiência com o externo conferem a muitos estabelecimentos a evolução do tempo. Então, celebro aqui aquele aprendizado no tempo de forma lenta, para os que sobreviveram, uma espécie de cozimento lento. A realidade, para muitos que chegaram até aqui, é que a partir da operação, as dinâmicas de interação - como o cliente elogiando ou reclamando ou um ingrediente novo distribuído localmente - criava as condições para um aprendizado no tempo para a operação de liderança. Enquanto isso, o efeito "boca a boca" andava lado a lado com a operação que, quando ouvia e crescia, crescia também uma marca no tempo. Desta forma, o estabelecimento crescia até o ponto onde um certo novo cliente, uma ou duas gerações à frente, se deparava com aquela placa que dizia “desde 1964”.
 
 
 <!--
