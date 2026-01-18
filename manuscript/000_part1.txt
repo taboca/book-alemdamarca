@@ -1,4 +1,5 @@
-# A comunicação # 
+{class: part}
+# A comunicação
 
 <!--
 * Establishments and JTBD

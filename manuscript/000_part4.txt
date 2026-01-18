@@ -1,2 +1,3 @@
-# Além da Marca # 
+{class: part}
+# Além da Marca
 
