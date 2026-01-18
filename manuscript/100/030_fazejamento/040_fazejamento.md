@@ -2,8 +2,7 @@
 
 <!--
 
-* v0.4 - 13 de janeiro de 2026 por Marcio Galli. 
-
+* v0.5 
 ####### @doc 
 
 * Ref - https://docs.google.com/document/d/1dRUwZa12fB5CsmLsqXJe9jJ6mhYlfNPjlbmmk8rIC4E/edit?tab=t.0 
@@ -147,18 +146,13 @@ Agora que celebramos que a inclinação ao “fazejamento” é algo natural, no
 
 
 
+### O cliente tem razão 
 
-### Sabemos das coisas 
+Considere a expressão "o cliente tem a razão". Ainda que não tenha significado literal, muitos estabelecimentos reconhecem quando o cliente está ou não está com a razão, por conta do contexto, por exemplo se o cliente reclamar que o ovo está frio, a cozinha irá provavelmente confirmar que, neste caso, o cliente tem a razão.
 
+Entramos nesses estabelecimentos para aquela refeição rápida, antes de voltar para o serviço, uma reunião com um colega de trabalho, ou talvez um aniversário, uma conversa séria com amigos, para socializar, conhecer alguém, e a vida vai. Por conta dessa vivência, mesmo com os consumidores trazemos uma bagagem sobre o que funciona e o que não funciona nesse tipo de operação. Como se entendêssemos do enquadre da experiência anterior, do contexto social, como humanos que se alimentam todos os dias em situações diferentes.
 
-
-
-
-Já conversamos um pouco sobre como os estabelecimentos aparecem no nosso caminho por conta de um contexto, de uma necessidade ou um trabalho a ser feito. A experiência que ocorre dentro de um estabelecimento pode ser comparada a uma escada rolante. Nós sabemos de onde chegamos e para onde queremos ir dentro de um contexto social. E esperamos que, durante aquele momento, a experiência seja confortável, que seja alinhada com o contexto muito além da possibilidade de bebermos e comermos algo. Entramos em espaços para uma refeição rápida antes de voltar para o serviço, uma reunião com um colega de trabalho, ou talvez um aniversário, uma conversa séria com amigos, para socializar, conhecer alguém, etc.
-
-Por conta dessa vivência, mesmo com os consumidores trazemos uma bagagem sobre o que funciona e o que não funciona nesse tipo de operação. Como se entendêssemos do enquadre da experiência anterior, do contexto social, como humanos que se alimentam todos os dias em situações diferentes.
-
-Considere a expressão "o cliente tem a razão". Ainda que não tenha significado literal, muitos estabelecimentos reconhecem quando o cliente está ou não está com a razão, por conta do contexto, por exemplo se o cliente reclamar que o ovo está frio, a cozinha irá provavelmente confirmar que, neste caso, o cliente tem a razão. Existem muitas outras inferências que podemos fazer com base nessas verdades, por exemplo que estão lá para comer, consequentemente irão comer provavelmente em um prato, e sendo assim esperam que o prato esteja limpo, etc. São muitas coisas que já sabemos, porque carregamos conhecimento cultural sobre esses rituais sociais. 
+Existem muitas outras inferências que podemos fazer com base nessas verdades, por exemplo que estão lá para comer, consequentemente irão comer provavelmente em um prato, e sendo assim esperam que o prato esteja limpo, etc. São muitas coisas que já sabemos, porque carregamos conhecimento cultural sobre esses rituais sociais. 
 
 <!--
 @todo 
@@ -166,10 +160,26 @@ Considere a expressão "o cliente tem a razão". Ainda que não tenha significad
 * [ , dup-anchored] @todo - p1 - In fazejamento - #dup-#jtbd is referred 3 or 4 times. Need to check where JTBD enters one time only, recalling a prior story, or a point about the double side, when we miss the point. @refid-20241226-11021d4c-6fa4-4d9e-b704-db1f3106d924
 --> 
 
-Também consideramos, no capítulo anterior, a abordagem teórica intitulada Jobs-to-be-done que diz de certa forma que para tudo na vida, nós contratamos um serviço - ou produto - dado que estamos tentando resolver "um trabalho anterior" que precisa ser resolvido. Pela ótica do jobs-do-be-done, entendemos melhor que o milkshake, servido em um copo para viagem, com canudinho grosso, é mais do que um alimento, é uma companhia em uma viagem. Um ponto importante sobre essa abordagem, é que ela não explica algo novo que não conhecemos. Ela só organiza de forma estruturada, fundamentalmente, a forma que escolhemos e decidimos contratar as soluções.
 
 
-A complicação não é que categoricamente queremos excluir a estratégia - ou o movimento de curiosidade e atividades relacionadas como observar, refletir, aprender, etc - mas é que nosso espectro de foco é preenchido por razões que justificam as mesmas ações de fazer, tipo mão na massa, apoiados por valores conhecidos (como as coisas funcionam). Ainda, essas ações são bem recebidas no ambiente de colaboradores e clientes em outras palavras valorizando aquilo que seria visto pejorativamente como fazejamento como de fato ações coerentes neste meio. Além disso, em um meio que exerce pressão para atender com qualidade, acabamos optando "soluções" ou ações de trabalho que aparentam ser mais eficientes em comparação com tudo que é desconhecido, que soa como arriscado, minimamente por conta do tempo.
+
+<!-- Complication -->
+
+Mas como pode, de certa forma, esse nosso jeitinho acolhedor brasileiro que tanto sabe cuidar, que recebe o cliente de forma tão calorosa, que dá ouvidos e carrega empatia na pele, mas que quando começa a empreender - entre mais e menos sal, mais e menos pimenta - se vê com tudo fazendo bolinho de nada frito que só não chama de "sem graça" por vem com um nome "proibidão". O que, criativamente reinventa o pão de queijo, entre mais e menos queijo e mais ou menos barato, mais ou menos soro de leite vira o "pão de que?" que não pára porque, criativamente, o cliente tem razão e mais ou menos por ser sem graça, encontra de volta o recheio de queijo que entre mais e menos queijo e mais ou menos caro de novo encontra, mais uma vez buscando o cliente, a solução quase queijo semi láctea. O que não fazemos para alegrar o cliente? 
+
+
+
+
+
+<!-- Review -->
+
+
+
+Também consideramos, no capítulo anterior, a abordagem teórica intitulada Jobs-to-be-done que diz de certa forma que - para tudo na vida - nós contratamos uma solução para resolver um trabalho anterior. Pela ótica do jobs-do-be-done, entendemos melhor que o milkshake, servido em um copo para viagem, com canudinho grosso, é mais do que um alimento, é uma companhia em uma viagem. Um ponto importante sobre essa abordagem, é que enquanto ela não diz nada sobre as novas soluções, ela nos diz muito sobre como fundamentalmente as "contratamos". 
+
+A complicação não é que categoricamente queremos excluir a estratégia - ou o movimento de curiosidade e atividades relacionadas como observar, refletir, aprender, etc - mas é que nosso espectro de foco é preenchido por razões que justificam as mesmas ações de fazer, tipo mão na massa, apoiados por valores conhecidos (como as coisas funcionam).
+
+Ainda, essas ações são bem recebidas no ambiente de colaboradores e clientes em outras palavras valorizando aquilo que seria visto pejorativamente como fazejamento como de fato ações coerentes neste meio. Além disso, em um meio que exerce pressão para atender com qualidade, acabamos optando "soluções" ou ações de trabalho que aparentam ser mais eficientes em comparação com tudo que é desconhecido, que soa como arriscado, minimamente por conta do tempo.
 
 Em outras palavras, encontramos razões para valorizar essas ações que seriam fazejamento como responsáveis também por conta de uma balança cognitiva que  "estratégicamente" elimina ideias estratégicas com o simples argumento que o envolvimento naquilo é um ato de irresposabilidade. Falamos isso para nós mesmos e para nossos colegas e ainda somos aplaudidos pelo entorno que pensa da mesma forma. Além disso, temos também o entorno estruturado pelo ambiente lógico da operação e físico do estabelecimento, que reafirma nossas atitudes. E isso não é só por conta do físico, como por exemplo o espaço, mas por conta que ficamos imersos em uma dinâmica. 
 
