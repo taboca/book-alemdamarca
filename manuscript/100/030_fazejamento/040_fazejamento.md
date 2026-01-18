@@ -218,7 +218,7 @@ Ainda, essas ações são bem recebidas no ambiente de colaboradores e clientes 
 
 
 
-Em outras palavras, encontramos razões que valorizam essas ações e soluções (que fazem mais do mesmo fazejamento ) muito bem vistas como responsáveis; agora nessa balança cognitiva que estrategicamente elimina ideias desconhecidas, logicamente, que na pressão desse ambiente são irresponsáveis. Falamos isso para nós mesmos, para nossos colegas, somos aplaudidos pelo entorno, pelos ecos dessa realidade. E vale lembrar que esse entorno é muito mais do que colegas, é o entordo do todo, codificado em todos os sistemas, aparelhos, métodos, tudo do físico ou do digital, que reafirma essas nossas mesmas atitudes. 
+Em outras palavras, encontramos razões que valorizam essas ações e soluções (que fazem mais do mesmo fazejamento ) muito bem vistas como responsáveis; agora nessa balança cognitiva que estrategicamente elimina ideias desconhecidas, logicamente, que na pressão desse ambiente são irresponsáveis. Falamos isso para nós mesmos, para nossos colegas, somos aplaudidos pelo entorno, ecos dessa nossa realidade. E vale lembrar que esse entorno é muito mais do que colegas, é o entordo do todo, codificado em todos os sistemas, aparelhos, métodos, tudo do físico ou do digital, que reafirma essas nossas mesmas atitudes. 
 
 
 

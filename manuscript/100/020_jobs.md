@@ -43,16 +43,18 @@ Foi assim a volta: o silêncio no carro paralelo ao leve sorriso dos mais velhos
 -->
 
 
-Então foi assim, uma olhada rápida, cativada por cinco estrelas e vistas por lentes modernas desse meio tecno-social. E nessa correria, um pouco frustrados e nos ajustando, vamos caminhando, dando risadas. E às vezes nos machucando um pouquinho. 
-
-Nesta situação, devemos nos perguntar se não estamos ocupados demais sendo usuários passivos (que se acham ativos), como quando quase aprendemos uma coisa e outra nos atropela. E se essa ocupação nos distancia daquela ideia que diz que podemos mudar o ambiente. Ou, que seja, nos distancia do poder de decidir com o que engajar. Outra razão para isso vem da lógica que diz que o não fazer nada, como aceitar, é o oposto do trabalho de mudar, como inovar. Então pensamos, "se só sendo usuário estou nesse ambiente tenho um trabalhão, imagina se quisesse mudar tudo isso." A verdade é que esquecemos o que é o custo de não fazer nada, de aceitar, de andar em um labirinto. E também esquecemos que a inovação está mais ligada a criatividade, ao pensamento flexível, como por exemplo o pensamento que descarta o desnecessário. 
+Foi assim: uma olhada rápida, cativada por cinco estrelas e vistas por lentes desse novo meio tecno-social. E nessa correria, um pouco frustrados e nos ajustando, vamos caminhando, muitas vezes nos resolvendo dando risadas à moda rir para não chorar, é lógico, mesmo que nos machucando um pouquinho. A verdade é nos ocupamos neste meio passivo-agressivo que nada nos obriga mnas muito nos diz o que fazer, como fazer, quando fazer. Que nos atropela. 
 
 
 
 
-Precisamos nos reaproximar do pensamento da inovação. Abrindo essa janela, um momento para ver as tecnologias empregadas como o trabalho, nos voltamos para o pensamento flexível. Neste sentido, vamos considerar algumas ideias, estruturadas, sobre como soluções inovadores são criadas a partir do trabalho e como nós, usuários, estamos (e devemos estar) bem no meio desse processo. 
 
 
+
+
+
+
+### As soluções e o trabalho
 
 
 
@@ -61,8 +63,7 @@ Precisamos nos reaproximar do pensamento da inovação. Abrindo essa janela, um 
 * [Done , anchored] - @todo - p1 - In "Part 1, o trabalho" - Add the text about the milkshake and jobs to be done, here. ref doc https://docs.google.com/document/d/1U3d3tc2_CBt9BNPb-unYrqxRThFSIDYsh8cPHkqF3fs/edit?tab=t.0, @refid-20241217-a0fe9b22-a99a-43c1-9326-04f0d61a6358
 --> 
 
-
-Vamos começar com o conceito conhecido como *Jobs to be Done*, criado pelo renomado professor de gestão, Clayton Christensen. Para explicar o diferencial dessa abordagem, Clayton criou uma narrativa de uma empresa interessada em vender milkshakes. Segundo o pensamento tradicional, o processo começa pela segmentação do público alvo, levando em consideração questões de mercado e atributos demográficos como idade, estado civil, condição financeira, etc. A partir disso, as empresas definem o que fazer, por exemplo posicionando o produto para famílias com crianças. 
+Se a tecnologia é trabalho, então podemos nos perguntar o que são as soluções que calham a nossa frente diante daquilo que tem a ser feito. Vamos começar com o conceito conhecido como *Jobs to be Done*, criado pelo renomado professor de gestão, Clayton Christensen. Para explicar o diferencial dessa abordagem, Clayton criou uma narrativa de uma empresa interessada em vender milkshakes. Segundo o pensamento tradicional, o processo começa pela segmentação do público alvo, levando em consideração questões de mercado e atributos demográficos como idade, estado civil, condição financeira, etc. A partir disso, as empresas definem o que fazer, por exemplo posicionando o produto para famílias com crianças. 
 
 A abordagem de *Jobs To Be Done*, por outro lado, vê um problema com essa lógica. Mesmo que existam oportunidades que se aplicam aos grupos definidos por esses critérios, o problema está no fato que essa lógica desconsidera - em alinhamento com o que estamos conversando - que as soluções empregadas tem origem no trabalho. No pensamento do *Jobs To Be Done*, o processo começa com a consideração de um trabalho a ser feito. A metáfora criada pelo professor Clayton diz que as pessoas *contratam* as soluções para que um trabalho possa ser feito. 
 
