@@ -76,9 +76,26 @@ Sobre isso, encontrei uma boa ideia no livro *Faça Seu Negócio e Decolar* do a
 > Eles apostaram numa lanchonete. Não é nada glamoroso. É um estabelecimento simples, como eram os comércios desse tipo antes do chamado "raio gourmetizador" que atingiu o ramo e complicou a cozinha. O local não tem firulas. É uma área pequena, com três mesas, um balcão e uma chapa, de onde saem lanches como misto-quente, x-burger, x-salada e omeletes. Vendem, ainda, vitaminas, açaí com granola, salgados e café puro ou com leite. Não há um foco definido. Oferecem um pouco de tudo para tentar matar a fome dos mais diversos tipos de cliente. Os dois trabalham pesado. Abrem as portas às 8 horas, mas chegam ao local antes das 7 horas para deixar tudo em ordem. Costumam voltar para casa após as 21 horas. Como podemos ver, a rotina de empresário é "casca grossa". Apesar de toda a "ralação", eles estão patinando.
 > (Morini, 2017, p. 49-50)
 
-Obrigado Fabrício por fazer esse voo panorâmico, em câmera lenta, por tirar uma foto que diz muito sobre o que tem alí no espírito empreendedor. Gosto de ver como uma energia, paixão por fazer. Mas logo alí ele nos convida para perceber o desafio da jornada do empreendedorismo. Que está embutida nessa história a necessidade de emergir um movimento consciente, intencionado a transformar, a trazer impacto. Em outras palavras, o empreendedor busca resultados (sucesso) a partir da ação (fazejamento) por meio do planejamento. 
 
-Penso que a nossa reflexão sobre esse assunto merece ser, pelo menos agora, desacelerada. E se ficarmos aqui, só celebrando esse nosso potencial de fazejamento? Que tal um momento de pausa sobre essa nossa propensão em, bem ao ponto, colocar a mão na massa? Penso assim porque espero que reconhecer esse nosso poder é um grande primeiro passo para nos lembrar sobre agir com responsabilidade e de forma consciente. 
+Obrigado, Fabrício, por este voo panorâmico, em câmera lenta, que diz muito sobre o que tem bem lá no meio do movimento empreendedor. Tem sim, na hora H, muita energia ou paixão, ou de certa forma fogo, vontade com necessidade de fazer. Em cima disso, sabemos que tem aquela pressãozinha tipo "água bate na bunda" ou, como gosto de dizer, "a lava bate na bunda" 
+
+Agora, Posso e quero celebrar que todo o trabalhador-empreendedor, carrega dentro essa dupla, herói-vilão; e como o movimento (consciente) rumo ao sucesso (planejar o sucesso) dependente de, de verdade, perceber a relação dessa dupla dinâmica. 
+
+
+Se essa reflexão merece ser, agora, desacelerada, te convido para voltar um pouquinho para celebrarmos que tem base essa origem da vontade de fazer. Ela não é ridícula, e ela está enraizada não só dos nossos ancestrais, mas também do momento família. Fazer é sobreviver, e, de certa forma, fazer é amor. Amamos fazer quando as coisas estão boas. Na sequência, vamos refletir sobre como nós normalmente já sabemos muito sobre o que fazer na hora de prender, principalmente quando empreendemos para servir pessoas como nós. E concluiremos com uma leve reflexão sobre como o lado vilão calha com cara de herói. 
+
+
+
+
+
+
+### Empreender é fazer acontecer 
+
+
+
+
+
+
 
 Segundo Joseph Schumpeter, essencialmente o movimento de empreender é sobre fazer as coisas acontecerem: 
 
@@ -101,7 +118,9 @@ Segundo Joseph Schumpeter, essencialmente o movimento de empreender é sobre faz
 > *"To act with confidence beyond the range of familiar beacons and to overcome that resistance requires aptitudes that are present in only a small fraction of the population and that define the entrepreneurial type as well as the entrepreneurial function. This function does not essentially consist in either inventing anything or otherwise creating the conditions with the enterprise exploit. It consists in getting things done."* (Schumpeter, 2008, p. 132)
 -->
 
-> Agir em contextos desconhecidos é difícil e constitui uma função econômica especial, primeiramente porque ultrapassa os limites das atividades rotineiras e conhecidas, e depois porque o ambiente oferece resistência de múltiplas formas, que variam conforme as condições sociais. Essas resistências vão desde a simples recusa de financiamento ou compra de algo novo até ataques diretos contra quem tenta produzi-lo. Não se trata apenas de realizar tarefas rotineiras ou explorar oportunidades já estabelecidas, mas sim, acima de tudo, de fazer as coisas acontecerem.
+> "To undertake such new things is difficult and constitutes a distinct economic function, first, because they lie outside routine tasks which everybody understands, and secondly, because the environment resists in many ways that vary, according to social conditions, from simple refusal either to finance or to buy a new thing, to physical attack on the man who tries to produce it. To act with confidence beyond the range of familiar beacons and to overcome that resistance requires aptitudes that are present in only a small fraction of the population and that define the entrepreneurial type as well as the entrepreneurial function. This function does not essentially consist in either inventing anything or otherwise creating the conditions with the enterprise exploit. It consists in getting things done." (Schumpeter, 2008, p. 132)
+
+> Agir em contextos desconhecidos é difícil e constitui uma função econômica especial, primeiramente, porque ultrapassa os limites das atividades rotineiras e conhecidas, e depois porque o ambiente oferece resistência de múltiplas formas, que variam conforme as condições sociais. Essas resistências vão desde a simples recusa de financiamento ou compra de algo novo até ataques diretos contra quem tenta produzi-lo. Não se trata apenas de realizar tarefas rotineiras ou explorar oportunidades já estabelecidas, mas sim, acima de tudo, de fazer as coisas acontecerem.
 > (Schumpeter, 2008, p. 132)
 
 
