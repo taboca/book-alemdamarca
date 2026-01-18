@@ -215,7 +215,10 @@ A complicação não é que categoricamente queremos excluir a estratégia - ou 
 
 Ainda, essas ações são bem recebidas no ambiente de colaboradores e clientes em outras palavras valorizando aquilo que seria visto pejorativamente como fazejamento como de fato ações coerentes neste meio. Além disso, em um meio que exerce pressão para atender com qualidade, acabamos optando "soluções" ou ações de trabalho que aparentam ser mais eficientes em comparação com tudo que é desconhecido, que soa como arriscado, minimamente por conta do tempo.
 
-Em outras palavras, encontramos razões para valorizar essas ações que seriam fazejamento como responsáveis também por conta de uma balança cognitiva que  "estratégicamente" elimina ideias estratégicas com o simples argumento que o envolvimento naquilo é um ato de irresposabilidade. Falamos isso para nós mesmos e para nossos colegas e ainda somos aplaudidos pelo entorno que pensa da mesma forma. Além disso, temos também o entorno estruturado pelo ambiente lógico da operação e físico do estabelecimento, que reafirma nossas atitudes. E isso não é só por conta do físico, como por exemplo o espaço, mas por conta que ficamos imersos em uma dinâmica. 
+
+
+
+Em outras palavras, encontramos razões que valorizam essas ações e soluções (que fazem mais do mesmo fazejamento ) muito bem vistas como responsáveis; agora nessa balança cognitiva que estrategicamente elimina ideias desconhecidas, logicamente, que na pressão desse ambiente são irresponsáveis. Falamos isso para nós mesmos, para nossos colegas, somos aplaudidos pelo entorno, pelos ecos dessa realidade. E vale lembrar que esse entorno é muito mais do que colegas, é o entordo do todo, codificado em todos os sistemas, aparelhos, métodos, tudo do físico ou do digital, que reafirma essas nossas mesmas atitudes. 
 
 
 
