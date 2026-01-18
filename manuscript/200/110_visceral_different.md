@@ -2,6 +2,11 @@
 
 <!--
 
+@version 
+
+* v0.1 - https://docs.google.com/document/d/1IBrMCipiDK2A9Sa9U6Tkw999e9cdQsmUCg9VwLkK8W4/edit?tab=t.0 
+* v0.4  
+
 @expression "brasileiro precisa ser estudado" 
 
 @tags 
@@ -24,32 +29,24 @@
 * @todo - p1 - In Chamando a atenção check “o pote da felicidade” (bolo no copo com um pudim colado em cima)
 * @todo - p1 - In Chamando a atenção check "pizzas doces decoradas com bolinhas de “chocolate” coloridas, torres de batatas com bacon e “cheddar”, e muito mais. 
 
-@version 
-
-* v0.1 - https://docs.google.com/document/d/1IBrMCipiDK2A9Sa9U6Tkw999e9cdQsmUCg9VwLkK8W4/edit?tab=t.0 
-
-* v0.4  
-
 --> 
 
 
 Foram-se os dias que os estabelecimentos compravam coisas a granel, somente os ingredientes. Hoje, a lojinha do dog do "Podrão da Esquina" já pode comprar qualquer solução a granel. Podem comprar inclusive as narrativas, o que dizer para os clientes. Por essa e um monte de razões anteriores, os estabelecimentos estão no meio daquele hipermercado de soluções com infinitos corredores e categorias para tudo. 
 
-Então, numa Quinta feira normal, pedi um lanche de um local diferente, pelo aplicativo. Mas me impressionei com a embalagem, era bem diferente do normal. O pacote era uma caixa, de papel cartao, bem retangular, parecida com aquelas barras de ouro, tipo um prisma trapezoidal. Nessa hora o coração da gente começa a bater forte! Qual será o tamanho? qual será o tamanho? Abertura rápida, abre e fecha rápidçao, de novo, e ufa, não era pequeno. E ainda acompanhava toda a extensão da embalagem. E não era só essa a surpresa. Ao abrir, tinha uma frase que também de ponta a ponta dizia, "Não basta ser diferente, tem que ser surpreendente!"  Então falei "Nossa, deve ser bom!"
+Então, numa Quinta feira normal, pedi um lanche de um local diferente, pelo aplicativo. Mas me impressionei com a embalagem, era bem diferente do normal. O pacote era uma caixa, de papel cartao, bem retangular, parecida com aquelas barras de ouro, tipo um prisma trapezoidal. Nessa hora o coração da gente começa a bater forte! Qual será o tamanho? qual será o tamanho? Abertura rápida, abre e fecha rápidçao, de novo, e ufa, não era pequeno. E ainda acompanhava toda a extensão da embalagem. E não era só essa a surpresa. Ao abrir, tinha uma frase que também de ponta a ponta dizia, "Não basta ser diferente, tem que ser surpreendente!" Então falei "Nossa, deve ser bom!"
 
-Com fome, avancei. Mas quando terminei, digerindo sobre o lanche, a embalagem e a frase, conclui que o que mais me surpreendeu era aquela frase. E aquilo me fez pensar sobre o desafio da agência - ou que seja do sobrinho responsável pelo departamento de marketing. Porque não é fácil também para eles, porque é bem capaz que já gastaram a frase “Não basta ser igual, tem que ser diferente!” no lote anterior. Então e se fosse eu, agora, na frente do próximo pedido de 1000 embalagens? Não deu outra, pedi para a IA me ajudar com isso: 
+Mas quando terminei, digerindo sobre o lanche, a embalagem e a frase, conclui que o que mais me surpreendeu mesmo foi a frase. E aquilo me fez pensar sobre o desafio da agência - ou que seja do sobrinho responsável pelo departamento de marketing. Porque não é fácil também para eles, porque é bem capaz que já gastaram a frase “Não basta ser igual, tem que ser diferente!” no lote anterior. Então e se fosse eu, agora, na frente do próximo pedido de 1000 embalagens? Não deu outra, pedi para a IA me ajudar com isso: 
 
 <!--
 @note-refai @refid-20250117-289a7559-02c0-4a16-90c1-14348c655230
 -->
 
-> Boa tarde, mademoiselle GPT,
-> Poderia nos ajudar com frases do tipo 'não basta ser diferente, tem que ser surpreendente!' mas, por favor, faça elas de forma encadeada, aprofundando na lógica, Tipo A-B, B-C, C-D, ... 
-> Marcio
-> chefe do departamento de criativos
-> do Rotten Corner Dog.
+> Boa tarde, mademoiselle GPT, poderia nos ajudar com frases do tipo 'não basta ser diferente, tem que ser surpreendente!' mas, por favor, faça elas de forma encadeada, aprofundando na lógica, Tipo A-B, B-C, C-D, ... 
+> Marcio, departamento dos criativos
+> Rotten Dog Advertising Division.
 
-Mas é claro que a nossa amiga IA, por sinal sempre otimista, não nos deixará na mão com esses "criativos". Gosto disso e gosto como ela tem boa vontade para explicar as coisas: 
+Mas é claro que a nossa amiga IA, sempre otimista, não nos deixará na mão com esses "criativos". Gosto disso e gosto como ela tem boa vontade para explicar as coisas: 
 
 > "Não basta ser diferente, tem que ser único.
 > (Ser único é um nível acima de ser apenas diferente.)
@@ -77,7 +74,7 @@ Mas é claro que a nossa amiga IA, por sinal sempre otimista, não nos deixará 
 * [ , anchored ] @todo - p1 - In "Chamar a atenção" Review, the leading paragraphs, ABC vs. BAB [(1) Book - adm - Revisão de "Chamar a atenção" Sobre começar com um caso, depois contexto. Ou contexto. - YouTube](https://www.youtube.com/shorts/ICB6xLx9VF8) @refid-20250117-8dace7fb-f918-4e55-b1e5-62afa300096a
 -->
 
-Mas voltando um pouco - deixando de lado essa empolgação - eu estava mesmo era frustrado porque aquela frase me fazia lembrar do “Pense diferente” dos dias de ouro da Apple. E  sobre algumas das coisas valiosas que o Steve Jobs disse quando ele havia voltado para, digamos assim, recuperar a Apple. Antes de lançar a famosa campanha *Think Different*, ele fez questão de falar sobre valores: 
+Mas voltando um pouco - deixando de lado essa empolgação - eu estava mesmo era frustrado porque aquela frase me fazia lembrar do “Pense diferente” dos dias de ouro da Apple. E sobre algumas das coisas valiosas que o Steve Jobs disse quando ele havia voltado para, digamos assim, recuperar a Apple. Antes de lançar a famosa campanha *Think Different*, ele fez questão de falar sobre valores: 
 
 <!--
 @note-refai @refid-20250116-620a0879-d22a-4f57-b590-f1589ecaccba - https://chatgpt.com/share/67897620-02c4-8011-9ff5-a88e09f6c64c
@@ -91,9 +88,9 @@ Mas voltando um pouco - deixando de lado essa empolgação - eu estava mesmo era
 * reference - JOBS, Steve. Get much simpler, be really clear - Sept. 23, 1997. YouTube, 1 jun. 2012. Disponível em: https://www.youtube.com/watch?v=jMSa9sSZpF8. Acesso em: 16 jan. 2025.
 -->
 
-O legado que ele deixou sobre ser diferente - ou pensar diferente - é justamente sobre o diferente simples que cria experiências memoráveis, sobre o trabalho verdadeiro que vem antes e que faz as coisas serem lembradas. Mas agora, de barriga cheia, eu estava em frente àquele "diferente" que dizia ser surpreendente, tentando ser diferente. O diferente do Steve não só foi ignorado mas também atropelado. Atropelado pelo movimento ansioso que Steve Jobs não queria, que só faz barulho. 
+O legado que ele deixou sobre ser diferente - e pensar diferente - é justamente sobre o diferente-simples que cria experiências memoráveis, sobre o trabalho verdadeiro que vem antes; e que faz as coisas serem lembradas. Mas naquela hora, de barriga cheia, eu estava de frente com aquele "diferente" que dizia ser surpreendente, tentando e tentando ser diferente. Bem diferente do diferente da Apple, diferente ignorado. O diferente atropelado, atropelado justamente pelo movimento ansioso que Steve Jobs não queria, que só faz barulho e que gera marcas que não são lembradas.  
 
-E um tanto sabemos sobre isso, já que estamos bem do lado ou familiarizados como aquela ideia que diz que temos que “chamar a atenção". Neste sentido, seguem três cenas para nossa observação e posterior reflexão. 
+Um tanto sobre isso sabemos, meio que automático não é mesmo? Penso que voltamos naquela ideia do "chamar a atenção". Vamos então curtir um pouco mais sobre isso, com três ceninhas especiais: 
 
 ### Pote da felicidade 
 
