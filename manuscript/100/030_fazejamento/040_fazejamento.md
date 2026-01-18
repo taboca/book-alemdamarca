@@ -89,6 +89,17 @@ Se essa reflexão merece ser, agora, desacelerada, te convido para voltar um pou
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ### Empreender é fazer acontecer 
 
 
@@ -96,8 +107,6 @@ Se essa reflexão merece ser, agora, desacelerada, te convido para voltar um pou
 
 
 
-
-Segundo Joseph Schumpeter, essencialmente o movimento de empreender é sobre fazer as coisas acontecerem: 
 
 <!--
 @todo 
@@ -118,11 +127,17 @@ Segundo Joseph Schumpeter, essencialmente o movimento de empreender é sobre faz
 > *"To act with confidence beyond the range of familiar beacons and to overcome that resistance requires aptitudes that are present in only a small fraction of the population and that define the entrepreneurial type as well as the entrepreneurial function. This function does not essentially consist in either inventing anything or otherwise creating the conditions with the enterprise exploit. It consists in getting things done."* (Schumpeter, 2008, p. 132)
 -->
 
-> "To undertake such new things is difficult and constitutes a distinct economic function, first, because they lie outside routine tasks which everybody understands, and secondly, because the environment resists in many ways that vary, according to social conditions, from simple refusal either to finance or to buy a new thing, to physical attack on the man who tries to produce it. To act with confidence beyond the range of familiar beacons and to overcome that resistance requires aptitudes that are present in only a small fraction of the population and that define the entrepreneurial type as well as the entrepreneurial function. This function does not essentially consist in either inventing anything or otherwise creating the conditions with the enterprise exploit. It consists in getting things done." (Schumpeter, 2008, p. 132)
 
-> Agir em contextos desconhecidos é difícil e constitui uma função econômica especial, primeiramente, porque ultrapassa os limites das atividades rotineiras e conhecidas, e depois porque o ambiente oferece resistência de múltiplas formas, que variam conforme as condições sociais. Essas resistências vão desde a simples recusa de financiamento ou compra de algo novo até ataques diretos contra quem tenta produzi-lo. Não se trata apenas de realizar tarefas rotineiras ou explorar oportunidades já estabelecidas, mas sim, acima de tudo, de fazer as coisas acontecerem.
+
+
+
+
+Segundo Joseph Schumpeter, essencialmente o movimento de empreender é fazer acontecer. Ele diz que o empreendimento que faz a mudança é uma função econômica distinta [^schumpeter_distinct], que está fora do normal, fora da rotina que as pessoas entendem. Desta forma, o ambiente resiste de toda e qualquer forma devido às condições sociais - se recusa a financiar, se recusa a comprar essa nova coisa, se não até irá atacar aquele que quer produzir. Schumpeter avança dizendo que aquele que age com confiança, aquele que ultrapassa essa resistência, carrega atributos presentes em uma fração menor da população, ela ou ele carrega a função empreendedora: 
+
+[^schumpeter_distinct]: O que fiz acima, foi uma paráfrase ou quase cópia de "To undertake such new things is difficult and constitutes a distinct economic function, first, because they lie outside routine tasks which everybody understands, and secondly, because the environment resists in many ways that vary, according to social conditions, from simple refusal either to finance or to buy a new thing, to physical attack on the man who tries to produce it. To act with confidence beyond the range of familiar beacons and to overcome that resistance requires aptitudes that are present in only a small fraction of the population and that define the entrepreneurial type as well as the entrepreneurial function. This function does not essentially consist in either inventing anything or otherwise creating the conditions with the enterprise exploit. It consists in getting things done."* (Schumpeter, 2008, p. 132) 
+
+> Essa função não é essencialmente sobre inventar algo ou sobre criar as condições que o empreendimento irá explorar. Ela é, acima de tudo, a capacidade de fazer as coisas acontecerem.
 > (Schumpeter, 2008, p. 132)
-
 
 <!-- 
 @meta @references
