@@ -1,4 +1,3 @@
------------
 @@ Contacts 
 
 
@@ -241,13 +240,6 @@
 
 * [ , anchored] @todo - p1 - In “Part 1, fazejamento” - Consider the expand the section with ideas from Walter Fisher, the Homo Narrans - @refid-20241219-066e56ea-555c-48c2-9126-90a0ad42d5d5
 
-* [ , anchored] @todo - p1 - In “Part 1, Fazejamento potencializado, fornecedores” - Check a reference to “no capítulo anterior” to see if the idea was actually presented there. @refid-20241219-be55f5bc-fb7e-4dbc-93c2-3e6795633df9
-
-* [ , anchored] @todo - p1 - In "Parte 1, Fazejamento" - Consider, within the section "fornecedores", the case of the salesman pointed by Maslow and referred in the book Slow Down Start-up. @refid-20241219-948770ee-60e3-40ef-806f-57b54986e678
-
-* [ ] @todo - p1 - rating:5 - In "Part 1, Fazejamento Potencializado", Consider the citation from the video interview with Fabricio Morini. Ref "O que eu quis dizer no livro como abrir o foco é que, quando você se determina para fazer algo, entende o que vai fazer. Com esse bombardeio de informações que a gente recebe atualmente, nós não podemos nos desviar, temos que ser espartanos." (RÁDIO CBN, 2024, 25:06-25:12) @todo-reference RÁDIO CBN. Mundo Corporativo: tire sua ideia do PowerPoint e a faça funcionar no Excel, sugere Fabrício Morini. Entrevista com Fabrício Morini. Disponível em: https://www.youtube.com/watch?v=N0KpPraJ3eE. Acesso em: 18 dez. 2024. @refid-20241218-c0422296-76bc-44d5-8b6f-b72fbed7e012 
-
-* [ ] @todo - p2 -  In "Parte 1, Fazejamento Potencializado" - December  18th, 2024 - Consider the general startup idea of failing fast. It is cheaper to fail fast, etc. @refid-20241218-d7999ac6-911e-45f8-9bc3-a47d9677e50b
 
 * [ ] @todo - p1 - In "Part 1, Fazejamento" - check how JTBD is refered from the context of Fazejamento. @refid-20241218-e8d41ae9-7415-4183-80f1-dc090209784a
 
@@ -256,7 +248,17 @@
 
 
 
+@@ Fazejamento potencializado 
 
+* [ ] [^footnote_algo_IA]: Hoje, uma vez verificado um vídeo, dependendo do tempo que você fica, e mesmo que fique espantado, aterrorizado com aquilo, pode muito acontecer que você irá ver um monte parecido. Colocar aqui uma nota de rodapé mais virtuosa. 
+
+* [ , anchored] @todo - p1 - In “Part 1, Fazejamento potencializado, fornecedores” - Check a reference to “no capítulo anterior” to see if the idea was actually presented there. @refid-20241219-be55f5bc-fb7e-4dbc-93c2-3e6795633df9
+
+* [ , anchored] @todo - p1 - In "Parte 1, Fazejamento" - Consider, within the section "fornecedores", the case of the salesman pointed by Maslow and referred in the book Slow Down Start-up. @refid-20241219-948770ee-60e3-40ef-806f-57b54986e678
+
+* [ ] @todo - p1 - rating:5 - In "Part 1, Fazejamento Potencializado", Consider the citation from the video interview with Fabricio Morini. Ref "O que eu quis dizer no livro como abrir o foco é que, quando você se determina para fazer algo, entende o que vai fazer. Com esse bombardeio de informações que a gente recebe atualmente, nós não podemos nos desviar, temos que ser espartanos." (RÁDIO CBN, 2024, 25:06-25:12) @todo-reference RÁDIO CBN. Mundo Corporativo: tire sua ideia do PowerPoint e a faça funcionar no Excel, sugere Fabrício Morini. Entrevista com Fabrício Morini. Disponível em: https://www.youtube.com/watch?v=N0KpPraJ3eE. Acesso em: 18 dez. 2024. @refid-20241218-c0422296-76bc-44d5-8b6f-b72fbed7e012 
+
+* [ ] @todo - p2 -  In "Parte 1, Fazejamento Potencializado" - December  18th, 2024 - Consider the general startup idea of failing fast. It is cheaper to fail fast, etc. @refid-20241218-d7999ac6-911e-45f8-9bc3-a47d9677e50b
 
 
 
