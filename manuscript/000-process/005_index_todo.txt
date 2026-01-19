@@ -27,8 +27,11 @@
 
 
 
-
 @@ general 
+
+
+* [ ] @todo - p1 - general - Temos que chegar sobre a questão da licença do moinho de trigo de Oliver Evans, Isso está numa imagem que está utilizada no capítulo "Tecnologia". @refid-98238234-4902384928-42390849048-3284983
+
 
 * Corrêa da Vida: Avaliar a necessidade de manter ou remover a referência "Corrêa da Vida" em seções onde o conceito é mencionado repetidamente. ([1/22, 19:28])
 
