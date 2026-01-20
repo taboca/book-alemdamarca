@@ -9,7 +9,7 @@
 100/010_communications/030.md
 100/020_trabalho/030.md
 100/030_fazejamento/040_fazejamento.md
-100/040_fazejamento_potencializado.md
+100/040_fazejamento_potencializado/050.md
 
 000_part2.txt
 
