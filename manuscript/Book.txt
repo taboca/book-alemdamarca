@@ -36,7 +36,7 @@
 
 400/320_spaceships.txt
 400/30_estante/20.md
-400/330_alem_da_marca.txt
+400/040_alem_da_marca/10.md
 
 #000_afterword.txt
 
