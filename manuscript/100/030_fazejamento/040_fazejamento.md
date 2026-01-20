@@ -201,28 +201,16 @@ Então, não é difícil perceber como - guiados também por nosso jeitinho bras
 * [Done , dup-anchored] @todo - p1 - In fazejamento - #dup-#jtbd is referred 3 or 4 times. Need to check where JTBD enters one time only, recalling a prior story, or a point about the double side, when we miss the point. @refid-20241226-11021d4c-6fa4-4d9e-b704-db1f3106d924
 --> 
 
-Consideramos, no capítulo anterior, a abordagem teórica intitulada Job-to-Be-Done que diz que - para tudo na vida - contratamos as soluções porque elas nos ajudam a resolver um certo trabalho. Você se lembra daquele *milkshake* que foi servido no copo para viagem com canudinho grosso e que por conta isso era mais do que uma bebida ou alimento qualquer era o companheiro ideal para aquela viagem do vendedor. 
 
+Então trago para nossa pauta O paradoxo: diante da nossa vontade de satisfazer o cliente, nos encontramos optando por soluções criativas. Mas são essas soluções que estamos criando de fato? Ou são elas só mais soluções acumuladas que nos vemos colocando no "carrinho da operação" porque encontramos elas em um hipermercado de soluções? 
 
-O ponto forte dessa abordagem é ela nos diz muito sobre como as pessoas "contratam" as soluções.  
+Consideramos, no capítulo anterior, da abordagem Job-to-Be-Done que diz sobre como as soluções encaixam para ajudar alguém com as etapas de um trabalho a ser feito. Como o caso do *milkshake*, que com seu canudinho grosso foi contratado como um companheiro na viagem pelo vendedor. Em outras palavras, o ambiente da operação torna-se desafiador, por conta que justamente encontramos nas prateleiras da vida da operação uma abundância de soluções que de fato apelam justamente para aquilo que precisamos. 
 
-A complicação não é que categoricamente queremos excluir a estratégia - ou o movimento de curiosidade e atividades relacionadas como observar, refletir, aprender, etc - mas é que nosso espectro de foco é preenchido por razões que justificam as mesmas ações de fazer, tipo mão na massa, apoiados por valores conhecidos (como as coisas funcionam).
+Nosso ambiente torna-se desafiador não por nossa intenção, de forma propriamente dita, para remover a estratégia. Ou por intenção de deliberada em não refletir, não pensar, não aprender. O desafio na frente é que justamente por conta que "essas soluções" nos dizem o que fazer, porque fazer. Em outras palavras, encontramos nelas as razões para ações; mas também com isso um monte e soluções que fazem mais do mesmo fazejamento. 
 
+E são ainda muito bem vistas, como ações responsáveis, Tudo isso calha bem, nesse ambiente mais acelerado diante de uma balança cognitiva onde estrategicamente eliminamos ideias desconhecidas diante do "conhecido que resolve mais um trabalho".
 
-
-
-
-<!-- Review -->
-
-
-
-Ainda, essas ações são bem recebidas no ambiente de colaboradores e clientes em outras palavras valorizando aquilo que seria visto pejorativamente como fazejamento como de fato ações coerentes neste meio. Além disso, em um meio que exerce pressão para atender com qualidade, acabamos optando "soluções" ou ações de trabalho que aparentam ser mais eficientes em comparação com tudo que é desconhecido, que soa como arriscado, minimamente por conta do tempo.
-
-
-
-
-Em outras palavras, encontramos razões que valorizam essas ações e soluções (que fazem mais do mesmo fazejamento ) muito bem vistas como responsáveis; agora nessa balança cognitiva que estrategicamente elimina ideias desconhecidas, logicamente, que na pressão desse ambiente são irresponsáveis. Falamos isso para nós mesmos, para nossos colegas, somos aplaudidos pelo entorno, ecos dessa nossa realidade. E vale lembrar que esse entorno é muito mais do que colegas, é o entordo do todo, codificado em todos os sistemas, aparelhos, métodos, tudo do físico ou do digital, que reafirma essas nossas mesmas atitudes. 
-
+Ainda, Nosso ambiente de trabalho não só dá apoio para buscar nestas soluções as respostas, como, além disso, quando pensamos no alternativo, nos coloca em uma posição de irresponsáveis. Falamos assim, para nós mesmos, para nossos colegas, aplaudidos pelo entorno quando optamos pela próxima solução que grita melhor, sem perceber que estamos alimentando nosso entordo, codificando nosso ambiente. 
 
 
 
