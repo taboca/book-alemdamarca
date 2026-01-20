@@ -40,7 +40,6 @@
 
 #000_afterword.txt
 
-#
 #400/100_cartas_business_cards.txt
 #00/110_cartas_postinhos_vintage.txt
 
