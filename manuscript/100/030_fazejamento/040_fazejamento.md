@@ -182,9 +182,16 @@ Agora que celebramos o empreendedorismo ligado ao fazer, como o fazejamento est�
 
 Considere a expressão "o cliente tem a razão". Ainda que não tenha significado literal, reconhecemos muito sobre essa ideia, sobre o cliente estar ou não estar com a razão. Se um cliente reclama que o ovo está frio, entendemos isso porque é da vida. Então, a operação, o atendimento, e a cozinha, esperamos que todos estejam de acordo que sim, o cliente está com a razão.
 
-Como clientes, já passamos por lá, caímos lá, para aquela refeição rápida, antes de voltar para o serviço, para uma reunião com o colega de trabalho, um aniversário, uma conversa boa com amigos, ou para socializar com a galera do serviço, para conhecer alguém, e por ai a vida vai. E se não foram momentos específicos nos estabelecimentos de alimentação, foram nas nossas casas, e na vida, então de longa data estamos vivenciando momentos de alimentação no meio social. 
+Como clientes, já passamos por lá, caímos lá, para aquela refeição rápida, antes de voltar para o serviço, para uma reunião com o colega de trabalho, um aniversário, uma conversa boa com amigos, ou para socializar com a galera do serviço, para conhecer alguém, e por ai a vida vai. E se não foram momentos específicos nos estabelecimentos de alimentação, foram nas nossas casas, e na vida, então de longa data estamos vivenciando momentos de alimentação no meio social. Essa vivência, como clientes e consumidores, nos dá uma bela de uma bagagem de experiência sobre o que funciona e o que não funciona. Desta forma, sabemos muito sobre "como funciona esse tipo de operação". E  não podemos ignorar que a própria razão que decidimos nos envolver nessa área é justamente porque "sabemos muito" sobre como funciona esse tipo de operação. Pense sobre a quantidade de respostas que carregamos com base nessas verdades, ou bom senso, com base em momentos de convívio com alimentação. Ou seja, não precisamos consultar os universitários para entender, por exemplo, que o cliente espera que o prato esteja limpo e que o ovo não esteja frio. 
 
-Essa vivência, como clientes e consumidores, nos dá uma bela de uma bagagem de experiência sobre o que funciona e o que não funciona. Desta forma, sabemos muito sobre "como funciona esse tipo de operação". E  não podemos ignorar que a própria razão que decidimos nos envolver nessa área é justamente porque "sabemos muito" sobre como funciona esse tipo de operação. Pense sobre a quantidade de respostas que carregamos com base nessas verdades, ou bom senso, com base em momentos de convívio com alimentação. Ou seja, não precisamos consultar os universitários para entender, por exemplo, que o cliente espera que o prato esteja limpo e que o ovo não esteja frio. 
+<!-- Complication -->
+
+
+Encaixando as peças, devemos considerar como é desafiante entrar em um ambiente que, por um lado começa com o movimento de fazer acontecer ou "colocar a mão na massa" e por outro tem respostas porque "sabemos muito sobre o que o cliente quer".  
+
+Então, não é difícil perceber como - guiados também por nosso jeitinho brasileiro acolhedor que tanto gosta de cuidar e que recebe o cliente de forma tão calorosa e que dá ouvidos e carrega empatia na pele - acabamos "nos empreendendo" nos envolvendo com ouvir mais ou menos sal e mais ou menos pimenta e por conta de mais ou menos barato acabamos criando bolinho de nada frito. E como, também pelo cliente e intencionados a resgatar a graça, apelidamos o bolinho à moda proibidão. Ou como criativamente nos adequando aos "nossos clientes", acabamos "evoluindo" aquele saudoso pão nosso de queijo de cada dia para um padrão "fit", que desnutrido precisou receber um pouco de "soro de leite". E como que de um outro cliente que revoltado disse "pão de quê?" criativamente reinventamos a versão recheada, de início de queijo, de novo, e como que também ouvindo outro cliente que reclamou do preço, de novok, mudamos aquele delicioso recheio de queijo, então, com a da solução "tipo queijo" que por sinal apareceu bem na hora H. O que não fazemos para alegrar o cliente? 
+
+
 
 
 
@@ -200,16 +207,6 @@ Consideramos, no capítulo anterior, a abordagem teórica intitulada Job-to-Be-D
 O ponto forte dessa abordagem é ela nos diz muito sobre como as pessoas "contratam" as soluções.  
 
 A complicação não é que categoricamente queremos excluir a estratégia - ou o movimento de curiosidade e atividades relacionadas como observar, refletir, aprender, etc - mas é que nosso espectro de foco é preenchido por razões que justificam as mesmas ações de fazer, tipo mão na massa, apoiados por valores conhecidos (como as coisas funcionam).
-
-
-
-
-
-
-
-<!-- Complication -->
-
-Mas como pode, de certa forma, esse nosso jeitinho acolhedor brasileiro que tanto sabe cuidar, que recebe o cliente de forma tão calorosa, que dá ouvidos e carrega empatia na pele, mas que quando começa a empreender - entre mais e menos sal, mais e menos pimenta - se vê com tudo fazendo bolinho de nada frito que só não chama de "sem graça" por vem com um nome "proibidão". O que, criativamente reinventa o pão de queijo, entre mais e menos queijo e mais ou menos barato, mais ou menos soro de leite vira o "pão de que?" que não pára porque, criativamente, o cliente tem razão e mais ou menos por ser sem graça, encontra de volta o recheio de queijo que entre mais e menos queijo e mais ou menos caro de novo encontra, mais uma vez buscando o cliente, a solução quase queijo semi láctea. O que não fazemos para alegrar o cliente? 
 
 
 
