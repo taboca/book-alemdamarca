@@ -172,9 +172,7 @@ A nossa propensão ao fazer, como fazer antes do aprender, vem de longa data. Ab
 * [x] @todo - p1 - In 030_fazejamento_estabelecimentos.txt, put the citation from Maslow, the case of the baby that does a little walking. 
 --> 
 
-Agora que celebramos que a inclinação ao “fazejamento” é algo natural, nosso, podemos considerar sobre como o ambiente externo nos dá apoio, ou nos condiciona, neste mesmo sentido. 
-
-
+Agora que celebramos o empreendedorismo ligado ao fazer, como o fazejamento estárá lá de qualquer forma, podemos considerar aquele ideia forte que nos guia quando partimos de cabeça para empreender nos estabelecimentos. 
 
 
 
@@ -182,17 +180,29 @@ Agora que celebramos que a inclinação ao “fazejamento” é algo natural, no
 
 ### O cliente tem razão 
 
-Considere a expressão "o cliente tem a razão". Ainda que não tenha significado literal, muitos estabelecimentos reconhecem quando o cliente está ou não está com a razão, por conta do contexto, por exemplo se o cliente reclamar que o ovo está frio, a cozinha irá provavelmente confirmar que, neste caso, o cliente tem a razão.
+Considere a expressão "o cliente tem a razão". Ainda que não tenha significado literal, reconhecemos muito sobre essa ideia, sobre o cliente estar ou não estar com a razão. Se um cliente reclama que o ovo está frio, entendemos isso porque é da vida. Então, a operação, o atendimento, e a cozinha, esperamos que todos estejam de acordo que sim, o cliente está com a razão.
 
-Entramos nesses estabelecimentos para aquela refeição rápida, antes de voltar para o serviço, uma reunião com um colega de trabalho, ou talvez um aniversário, uma conversa séria com amigos, para socializar, conhecer alguém, e a vida vai. Por conta dessa vivência, mesmo com os consumidores trazemos uma bagagem sobre o que funciona e o que não funciona nesse tipo de operação. Como se entendêssemos do enquadre da experiência anterior, do contexto social, como humanos que se alimentam todos os dias em situações diferentes.
+Como clientes, já passamos por lá, caímos lá, para aquela refeição rápida, antes de voltar para o serviço, para uma reunião com o colega de trabalho, um aniversário, uma conversa boa com amigos, ou para socializar com a galera do serviço, para conhecer alguém, e por ai a vida vai. E se não foram momentos específicos nos estabelecimentos de alimentação, foram nas nossas casas, e na vida, então de longa data estamos vivenciando momentos de alimentação no meio social. 
 
-Existem muitas outras inferências que podemos fazer com base nessas verdades, por exemplo que estão lá para comer, consequentemente irão comer provavelmente em um prato, e sendo assim esperam que o prato esteja limpo, etc. São muitas coisas que já sabemos, porque carregamos conhecimento cultural sobre esses rituais sociais. 
+Essa vivência, como clientes e consumidores, nos dá uma bela de uma bagagem de experiência sobre o que funciona e o que não funciona. Desta forma, sabemos muito sobre "como funciona esse tipo de operação". E  não podemos ignorar que a própria razão que decidimos nos envolver nessa área é justamente porque "sabemos muito" sobre como funciona esse tipo de operação. Pense sobre a quantidade de respostas que carregamos com base nessas verdades, ou bom senso, com base em momentos de convívio com alimentação. Ou seja, não precisamos consultar os universitários para entender, por exemplo, que o cliente espera que o prato esteja limpo e que o ovo não esteja frio. 
+
+
 
 <!--
 @todo 
-* [ ] @todo - p1 - In "Part 1, Fazejamento" - check how JTBD is refered from the context of Fazejamento. @refid-20241218-e8d41ae9-7415-4183-80f1-dc090209784a
-* [ , dup-anchored] @todo - p1 - In fazejamento - #dup-#jtbd is referred 3 or 4 times. Need to check where JTBD enters one time only, recalling a prior story, or a point about the double side, when we miss the point. @refid-20241226-11021d4c-6fa4-4d9e-b704-db1f3106d924
+* [Done] @todo - p1 - In "Part 1, Fazejamento" - check how JTBD is refered from the context of Fazejamento. @refid-20241218-e8d41ae9-7415-4183-80f1-dc090209784a
+* [Done , dup-anchored] @todo - p1 - In fazejamento - #dup-#jtbd is referred 3 or 4 times. Need to check where JTBD enters one time only, recalling a prior story, or a point about the double side, when we miss the point. @refid-20241226-11021d4c-6fa4-4d9e-b704-db1f3106d924
 --> 
+
+Consideramos, no capítulo anterior, a abordagem teórica intitulada Job-to-Be-Done que diz que - para tudo na vida - contratamos as soluções porque elas nos ajudam a resolver um certo trabalho. Você se lembra daquele *milkshake* que foi servido no copo para viagem com canudinho grosso e que por conta isso era mais do que uma bebida ou alimento qualquer era o companheiro ideal para aquela viagem do vendedor. 
+
+
+O ponto forte dessa abordagem é ela nos diz muito sobre como as pessoas "contratam" as soluções.  
+
+A complicação não é que categoricamente queremos excluir a estratégia - ou o movimento de curiosidade e atividades relacionadas como observar, refletir, aprender, etc - mas é que nosso espectro de foco é preenchido por razões que justificam as mesmas ações de fazer, tipo mão na massa, apoiados por valores conhecidos (como as coisas funcionam).
+
+
+
 
 
 
@@ -208,10 +218,6 @@ Mas como pode, de certa forma, esse nosso jeitinho acolhedor brasileiro que tant
 <!-- Review -->
 
 
-
-Também consideramos, no capítulo anterior, a abordagem teórica intitulada Jobs-to-be-done que diz de certa forma que - para tudo na vida - nós contratamos uma solução para resolver um trabalho anterior. Pela ótica do jobs-do-be-done, entendemos melhor que o milkshake, servido em um copo para viagem, com canudinho grosso, é mais do que um alimento, é uma companhia em uma viagem. Um ponto importante sobre essa abordagem, é que enquanto ela não diz nada sobre as novas soluções, ela nos diz muito sobre como fundamentalmente as "contratamos". 
-
-A complicação não é que categoricamente queremos excluir a estratégia - ou o movimento de curiosidade e atividades relacionadas como observar, refletir, aprender, etc - mas é que nosso espectro de foco é preenchido por razões que justificam as mesmas ações de fazer, tipo mão na massa, apoiados por valores conhecidos (como as coisas funcionam).
 
 Ainda, essas ações são bem recebidas no ambiente de colaboradores e clientes em outras palavras valorizando aquilo que seria visto pejorativamente como fazejamento como de fato ações coerentes neste meio. Além disso, em um meio que exerce pressão para atender com qualidade, acabamos optando "soluções" ou ações de trabalho que aparentam ser mais eficientes em comparação com tudo que é desconhecido, que soa como arriscado, minimamente por conta do tempo.
 

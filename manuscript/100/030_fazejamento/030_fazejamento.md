@@ -139,8 +139,9 @@ A nossa propensão ao fazer, como fazer antes do aprender, vem de longa data. Ab
 * [x] @todo - p1 - In 030_fazejamento_estabelecimentos.txt, put the citation from Maslow, the case of the baby that does a little walking. 
 --> 
 
-Agora que celebramos que a inclinação ao “fazejamento” é algo natural, nosso, podemos considerar sobre como o ambiente externo nos dá apoio, ou nos condiciona, neste mesmo sentido. 
 
+
+Agora que celebramos o empreendedorismo está ligado ao fazer, como o fazejamento estárá lá de qualquer forma, podemos considerar aquele ideia forte - e que nos guia quando nos envolvemos na operação - quando partimos de cabeça para empreender nos estabelecimentos. 
 
 
 
@@ -167,7 +168,7 @@ Considere a expressão "o cliente tem a razão". Ainda que não tenha significad
 * [ , dup-anchored] @todo - p1 - In fazejamento - #dup-#jtbd is referred 3 or 4 times. Need to check where JTBD enters one time only, recalling a prior story, or a point about the double side, when we miss the point. @refid-20241226-11021d4c-6fa4-4d9e-b704-db1f3106d924
 --> 
 
-Também consideramos, no capítulo anterior, a abordagem teórica intitulada Jobs-to-be-done que diz de certa forma que para tudo na vida, nós contratamos um serviço - ou produto - dado que estamos tentando resolver "um trabalho anterior" que precisa ser resolvido. Pela ótica do jobs-do-be-done, entendemos melhor que o milkshake, servido em um copo para viagem, com canudinho grosso, é mais do que um alimento, é uma companhia em uma viagem. Um ponto importante sobre essa abordagem, é que ela não explica algo novo que não conhecemos. Ela só organiza de forma estruturada, fundamentalmente, a forma que escolhemos e decidimos contratar as soluções.
+Também consideramos, no capítulo anterior, a abordagem teórica intitulada Job-to-Be-Done que diz de certa forma que para tudo na vida, nós contratamos um serviço - ou produto - dado que estamos tentando resolver "um trabalho anterior" que precisa ser resolvido. Pela ótica do jobs-do-be-done, entendemos melhor que o milkshake, servido em um copo para viagem, com canudinho grosso, é mais do que um alimento, é uma companhia em uma viagem. Um ponto importante sobre essa abordagem, é que ela não explica algo novo que não conhecemos. Ela só organiza de forma estruturada, fundamentalmente, a forma que escolhemos e decidimos contratar as soluções.
 
 
 A complicação não é que categoricamente queremos excluir a estratégia - ou o movimento de curiosidade e atividades relacionadas como observar, refletir, aprender, etc - mas é que nosso espectro de foco é preenchido por razões que justificam as mesmas ações de fazer, tipo mão na massa, apoiados por valores conhecidos (como as coisas funcionam). Ainda, essas ações são bem recebidas no ambiente de colaboradores e clientes em outras palavras valorizando aquilo que seria visto pejorativamente como fazejamento como de fato ações coerentes neste meio. Além disso, em um meio que exerce pressão para atender com qualidade, acabamos optando "soluções" ou ações de trabalho que aparentam ser mais eficientes em comparação com tudo que é desconhecido, que soa como arriscado, minimamente por conta do tempo.

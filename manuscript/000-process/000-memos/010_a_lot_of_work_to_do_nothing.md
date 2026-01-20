@@ -1,4 +1,4 @@
-## Texto abaixo. No dia 18 de janeiro de 2026, às 18h16, Marcio de Santos Galli acabou tirando ele de dentro do capítulo "O Trabalho". Estava bem dentro da sessão antes de "Jobs to be Done". 
+## Texto abaixo. No dia 18 de janeiro de 2026, às 18h16, Marcio de Santos Galli acabou tirando ele de dentro do capítulo "O Trabalho". Estava bem dentro da sessão antes de "Job to Be Done". 
 
 Com isso, devemos nos perguntar: será que essa ocupação, com optar por escolhas e soluções assim, se transfere entre o "viver a vida como ela é" e nosso ambiente do trabalho? Ou, em outras palavras, quando partimos para a mão na massa da operação do empreender, estamos sujeitos a buscar decidir o que fazer da mesma forma? 
 
