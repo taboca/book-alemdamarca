@@ -1,10 +1,8 @@
-# Agradecimentos v0l.1
+# Agradecimentos
 
-Agradecimento a Glória Edini Galli, co-editora de longa data. Agradeço a Vanessa Erika R. de Oliveira, pela paciencia e a apoio necessário que levou ao vá e faça. Agradeço a Christian Guimarães, sem suas explorações poderia não ter visto a luz que levou a terceira parte do livro. A Silvia Leite, por exemplo, de receptividade e história de inspiração. A Rodrigo Silva, pelo apoio durate a jornada de transformação do escritor e apoio ao sistema de páginas matinais, por caminhar junto com o processo. A Fabrício Laguna, José Maurício pela preocupação e apoio e torcida. A Jacqueline Pereira por insistir que a vida é sobre viver, a Juliana Cobre pelo apoio e feedbacks, ao meus amigos Roger Soares, Emilio Palma, Fabrício Zuardi. 
+Agradeço a Vanessa Erika R. de Oliveira, pela paciencia e a apoio incansável desde os primeiros dias quando tudo eram ideias confusas no ar, e por continuar me dando força para chegar no vá e faça. Agradecimento a Glória Edini Galli, co-editora de longa data. Agradeço a Christian Guimarães, sem suas explorações poderia não ter visto a luz que levou a terceira parte do livro. A Rodrigo Silva, pelo apoio durate a jornada de transformação do escritor e apoio ao sistema de páginas matinais, por caminhar junto com o processo. A André Figueiredo com sua disponibilidade infinita, a Silvia Leite por ser exemplo inspirador e de empreendedora, Ao meu amigo e autor Fabrício Laguna, amigo e autor José Maurício, por estarem do lado preocupados e antenados no processo. A Jacqueline Pereira, por insistir que a vida é sobre viver. A Juliana Cobre pelos feedbacks e leituras, pelos conselhos e apoio incondicional, ao meus amigos Roger Soares, Emilio Palma, Fabrício Zuardi. A Andressa Karen Oliveira, Jorge Herique Oliveira, Maya e Mel. 
 
-
-Aos empreendedores
-A Sabrina (Espaço Terráqueos), a Marta (Purple), Mateus Franco (da Cervejaria Experiência).  Ao historiador, empreendedor e escritor Omar Mourad. 
+Aos empreendedores: Sabrina (Espaço Terráqueos), a Marta (Purple), Mateus Franco e Gil da Cervejaria Experiência. Ao historiador, empreendedor e escritor Omar Mourad. Érico Ribeiro La Fraternité, Rubens de Barcelos Gonçalves, Gabi Silva, Fabrício Morini, 
 
 
 <!--
