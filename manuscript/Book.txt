@@ -1,3 +1,4 @@
+#v3.1
 
 # 000_foreword_1.txt
 # 000_foreword_2.txt
@@ -36,7 +37,7 @@
 # 000_part4.txt
 
 400/320_spaceships.txt
-400/30_estante/20.md
+400/30_estante/30.md
 400/040_alem_da_marca/20.md
 
 #000_afterword.txt
