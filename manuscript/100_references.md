@@ -1,4 +1,4 @@
-# Referências # 
+# Referências 
 
 <!-- 
 This book is in the public library of Salamanca 
