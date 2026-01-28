@@ -1,8 +1,11 @@
 # Referências 
 
+BURGELMAN, Robert A.; GROVE, Andrew S. Let chaos reign, then rein in chaos—repeatedly: managing strategic dynamics for corporate longevity. *Strategic Management Journal*, Hoboken, v. 17, n. 1, p. 1–16, 1996.
+
 <!-- 
 This book is in the public library of Salamanca 
 --> 
+
 
 BRANDE, Dorothea. Becoming a Writer. General Press, 2019. Original de 1934.
 
