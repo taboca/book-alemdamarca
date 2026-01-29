@@ -4,7 +4,7 @@
 # 000_foreword_2.txt
 
 090/010_thanks.md
-090/020_introduction/040.md
+090/020_introduction/050.md
 
 000_part1.txt
 
@@ -38,7 +38,7 @@
 
 400/320_spaceships.txt
 400/30_estante/20.md
-400/040_alem_da_marca/30.md
+400/040_alem_da_marca/40.md
 
 #000_afterword.txt
 
