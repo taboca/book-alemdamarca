@@ -32,7 +32,7 @@
 300/170_progress_core_my_way.txt
 300/200_feito_com_amor.txt
 300/210_holistic_design.txt
-300/220_cliente_chato_e_fiel.txt
+300/220_cliente_chato_fiel/20.md
 
 # 000_part4.txt
 
